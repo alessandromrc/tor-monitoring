@@ -238,6 +238,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.97"
@@ -4301,6 +4305,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.138.16.239"
@@ -4946,13 +4954,6 @@
         "asn": "AS1101"
     },
     {
-        "nickname": "3IATLAS",
-        "exit_address": [
-            "89.150.40.216"
-        ],
-        "asn": "AS59711"
-    },
-    {
         "nickname": "Bagpipe",
         "exit_address": [
             "66.78.40.182"
@@ -5393,6 +5394,10 @@
             "45.88.186.89"
         ],
         "asn": "AS23470"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "UnredactedEFF",
@@ -6855,6 +6860,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.9.156.105"
@@ -6967,12 +6976,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS210630"
+        "asn": "AS53667"
     },
     {
         "nickname": "brrbigchungus",
@@ -8247,6 +8256,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.138.16.69"
@@ -9165,6 +9178,10 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "NTH10R6",
@@ -12636,6 +12653,10 @@
             "185.220.101.9"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "DarmokAndJalad1684",
@@ -19026,6 +19047,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "gurke",
         "exit_address": [
             "109.70.100.3"
@@ -19455,13 +19480,6 @@
             "192.42.116.195"
         ],
         "asn": "AS1101"
-    },
-    {
-        "nickname": "3IATLAS",
-        "exit_address": [
-            "89.150.40.216"
-        ],
-        "asn": "AS59711"
     },
     {
         "nickname": "NTH1R5",
