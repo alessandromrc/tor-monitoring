@@ -755,6 +755,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.132.53.188"
+        ],
         "asn": "AS211507"
     },
     {
@@ -13912,6 +13915,10 @@
             "87.120.222.33"
         ],
         "asn": "AS215540"
+    },
+    {
+        "nickname": "Comedian",
+        "asn": "AS215925"
     },
     {
         "nickname": "yetiready",
