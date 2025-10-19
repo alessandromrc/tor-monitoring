@@ -2065,6 +2065,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.132.53.188"
+        ],
         "asn": "AS211507"
     },
     {
@@ -8670,6 +8673,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.132.53.188"
+        ],
         "asn": "AS211507"
     },
     {
@@ -15727,6 +15733,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.132.53.188"
+        ],
         "asn": "AS211507"
     },
     {
@@ -18723,10 +18732,6 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "apophenia",
-        "asn": "AS50613"
     },
     {
         "nickname": "arecoque7",
