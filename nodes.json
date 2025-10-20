@@ -9397,9 +9397,6 @@
     },
     {
         "nickname": "UnredactedManning",
-        "exit_address": [
-            "23.191.200.3"
-        ],
         "asn": "AS401401"
     },
     {
@@ -18759,6 +18756,10 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "apophenia",
+        "asn": "AS50613"
     },
     {
         "nickname": "arecoque7",
