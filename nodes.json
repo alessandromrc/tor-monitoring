@@ -4011,9 +4011,6 @@
     },
     {
         "nickname": "YourNickname",
-        "exit_address": [
-            "69.62.120.155"
-        ],
         "asn": "AS47583"
     },
     {
@@ -11624,6 +11621,9 @@
     },
     {
         "nickname": "spacebay",
+        "exit_address": [
+            "81.17.18.109"
+        ],
         "asn": "AS51852"
     },
     {
@@ -15450,6 +15450,9 @@
     },
     {
         "nickname": "UnredactedAssange",
+        "exit_address": [
+            "23.191.200.4"
+        ],
         "asn": "AS401401"
     },
     {
@@ -19136,6 +19139,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
