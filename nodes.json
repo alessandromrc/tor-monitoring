@@ -1742,6 +1742,9 @@
     },
     {
         "nickname": "noack4i2",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
@@ -4096,6 +4099,9 @@
     },
     {
         "nickname": "noack2i3",
+        "exit_address": [
+            "195.47.238.83"
+        ],
         "asn": "AS30893"
     },
     {
@@ -6842,6 +6848,9 @@
     },
     {
         "nickname": "noack2i1",
+        "exit_address": [
+            "195.47.238.83"
+        ],
         "asn": "AS30893"
     },
     {
@@ -8805,10 +8814,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "opNetcomethru",
-        "asn": "AS136258"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "185.241.208.202"
@@ -9715,6 +9720,9 @@
     },
     {
         "nickname": "noack2i0",
+        "exit_address": [
+            "195.47.238.83"
+        ],
         "asn": "AS30893"
     },
     {
@@ -9845,6 +9853,9 @@
     },
     {
         "nickname": "noack2i2",
+        "exit_address": [
+            "195.47.238.83"
+        ],
         "asn": "AS30893"
     },
     {
@@ -13697,6 +13708,9 @@
     },
     {
         "nickname": "noack4i3",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
@@ -18482,6 +18496,9 @@
     },
     {
         "nickname": "noack4i0",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
