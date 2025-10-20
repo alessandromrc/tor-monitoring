@@ -652,6 +652,10 @@
         "asn": "AS213873"
     },
     {
+        "nickname": "fumo",
+        "asn": "AS49581"
+    },
+    {
         "nickname": "DFRI100",
         "exit_address": [
             "171.25.193.81"
@@ -5192,6 +5196,9 @@
     },
     {
         "nickname": "tre",
+        "exit_address": [
+            "108.181.69.137"
+        ],
         "asn": "AS40676"
     },
     {
@@ -11276,9 +11283,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "82.153.138.7"
-        ],
         "asn": "AS214209"
     },
     {
@@ -15835,9 +15839,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "82.153.138.7"
-        ],
         "asn": "AS214209"
     },
     {
@@ -20113,9 +20114,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "82.153.138.7"
-        ],
         "asn": "AS214209"
     },
     {
