@@ -3421,6 +3421,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "thealgorithm",
+        "asn": "AS13030"
+    },
+    {
         "nickname": "NTH30R7",
         "exit_address": [
             "192.42.116.182"
@@ -7788,6 +7792,10 @@
             "45.9.156.101"
         ],
         "asn": "AS211619"
+    },
+    {
+        "nickname": "thealgorithm1",
+        "asn": "AS13030"
     },
     {
         "nickname": "tomino",
@@ -17199,6 +17207,9 @@
     },
     {
         "nickname": "UnredactedXMR",
+        "exit_address": [
+            "23.191.200.29"
+        ],
         "asn": "AS401401"
     },
     {
