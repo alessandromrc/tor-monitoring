@@ -2208,6 +2208,9 @@
     },
     {
         "nickname": "layer7",
+        "exit_address": [
+            "45.86.153.106"
+        ],
         "asn": "AS200950"
     },
     {
@@ -4954,10 +4957,6 @@
             "171.25.193.77"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "MyOpenExit",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -11546,10 +11545,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Cobaltum",
-        "asn": "AS0"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.82"
@@ -12024,6 +12019,9 @@
     },
     {
         "nickname": "nonameRelay",
+        "exit_address": [
+            "82.153.138.184"
+        ],
         "asn": "AS214209"
     },
     {
