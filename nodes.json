@@ -4571,6 +4571,9 @@
     },
     {
         "nickname": "UnredactedAlien",
+        "exit_address": [
+            "23.191.200.28"
+        ],
         "asn": "AS401401"
     },
     {
@@ -9394,6 +9397,9 @@
     },
     {
         "nickname": "UnredactedManning",
+        "exit_address": [
+            "23.191.200.3"
+        ],
         "asn": "AS401401"
     },
     {
@@ -11607,6 +11613,10 @@
             "45.141.215.56"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "spacebay",
+        "asn": "AS51852"
     },
     {
         "nickname": "Aramis",
@@ -15432,9 +15442,6 @@
     },
     {
         "nickname": "UnredactedAssange",
-        "exit_address": [
-            "23.191.200.4"
-        ],
         "asn": "AS401401"
     },
     {
@@ -16890,6 +16897,9 @@
     },
     {
         "nickname": "UnredactedTLS",
+        "exit_address": [
+            "23.191.200.30"
+        ],
         "asn": "AS401401"
     },
     {
