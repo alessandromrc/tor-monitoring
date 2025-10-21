@@ -2264,10 +2264,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "2mpe3",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "fumo",
         "exit_address": [
             "185.132.53.107"
@@ -11503,6 +11499,13 @@
             "2.58.56.220"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Cobaltum",
+        "exit_address": [
+            "167.17.40.92"
+        ],
+        "asn": "AS57043"
     },
     {
         "nickname": "Quetzalcoatl",
