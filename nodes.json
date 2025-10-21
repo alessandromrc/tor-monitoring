@@ -140,13 +140,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "IdotI",
-        "exit_address": [
-            "185.246.188.115"
-        ],
-        "asn": "AS200651"
-    },
-    {
         "nickname": "dreamachine",
         "exit_address": [
             "5.255.110.120"
@@ -973,13 +966,6 @@
             "178.218.144.99"
         ],
         "asn": "AS212508"
-    },
-    {
-        "nickname": "IdotI",
-        "exit_address": [
-            "185.246.188.115"
-        ],
-        "asn": "AS200651"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -10139,7 +10125,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.232"
+            "198.167.206.232",
+            "198.167.206.235"
         ],
         "asn": "AS39287"
     },
@@ -14116,9 +14103,6 @@
     },
     {
         "nickname": "sunmary",
-        "exit_address": [
-            "108.59.12.41"
-        ],
         "asn": "AS30633"
     },
     {
@@ -14698,13 +14682,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "IdotI",
-        "exit_address": [
-            "185.246.188.115"
-        ],
-        "asn": "AS200651"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.34"
@@ -14731,13 +14708,6 @@
             "45.141.215.110"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "IdotI",
-        "exit_address": [
-            "185.246.188.115"
-        ],
-        "asn": "AS200651"
     },
     {
         "nickname": "Quetzalcoatl",
