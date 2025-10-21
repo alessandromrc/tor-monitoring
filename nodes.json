@@ -853,6 +853,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.253.251.56"
+        ],
         "asn": "AS215540"
     },
     {
@@ -2346,6 +2349,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.253.251.56"
+        ],
         "asn": "AS215540"
     },
     {
@@ -10937,6 +10943,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.253.251.56"
+        ],
         "asn": "AS215540"
     },
     {
@@ -13647,6 +13656,9 @@
     },
     {
         "nickname": "poopfart",
+        "exit_address": [
+            "66.78.40.210"
+        ],
         "asn": "AS215659"
     },
     {
@@ -18257,6 +18269,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.253.251.56"
+        ],
         "asn": "AS215540"
     },
     {
@@ -18970,10 +18985,6 @@
             "45.133.74.53"
         ],
         "asn": "AS58087"
-    },
-    {
-        "nickname": "uwu",
-        "asn": "AS215026"
     },
     {
         "nickname": "moxie",
