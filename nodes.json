@@ -1583,7 +1583,8 @@
     {
         "nickname": "BabelTheBard",
         "exit_address": [
-            "24.240.72.170"
+            "24.240.72.170",
+            "97.90.239.170"
         ],
         "asn": "AS20115"
     },
@@ -3393,9 +3394,6 @@
     },
     {
         "nickname": "thealgorithm",
-        "exit_address": [
-            "82.197.182.161"
-        ],
         "asn": "AS13030"
     },
     {
@@ -6975,12 +6973,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "brrbigchungus",
@@ -7755,9 +7753,6 @@
     },
     {
         "nickname": "thealgorithm1",
-        "exit_address": [
-            "82.197.182.161"
-        ],
         "asn": "AS13030"
     },
     {
