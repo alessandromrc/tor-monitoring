@@ -6464,10 +6464,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "kuerbis",
         "exit_address": [
             "109.70.100.3"
@@ -11812,6 +11808,9 @@
     },
     {
         "nickname": "CasjaysDevRelay",
+        "exit_address": [
+            "82.29.128.145"
+        ],
         "asn": "AS142036"
     },
     {
@@ -15381,10 +15380,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "Unnamed",
         "exit_address": [
             "148.113.152.91"
@@ -16458,10 +16453,6 @@
         "asn": "AS50613"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "eo192",
         "exit_address": [
             "23.129.64.192"
@@ -17366,10 +17357,6 @@
             "195.176.3.24"
         ],
         "asn": "AS559"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS215540"
     },
     {
         "nickname": "TORKeFFORG18",
