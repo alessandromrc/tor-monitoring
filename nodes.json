@@ -10099,6 +10099,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.226",
             "198.167.206.235"
         ],
         "asn": "AS39287"
@@ -11808,6 +11809,10 @@
             "45.141.215.63"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "CasjaysDevRelay",
+        "asn": "AS142036"
     },
     {
         "nickname": "Blanche",
