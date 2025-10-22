@@ -6165,9 +6165,6 @@
     },
     {
         "nickname": "moraescabecadepinto",
-        "exit_address": [
-            "179.35.7.224"
-        ],
         "asn": "AS26615"
     },
     {
@@ -13813,6 +13810,9 @@
     },
     {
         "nickname": "TorExitMoldova2",
+        "exit_address": [
+            "178.17.174.14"
+        ],
         "asn": "AS43289"
     },
     {
@@ -14308,6 +14308,9 @@
     },
     {
         "nickname": "forest5",
+        "exit_address": [
+            "185.141.216.154"
+        ],
         "asn": "AS26832"
     },
     {
