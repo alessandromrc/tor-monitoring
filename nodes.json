@@ -2319,6 +2319,9 @@
     },
     {
         "nickname": "TORKeFFORG4",
+        "exit_address": [
+            "193.189.100.197"
+        ],
         "asn": "AS41281"
     },
     {
@@ -14357,10 +14360,6 @@
             "185.100.87.192"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "pingj",
-        "asn": "AS215540"
     },
     {
         "nickname": "prsv",
