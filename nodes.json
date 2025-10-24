@@ -1442,6 +1442,9 @@
     },
     {
         "nickname": "mrukstwoibil",
+        "exit_address": [
+            "45.80.208.224"
+        ],
         "asn": "AS202422"
     },
     {
@@ -9897,6 +9900,9 @@
     },
     {
         "nickname": "emberhare",
+        "exit_address": [
+            "5.34.182.203"
+        ],
         "asn": "AS15626"
     },
     {
@@ -10127,6 +10133,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.141",
             "198.167.206.186"
         ],
         "asn": "AS39287"
