@@ -4751,6 +4751,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.137.201.31"
+        ],
         "asn": "AS211507"
     },
     {
@@ -5950,6 +5953,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.133.73.14"
+        ],
         "asn": "AS211507"
     },
     {
@@ -7212,6 +7218,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.133.73.14"
+        ],
         "asn": "AS211507"
     },
     {
@@ -19943,10 +19952,6 @@
             "93.123.109.116"
         ],
         "asn": "AS48090"
-    },
-    {
-        "nickname": "oniongamma7",
-        "asn": "AS215659"
     },
     {
         "nickname": "DareDevil",
