@@ -3730,6 +3730,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "wippvannwinkle",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.132.13"
@@ -9350,9 +9354,6 @@
     },
     {
         "nickname": "relayon0190",
-        "exit_address": [
-            "185.220.101.190"
-        ],
         "asn": "AS60729"
     },
     {
@@ -15514,6 +15515,9 @@
     },
     {
         "nickname": "shanoshema",
+        "exit_address": [
+            "77.85.155.71"
+        ],
         "asn": "AS8866"
     },
     {
