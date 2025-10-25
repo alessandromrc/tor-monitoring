@@ -4092,9 +4092,6 @@
     },
     {
         "nickname": "BHCARM64OpenBSD4",
-        "exit_address": [
-            "185.104.120.40"
-        ],
         "asn": "AS28715"
     },
     {
@@ -10116,8 +10113,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141",
-            "198.167.206.186"
+            "198.167.206.141"
         ],
         "asn": "AS39287"
     },
@@ -11453,9 +11449,6 @@
     },
     {
         "nickname": "Cobaltum",
-        "exit_address": [
-            "167.17.40.92"
-        ],
         "asn": "AS57043"
     },
     {
