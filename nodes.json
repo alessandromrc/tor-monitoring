@@ -9301,10 +9301,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS400799"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.80.158.93"
@@ -10122,6 +10118,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.159",
             "198.167.206.175"
         ],
         "asn": "AS39287"
