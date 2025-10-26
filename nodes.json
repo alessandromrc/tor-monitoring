@@ -11444,6 +11444,9 @@
     },
     {
         "nickname": "Cobaltum",
+        "exit_address": [
+            "167.17.40.92"
+        ],
         "asn": "AS57043"
     },
     {
@@ -17186,10 +17189,6 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "ipnutnow",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "NTH2R8",
         "exit_address": [
             "192.42.116.192"
@@ -19486,6 +19485,9 @@
     },
     {
         "nickname": "jager",
+        "exit_address": [
+            "51.15.15.12"
+        ],
         "asn": "AS12876"
     },
     {
