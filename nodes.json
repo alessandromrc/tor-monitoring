@@ -9751,6 +9751,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "WYSWYG",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "ibibUNC0",
         "exit_address": [
             "204.85.191.8"
@@ -15473,9 +15477,6 @@
     },
     {
         "nickname": "shanoshema",
-        "exit_address": [
-            "77.85.155.71"
-        ],
         "asn": "AS8866"
     },
     {
