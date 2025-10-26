@@ -2237,6 +2237,9 @@
     },
     {
         "nickname": "DGNET",
+        "exit_address": [
+            "185.238.121.58"
+        ],
         "asn": "AS57608"
     },
     {
@@ -3993,6 +3996,10 @@
         "asn": "AS41281"
     },
     {
+        "nickname": "cozybeardev",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "66.94.111.228"
@@ -5658,6 +5665,10 @@
             "31.184.236.104"
         ],
         "asn": "AS198620"
+    },
+    {
+        "nickname": "jkimnot1",
+        "asn": "AS51852"
     },
     {
         "nickname": "NTH15R4",
@@ -11644,9 +11655,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.242"
-        ],
         "asn": "AS205100"
     },
     {
@@ -18806,6 +18814,10 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "1507",
+        "asn": "AS5378"
     },
     {
         "nickname": "DFRI57",
