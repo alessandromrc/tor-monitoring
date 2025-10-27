@@ -12107,6 +12107,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -15602,9 +15605,6 @@
     },
     {
         "nickname": "VampireFunWorld",
-        "exit_address": [
-            "95.168.173.143"
-        ],
         "asn": "AS60781"
     },
     {
@@ -18781,6 +18781,13 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "1507",
+        "exit_address": [
+            "193.237.155.109"
+        ],
+        "asn": "AS5378"
     },
     {
         "nickname": "DFRI57",
