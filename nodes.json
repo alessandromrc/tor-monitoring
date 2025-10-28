@@ -6247,10 +6247,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "moraescabecadepinto",
-        "asn": "AS26615"
-    },
-    {
         "nickname": "dingledine",
         "exit_address": [
             "23.129.64.162"
@@ -16258,6 +16254,9 @@
     },
     {
         "nickname": "Exits4Privacy",
+        "exit_address": [
+            "192.76.160.148"
+        ],
         "asn": "AS60404"
     },
     {
@@ -18070,6 +18069,9 @@
     },
     {
         "nickname": "mynicerelay",
+        "exit_address": [
+            "54.39.132.85"
+        ],
         "asn": "AS16276"
     },
     {
