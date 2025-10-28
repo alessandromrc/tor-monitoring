@@ -1077,6 +1077,9 @@
     },
     {
         "nickname": "Nomad",
+        "exit_address": [
+            "37.114.50.115"
+        ],
         "asn": "AS58087"
     },
     {
@@ -6219,6 +6222,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.241"
+        ],
         "asn": "AS205100"
     },
     {
@@ -9844,6 +9850,9 @@
     },
     {
         "nickname": "emberhare",
+        "exit_address": [
+            "5.34.182.203"
+        ],
         "asn": "AS15626"
     },
     {
@@ -10067,6 +10076,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.130",
             "198.167.206.167"
         ],
         "asn": "AS39287"
