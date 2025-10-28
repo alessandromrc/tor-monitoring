@@ -175,13 +175,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.143"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "KarsLovesIsrael",
         "exit_address": [
             "185.126.114.110"
@@ -473,10 +466,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Delphos",
-        "asn": "AS40663"
-    },
-    {
         "nickname": "morchel",
         "exit_address": [
             "109.70.100.5"
@@ -657,13 +646,6 @@
             "45.141.215.19"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.131"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "2mpe",
@@ -1497,13 +1479,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.151"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "marcuse11",
         "exit_address": [
             "178.20.55.182"
@@ -1936,13 +1911,6 @@
             "46.250.243.29"
         ],
         "asn": "AS141995"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.133"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "relayon0179",
@@ -3657,13 +3625,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.136"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "artikel10ber43",
         "exit_address": [
             "185.220.101.11"
@@ -3890,13 +3851,6 @@
             "124.198.131.29"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.134"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "DFRI110",
@@ -4519,13 +4473,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.150"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.71"
@@ -4751,6 +4698,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.240"
+        ],
         "asn": "AS205100"
     },
     {
@@ -4978,13 +4928,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.137"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "DFRI76",
         "exit_address": [
             "171.25.193.38"
@@ -5169,13 +5112,6 @@
             "194.26.192.177"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.141"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -5421,13 +5357,6 @@
             "192.42.116.178"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.139"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -6086,13 +6015,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.144"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "relayon0138",
         "exit_address": [
             "185.220.101.138"
@@ -6444,13 +6366,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.142"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "DFRI24",
         "exit_address": [
             "171.25.193.25"
@@ -6677,13 +6592,6 @@
             "72.235.129.116"
         ],
         "asn": "AS36149"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.146"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "DFRI91",
@@ -8001,6 +7909,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.241"
+        ],
         "asn": "AS205100"
     },
     {
@@ -11146,13 +11057,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.153"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.62"
@@ -11209,13 +11113,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.130"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "193.26.115.123"
@@ -11252,6 +11149,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.240"
+        ],
         "asn": "AS205100"
     },
     {
@@ -11677,6 +11577,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.242"
+        ],
         "asn": "AS205100"
     },
     {
@@ -12119,13 +12022,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.140"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.169"
@@ -12361,13 +12257,6 @@
         "asn": "AS213354"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.138"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "2.58.56.93"
@@ -12411,6 +12300,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.243"
+        ],
         "asn": "AS205100"
     },
     {
@@ -13151,13 +13043,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.147"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "robbe",
         "exit_address": [
             "109.70.100.71"
@@ -13295,13 +13180,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.132"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.63"
@@ -13374,13 +13252,6 @@
             "192.42.116.177"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.154"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "speakFreely",
@@ -14817,6 +14688,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.242"
+        ],
         "asn": "AS205100"
     },
     {
@@ -15070,13 +14944,6 @@
             "45.141.215.90"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.135"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -15557,13 +15424,6 @@
             "45.84.107.55"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.145"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "jetplume36",
@@ -16251,13 +16111,6 @@
             "193.26.115.123"
         ],
         "asn": "AS23470"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.148"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "artikel10ber04",
@@ -17935,9 +17788,6 @@
     },
     {
         "nickname": "oniongamma7",
-        "exit_address": [
-            "45.38.20.123"
-        ],
         "asn": "AS215659"
     },
     {
@@ -18085,13 +17935,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.149"
-        ],
-        "asn": "AS60404"
-    },
-    {
         "nickname": "artikel5ev42",
         "exit_address": [
             "188.68.36.28"
@@ -18163,6 +18006,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.243"
+        ],
         "asn": "AS205100"
     },
     {
@@ -18884,13 +18730,6 @@
             "185.40.4.92"
         ],
         "asn": "AS200195"
-    },
-    {
-        "nickname": "Exits4Privacy",
-        "exit_address": [
-            "192.76.160.152"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "TORstenExit04",
