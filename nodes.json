@@ -7137,9 +7137,6 @@
     },
     {
         "nickname": "PonyLV",
-        "exit_address": [
-            "205.185.126.29"
-        ],
         "asn": "AS53667"
     },
     {
@@ -10155,7 +10152,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.159",
             "198.167.206.167"
         ],
         "asn": "AS39287"
@@ -18792,6 +18788,9 @@
     },
     {
         "nickname": "privacyCommander",
+        "exit_address": [
+            "185.62.58.36"
+        ],
         "asn": "AS62370"
     },
     {
