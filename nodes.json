@@ -5417,6 +5417,9 @@
     },
     {
         "nickname": "Exits4Privacy",
+        "exit_address": [
+            "192.76.160.139"
+        ],
         "asn": "AS60404"
     },
     {
@@ -15074,6 +15077,9 @@
     },
     {
         "nickname": "Exits4Privacy",
+        "exit_address": [
+            "192.76.160.135"
+        ],
         "asn": "AS60404"
     },
     {
@@ -18061,6 +18067,10 @@
             "107.189.8.226"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "mynicerelay",
+        "asn": "AS16276"
     },
     {
         "nickname": "NTH23R2",
