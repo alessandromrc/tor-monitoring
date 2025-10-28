@@ -7054,12 +7054,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "brrbigchungus",
@@ -12148,9 +12148,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -18792,6 +18789,10 @@
             "178.20.55.16"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "privacyCommander",
+        "asn": "AS62370"
     },
     {
         "nickname": "delfin",
