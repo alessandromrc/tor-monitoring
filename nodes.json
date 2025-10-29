@@ -1897,9 +1897,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -5628,9 +5625,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -7648,9 +7642,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -7761,6 +7752,10 @@
             "95.128.43.164"
         ],
         "asn": "AS41653"
+    },
+    {
+        "nickname": "Fedora443",
+        "asn": "AS43289"
     },
     {
         "nickname": "FreeExit",
@@ -7950,9 +7945,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -10332,9 +10324,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -10903,9 +10892,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -12208,9 +12194,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -12755,9 +12738,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -15817,9 +15797,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -15863,6 +15840,10 @@
             "185.220.101.18"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Sombrero",
+        "asn": "AS210558"
     },
     {
         "nickname": "DFRI85",
@@ -18559,9 +18540,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -19605,6 +19583,10 @@
             "45.88.186.89"
         ],
         "asn": "AS23470"
+    },
+    {
+        "nickname": "Sombrero9002",
+        "asn": "AS210558"
     },
     {
         "nickname": "topinambur",
