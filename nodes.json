@@ -10570,6 +10570,9 @@
     },
     {
         "nickname": "Necklace",
+        "exit_address": [
+            "185.14.31.113"
+        ],
         "asn": "AS21100"
     },
     {
@@ -12615,6 +12618,10 @@
             "45.138.16.76"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "HakTorExit1",
+        "asn": "AS24940"
     },
     {
         "nickname": "TORstenExit01",
