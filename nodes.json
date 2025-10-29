@@ -1971,9 +1971,6 @@
     },
     {
         "nickname": "noack8i2",
-        "exit_address": [
-            "195.47.238.90"
-        ],
         "asn": "AS30893"
     },
     {
@@ -2699,9 +2696,6 @@
     },
     {
         "nickname": "noack10i3",
-        "exit_address": [
-            "195.47.238.92"
-        ],
         "asn": "AS30893"
     },
     {
@@ -6686,9 +6680,6 @@
     },
     {
         "nickname": "noack8i1",
-        "exit_address": [
-            "195.47.238.90"
-        ],
         "asn": "AS30893"
     },
     {
@@ -9155,9 +9146,6 @@
     },
     {
         "nickname": "noack10i2",
-        "exit_address": [
-            "195.47.238.92"
-        ],
         "asn": "AS30893"
     },
     {
@@ -10654,9 +10642,6 @@
     },
     {
         "nickname": "noack8i0",
-        "exit_address": [
-            "195.47.238.90"
-        ],
         "asn": "AS30893"
     },
     {
@@ -12597,6 +12582,9 @@
     },
     {
         "nickname": "HakTorExit1",
+        "exit_address": [
+            "157.180.46.73"
+        ],
         "asn": "AS24940"
     },
     {
@@ -16035,6 +16023,9 @@
     },
     {
         "nickname": "sanandreas",
+        "exit_address": [
+            "107.189.1.16"
+        ],
         "asn": "AS53667"
     },
     {
@@ -17036,9 +17027,6 @@
     },
     {
         "nickname": "noack10i1",
-        "exit_address": [
-            "195.47.238.92"
-        ],
         "asn": "AS30893"
     },
     {
@@ -17925,9 +17913,6 @@
     },
     {
         "nickname": "noack8i3",
-        "exit_address": [
-            "195.47.238.90"
-        ],
         "asn": "AS30893"
     },
     {
