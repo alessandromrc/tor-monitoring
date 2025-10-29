@@ -10053,7 +10053,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.130"
+            "198.167.206.130",
+            "198.167.206.160"
         ],
         "asn": "AS39287"
     },
@@ -16034,6 +16035,10 @@
             "185.220.101.26"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "sanandreas",
+        "asn": "AS53667"
     },
     {
         "nickname": "Digitalcourage4ip7b",
