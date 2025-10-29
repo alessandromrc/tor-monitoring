@@ -6979,10 +6979,6 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "brrbigchungus",
-        "asn": "AS214902"
-    },
-    {
         "nickname": "kerpatenko",
         "exit_address": [
             "185.246.188.73"
@@ -14330,9 +14326,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -15998,6 +15991,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.88"
+        ],
         "asn": "AS51396"
     },
     {
@@ -16957,6 +16953,9 @@
     },
     {
         "nickname": "thumthum2",
+        "exit_address": [
+            "213.111.150.11"
+        ],
         "asn": "AS6698"
     },
     {
