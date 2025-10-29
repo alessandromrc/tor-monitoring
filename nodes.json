@@ -2944,9 +2944,6 @@
     },
     {
         "nickname": "noack10i0",
-        "exit_address": [
-            "195.47.238.92"
-        ],
         "asn": "AS30893"
     },
     {
@@ -6962,12 +6959,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS40663"
+        "asn": "AS53667"
     },
     {
         "nickname": "kerpatenko",
@@ -17896,9 +17893,6 @@
     },
     {
         "nickname": "mynicerelay",
-        "exit_address": [
-            "54.39.132.85"
-        ],
         "asn": "AS16276"
     },
     {
