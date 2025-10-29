@@ -1273,9 +1273,6 @@
     },
     {
         "nickname": "ywaifir",
-        "exit_address": [
-            "212.95.50.77"
-        ],
         "asn": "AS28753"
     },
     {
@@ -1588,6 +1585,9 @@
     },
     {
         "nickname": "fr0st1ars",
+        "exit_address": [
+            "94.74.182.134"
+        ],
         "asn": "AS214967"
     },
     {
@@ -6971,12 +6971,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "brrbigchungus",
