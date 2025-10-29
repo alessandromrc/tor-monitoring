@@ -3283,6 +3283,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Fedora",
+        "asn": "AS43289"
+    },
+    {
         "nickname": "NTH22R2",
         "exit_address": [
             "192.42.116.174"
@@ -5827,9 +5831,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -7682,9 +7683,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -10071,8 +10069,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.130",
-            "198.167.206.167"
+            "198.167.206.130"
         ],
         "asn": "AS39287"
     },
@@ -10131,6 +10128,10 @@
             "45.148.10.111"
         ],
         "asn": "AS48090"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS138915"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -13733,10 +13734,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "SkyLights",
-        "asn": "AS26527"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.80"
@@ -13927,9 +13924,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -17665,9 +17659,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -19126,9 +19117,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
