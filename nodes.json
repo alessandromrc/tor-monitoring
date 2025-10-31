@@ -1112,6 +1112,9 @@
     },
     {
         "nickname": "MariePascal",
+        "exit_address": [
+            "103.164.54.199"
+        ],
         "asn": "AS141995"
     },
     {
@@ -9693,9 +9696,6 @@
     },
     {
         "nickname": "noack2i2",
-        "exit_address": [
-            "195.47.238.83"
-        ],
         "asn": "AS30893"
     },
     {
@@ -9996,6 +9996,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.179",
             "198.167.206.196"
         ],
         "asn": "AS39287"
