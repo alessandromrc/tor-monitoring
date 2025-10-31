@@ -4024,6 +4024,7 @@
     {
         "nickname": "thumthum",
         "exit_address": [
+            "213.111.148.42",
             "213.111.148.75"
         ],
         "asn": "AS6698"
@@ -17412,6 +17413,10 @@
     {
         "nickname": "Paradoxrelay",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "DarkOWL",
+        "asn": "AS16509"
     },
     {
         "nickname": "VaginaDick",
