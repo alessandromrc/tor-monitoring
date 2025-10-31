@@ -3928,9 +3928,6 @@
     },
     {
         "nickname": "scruffy",
-        "exit_address": [
-            "84.211.224.201"
-        ],
         "asn": "AS41164"
     },
     {
@@ -14071,6 +14068,9 @@
     },
     {
         "nickname": "forest5",
+        "exit_address": [
+            "185.141.216.154"
+        ],
         "asn": "AS26832"
     },
     {
