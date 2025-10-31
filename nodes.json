@@ -2098,6 +2098,9 @@
     },
     {
         "nickname": "Hub234",
+        "exit_address": [
+            "154.90.54.69"
+        ],
         "asn": "AS138915"
     },
     {
@@ -4064,10 +4067,6 @@
             "195.47.238.83"
         ],
         "asn": "AS30893"
-    },
-    {
-        "nickname": "BHCARM64OpenBSD4",
-        "asn": "AS28715"
     },
     {
         "nickname": "artikel10ber96",
@@ -7043,10 +7042,6 @@
             "45.141.215.19"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "BHCARM64OpenBSD1",
-        "asn": "AS28715"
     },
     {
         "nickname": "eagerrose",
@@ -13484,6 +13479,9 @@
     },
     {
         "nickname": "sanandreas",
+        "exit_address": [
+            "107.189.1.16"
+        ],
         "asn": "AS53667"
     },
     {
