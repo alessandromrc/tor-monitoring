@@ -9805,6 +9805,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "193.26.115.82"
+        ],
         "asn": "AS23470"
     },
     {
@@ -10035,6 +10038,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.88.186.89"
+        ],
         "asn": "AS23470"
     },
     {
@@ -10106,10 +10112,6 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "Juxthermopoli",
-        "asn": "AS202425"
     },
     {
         "nickname": "artikel10ber95",
@@ -11395,13 +11397,6 @@
             "45.141.215.56"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "spacebay",
-        "exit_address": [
-            "81.17.18.109"
-        ],
-        "asn": "AS51852"
     },
     {
         "nickname": "Aramis",
