@@ -467,6 +467,9 @@
     },
     {
         "nickname": "Delphos",
+        "exit_address": [
+            "23.137.255.85"
+        ],
         "asn": "AS40663"
     },
     {
@@ -3299,6 +3302,9 @@
     },
     {
         "nickname": "thunderveil",
+        "exit_address": [
+            "93.95.228.105"
+        ],
         "asn": "AS44925"
     },
     {
@@ -11195,6 +11201,9 @@
     },
     {
         "nickname": "fbiauthority011",
+        "exit_address": [
+            "18.119.162.10"
+        ],
         "asn": "AS16509"
     },
     {
@@ -13815,6 +13824,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -18518,13 +18530,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "1507",
-        "exit_address": [
-            "193.237.155.109"
-        ],
-        "asn": "AS5378"
-    },
-    {
         "nickname": "DFRI57",
         "exit_address": [
             "171.25.193.36"
@@ -18958,6 +18963,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
