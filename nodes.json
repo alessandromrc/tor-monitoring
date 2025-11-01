@@ -466,6 +466,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Delphos",
+        "asn": "AS40663"
+    },
+    {
         "nickname": "morchel",
         "exit_address": [
             "109.70.100.5"
@@ -1888,6 +1892,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -3289,6 +3296,10 @@
             "178.17.171.102"
         ],
         "asn": "AS43289"
+    },
+    {
+        "nickname": "thunderveil",
+        "asn": "AS44925"
     },
     {
         "nickname": "BigLoop",
@@ -5586,6 +5597,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -5783,6 +5797,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -7574,6 +7591,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -7606,6 +7626,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -7873,6 +7896,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -8493,10 +8519,6 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "rollingdropsing",
-        "asn": "AS204957"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.185"
@@ -8838,6 +8860,9 @@
     },
     {
         "nickname": "huckleberie",
+        "exit_address": [
+            "5.255.99.124"
+        ],
         "asn": "AS60404"
     },
     {
@@ -10226,6 +10251,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -10788,6 +10816,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -11161,6 +11192,10 @@
             "185.220.101.108"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "fbiauthority011",
+        "asn": "AS16509"
     },
     {
         "nickname": "DFRI131",
@@ -12072,6 +12107,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -12610,6 +12648,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -12702,6 +12743,9 @@
     },
     {
         "nickname": "0xcc",
+        "exit_address": [
+            "185.183.159.40"
+        ],
         "asn": "AS197540"
     },
     {
@@ -14171,6 +14215,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -15659,6 +15706,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -16076,9 +16126,6 @@
     },
     {
         "nickname": "VisionVillage",
-        "exit_address": [
-            "94.75.225.81"
-        ],
         "asn": "AS60781"
     },
     {
@@ -17484,6 +17531,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -18259,6 +18309,9 @@
     },
     {
         "nickname": "cb1tor",
+        "exit_address": [
+            "5.255.99.147"
+        ],
         "asn": "AS60404"
     },
     {
@@ -18361,6 +18414,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -19660,6 +19716,9 @@
     },
     {
         "nickname": "onshy",
+        "exit_address": [
+            "5.255.114.171"
+        ],
         "asn": "AS60404"
     },
     {
