@@ -5655,6 +5655,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "kuhlerTag",
         "exit_address": [
             "190.211.254.97"
@@ -7955,6 +7959,10 @@
             "38.97.116.244"
         ],
         "asn": "AS396527"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "DFRI23",
@@ -13931,6 +13939,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "DFRI124",
         "exit_address": [
             "171.25.193.80"
@@ -15061,6 +15073,9 @@
     },
     {
         "nickname": "forest1",
+        "exit_address": [
+            "94.156.152.8"
+        ],
         "asn": "AS214209"
     },
     {
@@ -16780,6 +16795,10 @@
             "192.159.99.162"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "DFRI118",
