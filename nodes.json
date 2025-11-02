@@ -956,6 +956,9 @@
     },
     {
         "nickname": "schuetzedich",
+        "exit_address": [
+            "45.137.201.55"
+        ],
         "asn": "AS211507"
     },
     {
@@ -14903,6 +14906,10 @@
             "192.42.116.192"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Crocs",
+        "asn": "AS24940"
     },
     {
         "nickname": "obzgs5tbmn4q",
