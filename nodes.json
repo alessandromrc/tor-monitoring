@@ -4894,6 +4894,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "31.40.204.186"
+        ],
         "asn": "AS44382"
     },
     {
@@ -9992,6 +9995,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.169",
             "198.167.206.218"
         ],
         "asn": "AS39287"
