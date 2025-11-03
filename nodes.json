@@ -2380,9 +2380,6 @@
     },
     {
         "nickname": "GreenElephant228",
-        "exit_address": [
-            "178.175.148.209"
-        ],
         "asn": "AS43289"
     },
     {
@@ -3008,9 +3005,6 @@
     },
     {
         "nickname": "DominaTorRelay",
-        "exit_address": [
-            "86.107.101.234"
-        ],
         "asn": "AS400304"
     },
     {
@@ -11068,6 +11062,10 @@
         "asn": "AS205100"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS138915"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.88.186.92"
@@ -17298,6 +17296,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "38.60.249.223"
+        ],
         "asn": "AS138915"
     },
     {
