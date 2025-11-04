@@ -3290,6 +3290,9 @@
     },
     {
         "nickname": "dailyonionsdreams",
+        "exit_address": [
+            "185.208.159.233"
+        ],
         "asn": "AS42624"
     },
     {
@@ -14363,6 +14366,10 @@
             "193.189.100.203"
         ],
         "asn": "AS41281"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS200651"
     },
     {
         "nickname": "Quetzalcoatl",
