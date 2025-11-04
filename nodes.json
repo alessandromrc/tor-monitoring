@@ -3522,6 +3522,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "93.113.25.239"
+        ],
         "asn": "AS214209"
     },
     {
@@ -7390,6 +7393,10 @@
             "185.220.101.0"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "trisolaris",
+        "asn": "AS60404"
     },
     {
         "nickname": "NTH10R5",
@@ -13500,6 +13507,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "93.113.25.239"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17593,6 +17603,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "trisolaris",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "NTH5R8",
         "exit_address": [
             "192.42.116.195"
@@ -18742,6 +18756,9 @@
     },
     {
         "nickname": "FreedomBits1",
+        "exit_address": [
+            "94.156.152.234"
+        ],
         "asn": "AS214209"
     },
     {
