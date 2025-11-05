@@ -6700,6 +6700,10 @@
         "asn": "AS200195"
     },
     {
+        "nickname": "baffix",
+        "asn": "AS62005"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.92"
@@ -14135,6 +14139,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.40.4.10"
+        ],
         "asn": "AS200195"
     },
     {
@@ -18936,9 +18943,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "37.228.129.189"
-        ],
         "asn": "AS200651"
     },
     {
