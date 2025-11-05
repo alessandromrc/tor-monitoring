@@ -10008,7 +10008,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.142",
             "198.167.206.169"
         ],
         "asn": "AS39287"
@@ -19762,6 +19761,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.7"
+        ],
         "asn": "AS8851"
     },
     {
