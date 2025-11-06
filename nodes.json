@@ -3179,6 +3179,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "pcpnode768754",
+        "asn": "AS16509"
+    },
+    {
         "nickname": "DFRI50",
         "exit_address": [
             "171.25.193.35"
@@ -5152,6 +5156,9 @@
     },
     {
         "nickname": "tre",
+        "exit_address": [
+            "108.181.69.137"
+        ],
         "asn": "AS40676"
     },
     {
