@@ -9553,6 +9553,9 @@
     },
     {
         "nickname": "dailyonionsdreams",
+        "exit_address": [
+            "185.208.159.233"
+        ],
         "asn": "AS42624"
     },
     {
@@ -10028,7 +10031,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.182"
+            "198.167.206.182",
+            "198.167.206.229"
         ],
         "asn": "AS39287"
     },
