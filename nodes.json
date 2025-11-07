@@ -8794,10 +8794,6 @@
         "asn": "AS58087"
     },
     {
-        "nickname": "yyzz3",
-        "asn": "AS14670"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.48"
@@ -10019,6 +10015,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.225",
             "198.167.206.229"
         ],
         "asn": "AS39287"
@@ -11807,6 +11804,9 @@
     },
     {
         "nickname": "nonameRelay",
+        "exit_address": [
+            "82.153.138.184"
+        ],
         "asn": "AS214209"
     },
     {
@@ -18900,6 +18900,9 @@
     },
     {
         "nickname": "FreedomBits1",
+        "exit_address": [
+            "94.156.152.234"
+        ],
         "asn": "AS214209"
     },
     {
