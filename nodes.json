@@ -1604,9 +1604,6 @@
     },
     {
         "nickname": "fr0st1ars",
-        "exit_address": [
-            "94.74.182.134"
-        ],
         "asn": "AS214967"
     },
     {
@@ -2601,6 +2598,10 @@
             "93.123.12.112"
         ],
         "asn": "AS34224"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "r0cket13i1",
@@ -4599,10 +4600,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS48090"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.244.192.184"
@@ -5200,6 +5197,10 @@
             "109.70.100.68"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -6241,10 +6242,6 @@
             "185.40.4.64"
         ],
         "asn": "AS200195"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS48090"
     },
     {
         "nickname": "TheSkeletalPlanes",
@@ -8932,6 +8929,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.95"
@@ -11211,6 +11212,10 @@
         "asn": "AS197648"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "Digitalcourage4ip5b",
         "exit_address": [
             "185.220.101.108"
@@ -12783,6 +12788,10 @@
         "asn": "AS33837"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "0xcc",
         "exit_address": [
             "185.183.159.40"
@@ -13418,10 +13427,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS48090"
-    },
-    {
         "nickname": "NTH28R2",
         "exit_address": [
             "192.42.116.180"
@@ -13511,10 +13516,6 @@
             "192.42.116.219"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS48090"
     },
     {
         "nickname": "DuckYou",
@@ -15634,6 +15635,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "LillyCL",
         "exit_address": [
             "152.53.210.165"
@@ -16037,10 +16042,6 @@
         "asn": "AS200195"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS48090"
-    },
-    {
         "nickname": "linuxenbyEXIT4",
         "exit_address": [
             "172.105.20.12"
@@ -16203,6 +16204,9 @@
     },
     {
         "nickname": "VisionVillage",
+        "exit_address": [
+            "94.75.225.81"
+        ],
         "asn": "AS60781"
     },
     {
@@ -17672,10 +17676,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS48090"
-    },
-    {
         "nickname": "NTH11R1",
         "exit_address": [
             "192.42.116.208"
@@ -17684,6 +17684,9 @@
     },
     {
         "nickname": "GOGRelayHvn4",
+        "exit_address": [
+            "176.65.132.187"
+        ],
         "asn": "AS51396"
     },
     {
@@ -18145,6 +18148,10 @@
             "192.42.116.183"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "Aramis",
@@ -18915,6 +18922,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "artikel10ber65",
         "exit_address": [
             "185.220.101.17"
@@ -19661,10 +19672,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS48090"
-    },
-    {
         "nickname": "DFRI17",
         "exit_address": [
             "171.25.193.78"
@@ -19775,10 +19782,6 @@
             "192.42.116.185"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS48090"
     },
     {
         "nickname": "DareDevil",
