@@ -2304,13 +2304,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "shadowl1nk1st",
-        "exit_address": [
-            "178.17.170.218"
-        ],
-        "asn": "AS43289"
-    },
-    {
         "nickname": "r0cket07i7",
         "exit_address": [
             "45.84.107.74"
@@ -7024,6 +7017,9 @@
     },
     {
         "nickname": "Playstar01",
+        "exit_address": [
+            "192.121.44.26"
+        ],
         "asn": "AS199950"
     },
     {
@@ -13363,6 +13359,9 @@
     },
     {
         "nickname": "Playstar02",
+        "exit_address": [
+            "192.121.44.27"
+        ],
         "asn": "AS199950"
     },
     {
