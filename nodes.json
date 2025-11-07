@@ -1411,9 +1411,6 @@
     },
     {
         "nickname": "vannoose",
-        "exit_address": [
-            "93.95.231.118"
-        ],
         "asn": "AS44925"
     },
     {
@@ -11186,10 +11183,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "relayon0146",
-        "asn": "AS60729"
-    },
-    {
         "nickname": "eden",
         "exit_address": [
             "194.55.167.14"
@@ -16085,6 +16078,9 @@
     },
     {
         "nickname": "toor",
+        "exit_address": [
+            "23.155.8.104"
+        ],
         "asn": "AS22296"
     },
     {
