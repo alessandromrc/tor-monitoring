@@ -9911,10 +9911,6 @@
         "asn": "AS42237"
     },
     {
-        "nickname": "fumo",
-        "asn": "AS44382"
-    },
-    {
         "nickname": "europeantgah",
         "exit_address": [
             "198.167.206.225",
@@ -11880,9 +11876,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -12975,6 +12968,10 @@
             "23.129.64.135"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "ExitNodeRoot",
+        "asn": "AS133800"
     },
     {
         "nickname": "artikel10ber42",
@@ -17370,10 +17367,6 @@
             "171.25.193.39"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "DarkOWL",
-        "asn": "AS16509"
     },
     {
         "nickname": "VaginaDick",
