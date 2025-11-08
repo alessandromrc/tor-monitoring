@@ -3586,9 +3586,6 @@
     },
     {
         "nickname": "KensKyivRelay",
-        "exit_address": [
-            "213.111.150.96"
-        ],
         "asn": "AS6698"
     },
     {
@@ -9494,6 +9491,10 @@
             "109.70.100.65"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "CGretski",
+        "asn": "AS13037"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -17277,6 +17278,9 @@
     },
     {
         "nickname": "Agfid",
+        "exit_address": [
+            "23.129.180.155"
+        ],
         "asn": "AS401486"
     },
     {
