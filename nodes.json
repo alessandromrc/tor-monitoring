@@ -2113,6 +2113,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Hub234",
+        "exit_address": [
+            "154.90.54.69"
+        ],
+        "asn": "AS138915"
+    },
+    {
         "nickname": "SHA256",
         "exit_address": [
             "185.120.16.171"
@@ -6688,6 +6695,10 @@
             "45.129.0.111"
         ],
         "asn": "AS62005"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS45102"
     },
     {
         "nickname": "prsv",
