@@ -4707,6 +4707,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "fumo",
+        "asn": "AS211507"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "45.137.201.31"
@@ -13026,9 +13030,6 @@
     },
     {
         "nickname": "ExitNodeRoot",
-        "exit_address": [
-            "103.197.190.54"
-        ],
         "asn": "AS133800"
     },
     {
