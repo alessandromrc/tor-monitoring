@@ -9763,10 +9763,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "ninjaturtle",
-        "asn": "AS60781"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "144.126.133.74"
@@ -11918,6 +11914,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
