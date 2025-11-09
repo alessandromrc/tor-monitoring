@@ -2372,10 +2372,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "GreenElephant228",
-        "asn": "AS43289"
-    },
-    {
         "nickname": "NTH2R2",
         "exit_address": [
             "192.42.116.192"
@@ -3313,9 +3309,6 @@
     },
     {
         "nickname": "thunderveil",
-        "exit_address": [
-            "93.95.228.105"
-        ],
         "asn": "AS44925"
     },
     {
@@ -4708,6 +4701,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.141.119.29"
+        ],
         "asn": "AS211507"
     },
     {
