@@ -4901,6 +4901,9 @@
     },
     {
         "nickname": "jakebamola",
+        "exit_address": [
+            "85.17.9.142"
+        ],
         "asn": "AS60781"
     },
     {
@@ -13831,6 +13834,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.141.119.29"
+        ],
         "asn": "AS211507"
     },
     {
@@ -16932,13 +16938,6 @@
             "192.159.99.168"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "m3moryl3ak",
-        "exit_address": [
-            "94.74.164.143"
-        ],
-        "asn": "AS214196"
     },
     {
         "nickname": "UnredactedXMR",
