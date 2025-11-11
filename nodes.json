@@ -77,6 +77,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "eo190",
+        "asn": "AS396507"
+    },
+    {
         "nickname": "NTH5R7",
         "exit_address": [
             "192.42.116.195"
@@ -738,6 +742,9 @@
     },
     {
         "nickname": "eo191",
+        "exit_address": [
+            "23.129.64.191"
+        ],
         "asn": "AS396507"
     },
     {
@@ -1243,6 +1250,9 @@
     },
     {
         "nickname": "eo187",
+        "exit_address": [
+            "23.129.64.187"
+        ],
         "asn": "AS396507"
     },
     {
@@ -3821,6 +3831,9 @@
     },
     {
         "nickname": "kofatra",
+        "exit_address": [
+            "23.129.64.171"
+        ],
         "asn": "AS396507"
     },
     {
@@ -4327,6 +4340,9 @@
     },
     {
         "nickname": "llandaf",
+        "exit_address": [
+            "23.129.64.166"
+        ],
         "asn": "AS396507"
     },
     {
@@ -5197,6 +5213,9 @@
     },
     {
         "nickname": "myfirstnode",
+        "exit_address": [
+            "178.17.170.223"
+        ],
         "asn": "AS43289"
     },
     {
@@ -6480,6 +6499,9 @@
     },
     {
         "nickname": "agnese",
+        "exit_address": [
+            "23.129.64.173"
+        ],
         "asn": "AS396507"
     },
     {
@@ -6831,6 +6853,9 @@
     },
     {
         "nickname": "eo182",
+        "exit_address": [
+            "23.129.64.182"
+        ],
         "asn": "AS396507"
     },
     {
@@ -8471,6 +8496,9 @@
     },
     {
         "nickname": "eo180",
+        "exit_address": [
+            "23.129.64.180"
+        ],
         "asn": "AS396507"
     },
     {
@@ -8731,6 +8759,9 @@
     },
     {
         "nickname": "asaprakim",
+        "exit_address": [
+            "46.246.96.123"
+        ],
         "asn": "AS42708"
     },
     {
@@ -9342,6 +9373,9 @@
     },
     {
         "nickname": "nenapini",
+        "exit_address": [
+            "23.129.64.169"
+        ],
         "asn": "AS396507"
     },
     {
@@ -9921,6 +9955,9 @@
     },
     {
         "nickname": "eo186",
+        "exit_address": [
+            "23.129.64.186"
+        ],
         "asn": "AS396507"
     },
     {
@@ -11848,6 +11885,9 @@
     },
     {
         "nickname": "fin",
+        "exit_address": [
+            "23.129.64.170"
+        ],
         "asn": "AS396507"
     },
     {
@@ -12104,6 +12144,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -12455,6 +12498,9 @@
     },
     {
         "nickname": "eo181",
+        "exit_address": [
+            "23.129.64.181"
+        ],
         "asn": "AS396507"
     },
     {
@@ -16474,6 +16520,9 @@
     },
     {
         "nickname": "eo192",
+        "exit_address": [
+            "23.129.64.192"
+        ],
         "asn": "AS396507"
     },
     {
@@ -16720,6 +16769,9 @@
     },
     {
         "nickname": "keite",
+        "exit_address": [
+            "23.129.64.175"
+        ],
         "asn": "AS396507"
     },
     {
@@ -16987,6 +17039,9 @@
     },
     {
         "nickname": "eo179",
+        "exit_address": [
+            "23.129.64.179"
+        ],
         "asn": "AS396507"
     },
     {
@@ -18423,6 +18478,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "8.211.148.167"
+        ],
         "asn": "AS45102"
     },
     {
@@ -19216,10 +19274,6 @@
             "38.135.25.141"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS200651"
     },
     {
         "nickname": "relayon0187",
