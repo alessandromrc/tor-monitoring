@@ -3841,9 +3841,6 @@
     },
     {
         "nickname": "relayon0180",
-        "exit_address": [
-            "185.220.101.180"
-        ],
         "asn": "AS60729"
     },
     {
@@ -8381,9 +8378,6 @@
     },
     {
         "nickname": "relayon0149",
-        "exit_address": [
-            "185.220.101.149"
-        ],
         "asn": "AS60729"
     },
     {
@@ -8760,10 +8754,6 @@
             "192.159.99.162"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "opNetcomethru",
-        "asn": "AS136258"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17400,6 +17390,10 @@
             "91.208.75.178"
         ],
         "asn": "AS6718"
+    },
+    {
+        "nickname": "JohandExit",
+        "asn": "AS200195"
     },
     {
         "nickname": "PRQseTORexit6",
