@@ -78,6 +78,9 @@
     },
     {
         "nickname": "eo190",
+        "exit_address": [
+            "23.129.64.190"
+        ],
         "asn": "AS396507"
     },
     {
@@ -1720,6 +1723,10 @@
             "171.25.193.39"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "cal",
+        "asn": "AS197540"
     },
     {
         "nickname": "artikel10ber92",
@@ -5584,6 +5591,9 @@
     },
     {
         "nickname": "dorza",
+        "exit_address": [
+            "23.129.64.168"
+        ],
         "asn": "AS396507"
     },
     {
@@ -6278,6 +6288,9 @@
     },
     {
         "nickname": "dingledine",
+        "exit_address": [
+            "23.129.64.162"
+        ],
         "asn": "AS396507"
     },
     {
@@ -17731,6 +17744,9 @@
     },
     {
         "nickname": "dimensiondoor",
+        "exit_address": [
+            "23.129.64.176"
+        ],
         "asn": "AS396507"
     },
     {
