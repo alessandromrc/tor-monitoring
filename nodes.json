@@ -3527,10 +3527,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "dailyonionsdreams",
-        "asn": "AS42624"
-    },
-    {
         "nickname": "0001",
         "exit_address": [
             "91.92.109.43"
@@ -10056,6 +10052,9 @@
     },
     {
         "nickname": "donaldsbutthole",
+        "exit_address": [
+            "23.129.64.167"
+        ],
         "asn": "AS396507"
     },
     {
@@ -10191,7 +10190,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.153",
             "198.167.206.157"
         ],
         "asn": "AS39287"
