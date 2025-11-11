@@ -4983,13 +4983,6 @@
         "asn": "AS40021"
     },
     {
-        "nickname": "jakebamola",
-        "exit_address": [
-            "85.17.9.142"
-        ],
-        "asn": "AS60781"
-    },
-    {
         "nickname": "TORKeFFORG32",
         "exit_address": [
             "193.189.100.199"
@@ -5213,13 +5206,6 @@
             "149.102.153.38"
         ],
         "asn": "AS51167"
-    },
-    {
-        "nickname": "myfirstnode",
-        "exit_address": [
-            "178.17.170.223"
-        ],
-        "asn": "AS43289"
     },
     {
         "nickname": "UnredactedUFO",
@@ -8753,13 +8739,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "asaprakim",
-        "exit_address": [
-            "46.246.96.123"
-        ],
-        "asn": "AS42708"
-    },
-    {
         "nickname": "r0cket12i7",
         "exit_address": [
             "45.84.107.17"
@@ -10176,7 +10155,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.157"
+            "198.167.206.157",
+            "198.167.206.192"
         ],
         "asn": "AS39287"
     },
@@ -10843,6 +10823,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS216300"
+    },
+    {
         "nickname": "artikel10buc22",
         "exit_address": [
             "185.100.85.25"
@@ -11377,10 +11361,6 @@
             "185.220.101.108"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "fbiauthority011",
-        "asn": "AS16509"
     },
     {
         "nickname": "prsv",
