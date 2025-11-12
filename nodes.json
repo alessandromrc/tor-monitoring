@@ -3968,6 +3968,9 @@
     },
     {
         "nickname": "tainish",
+        "exit_address": [
+            "130.193.10.21"
+        ],
         "asn": "AS29134"
     },
     {
@@ -18730,9 +18733,6 @@
     },
     {
         "nickname": "apophenia",
-        "exit_address": [
-            "82.221.131.86"
-        ],
         "asn": "AS50613"
     },
     {
