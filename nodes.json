@@ -5479,6 +5479,9 @@
     },
     {
         "nickname": "UltraVPS",
+        "exit_address": [
+            "172.93.1.27"
+        ],
         "asn": "AS53340"
     },
     {
