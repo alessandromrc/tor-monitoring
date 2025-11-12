@@ -4273,6 +4273,9 @@
     },
     {
         "nickname": "GuruKopi",
+        "exit_address": [
+            "118.163.74.160"
+        ],
         "asn": "AS3462"
     },
     {
@@ -5473,6 +5476,10 @@
             "178.20.55.16"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "UltraVPS",
+        "asn": "AS53340"
     },
     {
         "nickname": "Quetzalcoatl",
