@@ -9951,6 +9951,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -10156,7 +10159,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.157",
             "198.167.206.192"
         ],
         "asn": "AS39287"
@@ -12122,9 +12124,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
