@@ -3465,9 +3465,6 @@
     },
     {
         "nickname": "thealgorithm",
-        "exit_address": [
-            "82.197.182.161"
-        ],
         "asn": "AS13030"
     },
     {
@@ -7832,9 +7829,6 @@
     },
     {
         "nickname": "thealgorithm1",
-        "exit_address": [
-            "82.197.182.161"
-        ],
         "asn": "AS13030"
     },
     {
@@ -10163,6 +10157,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.137",
             "198.167.206.192"
         ],
         "asn": "AS39287"
