@@ -1803,6 +1803,9 @@
     },
     {
         "nickname": "cal",
+        "exit_address": [
+            "91.206.169.29"
+        ],
         "asn": "AS210558"
     },
     {
@@ -7048,12 +7051,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS40663"
+        "asn": "AS53667"
     },
     {
         "nickname": "brrbigchungus",
@@ -9938,6 +9941,9 @@
     },
     {
         "nickname": "emberhare",
+        "exit_address": [
+            "5.34.182.203"
+        ],
         "asn": "AS15626"
     },
     {
@@ -14368,6 +14374,9 @@
     },
     {
         "nickname": "pingj",
+        "exit_address": [
+            "185.247.184.105"
+        ],
         "asn": "AS215540"
     },
     {
