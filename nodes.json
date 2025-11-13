@@ -3166,6 +3166,9 @@
     },
     {
         "nickname": "Playstar03",
+        "exit_address": [
+            "192.121.44.33"
+        ],
         "asn": "AS199950"
     },
     {
@@ -3268,6 +3271,9 @@
     },
     {
         "nickname": "ro1exit1",
+        "exit_address": [
+            "185.247.224.89"
+        ],
         "asn": "AS200651"
     },
     {
@@ -16577,6 +16583,9 @@
     },
     {
         "nickname": "Playstar04",
+        "exit_address": [
+            "192.121.44.34"
+        ],
         "asn": "AS199950"
     },
     {
