@@ -1987,6 +1987,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "saurkrautor",
+        "asn": "AS206216"
+    },
+    {
         "nickname": "artikel10ber123",
         "exit_address": [
             "185.220.101.31"
@@ -3528,6 +3532,10 @@
             "109.70.100.70"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "saurkrautor",
+        "asn": "AS206216"
     },
     {
         "nickname": "rdExiTorNode",
@@ -10185,6 +10193,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.131",
             "198.167.206.137"
         ],
         "asn": "AS39287"
@@ -13046,6 +13055,9 @@
     },
     {
         "nickname": "404tec",
+        "exit_address": [
+            "51.210.108.81"
+        ],
         "asn": "AS16276"
     },
     {
@@ -15561,6 +15573,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "MantuaTor",
+        "asn": "AS3269"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.110"
@@ -15625,6 +15641,9 @@
     },
     {
         "nickname": "Powders",
+        "exit_address": [
+            "107.189.1.16"
+        ],
         "asn": "AS53667"
     },
     {
