@@ -11982,6 +11982,10 @@
         "asn": "AS201308"
     },
     {
+        "nickname": "FreedomExit",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.95.169.104"
@@ -12151,6 +12155,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
