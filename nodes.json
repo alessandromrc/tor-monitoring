@@ -1430,6 +1430,10 @@
         "asn": "AS214209"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS45102"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -3263,7 +3267,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "ro1exit1ttam",
+        "nickname": "ro1exit1",
         "asn": "AS200651"
     },
     {
@@ -10579,9 +10583,6 @@
     },
     {
         "nickname": "Freedome1",
-        "exit_address": [
-            "196.251.69.116"
-        ],
         "asn": "AS401120"
     },
     {
