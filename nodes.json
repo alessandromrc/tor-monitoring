@@ -3161,6 +3161,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "Playstar03",
+        "asn": "AS199950"
+    },
+    {
         "nickname": "FreeExit",
         "exit_address": [
             "179.43.159.197"
@@ -12311,6 +12315,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.241"
+        ],
         "asn": "AS214209"
     },
     {
@@ -13340,6 +13347,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.241"
+        ],
         "asn": "AS214209"
     },
     {
@@ -14209,6 +14219,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.241"
+        ],
         "asn": "AS214209"
     },
     {
@@ -16562,6 +16575,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "Playstar04",
+        "asn": "AS199950"
+    },
+    {
         "nickname": "artikel10ber07",
         "exit_address": [
             "185.220.101.2"
@@ -16805,6 +16822,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.241"
+        ],
         "asn": "AS214209"
     },
     {
@@ -18303,9 +18323,6 @@
     },
     {
         "nickname": "WerewolfFunWorld",
-        "exit_address": [
-            "5.79.66.19"
-        ],
         "asn": "AS60781"
     },
     {
