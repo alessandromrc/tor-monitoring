@@ -659,13 +659,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "iDIDedittheconfig",
-        "exit_address": [
-            "94.159.98.53"
-        ],
-        "asn": "AS215730"
-    },
-    {
         "nickname": "fumo",
         "exit_address": [
             "45.137.201.26"
@@ -1985,10 +1978,6 @@
             "185.220.101.179"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "saurkrautor",
-        "asn": "AS206216"
     },
     {
         "nickname": "artikel10ber123",
@@ -3532,10 +3521,6 @@
             "109.70.100.70"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "saurkrautor",
-        "asn": "AS206216"
     },
     {
         "nickname": "rdExiTorNode",
@@ -11992,6 +11977,9 @@
     },
     {
         "nickname": "FreedomExit",
+        "exit_address": [
+            "107.189.13.172"
+        ],
         "asn": "AS53667"
     },
     {
