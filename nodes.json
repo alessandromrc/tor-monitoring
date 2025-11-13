@@ -3262,6 +3262,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "ro1exit1ttam",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "pcpnode768754",
         "asn": "AS16509"
     },
@@ -3632,6 +3636,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.138.16.69"
+        ],
         "asn": "AS210558"
     },
     {
@@ -4937,6 +4944,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.138.16.69"
+        ],
         "asn": "AS210558"
     },
     {
