@@ -4052,6 +4052,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.141.215.90"
+        ],
         "asn": "AS210558"
     },
     {
@@ -11212,9 +11215,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.141.215.88"
-        ],
         "asn": "AS210558"
     },
     {
