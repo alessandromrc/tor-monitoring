@@ -537,9 +537,6 @@
     },
     {
         "nickname": "diffie",
-        "exit_address": [
-            "23.129.64.154"
-        ],
         "asn": "AS396507"
     },
     {
@@ -1767,9 +1764,6 @@
     },
     {
         "nickname": "poitras",
-        "exit_address": [
-            "23.129.64.146"
-        ],
         "asn": "AS396507"
     },
     {
@@ -9044,9 +9038,6 @@
     },
     {
         "nickname": "huckleberie",
-        "exit_address": [
-            "5.255.99.124"
-        ],
         "asn": "AS60404"
     },
     {
@@ -10195,8 +10186,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.131",
-            "198.167.206.137"
+            "198.167.206.131"
         ],
         "asn": "AS39287"
     },
