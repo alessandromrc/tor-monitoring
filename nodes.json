@@ -2319,6 +2319,10 @@
         "asn": "AS41281"
     },
     {
+        "nickname": "2mpe3",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "fumo",
         "exit_address": [
             "185.132.53.107"
@@ -7056,12 +7060,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS40663"
+        "asn": "AS53667"
     },
     {
         "nickname": "brrbigchungus",
