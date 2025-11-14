@@ -2320,6 +2320,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -4288,9 +4291,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -20007,9 +20007,6 @@
     },
     {
         "nickname": "winner",
-        "exit_address": [
-            "23.129.64.151"
-        ],
         "asn": "AS396507"
     },
     {
