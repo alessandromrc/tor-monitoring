@@ -3016,6 +3016,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "ginxaomin",
+        "asn": "AS209274"
+    },
+    {
         "nickname": "NTH44R4",
         "exit_address": [
             "192.42.116.218"
@@ -10190,6 +10194,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.172",
             "198.167.206.193"
         ],
         "asn": "AS39287"
