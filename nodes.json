@@ -3403,10 +3403,6 @@
         "asn": "AS43289"
     },
     {
-        "nickname": "thunderveil",
-        "asn": "AS44925"
-    },
-    {
         "nickname": "BigLoop",
         "exit_address": [
             "23.137.254.244"
@@ -16503,6 +16499,10 @@
             "185.220.101.17"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS149107"
     },
     {
         "nickname": "stielmus",
