@@ -2168,13 +2168,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Hub234",
-        "exit_address": [
-            "154.90.54.69"
-        ],
-        "asn": "AS138915"
-    },
-    {
         "nickname": "SHA256",
         "exit_address": [
             "185.120.16.171"
@@ -6380,9 +6373,6 @@
     },
     {
         "nickname": "FreedomIsAMust",
-        "exit_address": [
-            "195.160.220.104"
-        ],
         "asn": "AS43641"
     },
     {
@@ -16495,6 +16485,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "157.66.25.92"
+        ],
         "asn": "AS149107"
     },
     {
