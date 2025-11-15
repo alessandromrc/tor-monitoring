@@ -7052,12 +7052,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "brrbigchungus",
@@ -16281,6 +16281,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.88"
+        ],
         "asn": "AS51396"
     },
     {
