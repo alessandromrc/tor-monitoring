@@ -6369,6 +6369,13 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "pcpnode0",
+        "exit_address": [
+            "163.172.157.152"
+        ],
+        "asn": "AS12876"
+    },
+    {
         "nickname": "artikel5ev13c",
         "exit_address": [
             "51.15.59.15"
@@ -13315,10 +13322,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "ExitNodeRoot",
-        "asn": "AS133800"
-    },
-    {
         "nickname": "artikel10ber42",
         "exit_address": [
             "185.220.101.11"
@@ -16027,6 +16030,9 @@
     },
     {
         "nickname": "puro1",
+        "exit_address": [
+            "37.228.129.162"
+        ],
         "asn": "AS200651"
     },
     {
