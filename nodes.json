@@ -5139,6 +5139,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS43289"
+    },
+    {
         "nickname": "artikel10ber46",
         "exit_address": [
             "185.220.101.12"
@@ -8560,6 +8564,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "91.132.144.59"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9231,6 +9238,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "91.132.144.59"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9729,10 +9739,6 @@
             "109.70.100.65"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "CGretski",
-        "asn": "AS13037"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -19035,6 +19041,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
