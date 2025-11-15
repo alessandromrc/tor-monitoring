@@ -2040,6 +2040,9 @@
     },
     {
         "nickname": "klein",
+        "exit_address": [
+            "23.129.64.141"
+        ],
         "asn": "AS396507"
     },
     {
@@ -18106,6 +18109,10 @@
             "193.189.100.200"
         ],
         "asn": "AS41281"
+    },
+    {
+        "nickname": "pcpnode416363",
+        "asn": "AS51167"
     },
     {
         "nickname": "artikel10ber05",
