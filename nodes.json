@@ -537,6 +537,9 @@
     },
     {
         "nickname": "diffie",
+        "exit_address": [
+            "23.129.64.154"
+        ],
         "asn": "AS396507"
     },
     {
@@ -896,10 +899,6 @@
             "185.220.101.131"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "SaxtonHale",
-        "asn": "AS214996"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -1768,6 +1767,9 @@
     },
     {
         "nickname": "poitras",
+        "exit_address": [
+            "23.129.64.146"
+        ],
         "asn": "AS396507"
     },
     {
@@ -3037,6 +3039,9 @@
     },
     {
         "nickname": "eo212",
+        "exit_address": [
+            "23.129.64.212"
+        ],
         "asn": "AS396507"
     },
     {
@@ -5241,9 +5246,6 @@
     },
     {
         "nickname": "tre",
-        "exit_address": [
-            "108.181.69.137"
-        ],
         "asn": "AS40676"
     },
     {
@@ -9212,9 +9214,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "91.132.144.59"
-        ],
         "asn": "AS197540"
     },
     {
@@ -9604,6 +9603,9 @@
     },
     {
         "nickname": "ageis",
+        "exit_address": [
+            "23.129.64.130"
+        ],
         "asn": "AS396507"
     },
     {
@@ -11265,6 +11267,9 @@
     },
     {
         "nickname": "turing",
+        "exit_address": [
+            "23.129.64.150"
+        ],
         "asn": "AS396507"
     },
     {
@@ -11560,6 +11565,9 @@
     },
     {
         "nickname": "eo223",
+        "exit_address": [
+            "23.129.64.223"
+        ],
         "asn": "AS396507"
     },
     {
@@ -11918,6 +11926,9 @@
     },
     {
         "nickname": "fellwock",
+        "exit_address": [
+            "23.129.64.136"
+        ],
         "asn": "AS396507"
     },
     {
@@ -12158,9 +12169,6 @@
     },
     {
         "nickname": "manning",
-        "exit_address": [
-            "23.129.64.142"
-        ],
         "asn": "AS396507"
     },
     {
@@ -13067,6 +13075,9 @@
     },
     {
         "nickname": "bowden",
+        "exit_address": [
+            "23.129.64.133"
+        ],
         "asn": "AS396507"
     },
     {
@@ -13239,6 +13250,9 @@
     },
     {
         "nickname": "ellsburg",
+        "exit_address": [
+            "23.129.64.135"
+        ],
         "asn": "AS396507"
     },
     {
@@ -13818,6 +13832,9 @@
     },
     {
         "nickname": "eo201",
+        "exit_address": [
+            "23.129.64.201"
+        ],
         "asn": "AS396507"
     },
     {
@@ -14775,6 +14792,9 @@
     },
     {
         "nickname": "kaminsky",
+        "exit_address": [
+            "23.129.64.139"
+        ],
         "asn": "AS396507"
     },
     {
@@ -16643,6 +16663,9 @@
     },
     {
         "nickname": "perlman",
+        "exit_address": [
+            "23.129.64.159"
+        ],
         "asn": "AS396507"
     },
     {
@@ -17935,6 +17958,9 @@
     },
     {
         "nickname": "eo213",
+        "exit_address": [
+            "23.129.64.213"
+        ],
         "asn": "AS396507"
     },
     {
@@ -18564,6 +18590,9 @@
     },
     {
         "nickname": "eo214",
+        "exit_address": [
+            "23.129.64.214"
+        ],
         "asn": "AS396507"
     },
     {
@@ -18947,9 +18976,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -19925,6 +19951,9 @@
     },
     {
         "nickname": "winner",
+        "exit_address": [
+            "23.129.64.151"
+        ],
         "asn": "AS396507"
     },
     {
