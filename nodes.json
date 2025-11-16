@@ -7062,12 +7062,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS40663"
+        "asn": "AS53667"
     },
     {
         "nickname": "brrbigchungus",
@@ -12195,6 +12195,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -14342,10 +14345,6 @@
             "45.141.215.28"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "coderrelay",
-        "asn": "AS701"
     },
     {
         "nickname": "DFRI70",
