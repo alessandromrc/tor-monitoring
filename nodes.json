@@ -9439,9 +9439,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.183.157.214"
-        ],
         "asn": "AS197540"
     },
     {
@@ -14936,6 +14933,10 @@
             "185.220.101.26"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "myDebianExit",
+        "asn": "AS61112"
     },
     {
         "nickname": "artikel10ber12",
