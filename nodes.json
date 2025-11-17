@@ -7346,6 +7346,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
@@ -14575,6 +14578,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Rokfeller",
+        "asn": "AS44901"
+    },
+    {
         "nickname": "r0cket02i4",
         "exit_address": [
             "45.84.107.182"
@@ -19717,9 +19724,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -19822,6 +19826,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
