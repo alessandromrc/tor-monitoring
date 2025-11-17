@@ -544,9 +544,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -3734,9 +3731,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -7048,12 +7042,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "kerpatenko",
@@ -9173,7 +9167,8 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.221.107"
+            "184.75.221.107",
+            "184.75.221.35"
         ],
         "asn": "AS32489"
     },
@@ -10005,6 +10000,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "209.127.122.140"
+        ],
         "asn": "AS55286"
     },
     {
@@ -11034,9 +11032,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -11160,9 +11155,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.130"
-        ],
         "asn": "AS197540"
     },
     {
@@ -11307,9 +11299,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -13100,6 +13089,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "51.38.225.46"
+        ],
         "asn": "AS16276"
     },
     {
@@ -14330,9 +14322,6 @@
     },
     {
         "nickname": "coderrelay",
-        "exit_address": [
-            "98.117.193.184"
-        ],
         "asn": "AS701"
     },
     {
@@ -14365,9 +14354,6 @@
     },
     {
         "nickname": "forest5",
-        "exit_address": [
-            "185.141.216.154"
-        ],
         "asn": "AS26832"
     },
     {
