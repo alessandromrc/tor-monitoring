@@ -2393,6 +2393,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "SSDNodesICexit",
+        "asn": "AS50613"
+    },
+    {
         "nickname": "TORKeFFORG4",
         "exit_address": [
             "193.189.100.197"
@@ -5087,6 +5091,10 @@
         "asn": "AS211619"
     },
     {
+        "nickname": "SSDNodesFIexit",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "terNOicebeer22",
         "exit_address": [
             "185.40.4.38"
@@ -5796,6 +5804,10 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "SSDNodesNLexit",
+        "asn": "AS200651"
     },
     {
         "nickname": "andr788k",
@@ -13497,6 +13509,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "151.242.144.229"
+        ],
         "asn": "AS64457"
     },
     {
@@ -18743,6 +18758,10 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "SSDNodesROexit",
+        "asn": "AS200651"
     },
     {
         "nickname": "torzpi222",
