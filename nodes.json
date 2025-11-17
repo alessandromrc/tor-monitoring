@@ -11044,6 +11044,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "accelareteur",
+        "asn": "AS8075"
+    },
+    {
         "nickname": "homik6",
         "exit_address": [
             "51.68.226.107"
@@ -14411,6 +14415,9 @@
     },
     {
         "nickname": "forest5",
+        "exit_address": [
+            "185.141.216.154"
+        ],
         "asn": "AS26832"
     },
     {
