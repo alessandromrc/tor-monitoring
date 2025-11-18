@@ -12210,6 +12210,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -12218,10 +12221,6 @@
             "171.25.193.39"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "IlPrioraTOR",
-        "asn": "AS34224"
     },
     {
         "nickname": "Digitalcourage4ipga",
@@ -12880,10 +12879,6 @@
             "93.99.104.128"
         ],
         "asn": "AS16019"
-    },
-    {
-        "nickname": "taurinee",
-        "asn": "AS197540"
     },
     {
         "nickname": "Objedkowa",
