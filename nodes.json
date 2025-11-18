@@ -10207,7 +10207,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141",
             "198.167.206.175"
         ],
         "asn": "AS39287"
@@ -14980,6 +14979,9 @@
     },
     {
         "nickname": "handsomeandwealthy",
+        "exit_address": [
+            "46.165.243.36"
+        ],
         "asn": "AS28753"
     },
     {
