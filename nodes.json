@@ -3968,6 +3968,9 @@
     },
     {
         "nickname": "FreedomExit",
+        "exit_address": [
+            "107.189.13.172"
+        ],
         "asn": "AS53667"
     },
     {
@@ -14104,6 +14107,9 @@
     },
     {
         "nickname": "Powders",
+        "exit_address": [
+            "107.189.1.16"
+        ],
         "asn": "AS53667"
     },
     {
@@ -17295,6 +17301,7 @@
     {
         "nickname": "404tec",
         "exit_address": [
+            "51.210.106.0",
             "51.210.108.81"
         ],
         "asn": "AS16276"
