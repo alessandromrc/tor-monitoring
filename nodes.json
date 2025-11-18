@@ -544,6 +544,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -3545,6 +3548,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -3959,6 +3965,10 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FreedomExit",
+        "asn": "AS53667"
     },
     {
         "nickname": "tainish",
@@ -4592,6 +4602,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -6370,6 +6383,9 @@
     },
     {
         "nickname": "FreedomIsAMust",
+        "exit_address": [
+            "195.160.220.104"
+        ],
         "asn": "AS43641"
     },
     {
@@ -7046,12 +7062,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS40663"
     },
     {
         "nickname": "kerpatenko",
@@ -8093,6 +8109,9 @@
     },
     {
         "nickname": "f4stfox",
+        "exit_address": [
+            "45.149.154.89"
+        ],
         "asn": "AS212477"
     },
     {
@@ -8404,13 +8423,6 @@
         "asn": "AS200195"
     },
     {
-        "nickname": "nixytor",
-        "exit_address": [
-            "45.79.144.222"
-        ],
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "124.198.132.52"
@@ -8440,6 +8452,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.41.191"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9175,7 +9190,6 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.221.107",
             "184.75.221.35"
         ],
         "asn": "AS32489"
@@ -14084,6 +14098,10 @@
     {
         "nickname": "theseekingchild",
         "asn": "AS45382"
+    },
+    {
+        "nickname": "Powders",
+        "asn": "AS53667"
     },
     {
         "nickname": "fumo",
@@ -19084,6 +19102,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
