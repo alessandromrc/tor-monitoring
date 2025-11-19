@@ -1665,6 +1665,9 @@
     },
     {
         "nickname": "trisolaris",
+        "exit_address": [
+            "5.255.117.127"
+        ],
         "asn": "AS60404"
     },
     {
@@ -2402,7 +2405,8 @@
     {
         "nickname": "SSDNodesICexit",
         "exit_address": [
-            "82.221.100.10"
+            "82.221.100.10",
+            "82.221.100.12"
         ],
         "asn": "AS50613"
     },
@@ -6375,9 +6379,6 @@
     },
     {
         "nickname": "pcpnode0",
-        "exit_address": [
-            "163.172.157.152"
-        ],
         "asn": "AS12876"
     },
     {
@@ -7821,9 +7822,6 @@
     },
     {
         "nickname": "ididnteditheconfig",
-        "exit_address": [
-            "202.61.253.243"
-        ],
         "asn": "AS197540"
     },
     {
@@ -7898,9 +7896,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "188.68.41.191"
-        ],
         "asn": "AS197540"
     },
     {
@@ -8452,9 +8447,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "188.68.41.191"
-        ],
         "asn": "AS197540"
     },
     {
@@ -11012,6 +11004,9 @@
     },
     {
         "nickname": "trisolaris",
+        "exit_address": [
+            "5.255.117.127"
+        ],
         "asn": "AS60404"
     },
     {
@@ -12207,9 +12202,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
