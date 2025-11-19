@@ -4017,6 +4017,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.130.191"
+        ],
         "asn": "AS25400"
     },
     {
@@ -10619,10 +10622,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Freedome1",
-        "asn": "AS401120"
-    },
-    {
         "nickname": "artikel10buc19",
         "exit_address": [
             "185.100.85.25"
@@ -11188,6 +11187,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.130"
+        ],
         "asn": "AS197540"
     },
     {
