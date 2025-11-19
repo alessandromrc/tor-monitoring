@@ -2872,10 +2872,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "MakeSecure",
-        "asn": "AS35470"
-    },
-    {
         "nickname": "r0cket04i5",
         "exit_address": [
             "45.84.107.101"
@@ -14077,6 +14073,9 @@
     },
     {
         "nickname": "theseekingchild",
+        "exit_address": [
+            "180.150.226.99"
+        ],
         "asn": "AS45382"
     },
     {
@@ -17275,8 +17274,7 @@
     {
         "nickname": "404tec",
         "exit_address": [
-            "51.210.106.0",
-            "51.210.108.81"
+            "51.210.106.0"
         ],
         "asn": "AS16276"
     },
@@ -18882,10 +18880,6 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "apophenia",
-        "asn": "AS50613"
     },
     {
         "nickname": "arecoque7",
