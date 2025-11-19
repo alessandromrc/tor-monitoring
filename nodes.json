@@ -10882,10 +10882,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS216300"
-    },
-    {
         "nickname": "artikel10buc22",
         "exit_address": [
             "185.100.85.25"
@@ -11185,9 +11181,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.130"
-        ],
         "asn": "AS197540"
     },
     {
@@ -12063,7 +12056,8 @@
     {
         "nickname": "torexitams05",
         "exit_address": [
-            "45.66.35.22"
+            "45.66.35.22",
+            "45.66.35.25"
         ],
         "asn": "AS61125"
     },
@@ -19237,6 +19231,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
