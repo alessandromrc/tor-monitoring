@@ -5792,6 +5792,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.7"
+        ],
         "asn": "AS214209"
     },
     {
@@ -6564,9 +6567,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "88.151.192.2"
-        ],
         "asn": "AS215540"
     },
     {
@@ -7327,9 +7327,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "88.151.192.2"
-        ],
         "asn": "AS215540"
     },
     {
@@ -9827,6 +9824,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.49.235"
+        ],
         "asn": "AS197540"
     },
     {
@@ -11262,6 +11262,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.7"
+        ],
         "asn": "AS214209"
     },
     {
@@ -12061,7 +12064,6 @@
         "nickname": "torexitams06",
         "exit_address": [
             "45.66.35.22",
-            "45.66.35.23",
             "45.66.35.25"
         ],
         "asn": "AS61125"
@@ -15887,6 +15889,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.7"
+        ],
         "asn": "AS214209"
     },
     {
@@ -19062,6 +19067,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "NTH25R7",
         "exit_address": [
             "192.42.116.177"
@@ -20174,6 +20183,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "82.153.138.7"
+        ],
         "asn": "AS214209"
     },
     {
