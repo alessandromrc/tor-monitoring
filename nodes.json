@@ -3085,9 +3085,6 @@
     },
     {
         "nickname": "ageinghacker",
-        "exit_address": [
-            "82.221.139.190"
-        ],
         "asn": "AS50613"
     },
     {
@@ -3927,6 +3924,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.27"
+        ],
         "asn": "AS51396"
     },
     {
@@ -10231,9 +10231,6 @@
     },
     {
         "nickname": "Lamia",
-        "exit_address": [
-            "45.134.48.153"
-        ],
         "asn": "AS47890"
     },
     {
@@ -11188,6 +11185,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.212"
+        ],
         "asn": "AS51396"
     },
     {
@@ -11561,6 +11561,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.30"
+        ],
         "asn": "AS51396"
     },
     {
@@ -12066,7 +12069,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "torexitams06",
+        "nickname": "torexitams08",
         "exit_address": [
             "45.66.35.22",
             "45.66.35.25",
@@ -14253,9 +14256,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -17643,9 +17643,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.216"
-        ],
         "asn": "AS197540"
     },
     {
