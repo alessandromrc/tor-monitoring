@@ -11187,6 +11187,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "endivie",
         "exit_address": [
             "109.70.100.67"
@@ -11290,9 +11294,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "38.60.250.79"
-        ],
         "asn": "AS138915"
     },
     {
@@ -19070,6 +19071,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.23"
+        ],
         "asn": "AS51396"
     },
     {
