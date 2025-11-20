@@ -7057,12 +7057,12 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS40663"
+        "asn": "AS53667"
     },
     {
         "nickname": "kerpatenko",
@@ -12073,7 +12073,8 @@
         "exit_address": [
             "45.66.35.22",
             "45.66.35.25",
-            "45.66.35.26"
+            "45.66.35.26",
+            "45.66.35.28"
         ],
         "asn": "AS61125"
     },
@@ -13106,9 +13107,6 @@
     },
     {
         "nickname": "csailmitexit",
-        "exit_address": [
-            "128.31.0.13"
-        ],
         "asn": "AS3"
     },
     {
@@ -14256,6 +14254,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -17643,6 +17644,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
