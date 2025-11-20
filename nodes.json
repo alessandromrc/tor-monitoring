@@ -7796,6 +7796,9 @@
     },
     {
         "nickname": "ghostdriver",
+        "exit_address": [
+            "107.189.30.49"
+        ],
         "asn": "AS53667"
     },
     {
@@ -12058,7 +12061,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "torexitams05",
+        "nickname": "torexitams04",
         "exit_address": [
             "45.66.35.22",
             "45.66.35.23",
