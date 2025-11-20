@@ -2405,7 +2405,6 @@
     {
         "nickname": "SSDNodesICexit",
         "exit_address": [
-            "82.221.100.10",
             "82.221.100.12"
         ],
         "asn": "AS50613"
@@ -3925,6 +3924,10 @@
             "193.237.155.109"
         ],
         "asn": "AS5378"
+    },
+    {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
     },
     {
         "nickname": "DFRI110",
@@ -11199,9 +11202,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "88.151.192.2"
-        ],
         "asn": "AS215540"
     },
     {
@@ -11557,6 +11557,10 @@
             "89.234.157.254"
         ],
         "asn": "AS197422"
+    },
+    {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
     },
     {
         "nickname": "VrijHeid4",
@@ -12064,7 +12068,8 @@
         "nickname": "torexitams06",
         "exit_address": [
             "45.66.35.22",
-            "45.66.35.25"
+            "45.66.35.25",
+            "45.66.35.26"
         ],
         "asn": "AS61125"
     },
@@ -13560,9 +13565,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "88.151.192.2"
-        ],
         "asn": "AS215540"
     },
     {
