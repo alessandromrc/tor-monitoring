@@ -7859,6 +7859,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.41.191"
+        ],
         "asn": "AS197540"
     },
     {
@@ -8410,6 +8413,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.41.191"
+        ],
         "asn": "AS197540"
     },
     {
@@ -12045,7 +12051,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "torexitams08",
+        "nickname": "torexitams06",
         "exit_address": [
             "45.66.35.22",
             "45.66.35.26",
