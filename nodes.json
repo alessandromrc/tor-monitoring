@@ -3245,10 +3245,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "ro1exit1",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "DFRI50",
         "exit_address": [
             "171.25.193.35"
@@ -9760,6 +9756,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.168"
@@ -11635,6 +11635,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.31"
+        ],
         "asn": "AS51396"
     },
     {
@@ -13013,6 +13016,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.22"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14568,6 +14574,10 @@
             "185.220.101.104"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "CypherpunkLabsExit",
+        "asn": "AS51396"
     },
     {
         "nickname": "Quetzalcoatl",
