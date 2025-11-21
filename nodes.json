@@ -4907,6 +4907,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.232"
+        ],
         "asn": "AS51396"
     },
     {
@@ -8746,6 +8749,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.233"
+        ],
         "asn": "AS51396"
     },
     {
@@ -9662,9 +9668,6 @@
     },
     {
         "nickname": "ferrarizKolash",
-        "exit_address": [
-            "185.154.110.17"
-        ],
         "asn": "AS49770"
     },
     {
@@ -12051,7 +12054,6 @@
         "nickname": "torexitams06",
         "exit_address": [
             "45.66.35.22",
-            "45.66.35.25",
             "45.66.35.26",
             "45.66.35.28"
         ],
