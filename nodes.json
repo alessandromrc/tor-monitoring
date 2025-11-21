@@ -1990,6 +1990,9 @@
     },
     {
         "nickname": "saurkrautor",
+        "exit_address": [
+            "212.193.3.103"
+        ],
         "asn": "AS206216"
     },
     {
@@ -3496,6 +3499,9 @@
     },
     {
         "nickname": "saurkrautor",
+        "exit_address": [
+            "212.193.3.103"
+        ],
         "asn": "AS206216"
     },
     {
@@ -3598,6 +3604,9 @@
     },
     {
         "nickname": "3IATLAS",
+        "exit_address": [
+            "77.83.198.38"
+        ],
         "asn": "AS59711"
     },
     {
@@ -12061,7 +12070,6 @@
     {
         "nickname": "torexitams06",
         "exit_address": [
-            "45.66.35.22",
             "45.66.35.26",
             "45.66.35.28"
         ],
@@ -12819,6 +12827,9 @@
     },
     {
         "nickname": "3IATLAS",
+        "exit_address": [
+            "77.83.198.38"
+        ],
         "asn": "AS59711"
     },
     {
@@ -18434,6 +18445,10 @@
             "109.70.100.65"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "WerewolfFunWorld",
+        "asn": "AS60781"
     },
     {
         "nickname": "bauruine",
