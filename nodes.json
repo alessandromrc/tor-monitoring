@@ -1989,6 +1989,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "saurkrautor",
+        "asn": "AS206216"
+    },
+    {
         "nickname": "artikel10ber123",
         "exit_address": [
             "185.220.101.31"
@@ -3491,6 +3495,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "saurkrautor",
+        "asn": "AS206216"
+    },
+    {
         "nickname": "rdExiTorNode",
         "exit_address": [
             "146.59.231.4"
@@ -3587,6 +3595,10 @@
             "107.189.11.111"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "3IATLAS",
+        "asn": "AS59711"
     },
     {
         "nickname": "flokinet2n4",
@@ -10185,7 +10197,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.216",
             "198.167.206.230"
         ],
         "asn": "AS39287"
@@ -12808,6 +12819,10 @@
             "45.94.31.68"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "3IATLAS",
+        "asn": "AS59711"
     },
     {
         "nickname": "kyutor",
