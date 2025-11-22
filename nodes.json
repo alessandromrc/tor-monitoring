@@ -2004,9 +2004,6 @@
     },
     {
         "nickname": "saurkrautor",
-        "exit_address": [
-            "212.193.3.103"
-        ],
         "asn": "AS206216"
     },
     {
@@ -3514,9 +3511,6 @@
     },
     {
         "nickname": "saurkrautor",
-        "exit_address": [
-            "212.193.3.103"
-        ],
         "asn": "AS206216"
     },
     {
@@ -6789,6 +6783,9 @@
     },
     {
         "nickname": "c1vsb",
+        "exit_address": [
+            "152.89.168.21"
+        ],
         "asn": "AS212271"
     },
     {
