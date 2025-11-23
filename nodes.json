@@ -1295,9 +1295,6 @@
     },
     {
         "nickname": "ywaifir",
-        "exit_address": [
-            "212.95.50.77"
-        ],
         "asn": "AS28753"
     },
     {
@@ -9916,6 +9913,10 @@
         "asn": "AS214209"
     },
     {
+        "nickname": "WYSWYG",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "ibibUNC0",
         "exit_address": [
             "204.85.191.8"
@@ -16552,10 +16553,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS149107"
-    },
-    {
         "nickname": "stielmus",
         "exit_address": [
             "109.70.100.66"
@@ -19137,6 +19134,9 @@
     },
     {
         "nickname": "CasjaysDevExit",
+        "exit_address": [
+            "82.29.128.145"
+        ],
         "asn": "AS142036"
     },
     {
