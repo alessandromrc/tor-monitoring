@@ -2146,6 +2146,9 @@
     },
     {
         "nickname": "2GOGRelayHvn1",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -4134,6 +4137,9 @@
     },
     {
         "nickname": "GOGRelayAlb8",
+        "exit_address": [
+            "45.156.87.164"
+        ],
         "asn": "AS51396"
     },
     {
@@ -5722,6 +5728,9 @@
     },
     {
         "nickname": "2GOGRelayHvn4",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -6013,6 +6022,9 @@
     },
     {
         "nickname": "2GOGRelayHvn2",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -6133,6 +6145,9 @@
     },
     {
         "nickname": "2GOGRelayHvn7",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -6333,6 +6348,9 @@
     },
     {
         "nickname": "2GOGRelayHvn8",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -8064,6 +8082,9 @@
     },
     {
         "nickname": "GOGRelayAlb7",
+        "exit_address": [
+            "45.156.87.164"
+        ],
         "asn": "AS51396"
     },
     {
@@ -11571,6 +11592,9 @@
     },
     {
         "nickname": "2GOGRelayHvn3",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -12975,6 +12999,9 @@
     },
     {
         "nickname": "2GOGRelayHvn6",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14261,6 +14288,9 @@
     },
     {
         "nickname": "2GOGRelayHvn5",
+        "exit_address": [
+            "176.65.132.34"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14374,10 +14404,6 @@
             "45.141.215.28"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "coderrelay",
-        "asn": "AS701"
     },
     {
         "nickname": "DFRI70",
@@ -16034,6 +16060,9 @@
     },
     {
         "nickname": "GOGRelayAlb6",
+        "exit_address": [
+            "45.156.87.164"
+        ],
         "asn": "AS51396"
     },
     {
