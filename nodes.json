@@ -3360,6 +3360,10 @@
         "asn": "AS51396"
     },
     {
+        "nickname": "GOGRelayAlb5",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "NTH22R2",
         "exit_address": [
             "192.42.116.174"
@@ -3726,6 +3730,9 @@
     },
     {
         "nickname": "accksb",
+        "exit_address": [
+            "45.192.241.204"
+        ],
         "asn": "AS61112"
     },
     {
