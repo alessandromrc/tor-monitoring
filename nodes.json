@@ -9917,6 +9917,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -12115,7 +12118,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "torexitams08",
+        "nickname": "torexitams02",
         "exit_address": [
             "45.66.35.22",
             "45.66.35.28"
