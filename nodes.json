@@ -11945,13 +11945,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "CasjaysDevRelay",
-        "exit_address": [
-            "82.29.128.145"
-        ],
-        "asn": "AS142036"
-    },
-    {
         "nickname": "Blanche",
         "exit_address": [
             "198.98.48.33"
@@ -19134,6 +19127,10 @@
             "185.40.4.92"
         ],
         "asn": "AS200195"
+    },
+    {
+        "nickname": "CasjaysDevExit",
+        "asn": "AS142036"
     },
     {
         "nickname": "TORstenExit04",
