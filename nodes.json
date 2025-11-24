@@ -11442,6 +11442,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.188"
+        ],
         "asn": "AS51396"
     },
     {
@@ -11765,6 +11768,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.237"
+        ],
         "asn": "AS51396"
     },
     {
@@ -12762,6 +12768,9 @@
     },
     {
         "nickname": "CypherpunkLabsExit",
+        "exit_address": [
+            "176.65.149.213"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14784,6 +14793,10 @@
             "37.228.129.189"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "forest8",
+        "asn": "AS208191"
     },
     {
         "nickname": "Quetzalcoatl",
