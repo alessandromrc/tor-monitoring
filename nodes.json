@@ -481,9 +481,6 @@
     },
     {
         "nickname": "Delphos",
-        "exit_address": [
-            "23.137.255.85"
-        ],
         "asn": "AS40663"
     },
     {
@@ -4403,6 +4400,9 @@
     },
     {
         "nickname": "taine",
+        "exit_address": [
+            "130.193.15.186"
+        ],
         "asn": "AS29134"
     },
     {
@@ -7185,6 +7185,10 @@
             "93.94.51.243"
         ],
         "asn": "AS215540"
+    },
+    {
+        "nickname": "crow",
+        "asn": "AS214209"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -10263,6 +10267,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.142",
             "198.167.206.165"
         ],
         "asn": "AS39287"
