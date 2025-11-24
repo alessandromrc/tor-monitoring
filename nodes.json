@@ -1989,10 +1989,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "saurkrautor",
-        "asn": "AS206216"
-    },
-    {
         "nickname": "artikel10ber123",
         "exit_address": [
             "185.220.101.31"
@@ -3436,10 +3432,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "obzgs5tbmn4q",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "RunningOnFumes4",
         "exit_address": [
             "185.82.219.109"
@@ -3508,10 +3500,6 @@
             "109.70.100.70"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "saurkrautor",
-        "asn": "AS206216"
     },
     {
         "nickname": "rdExiTorNode",
@@ -4116,10 +4104,6 @@
             "46.29.238.25"
         ],
         "asn": "AS215540"
-    },
-    {
-        "nickname": "obzgs5tbmn4q",
-        "asn": "AS215659"
     },
     {
         "nickname": "artikel10ber11",
@@ -11769,6 +11753,9 @@
     },
     {
         "nickname": "k3rn3lpanic",
+        "exit_address": [
+            "194.55.165.11"
+        ],
         "asn": "AS197648"
     },
     {
