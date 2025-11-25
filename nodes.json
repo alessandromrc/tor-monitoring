@@ -7149,6 +7149,9 @@
     },
     {
         "nickname": "crow",
+        "exit_address": [
+            "45.137.99.79"
+        ],
         "asn": "AS214209"
     },
     {
@@ -12096,6 +12099,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.61.184.51"
+        ],
         "asn": "AS53667"
     },
     {
@@ -14606,9 +14612,6 @@
     },
     {
         "nickname": "plebelet",
-        "exit_address": [
-            "107.189.27.145"
-        ],
         "asn": "AS14956"
     },
     {
@@ -17797,9 +17800,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "38.60.249.223"
-        ],
         "asn": "AS138915"
     },
     {
