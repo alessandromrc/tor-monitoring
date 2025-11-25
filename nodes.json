@@ -3983,6 +3983,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "torexitams14",
+        "asn": "AS61125"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "46.250.243.29"
@@ -4637,6 +4641,10 @@
             "193.26.115.43"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "torexitams11",
+        "asn": "AS61125"
     },
     {
         "nickname": "NTH25R3",
@@ -5714,8 +5722,7 @@
     {
         "nickname": "xenbsd",
         "exit_address": [
-            "45.66.35.96",
-            "45.66.35.98"
+            "45.66.35.96"
         ],
         "asn": "AS61125"
     },
@@ -7826,10 +7833,6 @@
             "23.129.64.202"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS197540"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -12870,6 +12873,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "torexitams10",
+        "asn": "AS61125"
+    },
+    {
         "nickname": "3IATLAS",
         "asn": "AS59711"
     },
@@ -13377,6 +13384,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "torexitams13",
+        "asn": "AS61125"
+    },
+    {
         "nickname": "artikel10ber42",
         "exit_address": [
             "185.220.101.11"
@@ -13590,6 +13601,10 @@
     {
         "nickname": "prsv",
         "asn": "AS215540"
+    },
+    {
+        "nickname": "torexitams12",
+        "asn": "AS61125"
     },
     {
         "nickname": "prsv",
