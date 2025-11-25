@@ -3789,6 +3789,9 @@
     },
     {
         "nickname": "wippvannwinkle",
+        "exit_address": [
+            "194.53.137.102"
+        ],
         "asn": "AS9009"
     },
     {
@@ -5713,6 +5716,7 @@
     {
         "nickname": "xenbsd",
         "exit_address": [
+            "45.66.35.96",
             "45.66.35.98"
         ],
         "asn": "AS61125"
@@ -8649,9 +8653,6 @@
     },
     {
         "nickname": "level9000",
-        "exit_address": [
-            "194.53.137.156"
-        ],
         "asn": "AS9009"
     },
     {
@@ -20229,10 +20230,6 @@
             "216.73.159.101"
         ],
         "asn": "AS61138"
-    },
-    {
-        "nickname": "Antilopa99235",
-        "asn": "AS59891"
     },
     {
         "nickname": "r0cket10i7",
