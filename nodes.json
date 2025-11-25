@@ -3642,6 +3642,9 @@
     },
     {
         "nickname": "torexitams08",
+        "exit_address": [
+            "45.66.35.28"
+        ],
         "asn": "AS61125"
     },
     {
@@ -3783,6 +3786,10 @@
             "45.38.20.240"
         ],
         "asn": "AS215659"
+    },
+    {
+        "nickname": "wippvannwinkle",
+        "asn": "AS9009"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -5707,7 +5714,7 @@
         "asn": "AS51396"
     },
     {
-        "nickname": "xentor",
+        "nickname": "xenbsd",
         "exit_address": [
             "45.66.35.98"
         ],
@@ -8452,6 +8459,9 @@
     },
     {
         "nickname": "xentor",
+        "exit_address": [
+            "45.66.35.98"
+        ],
         "asn": "AS61125"
     },
     {
@@ -19720,6 +19730,9 @@
     },
     {
         "nickname": "beecareful",
+        "exit_address": [
+            "45.144.209.20"
+        ],
         "asn": "AS44133"
     },
     {
