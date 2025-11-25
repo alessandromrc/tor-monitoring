@@ -3955,10 +3955,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FreedomExit",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -6384,10 +6380,6 @@
             "23.191.200.26"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "pcpnode0",
-        "asn": "AS12876"
     },
     {
         "nickname": "artikel5ev13c",
@@ -9221,7 +9213,8 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.221.35"
+            "184.75.221.35",
+            "87.101.92.171"
         ],
         "asn": "AS9009"
     },
@@ -10248,7 +10241,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.142"
+            "198.167.206.142",
+            "198.167.206.179"
         ],
         "asn": "AS39287"
     },
@@ -14136,10 +14130,6 @@
             "180.150.226.99"
         ],
         "asn": "AS45382"
-    },
-    {
-        "nickname": "Powders",
-        "asn": "AS53667"
     },
     {
         "nickname": "fumo",
