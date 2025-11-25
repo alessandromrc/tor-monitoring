@@ -4705,9 +4705,6 @@
     },
     {
         "nickname": "Alberta",
-        "exit_address": [
-            "209.141.51.180"
-        ],
         "asn": "AS53667"
     },
     {
@@ -10115,6 +10112,9 @@
     },
     {
         "nickname": "DeafCitadel",
+        "exit_address": [
+            "2.56.10.36"
+        ],
         "asn": "AS213373"
     },
     {
@@ -16600,9 +16600,6 @@
     },
     {
         "nickname": "VisionVillage",
-        "exit_address": [
-            "94.75.225.81"
-        ],
         "asn": "AS60781"
     },
     {
