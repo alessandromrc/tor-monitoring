@@ -8075,10 +8075,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "lokit11",
-        "asn": "AS42473"
-    },
-    {
         "nickname": "UnredactedFravor",
         "exit_address": [
             "23.191.200.14"
@@ -8588,9 +8584,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -17540,6 +17533,10 @@
             "185.100.87.192"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS45102"
     },
     {
         "nickname": "relayongorellik",
