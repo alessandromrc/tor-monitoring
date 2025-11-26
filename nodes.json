@@ -1296,6 +1296,9 @@
     },
     {
         "nickname": "ywaifir",
+        "exit_address": [
+            "212.95.50.77"
+        ],
         "asn": "AS28753"
     },
     {
@@ -11386,6 +11389,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "snowylinux",
+        "asn": "AS214196"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "62.133.60.208"
@@ -19327,6 +19334,10 @@
             "192.42.116.173"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "fxi",
+        "asn": "AS3258"
     },
     {
         "nickname": "JACKofNINES",
