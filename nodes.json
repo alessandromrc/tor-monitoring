@@ -3071,6 +3071,9 @@
     },
     {
         "nickname": "swamp2",
+        "exit_address": [
+            "150.129.10.152"
+        ],
         "asn": "AS60404"
     },
     {
@@ -5712,9 +5715,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -5937,9 +5937,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -7810,9 +7807,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -8080,9 +8074,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -10501,9 +10492,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -11048,9 +11036,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -16139,9 +16124,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -18042,9 +18024,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
