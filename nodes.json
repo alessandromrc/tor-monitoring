@@ -2145,6 +2145,9 @@
     },
     {
         "nickname": "swamp1",
+        "exit_address": [
+            "150.129.10.152"
+        ],
         "asn": "AS60404"
     },
     {
@@ -4647,6 +4650,9 @@
     },
     {
         "nickname": "torexitams11",
+        "exit_address": [
+            "45.66.35.31"
+        ],
         "asn": "AS61125"
     },
     {
@@ -12197,6 +12203,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
