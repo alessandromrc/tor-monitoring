@@ -1962,9 +1962,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -4116,6 +4113,10 @@
             "46.29.238.25"
         ],
         "asn": "AS215540"
+    },
+    {
+        "nickname": "TheMadHackerNodeV4",
+        "asn": "AS24940"
     },
     {
         "nickname": "artikel10ber11",
@@ -10230,6 +10231,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.161",
             "198.167.206.179"
         ],
         "asn": "AS39287"
@@ -11400,6 +11402,9 @@
     },
     {
         "nickname": "snowylinux",
+        "exit_address": [
+            "138.226.237.82"
+        ],
         "asn": "AS214196"
     },
     {
@@ -12368,9 +12373,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -12936,9 +12938,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.135"
-        ],
         "asn": "AS47890"
     },
     {
@@ -13313,10 +13312,6 @@
             "45.141.215.156"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "anonymous",
-        "asn": "AS215929"
     },
     {
         "nickname": "r0cket01i3",
@@ -14135,9 +14130,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
@@ -19341,6 +19333,9 @@
     },
     {
         "nickname": "fxi",
+        "exit_address": [
+            "45.129.8.100"
+        ],
         "asn": "AS3258"
     },
     {
@@ -19517,9 +19512,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.106"
-        ],
         "asn": "AS47890"
     },
     {
