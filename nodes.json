@@ -4868,10 +4868,6 @@
         "asn": "AS200195"
     },
     {
-        "nickname": "snowcore",
-        "asn": "AS213725"
-    },
-    {
         "nickname": "DFRI81",
         "exit_address": [
             "171.25.193.39"
@@ -10230,8 +10226,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.161",
-            "198.167.206.179"
+            "198.167.206.161"
         ],
         "asn": "AS39287"
     },
@@ -12226,6 +12221,10 @@
             "23.129.64.142"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS45102"
     },
     {
         "nickname": "DigiGesTor3e1",
@@ -17271,10 +17270,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "404tec",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "DFRI118",
         "exit_address": [
             "171.25.193.80"
@@ -19941,6 +19936,9 @@
     },
     {
         "nickname": "infrarelay30",
+        "exit_address": [
+            "172.245.214.90"
+        ],
         "asn": "AS36352"
     },
     {
