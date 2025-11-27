@@ -2179,6 +2179,9 @@
     },
     {
         "nickname": "Hub234",
+        "exit_address": [
+            "154.90.54.69"
+        ],
         "asn": "AS138915"
     },
     {
@@ -13171,9 +13174,6 @@
     },
     {
         "nickname": "MarieAlex",
-        "exit_address": [
-            "94.72.103.33"
-        ],
         "asn": "AS51167"
     },
     {
