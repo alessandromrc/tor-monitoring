@@ -1829,9 +1829,6 @@
     },
     {
         "nickname": "murazzano",
-        "exit_address": [
-            "64.190.76.10"
-        ],
         "asn": "AS214094"
     },
     {
@@ -8962,10 +8959,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS45102"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.9.156.101"
@@ -10226,7 +10219,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.161"
+            "198.167.206.161",
+            "198.167.206.217"
         ],
         "asn": "AS39287"
     },
