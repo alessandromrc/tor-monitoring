@@ -2404,6 +2404,9 @@
     },
     {
         "nickname": "Halflife",
+        "exit_address": [
+            "195.35.113.29"
+        ],
         "asn": "AS56655"
     },
     {
@@ -3559,10 +3562,6 @@
             "185.244.192.175"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "obzgs5tbmn4q",
-        "asn": "AS214209"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -13760,10 +13759,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "obzgs5tbmn4q",
-        "asn": "AS214209"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.200"
@@ -18960,6 +18955,9 @@
     },
     {
         "nickname": "Halflife",
+        "exit_address": [
+            "195.35.113.29"
+        ],
         "asn": "AS56655"
     },
     {
