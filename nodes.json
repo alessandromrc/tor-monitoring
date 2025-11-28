@@ -5501,9 +5501,6 @@
     },
     {
         "nickname": "MyPrivateExitNode",
-        "exit_address": [
-            "23.177.185.98"
-        ],
         "asn": "AS400992"
     },
     {
@@ -10193,6 +10190,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.171",
             "198.167.206.217"
         ],
         "asn": "AS39287"
@@ -11546,6 +11544,9 @@
     },
     {
         "nickname": "vanzetti",
+        "exit_address": [
+            "185.39.207.83"
+        ],
         "asn": "AS215540"
     },
     {
