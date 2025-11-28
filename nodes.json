@@ -1836,6 +1836,9 @@
     },
     {
         "nickname": "murazzano",
+        "exit_address": [
+            "64.190.76.10"
+        ],
         "asn": "AS214094"
     },
     {
@@ -7732,6 +7735,9 @@
     },
     {
         "nickname": "meowing1",
+        "exit_address": [
+            "107.152.41.55"
+        ],
         "asn": "AS11878"
     },
     {
@@ -13152,9 +13158,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.141.215.88"
-        ],
         "asn": "AS210558"
     },
     {
@@ -18860,6 +18863,9 @@
     },
     {
         "nickname": "LillyCL",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -18927,9 +18933,6 @@
     },
     {
         "nickname": "askatasuna64",
-        "exit_address": [
-            "163.172.45.102"
-        ],
         "asn": "AS12876"
     },
     {
