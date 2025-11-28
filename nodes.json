@@ -681,6 +681,9 @@
     },
     {
         "nickname": "infrarelay30",
+        "exit_address": [
+            "172.245.214.90"
+        ],
         "asn": "AS36352"
     },
     {
@@ -2407,13 +2410,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Halflife",
-        "exit_address": [
-            "195.35.113.29"
-        ],
-        "asn": "AS56655"
-    },
-    {
         "nickname": "SSDNodesICexit",
         "exit_address": [
             "82.221.100.12"
@@ -2805,10 +2801,6 @@
             "185.220.101.110"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "CSTLLNODE3",
-        "asn": "AS264617"
     },
     {
         "nickname": "NeelTorExit2B",
@@ -7737,6 +7729,10 @@
             "45.84.107.47"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "meowing1",
+        "asn": "AS11878"
     },
     {
         "nickname": "NTH4R7",
@@ -18863,6 +18859,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "LillyCL",
+        "asn": "AS214996"
+    },
+    {
         "nickname": "artikel10ber77",
         "exit_address": [
             "185.220.101.20"
@@ -18952,13 +18952,6 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "Halflife",
-        "exit_address": [
-            "195.35.113.29"
-        ],
-        "asn": "AS56655"
     },
     {
         "nickname": "GOGRelayHvn5",
@@ -19863,9 +19856,6 @@
     },
     {
         "nickname": "infrarelay30",
-        "exit_address": [
-            "172.245.214.90"
-        ],
         "asn": "AS36352"
     },
     {
