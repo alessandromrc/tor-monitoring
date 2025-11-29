@@ -10143,7 +10143,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.171"
+            "198.167.206.171",
+            "198.167.206.247"
         ],
         "asn": "AS39287"
     },
@@ -16234,6 +16235,10 @@
             "109.70.100.69"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "castelmagno",
+        "asn": "AS214094"
     },
     {
         "nickname": "Quetzalcoatl",
