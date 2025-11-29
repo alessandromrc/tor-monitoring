@@ -12785,6 +12785,9 @@
     },
     {
         "nickname": "SecureExitRelay",
+        "exit_address": [
+            "185.22.174.246"
+        ],
         "asn": "AS42532"
     },
     {
@@ -15602,9 +15605,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
