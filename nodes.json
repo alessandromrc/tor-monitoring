@@ -737,6 +737,9 @@
     },
     {
         "nickname": "stracchino",
+        "exit_address": [
+            "64.190.76.10"
+        ],
         "asn": "AS214094"
     },
     {
@@ -12763,7 +12766,8 @@
     {
         "nickname": "torzpi222",
         "exit_address": [
-            "79.100.12.71"
+            "79.100.12.71",
+            "84.238.156.136"
         ],
         "asn": "AS8866"
     },
@@ -14386,6 +14390,9 @@
     },
     {
         "nickname": "HiMom",
+        "exit_address": [
+            "198.98.50.199"
+        ],
         "asn": "AS53667"
     },
     {
@@ -15855,6 +15862,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "hameanos",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "impishingyserawn",
         "exit_address": [
             "185.165.169.239"
@@ -15976,6 +15987,9 @@
     },
     {
         "nickname": "taleggio",
+        "exit_address": [
+            "64.190.76.12"
+        ],
         "asn": "AS214094"
     },
     {
