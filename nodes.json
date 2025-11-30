@@ -5659,9 +5659,6 @@
     },
     {
         "nickname": "jkimnot1",
-        "exit_address": [
-            "179.43.133.50"
-        ],
         "asn": "AS51852"
     },
     {
@@ -11059,9 +11056,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.130"
-        ],
         "asn": "AS197540"
     },
     {
@@ -18132,6 +18126,9 @@
     },
     {
         "nickname": "crow",
+        "exit_address": [
+            "45.38.20.43"
+        ],
         "asn": "AS215659"
     },
     {
