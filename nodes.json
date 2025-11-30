@@ -175,6 +175,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "GOGRelayAlb12",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "KarsLovesIsrael",
         "exit_address": [
             "185.126.114.110"
@@ -502,6 +506,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "GOGRelayAlb10",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "NTH28R7",
         "exit_address": [
             "192.42.116.180"
@@ -731,6 +739,10 @@
             "94.72.104.135"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "GOGRelayAlb11",
+        "asn": "AS51396"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -10095,6 +10107,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.214",
             "198.167.206.247"
         ],
         "asn": "AS39287"
@@ -12910,9 +12923,6 @@
     },
     {
         "nickname": "0xcc",
-        "exit_address": [
-            "185.183.159.40"
-        ],
         "asn": "AS197540"
     },
     {
@@ -16843,6 +16853,10 @@
             "54.36.101.21"
         ],
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Test1488",
+        "asn": "AS14061"
     },
     {
         "nickname": "Aramis",
