@@ -1469,10 +1469,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "sartre1",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.191"
@@ -2930,10 +2926,6 @@
             "192.42.116.211"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Illuminati",
-        "asn": "AS31103"
     },
     {
         "nickname": "PRQseTORexit3",
@@ -5270,6 +5262,10 @@
             "89.147.111.87"
         ],
         "asn": "AS44925"
+    },
+    {
+        "nickname": "i9",
+        "asn": "AS5378"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -7791,6 +7787,9 @@
     },
     {
         "nickname": "tomino",
+        "exit_address": [
+            "64.190.76.4"
+        ],
         "asn": "AS214094"
     },
     {
@@ -13231,6 +13230,9 @@
     },
     {
         "nickname": "gorgonzola",
+        "exit_address": [
+            "64.190.76.11"
+        ],
         "asn": "AS214094"
     },
     {
@@ -13397,10 +13399,6 @@
             "172.234.228.174"
         ],
         "asn": "AS63949"
-    },
-    {
-        "nickname": "sartre2",
-        "asn": "AS200651"
     },
     {
         "nickname": "judoka",
@@ -13611,6 +13609,9 @@
     },
     {
         "nickname": "parmigiano",
+        "exit_address": [
+            "64.190.76.13"
+        ],
         "asn": "AS214094"
     },
     {
@@ -15863,6 +15864,9 @@
     },
     {
         "nickname": "hameanos",
+        "exit_address": [
+            "46.253.4.208"
+        ],
         "asn": "AS200019"
     },
     {
@@ -16486,9 +16490,6 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
-        "exit_address": [
-            "67.219.109.141"
-        ],
         "asn": "AS20473"
     },
     {
