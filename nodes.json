@@ -492,6 +492,9 @@
     },
     {
         "nickname": "Delphos",
+        "exit_address": [
+            "23.137.255.85"
+        ],
         "asn": "AS40663"
     },
     {
@@ -3333,6 +3336,9 @@
     },
     {
         "nickname": "thunderveil",
+        "exit_address": [
+            "93.95.228.105"
+        ],
         "asn": "AS44925"
     },
     {
@@ -8560,10 +8566,6 @@
             "185.220.101.6"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "level9000",
-        "asn": "AS9009"
     },
     {
         "nickname": "r0cket05i6",
@@ -16435,10 +16437,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "VisionVillage",
-        "asn": "AS60781"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.61"
@@ -16500,6 +16498,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
@@ -20077,6 +20078,9 @@
     },
     {
         "nickname": "onshy",
+        "exit_address": [
+            "5.255.114.171"
+        ],
         "asn": "AS60404"
     },
     {
