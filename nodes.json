@@ -7079,6 +7079,9 @@
     },
     {
         "nickname": "crow",
+        "exit_address": [
+            "45.137.99.79"
+        ],
         "asn": "AS214209"
     },
     {
@@ -18178,6 +18181,9 @@
     },
     {
         "nickname": "crow",
+        "exit_address": [
+            "45.38.20.43"
+        ],
         "asn": "AS215659"
     },
     {
@@ -19063,9 +19069,6 @@
     },
     {
         "nickname": "artikel10ber52",
-        "exit_address": [
-            "185.220.101.13"
-        ],
         "asn": "AS60729"
     },
     {
