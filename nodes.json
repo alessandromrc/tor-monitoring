@@ -695,9 +695,6 @@
     },
     {
         "nickname": "infrarelay30",
-        "exit_address": [
-            "172.245.214.90"
-        ],
         "asn": "AS36352"
     },
     {
@@ -5174,10 +5171,6 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "tre",
-        "asn": "AS40676"
     },
     {
         "nickname": "NTH28R1",
@@ -10193,9 +10186,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "38.60.216.74"
-        ],
         "asn": "AS138915"
     },
     {
@@ -12088,6 +12078,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -17630,10 +17623,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS138915"
     },
     {
         "nickname": "Agfid",
