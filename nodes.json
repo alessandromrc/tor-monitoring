@@ -2567,6 +2567,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -3117,6 +3120,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -7694,6 +7700,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -7988,6 +7997,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -10332,6 +10344,10 @@
             "104.192.3.74"
         ],
         "asn": "AS27176"
+    },
+    {
+        "nickname": "askatasuna64",
+        "asn": "AS12876"
     },
     {
         "nickname": "lunar5",
@@ -14357,9 +14373,6 @@
     },
     {
         "nickname": "forest08",
-        "exit_address": [
-            "176.65.134.8"
-        ],
         "asn": "AS208191"
     },
     {
@@ -15303,9 +15316,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -16348,6 +16358,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
