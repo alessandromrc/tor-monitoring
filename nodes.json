@@ -2678,10 +2678,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "solar15",
-        "asn": "AS43641"
-    },
-    {
         "nickname": "TORKeFFORG27",
         "exit_address": [
             "193.189.100.194"
@@ -6920,6 +6916,9 @@
     },
     {
         "nickname": "brrbigchungus",
+        "exit_address": [
+            "77.90.8.65"
+        ],
         "asn": "AS48314"
     },
     {
