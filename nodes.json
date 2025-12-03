@@ -5957,6 +5957,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "NTH1R6",
+        "asn": "AS215125"
+    },
+    {
         "nickname": "LillyCL",
         "exit_address": [
             "152.53.210.165"
@@ -13231,6 +13235,9 @@
     },
     {
         "nickname": "Niko",
+        "exit_address": [
+            "104.238.177.142"
+        ],
         "asn": "AS20473"
     },
     {
