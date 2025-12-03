@@ -430,7 +430,8 @@
     {
         "nickname": "rambunctiousraven",
         "exit_address": [
-            "32.218.131.46"
+            "32.218.131.46",
+            "32.218.131.61"
         ],
         "asn": "AS46690"
     },
@@ -5908,6 +5909,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.137.201.100"
+        ],
         "asn": "AS211507"
     },
     {
@@ -10131,6 +10135,9 @@
     },
     {
         "nickname": "2e3d1",
+        "exit_address": [
+            "104.238.177.142"
+        ],
         "asn": "AS20473"
     },
     {
@@ -18790,6 +18797,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
