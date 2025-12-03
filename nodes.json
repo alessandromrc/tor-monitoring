@@ -5437,6 +5437,10 @@
         "asn": "AS210731"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "IamCORNHOLIO",
         "exit_address": [
             "5.255.115.58"
@@ -5473,6 +5477,9 @@
     },
     {
         "nickname": "ponynode",
+        "exit_address": [
+            "5.255.117.250"
+        ],
         "asn": "AS60404"
     },
     {
@@ -5962,6 +5969,9 @@
     },
     {
         "nickname": "NTH1R6",
+        "exit_address": [
+            "192.42.116.191"
+        ],
         "asn": "AS215125"
     },
     {
