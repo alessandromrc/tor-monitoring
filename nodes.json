@@ -5472,6 +5472,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "ponynode",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "dorza",
         "exit_address": [
             "23.129.64.168"
@@ -11956,6 +11960,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
