@@ -369,9 +369,6 @@
     },
     {
         "nickname": "reelcuzzi",
-        "exit_address": [
-            "189.239.151.113"
-        ],
         "asn": "AS8151"
     },
     {
@@ -7450,6 +7447,10 @@
             "192.42.116.200"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MapleVPSExit",
+        "asn": "AS16276"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -17458,10 +17459,6 @@
             "23.129.64.176"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "MAXKO",
-        "asn": "AS211619"
     },
     {
         "nickname": "DFRI84",
