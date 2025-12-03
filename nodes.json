@@ -4006,6 +4006,10 @@
         "asn": "AS198985"
     },
     {
+        "nickname": "Crow",
+        "asn": "AS215659"
+    },
+    {
         "nickname": "TORstenExit02",
         "exit_address": [
             "45.133.74.53"
@@ -4061,6 +4065,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -4577,9 +4584,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
@@ -12205,6 +12209,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.141.215.16"
+        ],
         "asn": "AS210558"
     },
     {
@@ -15497,9 +15504,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
