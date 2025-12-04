@@ -735,6 +735,9 @@
     },
     {
         "nickname": "DigiGesTor4e4",
+        "exit_address": [
+            "195.176.3.20"
+        ],
         "asn": "AS559"
     },
     {
@@ -1091,6 +1094,9 @@
     },
     {
         "nickname": "DigiGesTor4e3",
+        "exit_address": [
+            "195.176.3.20"
+        ],
         "asn": "AS559"
     },
     {
@@ -5410,13 +5416,6 @@
         "asn": "AS210731"
     },
     {
-        "nickname": "Unnamed",
-        "exit_address": [
-            "185.28.47.12"
-        ],
-        "asn": "AS52048"
-    },
-    {
         "nickname": "IamCORNHOLIO",
         "exit_address": [
             "5.255.115.58"
@@ -5450,13 +5449,6 @@
             "185.246.189.99"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "ponynode",
-        "exit_address": [
-            "5.255.117.250"
-        ],
-        "asn": "AS60404"
     },
     {
         "nickname": "dorza",
@@ -10007,7 +9999,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.133"
+            "198.167.206.133",
+            "198.167.206.167"
         ],
         "asn": "AS39287"
     },
@@ -13844,6 +13837,9 @@
     },
     {
         "nickname": "DigiGesTor4e1",
+        "exit_address": [
+            "195.176.3.19"
+        ],
         "asn": "AS559"
     },
     {
@@ -14500,6 +14496,9 @@
     },
     {
         "nickname": "DigiGesTor4e2",
+        "exit_address": [
+            "195.176.3.19"
+        ],
         "asn": "AS559"
     },
     {
@@ -17037,6 +17036,10 @@
             "199.195.253.180"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "jokulhops",
+        "asn": "AS29134"
     },
     {
         "nickname": "DFRI37",
