@@ -1477,10 +1477,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "KyunTorExitNode",
-        "asn": "AS214209"
-    },
-    {
         "nickname": "Unnamed",
         "exit_address": [
             "47.84.7.211"
@@ -10290,6 +10286,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.144",
             "198.167.206.167"
         ],
         "asn": "AS39287"
