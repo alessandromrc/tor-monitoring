@@ -309,6 +309,9 @@
     },
     {
         "nickname": "Ulcerate",
+        "exit_address": [
+            "57.128.220.107"
+        ],
         "asn": "AS16276"
     },
     {
@@ -5657,6 +5660,9 @@
     },
     {
         "nickname": "Ulcerate",
+        "exit_address": [
+            "217.182.75.199"
+        ],
         "asn": "AS16276"
     },
     {
@@ -10052,6 +10058,9 @@
     },
     {
         "nickname": "emberhare",
+        "exit_address": [
+            "5.34.182.203"
+        ],
         "asn": "AS15626"
     },
     {
@@ -11087,6 +11096,9 @@
     },
     {
         "nickname": "Fenrir",
+        "exit_address": [
+            "185.125.171.72"
+        ],
         "asn": "AS56655"
     },
     {
@@ -14245,6 +14257,9 @@
     },
     {
         "nickname": "Fenrir",
+        "exit_address": [
+            "185.125.171.72"
+        ],
         "asn": "AS56655"
     },
     {
@@ -18339,10 +18354,6 @@
             "192.42.116.186"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "emeraldonion69",
-        "asn": "AS59711"
     },
     {
         "nickname": "NTH29R8",
