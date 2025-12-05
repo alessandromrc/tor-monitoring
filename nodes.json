@@ -5726,6 +5726,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.102.93"
+        ],
         "asn": "AS197540"
     },
     {
@@ -6631,6 +6634,10 @@
             "185.220.101.37"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Devil",
+        "asn": "AS53667"
     },
     {
         "nickname": "sellerie",
@@ -8638,6 +8645,10 @@
             "185.220.101.6"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "level9000",
+        "asn": "AS9009"
     },
     {
         "nickname": "r0cket05i6",
@@ -18978,10 +18989,6 @@
             "192.42.116.178"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "askatasuna64",
-        "asn": "AS12876"
     },
     {
         "nickname": "relayon0130",
