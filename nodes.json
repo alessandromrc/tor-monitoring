@@ -13176,6 +13176,9 @@
     },
     {
         "nickname": "csailmitexit",
+        "exit_address": [
+            "128.31.0.13"
+        ],
         "asn": "AS3"
     },
     {
@@ -13851,9 +13854,6 @@
     },
     {
         "nickname": "NLfreedom1",
-        "exit_address": [
-            "103.251.167.10"
-        ],
         "asn": "AS60404"
     },
     {
