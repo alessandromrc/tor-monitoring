@@ -824,10 +824,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.8.133"
@@ -2133,10 +2129,6 @@
             "192.42.116.192"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS211507"
     },
     {
         "nickname": "c0wb0y",
@@ -6637,6 +6629,9 @@
     },
     {
         "nickname": "Devil",
+        "exit_address": [
+            "107.189.12.157"
+        ],
         "asn": "AS53667"
     },
     {
@@ -8749,10 +8744,6 @@
         "asn": "AS40676"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "artikel10ber88",
         "exit_address": [
             "185.220.101.22"
@@ -10004,10 +9995,6 @@
             "193.26.115.82"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS211507"
     },
     {
         "nickname": "binney",
@@ -12441,10 +12428,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.62"
@@ -13815,6 +13798,9 @@
     },
     {
         "nickname": "TorExitMoldova2",
+        "exit_address": [
+            "178.17.174.14"
+        ],
         "asn": "AS43289"
     },
     {
@@ -15798,10 +15784,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "elenagb2",
         "exit_address": [
             "185.233.100.23"
@@ -16031,10 +16013,6 @@
             "45.141.215.19"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS211507"
     },
     {
         "nickname": "DFRI75",
@@ -18610,10 +18588,6 @@
             "149.102.153.38"
         ],
         "asn": "AS51167"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS211507"
     },
     {
         "nickname": "Quetzalcoatl",
