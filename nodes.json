@@ -322,6 +322,10 @@
         "asn": "AS200195"
     },
     {
+        "nickname": "TLCOnion",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "quinoa",
         "exit_address": [
             "109.70.100.6"
@@ -727,9 +731,6 @@
     },
     {
         "nickname": "staywokewokestay",
-        "exit_address": [
-            "149.202.79.101"
-        ],
         "asn": "AS16276"
     },
     {
@@ -3536,6 +3537,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.244.192.175"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9280,6 +9284,10 @@
             "85.208.139.110"
         ],
         "asn": "AS215540"
+    },
+    {
+        "nickname": "moon",
+        "asn": "AS215365"
     },
     {
         "nickname": "NTH10R6",
