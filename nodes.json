@@ -8721,9 +8721,6 @@
     },
     {
         "nickname": "rinabexit",
-        "exit_address": [
-            "173.224.219.236"
-        ],
         "asn": "AS40676"
     },
     {
@@ -15936,6 +15933,9 @@
     },
     {
         "nickname": "snow",
+        "exit_address": [
+            "23.137.255.131"
+        ],
         "asn": "AS40663"
     },
     {
