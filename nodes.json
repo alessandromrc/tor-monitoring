@@ -323,6 +323,9 @@
     },
     {
         "nickname": "TLCOnion",
+        "exit_address": [
+            "96.66.15.152"
+        ],
         "asn": "AS7922"
     },
     {
@@ -9287,6 +9290,9 @@
     },
     {
         "nickname": "moon",
+        "exit_address": [
+            "77.90.60.153"
+        ],
         "asn": "AS215365"
     },
     {
@@ -12013,9 +12019,6 @@
     },
     {
         "nickname": "OMICRON",
-        "exit_address": [
-            "86.54.28.49"
-        ],
         "asn": "AS12989"
     },
     {
@@ -13870,6 +13873,10 @@
             "195.47.238.91"
         ],
         "asn": "AS30893"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
