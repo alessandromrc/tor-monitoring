@@ -715,10 +715,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "infrarelay30",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "2mpe",
         "exit_address": [
             "198.98.51.249"
@@ -3367,6 +3363,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "81.19.141.199"
+        ],
         "asn": "AS215540"
     },
     {
@@ -10785,6 +10784,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "81.19.141.199"
+        ],
         "asn": "AS215540"
     },
     {
@@ -13251,6 +13253,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "81.19.141.199"
+        ],
         "asn": "AS215540"
     },
     {
@@ -17796,6 +17801,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "81.19.141.199"
+        ],
         "asn": "AS215540"
     },
     {
