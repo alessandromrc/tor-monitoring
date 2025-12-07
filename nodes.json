@@ -4631,9 +4631,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
@@ -8167,9 +8164,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.102.93"
-        ],
         "asn": "AS197540"
     },
     {
@@ -11436,6 +11430,10 @@
     {
         "nickname": "wix",
         "asn": "AS43350"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "marylou2",
@@ -15822,9 +15820,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
@@ -17029,6 +17024,9 @@
     },
     {
         "nickname": "Rokfeller",
+        "exit_address": [
+            "152.89.28.209"
+        ],
         "asn": "AS44901"
     },
     {
