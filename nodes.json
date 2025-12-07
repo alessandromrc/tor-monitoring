@@ -1031,6 +1031,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "linuxenbyEXIT1",
         "exit_address": [
             "172.104.186.73"
@@ -2339,9 +2343,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "185.132.53.107"
-        ],
         "asn": "AS211507"
     },
     {
