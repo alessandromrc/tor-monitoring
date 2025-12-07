@@ -1217,6 +1217,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "shadowBSD",
+        "asn": "AS211507"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.162"
@@ -11437,6 +11441,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.141.119.175"
+        ],
         "asn": "AS211507"
     },
     {
