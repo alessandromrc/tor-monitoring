@@ -1218,6 +1218,9 @@
     },
     {
         "nickname": "shadowBSD",
+        "exit_address": [
+            "45.133.73.157"
+        ],
         "asn": "AS211507"
     },
     {
@@ -9349,10 +9352,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Vektor777",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "nenapini",
         "exit_address": [
             "23.129.64.169"
@@ -11278,6 +11277,10 @@
             "45.134.225.36"
         ],
         "asn": "AS213438"
+    },
+    {
+        "nickname": "saturn234",
+        "asn": "AS215365"
     },
     {
         "nickname": "titamon5",
