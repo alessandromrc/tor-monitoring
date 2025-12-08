@@ -5431,6 +5431,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.137.201.93"
+        ],
         "asn": "AS211507"
     },
     {
@@ -6578,10 +6581,6 @@
             "51.15.59.15"
         ],
         "asn": "AS12876"
-    },
-    {
-        "nickname": "FreedomIsAMust",
-        "asn": "AS43641"
     },
     {
         "nickname": "Quetzalcoatl",
