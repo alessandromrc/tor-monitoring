@@ -3297,6 +3297,9 @@
     },
     {
         "nickname": "privatebrowsingorg",
+        "exit_address": [
+            "107.189.12.7"
+        ],
         "asn": "AS53667"
     },
     {
@@ -4173,6 +4176,9 @@
     },
     {
         "nickname": "librelay",
+        "exit_address": [
+            "176.123.8.20"
+        ],
         "asn": "AS200019"
     },
     {
