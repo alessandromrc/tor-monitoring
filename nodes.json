@@ -4992,6 +4992,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
@@ -14449,9 +14452,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.141.119.29"
-        ],
         "asn": "AS211507"
     },
     {
@@ -16514,6 +16514,10 @@
             "92.246.84.133"
         ],
         "asn": "AS44592"
+    },
+    {
+        "nickname": "YourRelayName",
+        "asn": "AS40663"
     },
     {
         "nickname": "MacGregorRecipes",
@@ -18809,10 +18813,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "crow",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "NTH9R4",
         "exit_address": [
             "192.42.116.199"
@@ -19842,10 +19842,6 @@
             "192.42.116.183"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "reelcuzzi",
-        "asn": "AS8151"
     },
     {
         "nickname": "Quetzalcoatl",
