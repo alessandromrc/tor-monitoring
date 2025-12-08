@@ -5337,9 +5337,6 @@
     },
     {
         "nickname": "BeautifulSea",
-        "exit_address": [
-            "80.78.18.86"
-        ],
         "asn": "AS39287"
     },
     {
@@ -5425,6 +5422,10 @@
             "109.70.100.68"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
@@ -11759,6 +11760,9 @@
     },
     {
         "nickname": "Quintex69",
+        "exit_address": [
+            "204.8.96.158"
+        ],
         "asn": "AS62744"
     },
     {
