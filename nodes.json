@@ -10472,6 +10472,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.129",
             "198.167.206.237"
         ],
         "asn": "AS39287"
@@ -12498,6 +12499,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
