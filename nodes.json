@@ -3430,9 +3430,6 @@
     },
     {
         "nickname": "thunderveil",
-        "exit_address": [
-            "93.95.228.105"
-        ],
         "asn": "AS44925"
     },
     {
@@ -5146,9 +5143,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.141.119.15"
-        ],
         "asn": "AS211507"
     },
     {
@@ -14551,9 +14545,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.141.119.15"
-        ],
         "asn": "AS211507"
     },
     {
@@ -16352,9 +16343,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.141.119.15"
-        ],
         "asn": "AS211507"
     },
     {
@@ -16513,6 +16501,9 @@
     },
     {
         "nickname": "YourRelayName",
+        "exit_address": [
+            "104.36.80.7"
+        ],
         "asn": "AS40663"
     },
     {
@@ -17123,9 +17114,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.141.119.15"
-        ],
         "asn": "AS211507"
     },
     {
