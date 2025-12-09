@@ -1419,9 +1419,6 @@
     },
     {
         "nickname": "sveahosting",
-        "exit_address": [
-            "193.239.232.102"
-        ],
         "asn": "AS41634"
     },
     {
@@ -10854,6 +10851,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "CembraNutBoys01",
+        "asn": "AS214196"
+    },
+    {
         "nickname": "Digitalcourage4ipcb",
         "asn": "AS60729"
     },
@@ -10962,6 +10963,7 @@
     {
         "nickname": "RuneByteNET",
         "exit_address": [
+            "185.181.61.201",
             "185.40.4.143"
         ],
         "asn": "AS56655"
