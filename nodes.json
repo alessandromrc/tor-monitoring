@@ -6257,6 +6257,9 @@
     },
     {
         "nickname": "doraemon",
+        "exit_address": [
+            "185.107.57.64"
+        ],
         "asn": "AS43350"
     },
     {
@@ -6286,6 +6289,10 @@
             "204.137.14.105"
         ],
         "asn": "AS399820"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "NTH38R2",
@@ -14199,6 +14206,9 @@
     },
     {
         "nickname": "ken",
+        "exit_address": [
+            "185.107.57.66"
+        ],
         "asn": "AS43350"
     },
     {
@@ -15800,6 +15810,9 @@
     },
     {
         "nickname": "forest01",
+        "exit_address": [
+            "94.156.152.8"
+        ],
         "asn": "AS214209"
     },
     {
@@ -20153,6 +20166,9 @@
     },
     {
         "nickname": "trigun",
+        "exit_address": [
+            "185.107.57.65"
+        ],
         "asn": "AS43350"
     },
     {
