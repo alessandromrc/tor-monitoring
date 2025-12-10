@@ -1035,6 +1035,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "MiddleEarth",
+        "asn": "AS2900"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.82"
@@ -1056,7 +1060,7 @@
         "asn": "AS214209"
     },
     {
-        "nickname": "linuxenbyEXIT1",
+        "nickname": "LocalenbySGExit",
         "exit_address": [
             "172.104.186.73"
         ],
@@ -8320,6 +8324,9 @@
     },
     {
         "nickname": "ShinobiKenshin",
+        "exit_address": [
+            "172.234.92.148"
+        ],
         "asn": "AS63949"
     },
     {
@@ -8533,7 +8540,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "linuxenbyEXIT2",
+        "nickname": "LocalenbyJPExit",
         "exit_address": [
             "172.233.82.41"
         ],
@@ -16472,7 +16479,7 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "linuxenbyEXIT3",
+        "nickname": "LocalenbyITExit",
         "exit_address": [
             "172.232.209.254"
         ],
@@ -16714,7 +16721,7 @@
         "asn": "AS200195"
     },
     {
-        "nickname": "linuxenbyEXIT4",
+        "nickname": "LocalenbyCAExit",
         "exit_address": [
             "172.105.20.12"
         ],
