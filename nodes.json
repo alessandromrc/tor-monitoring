@@ -320,6 +320,9 @@
     },
     {
         "nickname": "Ulcerate",
+        "exit_address": [
+            "57.128.220.107"
+        ],
         "asn": "AS16276"
     },
     {
@@ -10384,6 +10387,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.191",
             "198.167.206.208",
             "198.167.206.212"
         ],
@@ -10834,6 +10838,9 @@
     },
     {
         "nickname": "CembraNutBoys01",
+        "exit_address": [
+            "138.226.236.103"
+        ],
         "asn": "AS214196"
     },
     {
