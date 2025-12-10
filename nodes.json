@@ -18125,7 +18125,8 @@
     {
         "nickname": "JohandExit",
         "exit_address": [
-            "185.40.4.44"
+            "185.40.4.44",
+            "194.32.107.14"
         ],
         "asn": "AS56655"
     },
@@ -19387,6 +19388,9 @@
     },
     {
         "nickname": "ExitForPrivacy",
+        "exit_address": [
+            "107.189.12.157"
+        ],
         "asn": "AS53667"
     },
     {
