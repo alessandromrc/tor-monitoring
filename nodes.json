@@ -1036,6 +1036,9 @@
     },
     {
         "nickname": "MiddleEarth",
+        "exit_address": [
+            "206.206.192.178"
+        ],
         "asn": "AS2900"
     },
     {
@@ -20646,10 +20649,6 @@
             "185.130.47.58"
         ],
         "asn": "AS210083"
-    },
-    {
-        "nickname": "reelcuzzi",
-        "asn": "AS8151"
     },
     {
         "nickname": "Quetzalcoatl",
