@@ -1344,10 +1344,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "torjockel",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "ywaifir",
         "exit_address": [
             "212.95.50.77"
@@ -7588,10 +7584,6 @@
         "asn": "AS62248"
     },
     {
-        "nickname": "heefer",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "FreedomeNode2",
         "exit_address": [
             "45.9.156.22"
@@ -11205,10 +11197,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "homik6",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.135"
@@ -11649,6 +11637,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.141.119.175"
+        ],
         "asn": "AS211507"
     },
     {
@@ -13326,10 +13317,6 @@
     },
     {
         "nickname": "SatyendraNathBOSE",
-        "asn": "AS16276"
-    },
-    {
-        "nickname": "0xdeadbeef",
         "asn": "AS16276"
     },
     {
@@ -15286,10 +15273,6 @@
             "109.70.100.70"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "ki5qhc",
-        "asn": "AS16276"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17334,10 +17317,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "ExiTOR",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "45.141.215.16"
@@ -18707,10 +18686,6 @@
             "124.198.132.172"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Ulcerate",
-        "asn": "AS16276"
     },
     {
         "nickname": "Quetzalcoatl",
