@@ -3525,6 +3525,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -4619,6 +4622,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -6969,6 +6975,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -11196,6 +11205,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -11452,6 +11464,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -13979,10 +13994,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "NLfreedom1",
-        "asn": "AS60404"
-    },
-    {
         "nickname": "PRQseTORexit5",
         "exit_address": [
             "88.80.26.2"
@@ -15348,10 +15359,6 @@
             "185.220.101.145"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS197540"
     },
     {
         "nickname": "NeelTorExit4A",
