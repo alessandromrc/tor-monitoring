@@ -1256,6 +1256,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.45.116.17"
+        ],
         "asn": "AS215540"
     },
     {
@@ -13771,10 +13774,6 @@
             "172.234.228.174"
         ],
         "asn": "AS63949"
-    },
-    {
-        "nickname": "Niko",
-        "asn": "AS20473"
     },
     {
         "nickname": "judoka",
