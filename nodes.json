@@ -1482,6 +1482,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "KyunTorExitNode",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "Unnamed",
         "exit_address": [
             "47.84.7.211"
@@ -1763,6 +1767,9 @@
     },
     {
         "nickname": "hameanos",
+        "exit_address": [
+            "46.253.4.208"
+        ],
         "asn": "AS200019"
     },
     {
@@ -14720,9 +14727,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.94.31.68"
-        ],
         "asn": "AS210558"
     },
     {
