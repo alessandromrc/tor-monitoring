@@ -1762,6 +1762,10 @@
         "asn": "AS57860"
     },
     {
+        "nickname": "hameanos",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "DFRI77",
         "exit_address": [
             "171.25.193.39"
@@ -10050,9 +10054,6 @@
     },
     {
         "nickname": "KingShadow3",
-        "exit_address": [
-            "104.167.242.118"
-        ],
         "asn": "AS26286"
     },
     {
@@ -10436,6 +10437,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.194",
             "198.167.206.229"
         ],
         "asn": "AS39287"
@@ -10600,9 +10602,6 @@
     },
     {
         "nickname": "KingShadow2",
-        "exit_address": [
-            "104.167.242.117"
-        ],
         "asn": "AS26286"
     },
     {
@@ -11515,9 +11514,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "38.60.250.79"
-        ],
         "asn": "AS138915"
     },
     {
