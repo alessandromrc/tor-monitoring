@@ -2691,6 +2691,9 @@
     },
     {
         "nickname": "UPS",
+        "exit_address": [
+            "5.252.154.91"
+        ],
         "asn": "AS30860"
     },
     {
@@ -9471,6 +9474,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "91.132.144.59"
+        ],
         "asn": "AS197540"
     },
     {
