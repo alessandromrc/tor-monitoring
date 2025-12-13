@@ -5298,6 +5298,9 @@
     },
     {
         "nickname": "rapaciouswhimsy",
+        "exit_address": [
+            "32.218.131.60"
+        ],
         "asn": "AS46690"
     },
     {
@@ -7575,10 +7578,6 @@
             "185.220.101.28"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS11721"
     },
     {
         "nickname": "Quetzalcoatl",
