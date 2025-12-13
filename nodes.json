@@ -1483,6 +1483,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS214209"
     },
     {
@@ -1768,7 +1771,8 @@
     {
         "nickname": "hameanos",
         "exit_address": [
-            "46.253.4.208"
+            "46.253.4.208",
+            "89.110.95.164"
         ],
         "asn": "AS200019"
     },
@@ -2229,9 +2233,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.94.31.68"
-        ],
         "asn": "AS210558"
     },
     {
@@ -2976,9 +2977,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.94.31.68"
-        ],
         "asn": "AS210558"
     },
     {
@@ -8963,10 +8961,6 @@
             "45.80.158.75"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "rinabexit",
-        "asn": "AS40676"
     },
     {
         "nickname": "artikel10ber88",
@@ -16033,9 +16027,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.94.31.68"
-        ],
         "asn": "AS210558"
     },
     {
