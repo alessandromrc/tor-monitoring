@@ -15160,6 +15160,9 @@
     },
     {
         "nickname": "CembraNutBoys06",
+        "exit_address": [
+            "94.154.172.227"
+        ],
         "asn": "AS209101"
     },
     {
@@ -17613,6 +17616,9 @@
     },
     {
         "nickname": "freedom",
+        "exit_address": [
+            "45.38.20.182"
+        ],
         "asn": "AS215659"
     },
     {
@@ -18309,8 +18315,7 @@
     {
         "nickname": "terNOicebeer16",
         "exit_address": [
-            "185.243.218.225",
-            "185.40.4.150"
+            "185.243.218.225"
         ],
         "asn": "AS56655"
     },
