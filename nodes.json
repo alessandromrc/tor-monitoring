@@ -1357,6 +1357,9 @@
     },
     {
         "nickname": "torjockel",
+        "exit_address": [
+            "149.56.44.47"
+        ],
         "asn": "AS16276"
     },
     {
@@ -3200,6 +3203,9 @@
     },
     {
         "nickname": "xks",
+        "exit_address": [
+            "176.65.149.96"
+        ],
         "asn": "AS51396"
     },
     {
@@ -15119,6 +15125,9 @@
     },
     {
         "nickname": "mcdonald",
+        "exit_address": [
+            "176.65.149.105"
+        ],
         "asn": "AS51396"
     },
     {
@@ -16106,7 +16115,7 @@
         "asn": "AS30836"
     },
     {
-        "nickname": "bifrost",
+        "nickname": "Modgud",
         "exit_address": [
             "158.174.210.97"
         ],
