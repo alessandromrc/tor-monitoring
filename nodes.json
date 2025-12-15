@@ -2711,13 +2711,6 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "UPS",
-        "exit_address": [
-            "5.252.154.91"
-        ],
-        "asn": "AS30860"
-    },
-    {
         "nickname": "book",
         "exit_address": [
             "81.17.28.95"
@@ -10443,6 +10436,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.175",
             "198.167.206.197"
         ],
         "asn": "AS39287"
@@ -14235,6 +14229,9 @@
     },
     {
         "nickname": "SkyLights",
+        "exit_address": [
+            "173.237.206.68"
+        ],
         "asn": "AS26527"
     },
     {
@@ -17650,13 +17647,6 @@
             "109.70.100.2"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "freedom",
-        "exit_address": [
-            "45.38.20.182"
-        ],
-        "asn": "AS215659"
     },
     {
         "nickname": "artikel5ev2",
