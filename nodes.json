@@ -1886,6 +1886,9 @@
     },
     {
         "nickname": "mole",
+        "exit_address": [
+            "79.110.50.94"
+        ],
         "asn": "AS57043"
     },
     {
@@ -14229,6 +14232,10 @@
             "185.107.57.66"
         ],
         "asn": "AS43350"
+    },
+    {
+        "nickname": "SkyLights",
+        "asn": "AS26527"
     },
     {
         "nickname": "Quetzalcoatl",
