@@ -2193,6 +2193,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "alplix",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "c0wb0y",
         "exit_address": [
             "205.185.121.170"
@@ -7526,6 +7530,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9633,6 +9640,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
