@@ -71,6 +71,9 @@
     },
     {
         "nickname": "MyExitNode",
+        "exit_address": [
+            "45.62.98.73"
+        ],
         "asn": "AS25820"
     },
     {
@@ -5558,6 +5561,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.234"
+        ],
         "asn": "AS210558"
     },
     {
