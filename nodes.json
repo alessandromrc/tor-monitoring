@@ -10472,7 +10472,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.175"
+            "198.167.206.175",
+            "198.167.206.185"
         ],
         "asn": "AS39287"
     },
@@ -15417,6 +15418,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "ki5qhc",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.138.16.107"
@@ -16428,10 +16433,6 @@
             "185.165.169.239"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "snow",
-        "asn": "AS40663"
     },
     {
         "nickname": "r0cket10i6",
