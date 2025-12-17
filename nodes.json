@@ -1203,6 +1203,9 @@
     },
     {
         "nickname": "hameanos",
+        "exit_address": [
+            "176.125.240.208"
+        ],
         "asn": "AS200019"
     },
     {
@@ -9444,6 +9447,10 @@
             "171.25.193.79"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "meexit",
+        "asn": "AS396982"
     },
     {
         "nickname": "artikel10ber82",
