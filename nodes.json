@@ -2206,9 +2206,6 @@
     },
     {
         "nickname": "alplix",
-        "exit_address": [
-            "152.53.143.56"
-        ],
         "asn": "AS197540"
     },
     {
@@ -9577,9 +9574,6 @@
     },
     {
         "nickname": "TORKeFFORG14",
-        "exit_address": [
-            "193.189.100.194"
-        ],
         "asn": "AS41281"
     },
     {
@@ -11558,6 +11552,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -12045,6 +12042,9 @@
     },
     {
         "nickname": "DerTeufel",
+        "exit_address": [
+            "78.153.140.44"
+        ],
         "asn": "AS202306"
     },
     {
