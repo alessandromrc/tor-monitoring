@@ -2022,9 +2022,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "124.198.132.52"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9303,9 +9300,6 @@
     },
     {
         "nickname": "huckleberie",
-        "exit_address": [
-            "5.255.99.124"
-        ],
         "asn": "AS60404"
     },
     {
@@ -13446,6 +13440,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "51.38.225.46"
+        ],
         "asn": "AS16276"
     },
     {
