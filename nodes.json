@@ -4469,6 +4469,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "85.208.139.110"
+        ],
         "asn": "AS215540"
     },
     {
@@ -12855,10 +12858,6 @@
             "185.220.101.0"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "kern1panic",
-        "asn": "AS16276"
     },
     {
         "nickname": "Quetzalcoatl",
