@@ -7062,9 +7062,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -11554,9 +11551,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -12041,6 +12035,10 @@
             "204.8.156.142"
         ],
         "asn": "AS10961"
+    },
+    {
+        "nickname": "DerTeufel",
+        "asn": "AS202306"
     },
     {
         "nickname": "Quetzalcoatl",
