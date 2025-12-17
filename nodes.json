@@ -155,6 +155,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -13439,6 +13442,10 @@
     },
     {
         "nickname": "SatyendraNathBOSE",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "0xdeadbeef",
         "asn": "AS16276"
     },
     {
