@@ -71,9 +71,6 @@
     },
     {
         "nickname": "MyExitNode",
-        "exit_address": [
-            "45.62.98.73"
-        ],
         "asn": "AS25820"
     },
     {
@@ -1203,6 +1200,10 @@
             "45.80.158.167"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "hameanos",
+        "asn": "AS200019"
     },
     {
         "nickname": "arecoque5",
@@ -10446,7 +10447,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.175",
             "198.167.206.185"
         ],
         "asn": "AS39287"
@@ -11298,9 +11298,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -13975,6 +13972,9 @@
     },
     {
         "nickname": "iambaidu",
+        "exit_address": [
+            "95.211.244.28"
+        ],
         "asn": "AS60781"
     },
     {
