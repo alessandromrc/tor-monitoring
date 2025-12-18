@@ -5639,6 +5639,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "85.208.139.110"
+        ],
         "asn": "AS215540"
     },
     {
@@ -12482,6 +12485,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -13842,9 +13848,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.104.176"
-        ],
         "asn": "AS197540"
     },
     {
