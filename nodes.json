@@ -1549,6 +1549,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "sartre1",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.191"
@@ -2020,6 +2024,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.236.20.142"
+        ],
         "asn": "AS215540"
     },
     {
@@ -9537,6 +9544,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "85.208.139.110"
+        ],
         "asn": "AS215540"
     },
     {
@@ -13873,6 +13883,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "sartre2",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "judoka",
         "exit_address": [
             "62.182.84.146"
@@ -18118,6 +18132,9 @@
     },
     {
         "nickname": "gatter",
+        "exit_address": [
+            "46.234.47.105"
+        ],
         "asn": "AS34288"
     },
     {
