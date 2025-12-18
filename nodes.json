@@ -5610,6 +5610,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "185.236.20.142"
+        ],
         "asn": "AS215540"
     },
     {
@@ -7176,6 +7179,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.148.10.111"
+        ],
         "asn": "AS48090"
     },
     {
@@ -8789,6 +8795,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.143.200.3"
+        ],
         "asn": "AS215540"
     },
     {
@@ -10529,6 +10538,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.148.10.111"
+        ],
         "asn": "AS48090"
     },
     {
@@ -11080,6 +11092,9 @@
     },
     {
         "nickname": "Cisco",
+        "exit_address": [
+            "92.119.165.31"
+        ],
         "asn": "AS211507"
     },
     {
@@ -14369,6 +14384,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.148.10.111"
+        ],
         "asn": "AS48090"
     },
     {
@@ -14478,6 +14496,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.143.200.3"
+        ],
         "asn": "AS215540"
     },
     {
@@ -15673,6 +15694,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.148.10.111"
+        ],
         "asn": "AS48090"
     },
     {
@@ -20489,9 +20513,6 @@
     },
     {
         "nickname": "MyWatchBegins",
-        "exit_address": [
-            "152.53.106.19"
-        ],
         "asn": "AS197540"
     },
     {
