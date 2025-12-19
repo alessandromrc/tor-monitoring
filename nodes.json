@@ -316,6 +316,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "TheMadHackerNodeV3",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "TORKeFFORG9",
         "exit_address": [
             "193.189.100.202"
@@ -4790,9 +4794,6 @@
     },
     {
         "nickname": "tixerot",
-        "exit_address": [
-            "45.137.99.212"
-        ],
         "asn": "AS214209"
     },
     {
@@ -11040,9 +11041,6 @@
     },
     {
         "nickname": "Cisco",
-        "exit_address": [
-            "92.119.165.31"
-        ],
         "asn": "AS211507"
     },
     {
