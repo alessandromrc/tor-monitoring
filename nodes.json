@@ -317,6 +317,9 @@
     },
     {
         "nickname": "TheMadHackerNodeV3",
+        "exit_address": [
+            "67.217.244.5"
+        ],
         "asn": "AS8560"
     },
     {
@@ -10459,6 +10462,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.147",
             "198.167.206.209"
         ],
         "asn": "AS39287"
