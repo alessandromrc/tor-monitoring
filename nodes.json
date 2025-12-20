@@ -7768,6 +7768,10 @@
         "asn": "AS214996"
     },
     {
+        "nickname": "TheMadHackerNodeV3",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "UnredactedIran",
         "exit_address": [
             "23.191.200.21"
@@ -8000,6 +8004,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -13248,6 +13255,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -14519,6 +14529,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.106"
+        ],
         "asn": "AS47890"
     },
     {
@@ -16588,6 +16601,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -18543,6 +18559,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
@@ -18963,9 +18982,6 @@
     },
     {
         "nickname": "WerewolfFunWorld",
-        "exit_address": [
-            "5.79.66.19"
-        ],
         "asn": "AS60781"
     },
     {
@@ -19481,6 +19497,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.94.92.135"
+        ],
         "asn": "AS47890"
     },
     {
