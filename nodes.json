@@ -10505,6 +10505,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.132",
             "198.167.206.151"
         ],
         "asn": "AS39287"
@@ -19022,6 +19023,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
