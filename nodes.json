@@ -6295,9 +6295,6 @@
     },
     {
         "nickname": "doraemon",
-        "exit_address": [
-            "185.107.57.64"
-        ],
         "asn": "AS43350"
     },
     {
@@ -8443,6 +8440,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.102.93"
+        ],
         "asn": "AS197540"
     },
     {
@@ -10497,8 +10497,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.132",
-            "198.167.206.151"
+            "198.167.206.132"
         ],
         "asn": "AS39287"
     },
@@ -14321,9 +14320,6 @@
     },
     {
         "nickname": "ken",
-        "exit_address": [
-            "185.107.57.66"
-        ],
         "asn": "AS43350"
     },
     {
@@ -14510,9 +14506,6 @@
     },
     {
         "nickname": "theseekingchild",
-        "exit_address": [
-            "180.150.226.99"
-        ],
         "asn": "AS45382"
     },
     {
@@ -17747,10 +17740,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TheIllusion",
-        "asn": "AS6696"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.95.169.104"
@@ -20303,9 +20292,6 @@
     },
     {
         "nickname": "trigun",
-        "exit_address": [
-            "185.107.57.65"
-        ],
         "asn": "AS43350"
     },
     {
