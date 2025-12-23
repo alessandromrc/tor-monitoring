@@ -117,9 +117,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -187,9 +184,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -1704,9 +1698,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -3081,9 +3072,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -5114,9 +5102,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -6571,9 +6556,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -10328,9 +10310,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -10595,9 +10574,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -11676,9 +11652,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "45.134.225.36"
-        ],
         "asn": "AS213438"
     },
     {
@@ -12858,9 +12831,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -15533,9 +15503,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -15796,9 +15763,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "78.142.18.219"
-        ],
         "asn": "AS213438"
     },
     {
@@ -19815,6 +19779,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "XIRelay",
+        "asn": "AS3258"
+    },
+    {
         "nickname": "GOGRelayHvn5",
         "exit_address": [
             "176.65.132.187"
@@ -20626,6 +20594,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
