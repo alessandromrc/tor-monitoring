@@ -10212,9 +10212,6 @@
     },
     {
         "nickname": "WYSWYG",
-        "exit_address": [
-            "109.228.160.190"
-        ],
         "asn": "AS8473"
     },
     {
@@ -12607,6 +12604,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
