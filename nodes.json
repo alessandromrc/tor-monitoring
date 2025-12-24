@@ -1579,7 +1579,6 @@
     {
         "nickname": "yams",
         "exit_address": [
-            "109.70.100.66",
             "109.70.100.8"
         ],
         "asn": "AS208323"
@@ -10534,6 +10533,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.151",
             "198.167.206.179"
         ],
         "asn": "AS39287"
@@ -19891,6 +19891,10 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "HungarianBronkExit",
+        "asn": "AS211619"
     },
     {
         "nickname": "NotYourWifi",
