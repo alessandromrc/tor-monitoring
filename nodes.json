@@ -170,6 +170,9 @@
     },
     {
         "nickname": "dreamachine",
+        "exit_address": [
+            "5.255.110.120"
+        ],
         "asn": "AS60404"
     },
     {
@@ -527,9 +530,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.143.200.3"
-        ],
         "asn": "AS215540"
     },
     {
@@ -6517,6 +6517,9 @@
     },
     {
         "nickname": "SSDNodesNLexit2",
+        "exit_address": [
+            "185.246.190.136"
+        ],
         "asn": "AS200651"
     },
     {
@@ -14085,6 +14088,9 @@
     },
     {
         "nickname": "SSDNodesNLexit3",
+        "exit_address": [
+            "185.246.190.137"
+        ],
         "asn": "AS200651"
     },
     {
@@ -14569,9 +14575,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.143.200.3"
-        ],
         "asn": "AS215540"
     },
     {
