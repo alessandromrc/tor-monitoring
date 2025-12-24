@@ -170,9 +170,6 @@
     },
     {
         "nickname": "dreamachine",
-        "exit_address": [
-            "5.255.110.120"
-        ],
         "asn": "AS60404"
     },
     {
@@ -14021,6 +14018,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.104.176"
+        ],
         "asn": "AS197540"
     },
     {
