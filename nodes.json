@@ -739,9 +739,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.137.201.26"
-        ],
         "asn": "AS211507"
     },
     {
@@ -4693,9 +4690,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.104.176"
-        ],
         "asn": "AS197540"
     },
     {
@@ -10193,6 +10187,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -18257,9 +18254,6 @@
     },
     {
         "nickname": "FreeZONE",
-        "exit_address": [
-            "5.101.82.22"
-        ],
         "asn": "AS63023"
     },
     {
