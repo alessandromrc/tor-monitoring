@@ -14711,9 +14711,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -14799,6 +14796,10 @@
             "176.65.149.197"
         ],
         "asn": "AS51396"
+    },
+    {
+        "nickname": "HungarianBronkExit",
+        "asn": "AS211619"
     },
     {
         "nickname": "Aramis",
