@@ -5054,9 +5054,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
@@ -8167,6 +8164,9 @@
     },
     {
         "nickname": "schreech",
+        "exit_address": [
+            "178.218.144.64"
+        ],
         "asn": "AS212508"
     },
     {
@@ -9025,10 +9025,6 @@
             "107.189.31.187"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "krilkoskingon",
-        "asn": "AS209847"
     },
     {
         "nickname": "mentoreth4",
