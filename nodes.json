@@ -3323,6 +3323,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "Pierrette",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "DFRI50",
         "exit_address": [
             "171.25.193.35"
@@ -10414,6 +10418,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.170",
             "198.167.206.188"
         ],
         "asn": "AS39287"
@@ -12383,9 +12388,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -18091,6 +18093,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
