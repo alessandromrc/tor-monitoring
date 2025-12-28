@@ -4028,13 +4028,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
-        "exit_address": [
-            "23.134.88.60"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -9064,6 +9057,10 @@
             "109.104.153.22"
         ],
         "asn": "AS136258"
+    },
+    {
+        "nickname": "FEVI04EXIT",
+        "asn": "AS924"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -16001,6 +15998,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "FEVI03EXIT",
+        "asn": "AS924"
+    },
+    {
         "nickname": "PRQseTORexit4",
         "exit_address": [
             "88.80.26.3"
@@ -18947,6 +18948,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.52.231"
+        ],
         "asn": "AS197540"
     },
     {
