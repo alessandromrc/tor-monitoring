@@ -10405,6 +10405,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "FirstNode",
+        "asn": "AS59711"
+    },
+    {
         "nickname": "eo183",
         "exit_address": [
             "23.129.64.183"
@@ -12456,9 +12460,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
