@@ -14286,9 +14286,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.133.73.123"
-        ],
         "asn": "AS211507"
     },
     {
@@ -18188,6 +18185,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
