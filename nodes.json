@@ -6022,7 +6022,6 @@
     {
         "nickname": "TheMadHackerNode",
         "exit_address": [
-            "45.38.20.153",
             "66.78.40.146"
         ],
         "asn": "AS215659"
@@ -7958,6 +7957,9 @@
     },
     {
         "nickname": "SkaffaExit",
+        "exit_address": [
+            "45.9.168.106"
+        ],
         "asn": "AS211619"
     },
     {
