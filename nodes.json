@@ -4021,6 +4021,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI02EXIT",
+        "exit_address": [
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -13130,6 +13137,9 @@
     },
     {
         "nickname": "Fluffy4",
+        "exit_address": [
+            "85.158.110.219"
+        ],
         "asn": "AS59711"
     },
     {
@@ -15896,9 +15906,6 @@
     },
     {
         "nickname": "forest01",
-        "exit_address": [
-            "94.156.152.8"
-        ],
         "asn": "AS214209"
     },
     {
@@ -16341,6 +16348,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.244.192.184"
+        ],
         "asn": "AS197540"
     },
     {
