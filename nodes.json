@@ -9599,6 +9599,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
@@ -13074,10 +13077,6 @@
             "194.32.107.163"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "kyutor",
-        "asn": "AS214209"
     },
     {
         "nickname": "r0cket13i6",
