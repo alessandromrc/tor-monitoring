@@ -697,10 +697,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "fumo",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "DFRI100",
         "exit_address": [
             "171.25.193.81"
@@ -7959,6 +7955,10 @@
             "45.141.215.62"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "SkaffaExit",
+        "asn": "AS211619"
     },
     {
         "nickname": "prsv",
