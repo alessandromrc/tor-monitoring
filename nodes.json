@@ -1745,6 +1745,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.94.51.138"
+        ],
         "asn": "AS215540"
     },
     {
@@ -3679,6 +3682,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "194.32.107.163"
+        ],
         "asn": "AS56655"
     },
     {
@@ -4002,6 +4008,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI02EXIT",
+        "exit_address": [
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -4663,6 +4676,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.94.51.138"
+        ],
         "asn": "AS215540"
     },
     {
@@ -14051,6 +14067,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.94.51.138"
+        ],
         "asn": "AS215540"
     },
     {
@@ -14287,6 +14306,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.148.10.111"
+        ],
         "asn": "AS48090"
     },
     {
@@ -15501,6 +15523,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.94.51.138"
+        ],
         "asn": "AS215540"
     },
     {
