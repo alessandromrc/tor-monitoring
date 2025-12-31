@@ -3988,13 +3988,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI10",
-        "exit_address": [
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -11403,6 +11396,10 @@
             "203.55.81.2"
         ],
         "asn": "AS213873"
+    },
+    {
+        "nickname": "torexit5si",
+        "asn": "AS208191"
     },
     {
         "nickname": "4716",
