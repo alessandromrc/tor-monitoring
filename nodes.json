@@ -3988,7 +3988,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.61"
         ],
@@ -8762,10 +8762,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "level9000",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "r0cket05i6",
         "exit_address": [
             "45.84.107.222"
@@ -10608,6 +10604,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "torexit4si",
+        "asn": "AS208191"
+    },
+    {
         "nickname": "r0cket11i5",
         "exit_address": [
             "45.84.107.128"
@@ -11628,6 +11628,10 @@
             "38.135.25.143"
         ],
         "asn": "AS27284"
+    },
+    {
+        "nickname": "torexit3si",
+        "asn": "AS208191"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -16133,6 +16137,10 @@
             "109.70.100.10"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "torexit2si",
+        "asn": "AS208191"
     },
     {
         "nickname": "Quetzalcoatl",
