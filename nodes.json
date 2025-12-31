@@ -246,9 +246,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.84.107.200"
-        ],
         "asn": "AS214503"
     },
     {
@@ -5521,9 +5518,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "185.177.238.9"
-        ],
         "asn": "AS215540"
     },
     {
@@ -5919,6 +5913,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "KarsLovesIsrael",
+        "asn": "AS3236"
+    },
+    {
         "nickname": "SSDNodesNLexit",
         "exit_address": [
             "185.246.190.83"
@@ -5969,9 +5967,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "80.94.92.99"
-        ],
         "asn": "AS47890"
     },
     {
@@ -9788,6 +9783,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.228.128.170"
+        ],
         "asn": "AS215540"
     },
     {
@@ -16692,9 +16690,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "78.159.131.103"
-        ],
         "asn": "AS215540"
     },
     {
