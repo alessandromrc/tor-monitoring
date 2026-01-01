@@ -4042,13 +4042,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
-        "exit_address": [
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -9269,6 +9262,10 @@
             "5.104.84.183"
         ],
         "asn": "AS141995"
+    },
+    {
+        "nickname": "huckleberie",
+        "asn": "AS60404"
     },
     {
         "nickname": "baronCV3",
