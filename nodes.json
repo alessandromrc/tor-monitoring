@@ -1535,10 +1535,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "sartre1",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.191"
@@ -5766,9 +5762,6 @@
     },
     {
         "nickname": "mingles",
-        "exit_address": [
-            "23.236.122.193"
-        ],
         "asn": "AS21859"
     },
     {
@@ -8087,6 +8080,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.41.191"
+        ],
         "asn": "AS197540"
     },
     {
