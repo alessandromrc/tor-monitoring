@@ -9265,6 +9265,9 @@
     },
     {
         "nickname": "huckleberie",
+        "exit_address": [
+            "5.255.99.124"
+        ],
         "asn": "AS60404"
     },
     {
@@ -15191,7 +15194,6 @@
     {
         "nickname": "forest08",
         "exit_address": [
-            "130.12.182.8",
             "176.65.134.8"
         ],
         "asn": "AS208191"
