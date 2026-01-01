@@ -5762,6 +5762,9 @@
     },
     {
         "nickname": "mingles",
+        "exit_address": [
+            "23.236.122.193"
+        ],
         "asn": "AS21859"
     },
     {
@@ -5864,9 +5867,6 @@
     },
     {
         "nickname": "xenbsd",
-        "exit_address": [
-            "45.66.35.96"
-        ],
         "asn": "AS61125"
     },
     {
@@ -8065,6 +8065,10 @@
         "asn": "AS41653"
     },
     {
+        "nickname": "castelmagno",
+        "asn": "AS214094"
+    },
+    {
         "nickname": "FreeExit",
         "exit_address": [
             "179.43.159.194"
@@ -8665,9 +8669,6 @@
     },
     {
         "nickname": "xentor",
-        "exit_address": [
-            "45.66.35.98"
-        ],
         "asn": "AS61125"
     },
     {
@@ -15021,9 +15022,6 @@
     },
     {
         "nickname": "plebelet",
-        "exit_address": [
-            "107.189.27.145"
-        ],
         "asn": "AS14956"
     },
     {
@@ -19369,9 +19367,6 @@
     },
     {
         "nickname": "ChococaTor",
-        "exit_address": [
-            "82.153.138.23"
-        ],
         "asn": "AS214209"
     },
     {
@@ -19604,9 +19599,6 @@
     },
     {
         "nickname": "schuetzdich",
-        "exit_address": [
-            "45.86.153.248"
-        ],
         "asn": "AS200950"
     },
     {
