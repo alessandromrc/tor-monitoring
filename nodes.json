@@ -7970,14 +7970,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "SkaffaExit",
-        "exit_address": [
-            "185.62.56.249",
-            "45.9.168.106"
-        ],
-        "asn": "AS62370"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.106"
@@ -16162,6 +16154,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "shanoshema",
+        "asn": "AS8866"
+    },
+    {
         "nickname": "artikel10buc04",
         "exit_address": [
             "185.100.87.250"
@@ -16338,9 +16334,6 @@
     },
     {
         "nickname": "VampireFunWorld",
-        "exit_address": [
-            "95.168.173.143"
-        ],
         "asn": "AS60781"
     },
     {
