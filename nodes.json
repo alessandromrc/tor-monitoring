@@ -7213,6 +7213,9 @@
     },
     {
         "nickname": "brrbigchungus",
+        "exit_address": [
+            "77.90.8.65"
+        ],
         "asn": "AS48314"
     },
     {
@@ -7969,6 +7972,7 @@
     {
         "nickname": "SkaffaExit",
         "exit_address": [
+            "185.62.56.249",
             "45.9.168.106"
         ],
         "asn": "AS62370"
@@ -17344,6 +17348,9 @@
     },
     {
         "nickname": "labana",
+        "exit_address": [
+            "89.110.95.164"
+        ],
         "asn": "AS200019"
     },
     {
