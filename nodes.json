@@ -3240,6 +3240,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "gatter1",
+        "asn": "AS34288"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.92"
@@ -3963,6 +3967,10 @@
             "192.76.153.253"
         ],
         "asn": "AS60404"
+    },
+    {
+        "nickname": "gatter2",
+        "asn": "AS34288"
     },
     {
         "nickname": "prsv",
@@ -6670,6 +6678,9 @@
     },
     {
         "nickname": "myexitrelayD",
+        "exit_address": [
+            "185.28.47.28"
+        ],
         "asn": "AS52048"
     },
     {
@@ -7979,6 +7990,14 @@
             "45.141.215.62"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "SkaffaExit",
+        "exit_address": [
+            "185.62.56.249",
+            "45.9.168.106"
+        ],
+        "asn": "AS215659"
     },
     {
         "nickname": "prsv",
@@ -18790,6 +18809,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "torexitsonic",
+        "asn": "AS36680"
+    },
+    {
         "nickname": "NTH22R8",
         "exit_address": [
             "192.42.116.174"
@@ -19753,6 +19776,10 @@
             "193.237.221.228"
         ],
         "asn": "AS5378"
+    },
+    {
+        "nickname": "gatter3",
+        "asn": "AS34288"
     },
     {
         "nickname": "relayondemogorgon",
