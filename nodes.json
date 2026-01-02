@@ -4863,6 +4863,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.127"
+        ],
         "asn": "AS27284"
     },
     {
@@ -16629,6 +16632,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.127"
+        ],
         "asn": "AS27284"
     },
     {
@@ -17279,6 +17285,10 @@
             "192.42.116.173"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "secretpassage",
+        "asn": "AS35100"
     },
     {
         "nickname": "Aramis",
@@ -19719,6 +19729,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.127"
+        ],
         "asn": "AS27284"
     },
     {
