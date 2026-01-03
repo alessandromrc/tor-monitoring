@@ -3143,9 +3143,6 @@
     },
     {
         "nickname": "xks",
-        "exit_address": [
-            "176.65.149.96"
-        ],
         "asn": "AS51396"
     },
     {
@@ -9138,6 +9135,9 @@
     },
     {
         "nickname": "Pierrette",
+        "exit_address": [
+            "185.241.208.54"
+        ],
         "asn": "AS210558"
     },
     {
@@ -10442,9 +10442,6 @@
     },
     {
         "nickname": "nix",
-        "exit_address": [
-            "176.65.148.3"
-        ],
         "asn": "AS51396"
     },
     {
@@ -11316,6 +11313,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "45.141.215.40",
             "45.80.158.249"
         ],
         "asn": "AS210558"
@@ -11764,9 +11762,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.141.119.175"
-        ],
         "asn": "AS211507"
     },
     {
@@ -12309,6 +12304,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -14128,6 +14124,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -14363,7 +14360,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "185.241.208.136"
+            "185.241.208.136",
+            "45.141.215.80"
         ],
         "asn": "AS210558"
     },
@@ -15592,6 +15590,9 @@
     },
     {
         "nickname": "ChangeMe",
+        "exit_address": [
+            "128.140.84.155"
+        ],
         "asn": "AS24940"
     },
     {
@@ -17237,6 +17238,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -20826,6 +20828,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
