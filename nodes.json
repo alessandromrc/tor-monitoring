@@ -4050,6 +4050,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI02EXIT",
+        "exit_address": [
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -6054,8 +6061,7 @@
     {
         "nickname": "TheMadHackerNode",
         "exit_address": [
-            "45.38.20.153",
-            "66.78.40.146"
+            "45.38.20.153"
         ],
         "asn": "AS215659"
     },
