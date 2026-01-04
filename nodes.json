@@ -10116,9 +10116,6 @@
     },
     {
         "nickname": "WYSWYG",
-        "exit_address": [
-            "109.228.160.190"
-        ],
         "asn": "AS8473"
     },
     {
@@ -14121,7 +14118,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -14512,6 +14508,10 @@
             "45.138.16.248"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "shadowlink1",
+        "asn": "AS51396"
     },
     {
         "nickname": "prsv",
