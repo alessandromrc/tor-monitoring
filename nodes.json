@@ -1241,6 +1241,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.149"
+        ],
         "asn": "AS51396"
     },
     {
@@ -2348,6 +2351,9 @@
     },
     {
         "nickname": "FreeNicolasMaduro",
+        "exit_address": [
+            "74.50.118.26"
+        ],
         "asn": "AS29802"
     },
     {
@@ -4038,7 +4044,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -4970,6 +4975,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.50"
+        ],
         "asn": "AS51396"
     },
     {
@@ -5016,6 +5024,9 @@
     },
     {
         "nickname": "lobbyistforlove",
+        "exit_address": [
+            "84.16.224.227"
+        ],
         "asn": "AS28753"
     },
     {
@@ -12536,9 +12547,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -13616,6 +13624,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.192"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14292,6 +14303,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.184"
+        ],
         "asn": "AS51396"
     },
     {
@@ -14511,6 +14525,9 @@
     },
     {
         "nickname": "shadowlink1",
+        "exit_address": [
+            "176.65.148.88"
+        ],
         "asn": "AS51396"
     },
     {
@@ -15187,6 +15204,9 @@
     },
     {
         "nickname": "cozybeardev",
+        "exit_address": [
+            "176.65.149.147"
+        ],
         "asn": "AS51396"
     },
     {
@@ -17231,7 +17251,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -20636,7 +20655,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
@@ -20819,7 +20837,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
