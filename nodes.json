@@ -576,6 +576,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -3774,6 +3777,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9127,9 +9133,6 @@
     },
     {
         "nickname": "Pierrette",
-        "exit_address": [
-            "185.241.208.54"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9668,8 +9671,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "185.241.208.136",
-            "45.141.215.80"
+            "185.241.208.136"
         ],
         "asn": "AS210558"
     },
@@ -10968,6 +10970,10 @@
         "asn": "AS214196"
     },
     {
+        "nickname": "sv4p78xknkj5",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "mailboxorg",
         "exit_address": [
             "80.241.60.207"
@@ -11358,6 +11364,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -11614,6 +11623,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -15578,9 +15590,6 @@
     },
     {
         "nickname": "ChangeMe",
-        "exit_address": [
-            "128.140.84.155"
-        ],
         "asn": "AS24940"
     },
     {
@@ -18989,6 +18998,9 @@
     },
     {
         "nickname": "dead",
+        "exit_address": [
+            "107.189.12.157"
+        ],
         "asn": "AS53667"
     },
     {
@@ -19741,6 +19753,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
