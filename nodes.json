@@ -3220,6 +3220,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "exitsafer",
+        "asn": "AS64457"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "94.72.104.135"
@@ -4058,6 +4062,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI02EXIT",
+        "exit_address": [
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -8820,6 +8831,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "dobromanian",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "CembraNutBoys03",
         "exit_address": [
             "177.93.140.66"
@@ -9063,6 +9078,10 @@
             "185.220.101.59"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "exitsafer",
+        "asn": "AS64457"
     },
     {
         "nickname": "Quetzalcoatl",
