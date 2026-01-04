@@ -2574,6 +2574,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "LLM",
+        "asn": "AS59891"
+    },
+    {
         "nickname": "nobuhide",
         "exit_address": [
             "91.208.75.3"
@@ -6552,6 +6556,9 @@
     },
     {
         "nickname": "FreedomIsAMust",
+        "exit_address": [
+            "195.160.220.104"
+        ],
         "asn": "AS43641"
     },
     {
