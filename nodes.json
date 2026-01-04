@@ -2347,6 +2347,10 @@
         "asn": "AS29691"
     },
     {
+        "nickname": "FreeNicolasMaduro",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.92"
@@ -4659,7 +4663,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "45.141.215.17",
             "45.141.215.227"
         ],
         "asn": "AS210558"
