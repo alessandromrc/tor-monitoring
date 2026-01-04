@@ -11682,10 +11682,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "bauruine",
-        "asn": "AS56655"
-    },
-    {
         "nickname": "artikel10ber01",
         "exit_address": [
             "185.220.101.1"
@@ -16209,7 +16205,8 @@
     {
         "nickname": "shanoshema",
         "exit_address": [
-            "77.85.146.94"
+            "77.85.146.94",
+            "77.85.158.28"
         ],
         "asn": "AS8866"
     },
