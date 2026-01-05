@@ -3221,6 +3221,9 @@
     },
     {
         "nickname": "exitsafer",
+        "exit_address": [
+            "151.242.144.217"
+        ],
         "asn": "AS64457"
     },
     {
@@ -3379,9 +3382,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
@@ -4282,9 +4282,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
@@ -5017,9 +5014,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
@@ -7689,9 +7683,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
@@ -8891,6 +8882,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "level9000",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "r0cket05i6",
         "exit_address": [
             "45.84.107.222"
@@ -9081,6 +9076,9 @@
     },
     {
         "nickname": "exitsafer",
+        "exit_address": [
+            "151.242.144.217"
+        ],
         "asn": "AS64457"
     },
     {
@@ -11285,9 +11283,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
@@ -11460,9 +11455,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
@@ -11947,16 +11939,10 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
@@ -12196,9 +12182,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
@@ -12603,6 +12586,9 @@
     },
     {
         "nickname": "BBA2",
+        "exit_address": [
+            "38.135.24.176"
+        ],
         "asn": "AS27284"
     },
     {
@@ -19109,9 +19095,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
@@ -19723,9 +19706,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.231"
-        ],
         "asn": "AS56655"
     },
     {
@@ -19783,9 +19763,6 @@
     },
     {
         "nickname": "bauruine",
-        "exit_address": [
-            "185.243.218.232"
-        ],
         "asn": "AS56655"
     },
     {
