@@ -12185,10 +12185,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "mirage",
-        "asn": "AS56322"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "2.58.56.43"
@@ -16197,6 +16193,7 @@
         "nickname": "shanoshema",
         "exit_address": [
             "77.85.146.94",
+            "77.85.153.22",
             "77.85.158.28"
         ],
         "asn": "AS8866"
