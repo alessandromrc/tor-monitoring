@@ -1388,9 +1388,6 @@
     },
     {
         "nickname": "MaseehRecipes",
-        "exit_address": [
-            "38.97.116.242"
-        ],
         "asn": "AS396527"
     },
     {
@@ -8390,9 +8387,6 @@
     },
     {
         "nickname": "WholesomeRecipes",
-        "exit_address": [
-            "38.97.116.244"
-        ],
         "asn": "AS396527"
     },
     {
@@ -8903,7 +8897,8 @@
     {
         "nickname": "USABronkExit",
         "exit_address": [
-            "45.38.20.27"
+            "45.38.20.27",
+            "65.87.7.55"
         ],
         "asn": "AS215659"
     },
@@ -11964,9 +11959,6 @@
     },
     {
         "nickname": "BexleyRecipes",
-        "exit_address": [
-            "38.97.116.242"
-        ],
         "asn": "AS396527"
     },
     {
@@ -12651,9 +12643,6 @@
     },
     {
         "nickname": "BBA2",
-        "exit_address": [
-            "38.135.24.176"
-        ],
         "asn": "AS27284"
     },
     {
@@ -13190,9 +13179,6 @@
     },
     {
         "nickname": "RandomRecipes",
-        "exit_address": [
-            "38.97.116.244"
-        ],
         "asn": "AS396527"
     },
     {
@@ -13962,9 +13948,6 @@
     },
     {
         "nickname": "DadaRecipes",
-        "exit_address": [
-            "38.97.116.243"
-        ],
         "asn": "AS396527"
     },
     {
@@ -14018,9 +14001,6 @@
     },
     {
         "nickname": "SeniorHouseRecipes",
-        "exit_address": [
-            "38.97.116.245"
-        ],
         "asn": "AS396527"
     },
     {
@@ -16722,9 +16702,6 @@
     },
     {
         "nickname": "MacGregorRecipes",
-        "exit_address": [
-            "38.97.116.242"
-        ],
         "asn": "AS396527"
     },
     {
@@ -19628,9 +19605,6 @@
     },
     {
         "nickname": "WestGarageRecipes",
-        "exit_address": [
-            "38.97.116.245"
-        ],
         "asn": "AS396527"
     },
     {
