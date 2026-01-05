@@ -1483,6 +1483,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS214209"
     },
     {
@@ -4570,9 +4573,6 @@
     },
     {
         "nickname": "ForPrivacyNET",
-        "exit_address": [
-            "104.244.73.43"
-        ],
         "asn": "AS53667"
     },
     {
@@ -7691,9 +7691,6 @@
     },
     {
         "nickname": "ForPrivacyNET",
-        "exit_address": [
-            "104.244.73.193"
-        ],
         "asn": "AS53667"
     },
     {
@@ -8820,6 +8817,9 @@
     },
     {
         "nickname": "dobromanian",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS214209"
     },
     {
@@ -8863,6 +8863,10 @@
             "109.70.100.11"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "USABronkExit",
+        "asn": "AS215659"
     },
     {
         "nickname": "artikel10ber14",
@@ -11768,6 +11772,10 @@
     {
         "nickname": "fumo",
         "asn": "AS211507"
+    },
+    {
+        "nickname": "Tachys",
+        "asn": "AS141995"
     },
     {
         "nickname": "marylou2",
@@ -16834,9 +16842,6 @@
     },
     {
         "nickname": "ForPrivacyNET",
-        "exit_address": [
-            "104.244.77.208"
-        ],
         "asn": "AS53667"
     },
     {
