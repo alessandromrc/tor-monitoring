@@ -1564,6 +1564,9 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
+        "exit_address": [
+            "23.137.253.113"
+        ],
         "asn": "AS40663"
     },
     {
@@ -17963,10 +17966,6 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "User832047A3",
-        "asn": "AS16276"
     },
     {
         "nickname": "Quetzalcoatl",
