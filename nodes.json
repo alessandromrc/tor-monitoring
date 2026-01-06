@@ -1563,6 +1563,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "SlugnetExitRelay01",
+        "asn": "AS40663"
+    },
+    {
         "nickname": "marcuse11",
         "exit_address": [
             "178.20.55.182"
@@ -6331,10 +6335,6 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "fumo",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "NTH38R2",
         "exit_address": [
             "192.42.116.201"
@@ -6557,6 +6557,10 @@
             "45.84.107.74"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "TERRAHOSTrocks",
+        "asn": "AS56655"
     },
     {
         "nickname": "TheSkeletalPlanes",
@@ -13891,6 +13895,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "hooman",
+        "asn": "AS214902"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -17014,9 +17022,6 @@
     },
     {
         "nickname": "KingShadow1",
-        "exit_address": [
-            "104.167.242.116"
-        ],
         "asn": "AS26286"
     },
     {
