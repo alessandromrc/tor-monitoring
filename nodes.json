@@ -2143,9 +2143,6 @@
     },
     {
         "nickname": "AlbertRelay4",
-        "exit_address": [
-            "176.65.134.43"
-        ],
         "asn": "AS36680"
     },
     {
@@ -4077,7 +4074,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.61"
         ],
@@ -4597,9 +4594,6 @@
     },
     {
         "nickname": "AlbertRelay3",
-        "exit_address": [
-            "176.65.134.37"
-        ],
         "asn": "AS36680"
     },
     {
@@ -6546,9 +6540,6 @@
     },
     {
         "nickname": "AlbertRelay2",
-        "exit_address": [
-            "176.65.134.36"
-        ],
         "asn": "AS36680"
     },
     {
@@ -12607,6 +12598,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -17105,9 +17099,6 @@
     },
     {
         "nickname": "AlbertRelay5",
-        "exit_address": [
-            "176.65.134.44"
-        ],
         "asn": "AS36680"
     },
     {
@@ -18906,9 +18897,6 @@
     },
     {
         "nickname": "torexitsonic",
-        "exit_address": [
-            "176.65.134.32"
-        ],
         "asn": "AS36680"
     },
     {
