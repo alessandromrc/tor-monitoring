@@ -13275,6 +13275,9 @@
     },
     {
         "nickname": "Blameany1butme",
+        "exit_address": [
+            "193.105.134.254"
+        ],
         "asn": "AS42237"
     },
     {
@@ -19780,10 +19783,6 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "XIRelay",
-        "asn": "AS3258"
     },
     {
         "nickname": "DFRI57",
