@@ -1392,9 +1392,6 @@
     },
     {
         "nickname": "MaseehRecipes",
-        "exit_address": [
-            "38.97.116.242"
-        ],
         "asn": "AS396527"
     },
     {
@@ -2167,9 +2164,6 @@
     },
     {
         "nickname": "WikiHowRecipes",
-        "exit_address": [
-            "38.97.116.243"
-        ],
         "asn": "AS396527"
     },
     {
@@ -4080,7 +4074,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -6412,9 +6406,6 @@
     },
     {
         "nickname": "marylou4",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -7162,9 +7153,6 @@
     },
     {
         "nickname": "marylou1",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -8414,9 +8402,6 @@
     },
     {
         "nickname": "WholesomeRecipes",
-        "exit_address": [
-            "38.97.116.244"
-        ],
         "asn": "AS396527"
     },
     {
@@ -10791,9 +10776,6 @@
     },
     {
         "nickname": "McCormickRecipes",
-        "exit_address": [
-            "38.97.116.242"
-        ],
         "asn": "AS396527"
     },
     {
@@ -11825,9 +11807,6 @@
     },
     {
         "nickname": "marylou2",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -13198,9 +13177,6 @@
     },
     {
         "nickname": "RandomRecipes",
-        "exit_address": [
-            "38.97.116.244"
-        ],
         "asn": "AS396527"
     },
     {
@@ -13307,10 +13283,6 @@
             "84.238.156.136"
         ],
         "asn": "AS8866"
-    },
-    {
-        "nickname": "Fluffy4",
-        "asn": "AS59711"
     },
     {
         "nickname": "WindyCity219",
@@ -13984,9 +13956,6 @@
     },
     {
         "nickname": "DadaRecipes",
-        "exit_address": [
-            "38.97.116.243"
-        ],
         "asn": "AS396527"
     },
     {
@@ -17648,6 +17617,9 @@
     },
     {
         "nickname": "vpsonfire",
+        "exit_address": [
+            "45.9.156.100"
+        ],
         "asn": "AS211619"
     },
     {
@@ -19643,9 +19615,6 @@
     },
     {
         "nickname": "WestGarageRecipes",
-        "exit_address": [
-            "38.97.116.245"
-        ],
         "asn": "AS396527"
     },
     {
