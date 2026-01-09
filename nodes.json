@@ -4080,7 +4080,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -16572,6 +16572,9 @@
     },
     {
         "nickname": "Cloud",
+        "exit_address": [
+            "3.128.155.234"
+        ],
         "asn": "AS16509"
     },
     {
@@ -17642,6 +17645,10 @@
             "23.129.64.189"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "vpsonfire",
+        "asn": "AS211619"
     },
     {
         "nickname": "nobuzumi",
