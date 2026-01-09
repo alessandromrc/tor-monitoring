@@ -7273,6 +7273,9 @@
     },
     {
         "nickname": "Tofoten",
+        "exit_address": [
+            "216.144.230.176"
+        ],
         "asn": "AS36352"
     },
     {
@@ -7811,10 +7814,6 @@
             "192.42.116.200"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "MapleVPSExit",
-        "asn": "AS16276"
     },
     {
         "nickname": "ForPrivacyNET",
