@@ -5060,9 +5060,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -5309,6 +5306,9 @@
     },
     {
         "nickname": "nqA8EYOYZk5WieGI",
+        "exit_address": [
+            "52.149.123.145"
+        ],
         "asn": "AS8075"
     },
     {
@@ -7270,6 +7270,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Tofoten",
+        "asn": "AS36352"
     },
     {
         "nickname": "Quetzalcoatl",
