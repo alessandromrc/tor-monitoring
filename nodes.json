@@ -1328,6 +1328,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "m20",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "perfectlycromulent",
         "exit_address": [
             "32.218.131.61"
@@ -10147,6 +10151,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.49.235"
+        ],
         "asn": "AS197540"
     },
     {
@@ -15881,6 +15888,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.49.235"
+        ],
         "asn": "AS197540"
     },
     {
@@ -17406,6 +17416,9 @@
     },
     {
         "nickname": "labana",
+        "exit_address": [
+            "89.110.95.164"
+        ],
         "asn": "AS200019"
     },
     {
