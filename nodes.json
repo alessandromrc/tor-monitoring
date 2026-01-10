@@ -9584,6 +9584,9 @@
     },
     {
         "nickname": "TorExitMoldova",
+        "exit_address": [
+            "178.17.170.23"
+        ],
         "asn": "AS43289"
     },
     {
@@ -19376,6 +19379,9 @@
     },
     {
         "nickname": "Awaken",
+        "exit_address": [
+            "80.97.49.239"
+        ],
         "asn": "AS6718"
     },
     {
