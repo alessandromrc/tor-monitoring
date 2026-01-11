@@ -1322,6 +1322,9 @@
     },
     {
         "nickname": "dutchtrouble",
+        "exit_address": [
+            "66.78.40.91"
+        ],
         "asn": "AS215659"
     },
     {
@@ -4081,7 +4084,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -6586,6 +6589,9 @@
     },
     {
         "nickname": "BronkSuperFast",
+        "exit_address": [
+            "185.62.58.165"
+        ],
         "asn": "AS62370"
     },
     {
@@ -12570,6 +12576,9 @@
     },
     {
         "nickname": "phin",
+        "exit_address": [
+            "96.8.119.172"
+        ],
         "asn": "AS36352"
     },
     {
@@ -13640,6 +13649,9 @@
     },
     {
         "nickname": "ConfigTest",
+        "exit_address": [
+            "23.137.251.75"
+        ],
         "asn": "AS40663"
     },
     {
