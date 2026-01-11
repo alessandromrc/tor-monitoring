@@ -6326,6 +6326,9 @@
     },
     {
         "nickname": "doraemon",
+        "exit_address": [
+            "185.107.57.64"
+        ],
         "asn": "AS43350"
     },
     {
@@ -14362,6 +14365,9 @@
     },
     {
         "nickname": "ken",
+        "exit_address": [
+            "185.107.57.66"
+        ],
         "asn": "AS43350"
     },
     {
@@ -20411,6 +20417,9 @@
     },
     {
         "nickname": "trigun",
+        "exit_address": [
+            "185.107.57.65"
+        ],
         "asn": "AS43350"
     },
     {
