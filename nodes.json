@@ -4076,6 +4076,7 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -17746,6 +17747,9 @@
     },
     {
         "nickname": "BehemothLTDNL1",
+        "exit_address": [
+            "5.255.123.158"
+        ],
         "asn": "AS60404"
     },
     {
