@@ -663,6 +663,9 @@
     },
     {
         "nickname": "TheMadHacker5Plaza",
+        "exit_address": [
+            "216.9.225.157"
+        ],
         "asn": "AS44382"
     },
     {
@@ -9102,7 +9105,8 @@
     {
         "nickname": "RelayxitMini",
         "exit_address": [
-            "185.62.56.249"
+            "185.62.56.249",
+            "185.62.58.165"
         ],
         "asn": "AS62370"
     },
