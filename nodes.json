@@ -4687,13 +4687,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "styx",
-        "exit_address": [
-            "74.14.82.69"
-        ],
-        "asn": "AS577"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.71"
@@ -14748,9 +14741,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.207.107.216"
-        ],
         "asn": "AS197540"
     },
     {
@@ -18740,6 +18730,10 @@
             "166.70.207.2"
         ],
         "asn": "AS6315"
+    },
+    {
+        "nickname": "TorCean",
+        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
