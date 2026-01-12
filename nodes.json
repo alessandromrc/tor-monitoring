@@ -14740,6 +14740,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -15904,6 +15907,10 @@
             "103.28.52.93"
         ],
         "asn": "AS136052"
+    },
+    {
+        "nickname": "dureichstsogut",
+        "asn": "AS44486"
     },
     {
         "nickname": "NTH2R5",
@@ -18732,6 +18739,9 @@
     },
     {
         "nickname": "TorCean",
+        "exit_address": [
+            "167.172.188.80"
+        ],
         "asn": "AS14061"
     },
     {
