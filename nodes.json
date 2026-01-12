@@ -19259,6 +19259,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -19941,6 +19944,10 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "TorCean",
+        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
