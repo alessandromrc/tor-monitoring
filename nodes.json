@@ -11196,6 +11196,10 @@
         "asn": "AS213873"
     },
     {
+        "nickname": "yeewatertorexit",
+        "asn": "AS149440"
+    },
+    {
         "nickname": "artikel5ev12d",
         "exit_address": [
             "92.246.84.133"
@@ -19944,6 +19948,9 @@
     },
     {
         "nickname": "TorCean",
+        "exit_address": [
+            "167.172.188.80"
+        ],
         "asn": "AS14061"
     },
     {
