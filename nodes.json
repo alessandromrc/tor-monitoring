@@ -6652,9 +6652,6 @@
     },
     {
         "nickname": "BronkSuperFast",
-        "exit_address": [
-            "185.62.58.165"
-        ],
         "asn": "AS62370"
     },
     {
@@ -11197,6 +11194,9 @@
     },
     {
         "nickname": "yeewatertorexit",
+        "exit_address": [
+            "38.225.209.82"
+        ],
         "asn": "AS149440"
     },
     {
