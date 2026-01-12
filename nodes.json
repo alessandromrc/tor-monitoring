@@ -2608,10 +2608,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "LLM",
-        "asn": "AS59891"
-    },
-    {
         "nickname": "nobuhide",
         "exit_address": [
             "91.208.75.3"
@@ -9119,7 +9115,6 @@
     {
         "nickname": "RelayxitMini",
         "exit_address": [
-            "185.62.56.249",
             "185.62.58.165"
         ],
         "asn": "AS62370"
