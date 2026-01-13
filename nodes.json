@@ -323,9 +323,6 @@
     },
     {
         "nickname": "Ulcerate",
-        "exit_address": [
-            "57.128.220.107"
-        ],
         "asn": "AS16276"
     },
     {
@@ -11739,6 +11736,9 @@
     },
     {
         "nickname": "FBIasJackson2231",
+        "exit_address": [
+            "185.130.44.45"
+        ],
         "asn": "AS210083"
     },
     {
@@ -15450,7 +15450,8 @@
     {
         "nickname": "forest08",
         "exit_address": [
-            "176.65.134.8"
+            "176.65.134.8",
+            "176.65.134.9"
         ],
         "asn": "AS36680"
     },
@@ -16045,6 +16046,9 @@
     },
     {
         "nickname": "Georges",
+        "exit_address": [
+            "91.202.5.104"
+        ],
         "asn": "AS43641"
     },
     {
@@ -20176,9 +20180,6 @@
     },
     {
         "nickname": "TorCean",
-        "exit_address": [
-            "167.172.188.80"
-        ],
         "asn": "AS14061"
     },
     {
