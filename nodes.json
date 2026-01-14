@@ -1519,6 +1519,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS214209"
     },
     {
@@ -5889,9 +5892,6 @@
     },
     {
         "nickname": "mingles",
-        "exit_address": [
-            "23.236.122.193"
-        ],
         "asn": "AS21859"
     },
     {
@@ -7461,6 +7461,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.137.99.79"
+        ],
         "asn": "AS214209"
     },
     {
@@ -15459,7 +15462,6 @@
     {
         "nickname": "forest08",
         "exit_address": [
-            "176.65.134.8",
             "176.65.134.9"
         ],
         "asn": "AS36680"
@@ -16819,9 +16821,6 @@
     },
     {
         "nickname": "r0cket10i6",
-        "exit_address": [
-            "45.84.107.47"
-        ],
         "asn": "AS214503"
     },
     {
