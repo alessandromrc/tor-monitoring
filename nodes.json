@@ -4131,7 +4131,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4721,6 +4721,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.104.176"
+        ],
         "asn": "AS197540"
     },
     {
@@ -11867,6 +11870,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
