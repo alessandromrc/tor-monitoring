@@ -1571,6 +1571,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Stratus",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.191"
@@ -7455,9 +7459,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "45.137.99.79"
-        ],
         "asn": "AS214209"
     },
     {
@@ -9753,6 +9754,10 @@
             "45.141.215.169"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "BronkOnFreeBSD",
+        "asn": "AS212477"
     },
     {
         "nickname": "Quetzalcoatl",
