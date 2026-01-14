@@ -352,6 +352,9 @@
     },
     {
         "nickname": "slither",
+        "exit_address": [
+            "82.153.138.235"
+        ],
         "asn": "AS214209"
     },
     {
@@ -1993,9 +1996,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "78.159.131.103"
-        ],
         "asn": "AS215540"
     },
     {
@@ -4134,7 +4134,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.61"
         ],
@@ -6191,10 +6191,6 @@
             "45.9.156.105"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "geistslowysRelay",
-        "asn": "AS197540"
     },
     {
         "nickname": "prsv",
@@ -9507,9 +9503,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "78.159.131.103"
-        ],
         "asn": "AS215540"
     },
     {
@@ -16235,9 +16228,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "78.159.131.103"
-        ],
         "asn": "AS215540"
     },
     {
@@ -17069,9 +17059,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "78.159.131.103"
-        ],
         "asn": "AS215540"
     },
     {
