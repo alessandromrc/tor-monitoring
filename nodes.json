@@ -3941,10 +3941,6 @@
         "asn": "AS215659"
     },
     {
-        "nickname": "wippvannwinkle",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.132.13"
@@ -4136,6 +4132,7 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -11941,7 +11938,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Tachys",
+        "nickname": "Cloud",
         "exit_address": [
             "94.136.185.218"
         ],
