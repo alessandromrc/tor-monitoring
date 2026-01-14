@@ -946,10 +946,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "AlbertRelay1",
-        "asn": "AS36680"
-    },
-    {
         "nickname": "Exit",
         "exit_address": [
             "185.246.188.149"
@@ -2196,10 +2192,6 @@
             "192.42.116.200"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "AlbertRelay4",
-        "asn": "AS36680"
     },
     {
         "nickname": "Quintex53",
@@ -4139,7 +4131,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4663,10 +4655,6 @@
             "104.244.73.43"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "AlbertRelay3",
-        "asn": "AS36680"
     },
     {
         "nickname": "DFRI55",
@@ -6619,10 +6607,6 @@
             "192.42.116.176"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "AlbertRelay2",
-        "asn": "AS36680"
     },
     {
         "nickname": "F3Netze",
@@ -14135,6 +14119,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.104.176"
+        ],
         "asn": "AS197540"
     },
     {
@@ -17297,10 +17284,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "AlbertRelay5",
-        "asn": "AS36680"
-    },
-    {
         "nickname": "r0cket05i2",
         "exit_address": [
             "45.84.107.222"
@@ -19104,10 +19087,6 @@
             "185.100.87.192"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "torexitsonic",
-        "asn": "AS36680"
     },
     {
         "nickname": "NTH22R8",
