@@ -4673,6 +4673,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "MoreBulgaria",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "algrothendieck4",
         "exit_address": [
             "80.67.172.162"
@@ -12695,9 +12699,6 @@
     },
     {
         "nickname": "phin",
-        "exit_address": [
-            "96.8.119.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -14493,10 +14494,6 @@
             "176.65.149.184"
         ],
         "asn": "AS51396"
-    },
-    {
-        "nickname": "NodescrapeExitAT1",
-        "asn": "AS212057"
     },
     {
         "nickname": "NTH11R3",
