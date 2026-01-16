@@ -296,7 +296,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -3530,7 +3531,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -4853,7 +4855,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -7384,10 +7387,6 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "brrbigchungus",
-        "asn": "AS48314"
-    },
-    {
         "nickname": "kerpatenko",
         "exit_address": [
             "185.246.188.73"
@@ -8164,6 +8163,9 @@
     },
     {
         "nickname": "ididnteditheconfig",
+        "exit_address": [
+            "202.61.253.243"
+        ],
         "asn": "AS197540"
     },
     {
@@ -8838,6 +8840,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.41.191"
+        ],
         "asn": "AS197540"
     },
     {
@@ -9769,6 +9774,10 @@
             "45.141.215.169"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "ExitNodew0oMp72j",
+        "asn": "AS207569"
     },
     {
         "nickname": "BronkOnFreeBSD",
@@ -14230,6 +14239,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "185.132.53.121"
+        ],
         "asn": "AS211507"
     },
     {
@@ -14809,7 +14821,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -16200,7 +16213,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -18640,7 +18654,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
@@ -19159,7 +19174,8 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61"
+            "193.26.115.61",
+            "45.94.31.228"
         ],
         "asn": "AS210558"
     },
