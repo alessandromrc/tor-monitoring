@@ -5134,6 +5134,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Goliath",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "WepZone",
         "exit_address": [
             "44.30.4.69"
@@ -6656,9 +6660,6 @@
     },
     {
         "nickname": "BronkSuperFast",
-        "exit_address": [
-            "185.62.58.165"
-        ],
         "asn": "AS62370"
     },
     {
