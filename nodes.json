@@ -6713,6 +6713,9 @@
     },
     {
         "nickname": "BronkSuperFast",
+        "exit_address": [
+            "185.62.58.165"
+        ],
         "asn": "AS62370"
     },
     {
@@ -12387,6 +12390,10 @@
             "185.243.218.232"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "mirage",
+        "asn": "AS56322"
     },
     {
         "nickname": "Quetzalcoatl",
