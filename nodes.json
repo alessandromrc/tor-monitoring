@@ -4160,7 +4160,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -10769,6 +10769,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.134",
             "198.167.206.164"
         ],
         "asn": "AS39287"
@@ -16920,10 +16921,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "Cloud",
-        "asn": "AS16509"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.79.44"
@@ -19067,9 +19064,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
