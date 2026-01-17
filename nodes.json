@@ -4141,6 +4141,7 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -15274,6 +15275,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "Digitalcourage4ip2b",
         "exit_address": [
             "185.220.101.105"
@@ -16916,13 +16921,6 @@
             "171.25.193.38"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "suckmeboiiii",
-        "exit_address": [
-            "46.151.26.76"
-        ],
-        "asn": "AS216071"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -20378,9 +20376,6 @@
     },
     {
         "nickname": "goodvikings",
-        "exit_address": [
-            "161.129.68.162"
-        ],
         "asn": "AS19318"
     },
     {
