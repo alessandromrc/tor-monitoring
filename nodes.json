@@ -296,7 +296,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -2169,6 +2168,9 @@
     },
     {
         "nickname": "relayon0150",
+        "exit_address": [
+            "185.220.101.150"
+        ],
         "asn": "AS60729"
     },
     {
@@ -3547,7 +3549,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -5405,7 +5406,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -11973,6 +11973,9 @@
     },
     {
         "nickname": "relayon0184",
+        "exit_address": [
+            "185.220.101.184"
+        ],
         "asn": "AS60729"
     },
     {
@@ -14921,7 +14924,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -16320,7 +16322,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -16702,9 +16703,6 @@
     },
     {
         "nickname": "happypaws",
-        "exit_address": [
-            "185.225.69.225"
-        ],
         "asn": "AS30836"
     },
     {
@@ -18782,7 +18780,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -19302,7 +19299,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "193.26.115.61",
             "45.94.31.228"
         ],
         "asn": "AS210558"
@@ -19768,9 +19764,6 @@
     },
     {
         "nickname": "cpanneeda",
-        "exit_address": [
-            "185.225.69.222"
-        ],
         "asn": "AS30836"
     },
     {
