@@ -628,6 +628,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "BronkCroatia01",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "NTH24R5",
         "exit_address": [
             "192.42.116.176"
@@ -1880,10 +1884,6 @@
             "179.43.182.232"
         ],
         "asn": "AS51852"
-    },
-    {
-        "nickname": "AkashicExit01",
-        "asn": "AS51167"
     },
     {
         "nickname": "poitras",
@@ -18396,6 +18396,10 @@
             "204.8.96.175"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "BronkCroatia",
+        "asn": "AS211619"
     },
     {
         "nickname": "Quetzalcoatl",
