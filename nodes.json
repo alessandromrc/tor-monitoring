@@ -211,6 +211,9 @@
     },
     {
         "nickname": "AlpineExitS2KB",
+        "exit_address": [
+            "38.146.29.232"
+        ],
         "asn": "AS46783"
     },
     {
@@ -11663,9 +11666,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.26.216"
-        ],
         "asn": "AS197540"
     },
     {
