@@ -4774,9 +4774,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.104.176"
-        ],
         "asn": "AS197540"
     },
     {
@@ -6243,7 +6240,8 @@
     {
         "nickname": "TheMadHackerNode",
         "exit_address": [
-            "45.38.20.153"
+            "45.38.20.153",
+            "66.78.40.146"
         ],
         "asn": "AS215659"
     },
