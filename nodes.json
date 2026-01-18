@@ -267,9 +267,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.95.233.104"
-        ],
         "asn": "AS215540"
     },
     {
@@ -4182,7 +4179,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -7337,9 +7333,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.95.233.104"
-        ],
         "asn": "AS215540"
     },
     {
@@ -7755,9 +7748,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.183.157.214"
-        ],
         "asn": "AS197540"
     },
     {
@@ -8849,9 +8839,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.95.233.104"
-        ],
         "asn": "AS215540"
     },
     {
@@ -13425,9 +13412,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.95.233.104"
-        ],
         "asn": "AS215540"
     },
     {
@@ -17811,6 +17795,9 @@
     },
     {
         "nickname": "labana",
+        "exit_address": [
+            "89.110.95.164"
+        ],
         "asn": "AS200019"
     },
     {
