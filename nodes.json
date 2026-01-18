@@ -6361,6 +6361,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "noack14i1",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "fumo",
         "exit_address": [
             "45.137.201.100"
@@ -8381,6 +8385,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "noack14i0",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "NTH30R1",
         "exit_address": [
             "192.42.116.182"
@@ -9256,6 +9264,10 @@
             "2.58.56.35"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "noack13i1",
+        "asn": "AS30893"
     },
     {
         "nickname": "plasterparis",
@@ -11367,6 +11379,10 @@
             "185.181.61.201"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "noack13i3",
+        "asn": "AS30893"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -14078,6 +14094,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "noack13i2",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "relayon0156",
         "exit_address": [
             "185.220.101.156"
@@ -14744,9 +14764,6 @@
     },
     {
         "nickname": "noack9i0",
-        "exit_address": [
-            "195.47.238.91"
-        ],
         "asn": "AS30893"
     },
     {
@@ -15904,6 +15921,10 @@
             "45.138.16.107"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "noack14i3",
+        "asn": "AS30893"
     },
     {
         "nickname": "DFRI28",
@@ -17790,9 +17811,6 @@
     },
     {
         "nickname": "labana",
-        "exit_address": [
-            "89.110.95.164"
-        ],
         "asn": "AS200019"
     },
     {
@@ -19848,6 +19866,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "noack14i2",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "Polyphemus6",
         "exit_address": [
             "107.189.3.148"
@@ -21066,6 +21088,10 @@
             "2.58.56.35"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "noack13i0",
+        "asn": "AS30893"
     },
     {
         "nickname": "Quetzalcoatl",
