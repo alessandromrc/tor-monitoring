@@ -4778,6 +4778,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.104.176"
+        ],
         "asn": "AS197540"
     },
     {
@@ -18407,6 +18410,9 @@
     },
     {
         "nickname": "BronkCroatia",
+        "exit_address": [
+            "45.95.169.119"
+        ],
         "asn": "AS211619"
     },
     {
@@ -19975,10 +19981,6 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "apophenia",
-        "asn": "AS50613"
     },
     {
         "nickname": "arecoque7",
