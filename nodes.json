@@ -326,10 +326,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "Ulcerate",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.243.218.233"
@@ -10811,7 +10807,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.144"
+            "198.167.206.144",
+            "198.167.206.193"
         ],
         "asn": "AS39287"
     },
