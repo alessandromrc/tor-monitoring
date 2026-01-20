@@ -1726,9 +1726,6 @@
     },
     {
         "nickname": "BabelTheBard",
-        "exit_address": [
-            "97.90.239.170"
-        ],
         "asn": "AS20115"
     },
     {
@@ -2662,9 +2659,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "46.29.238.25"
-        ],
         "asn": "AS215540"
     },
     {
@@ -3950,6 +3944,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -4103,9 +4098,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "46.29.238.25"
-        ],
         "asn": "AS215540"
     },
     {
@@ -4342,9 +4334,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "46.29.238.25"
-        ],
         "asn": "AS215540"
     },
     {
@@ -6574,9 +6563,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "46.29.238.25"
-        ],
         "asn": "AS215540"
     },
     {
@@ -6690,6 +6676,10 @@
             "185.220.100.241"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "bronkromanian",
+        "asn": "AS214209"
     },
     {
         "nickname": "NTH26R2",
@@ -11351,6 +11341,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -13594,6 +13585,10 @@
             "84.238.156.136"
         ],
         "asn": "AS8866"
+    },
+    {
+        "nickname": "bronkintheusa",
+        "asn": "AS215659"
     },
     {
         "nickname": "WindyCity219",
@@ -20580,6 +20575,9 @@
     },
     {
         "nickname": "CembraNutBoys02",
+        "exit_address": [
+            "131.72.79.38"
+        ],
         "asn": "AS264811"
     },
     {
@@ -21046,9 +21044,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
