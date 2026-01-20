@@ -15013,10 +15013,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS906"
-    },
-    {
         "nickname": "bagusovichsuka",
         "asn": "AS202422"
     },
@@ -17225,6 +17221,9 @@
     },
     {
         "nickname": "pahkngistoniston",
+        "exit_address": [
+            "180.149.44.96"
+        ],
         "asn": "AS202422"
     },
     {
