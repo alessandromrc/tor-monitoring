@@ -4933,6 +4933,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Goliath2",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.66.72.134"
@@ -10797,7 +10801,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.193"
+            "198.167.206.193",
+            "198.167.206.236"
         ],
         "asn": "AS39287"
     },
