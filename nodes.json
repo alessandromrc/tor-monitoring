@@ -1776,6 +1776,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -4164,7 +4165,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -7833,6 +7834,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -11636,6 +11638,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -11902,6 +11905,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "124.198.131.121",
             "45.88.186.92"
         ],
         "asn": "AS210558"
@@ -15521,6 +15525,9 @@
     },
     {
         "nickname": "dark",
+        "exit_address": [
+            "94.249.175.18"
+        ],
         "asn": "AS213850"
     },
     {
