@@ -4165,6 +4165,7 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -11866,9 +11867,6 @@
     },
     {
         "nickname": "FBIasJackson2231",
-        "exit_address": [
-            "185.130.44.45"
-        ],
         "asn": "AS210083"
     },
     {
