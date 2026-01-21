@@ -1942,9 +1942,6 @@
     },
     {
         "nickname": "NoFWord",
-        "exit_address": [
-            "45.129.8.100"
-        ],
         "asn": "AS3258"
     },
     {
@@ -19310,6 +19307,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "80.253.251.75"
+        ],
         "asn": "AS215540"
     },
     {
