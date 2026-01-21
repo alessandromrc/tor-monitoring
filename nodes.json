@@ -2282,10 +2282,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "SHA256",
-        "asn": "AS212238"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "62.72.47.105"
@@ -4793,6 +4789,9 @@
     },
     {
         "nickname": "Runaz4",
+        "exit_address": [
+            "185.93.89.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -10031,9 +10030,6 @@
     },
     {
         "nickname": "TorExitVIF",
-        "exit_address": [
-            "216.239.90.19"
-        ],
         "asn": "AS10996"
     },
     {
@@ -12855,10 +12851,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "phin",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "DFRI79",
         "exit_address": [
             "171.25.193.39"
@@ -14781,6 +14773,10 @@
             "185.220.101.171"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "nlrelay",
+        "asn": "AS213877"
     },
     {
         "nickname": "prsv",
@@ -17861,9 +17857,6 @@
     },
     {
         "nickname": "labana",
-        "exit_address": [
-            "89.110.95.164"
-        ],
         "asn": "AS200019"
     },
     {
