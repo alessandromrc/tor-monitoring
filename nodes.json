@@ -3270,7 +3270,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.145"
+            "204.76.203.145",
+            "88.80.26.226"
         ],
         "asn": "AS33837"
     },
@@ -3452,7 +3453,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.210"
+            "204.76.203.210",
+            "88.80.26.234"
         ],
         "asn": "AS33837"
     },
@@ -4313,6 +4315,9 @@
     },
     {
         "nickname": "softmouse",
+        "exit_address": [
+            "46.165.194.56"
+        ],
         "asn": "AS28753"
     },
     {
@@ -9555,10 +9560,6 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "huckleberie",
-        "asn": "AS60404"
-    },
-    {
         "nickname": "baronCV3",
         "exit_address": [
             "212.38.189.186"
@@ -13622,7 +13623,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.19"
+            "204.76.203.19",
+            "88.80.26.233"
         ],
         "asn": "AS33837"
     },
@@ -14857,6 +14859,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "NTH24R4",
         "exit_address": [
             "192.42.116.176"
@@ -14925,6 +14931,10 @@
             "180.150.226.99"
         ],
         "asn": "AS45382"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -16359,7 +16369,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.155"
+            "204.76.203.155",
+            "88.80.26.230"
         ],
         "asn": "AS33837"
     },
@@ -16789,6 +16800,10 @@
             "109.70.100.10"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -18853,7 +18868,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.205"
+            "204.76.203.205",
+            "88.80.26.229"
         ],
         "asn": "AS33837"
     },
@@ -19282,6 +19298,10 @@
         "asn": "AS41281"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "artikel10ber05",
         "exit_address": [
             "185.220.101.2"
@@ -19673,7 +19693,8 @@
     {
         "nickname": "cozybeardev",
         "exit_address": [
-            "204.76.203.204"
+            "204.76.203.204",
+            "88.80.26.228"
         ],
         "asn": "AS33837"
     },
