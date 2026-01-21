@@ -4170,7 +4170,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -4724,9 +4723,6 @@
     },
     {
         "nickname": "MoreBulgaria",
-        "exit_address": [
-            "45.9.156.106"
-        ],
         "asn": "AS211619"
     },
     {
