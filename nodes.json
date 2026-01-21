@@ -17657,10 +17657,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "ProjectPrivacyX1",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "SmokeAspectRangers",
         "exit_address": [
             "82.221.128.191"
@@ -20759,6 +20755,9 @@
     },
     {
         "nickname": "slavaukraini",
+        "exit_address": [
+            "37.187.74.97"
+        ],
         "asn": "AS16276"
     },
     {
