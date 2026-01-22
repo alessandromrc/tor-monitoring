@@ -4159,7 +4159,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -12191,9 +12190,6 @@
     },
     {
         "nickname": "Jumpity",
-        "exit_address": [
-            "139.162.156.36"
-        ],
         "asn": "AS63949"
     },
     {
@@ -17539,10 +17535,6 @@
             "45.84.107.222"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "zhangsan",
-        "asn": "AS42960"
     },
     {
         "nickname": "RuneByteNET",
