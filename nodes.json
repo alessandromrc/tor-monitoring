@@ -3494,9 +3494,6 @@
     },
     {
         "nickname": "DXV7520",
-        "exit_address": [
-            "31.133.0.235"
-        ],
         "asn": "AS51290"
     },
     {
@@ -5602,6 +5599,9 @@
     },
     {
         "nickname": "bauruine",
+        "exit_address": [
+            "185.243.218.233"
+        ],
         "asn": "AS56655"
     },
     {
@@ -14784,6 +14784,9 @@
     },
     {
         "nickname": "nlrelay",
+        "exit_address": [
+            "144.31.253.90"
+        ],
         "asn": "AS213877"
     },
     {
