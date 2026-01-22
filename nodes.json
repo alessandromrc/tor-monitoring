@@ -5213,9 +5213,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
@@ -10802,6 +10799,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.175",
             "198.167.206.187"
         ],
         "asn": "AS39287"
@@ -15473,6 +15471,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "MoreBulgaria",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.106"
@@ -18540,6 +18542,9 @@
     },
     {
         "nickname": "clubflamme",
+        "exit_address": [
+            "108.181.69.243"
+        ],
         "asn": "AS40676"
     },
     {
@@ -19840,9 +19845,6 @@
     },
     {
         "nickname": "nlrly",
-        "exit_address": [
-            "144.31.253.90"
-        ],
         "asn": "AS213877"
     },
     {
