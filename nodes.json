@@ -257,9 +257,6 @@
     },
     {
         "nickname": "onionDAOrel0aded1",
-        "exit_address": [
-            "5.2.79.190"
-        ],
         "asn": "AS60404"
     },
     {
@@ -8238,10 +8235,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "QuintexAirVPN6",
         "exit_address": [
             "204.8.96.117"
@@ -9417,6 +9410,9 @@
     },
     {
         "nickname": "hfguihgrudifhguih",
+        "exit_address": [
+            "185.11.136.232"
+        ],
         "asn": "AS48823"
     },
     {
@@ -10799,7 +10795,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.175"
+            "198.167.206.175",
+            "198.167.206.238"
         ],
         "asn": "AS39287"
     },
@@ -11453,6 +11450,9 @@
     },
     {
         "nickname": "yeewatertorexit",
+        "exit_address": [
+            "38.225.209.82"
+        ],
         "asn": "AS149440"
     },
     {
