@@ -4145,7 +4145,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -13585,6 +13584,9 @@
     },
     {
         "nickname": "bronkintheusa",
+        "exit_address": [
+            "45.38.20.27"
+        ],
         "asn": "AS215659"
     },
     {
@@ -17878,6 +17880,9 @@
     },
     {
         "nickname": "labana",
+        "exit_address": [
+            "89.110.95.164"
+        ],
         "asn": "AS200019"
     },
     {
