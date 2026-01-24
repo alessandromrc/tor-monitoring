@@ -1565,9 +1565,6 @@
     },
     {
         "nickname": "sartre1",
-        "exit_address": [
-            "185.246.191.53"
-        ],
         "asn": "AS200651"
     },
     {
@@ -4943,6 +4940,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.244.192.184"
+        ],
         "asn": "AS197540"
     },
     {
