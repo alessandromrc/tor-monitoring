@@ -1926,6 +1926,9 @@
     },
     {
         "nickname": "NoFWord",
+        "exit_address": [
+            "45.129.8.100"
+        ],
         "asn": "AS3258"
     },
     {
@@ -4946,9 +4949,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
@@ -16941,9 +16941,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.184"
-        ],
         "asn": "AS197540"
     },
     {
