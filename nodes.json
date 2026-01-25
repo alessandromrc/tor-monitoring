@@ -3724,9 +3724,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.175"
-        ],
         "asn": "AS197540"
     },
     {
@@ -4945,6 +4942,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.244.192.184"
+        ],
         "asn": "AS197540"
     },
     {
@@ -16937,6 +16937,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.244.192.184"
+        ],
         "asn": "AS197540"
     },
     {
@@ -20598,6 +20601,10 @@
             "45.80.158.143"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "goodvikings",
+        "asn": "AS19318"
     },
     {
         "nickname": "NeelTorExit5A",
