@@ -13666,6 +13666,9 @@
     },
     {
         "nickname": "delusional",
+        "exit_address": [
+            "45.138.16.125"
+        ],
         "asn": "AS210558"
     },
     {
@@ -17883,9 +17886,6 @@
     },
     {
         "nickname": "labana",
-        "exit_address": [
-            "89.110.95.164"
-        ],
         "asn": "AS200019"
     },
     {
