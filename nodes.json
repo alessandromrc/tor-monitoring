@@ -4182,6 +4182,9 @@
     },
     {
         "nickname": "tainish",
+        "exit_address": [
+            "130.193.10.21"
+        ],
         "asn": "AS29134"
     },
     {
@@ -4610,6 +4613,9 @@
     },
     {
         "nickname": "taine",
+        "exit_address": [
+            "130.193.15.186"
+        ],
         "asn": "AS29134"
     },
     {
@@ -12068,9 +12074,6 @@
     },
     {
         "nickname": "BringBackSilkRo",
-        "exit_address": [
-            "141.98.11.62"
-        ],
         "asn": "AS209605"
     },
     {
