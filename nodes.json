@@ -4149,7 +4149,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -18638,9 +18637,6 @@
     },
     {
         "nickname": "jokulhops",
-        "exit_address": [
-            "130.193.15.79"
-        ],
         "asn": "AS29134"
     },
     {
