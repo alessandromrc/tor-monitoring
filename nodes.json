@@ -5206,9 +5206,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
@@ -8624,6 +8621,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "opNetcomethru",
+        "asn": "AS136258"
+    },
+    {
         "nickname": "Quintex68",
         "exit_address": [
             "204.8.96.157"
@@ -10803,7 +10804,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.150"
+            "198.167.206.150",
+            "198.167.206.248"
         ],
         "asn": "AS39287"
     },
@@ -16624,9 +16626,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
@@ -18698,6 +18697,9 @@
     },
     {
         "nickname": "jokulhops",
+        "exit_address": [
+            "130.193.15.79"
+        ],
         "asn": "AS29134"
     },
     {
