@@ -807,6 +807,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "cozybeardev",
         "exit_address": [
             "88.80.26.227"
@@ -1968,6 +1972,10 @@
             "203.202.232.160"
         ],
         "asn": "AS44382"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "artikel5ev1b",
@@ -3155,6 +3163,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "r0cket15i4",
         "exit_address": [
             "45.84.107.174"
@@ -4141,7 +4153,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -6905,6 +6917,10 @@
             "171.25.193.79"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "kuerbis",
@@ -10565,6 +10581,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "NTH24R7",
         "exit_address": [
             "192.42.116.176"
@@ -11278,6 +11298,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "snowden",
         "exit_address": [
             "23.129.64.147"
@@ -11419,6 +11443,9 @@
     },
     {
         "nickname": "yeewatertorexit",
+        "exit_address": [
+            "38.225.209.82"
+        ],
         "asn": "AS149440"
     },
     {
@@ -18611,6 +18638,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "jokulhops",
         "exit_address": [
             "130.193.15.79"
@@ -21452,6 +21483,10 @@
             "45.84.107.47"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "privexnl1exit",
