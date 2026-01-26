@@ -1778,6 +1778,9 @@
     },
     {
         "nickname": "AlpineNodeWMXZ",
+        "exit_address": [
+            "154.53.75.187"
+        ],
         "asn": "AS46783"
     },
     {
@@ -10793,8 +10796,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.150",
-            "198.167.206.194"
+            "198.167.206.150"
         ],
         "asn": "AS39287"
     },
