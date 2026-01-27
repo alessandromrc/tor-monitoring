@@ -818,9 +818,6 @@
     },
     {
         "nickname": "cozybeardev",
-        "exit_address": [
-            "88.80.26.227"
-        ],
         "asn": "AS33837"
     },
     {
@@ -1873,6 +1870,9 @@
     },
     {
         "nickname": "noack4i2",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
@@ -2340,9 +2340,6 @@
     },
     {
         "nickname": "cozybeardev",
-        "exit_address": [
-            "176.65.149.179"
-        ],
         "asn": "AS51396"
     },
     {
@@ -3678,6 +3675,9 @@
     },
     {
         "nickname": "noack4i1",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
@@ -4018,9 +4018,6 @@
     },
     {
         "nickname": "cozybeardev",
-        "exit_address": [
-            "176.65.149.198"
-        ],
         "asn": "AS51396"
     },
     {
@@ -4692,6 +4689,9 @@
     },
     {
         "nickname": "Kron0sExitAU",
+        "exit_address": [
+            "172.105.179.100"
+        ],
         "asn": "AS63949"
     },
     {
@@ -4766,6 +4766,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.104.176"
+        ],
         "asn": "AS197540"
     },
     {
@@ -10800,6 +10803,7 @@
         "nickname": "europeantgah",
         "exit_address": [
             "198.167.206.180",
+            "198.167.206.238",
             "198.167.206.248"
         ],
         "asn": "AS39287"
@@ -19893,6 +19897,9 @@
     },
     {
         "nickname": "noack4i0",
+        "exit_address": [
+            "195.47.238.86"
+        ],
         "asn": "AS30893"
     },
     {
