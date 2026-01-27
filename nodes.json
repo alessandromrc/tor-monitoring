@@ -2419,6 +2419,10 @@
         "asn": "AS29691"
     },
     {
+        "nickname": "Tribulation",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.92"
@@ -5206,6 +5210,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.98.162"
+        ],
         "asn": "AS197540"
     },
     {
@@ -8622,6 +8629,9 @@
     },
     {
         "nickname": "opNetcomethru",
+        "exit_address": [
+            "109.104.153.22"
+        ],
         "asn": "AS136258"
     },
     {
@@ -8952,6 +8962,10 @@
             "45.141.215.97"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "sweettooth",
+        "asn": "AS21409"
     },
     {
         "nickname": "node112bridge",
@@ -10804,7 +10818,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.150",
             "198.167.206.248"
         ],
         "asn": "AS39287"
@@ -12734,6 +12747,10 @@
             "45.95.169.104"
         ],
         "asn": "AS211619"
+    },
+    {
+        "nickname": "TheHedy1",
+        "asn": "AS133210"
     },
     {
         "nickname": "OMICRON",
