@@ -1872,6 +1872,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "noack4i2",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "poitras",
         "exit_address": [
             "23.129.64.146"
@@ -3671,6 +3675,10 @@
             "109.70.100.12"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "noack4i1",
+        "asn": "AS30893"
     },
     {
         "nickname": "rdExiTorNode",
@@ -14593,6 +14601,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "noack4i3",
+        "asn": "AS30893"
+    },
+    {
         "nickname": "parmigiano",
         "exit_address": [
             "64.190.76.13"
@@ -19878,6 +19890,10 @@
             "204.8.96.119"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "noack4i0",
+        "asn": "AS30893"
     },
     {
         "nickname": "NeelTorExit1A",
