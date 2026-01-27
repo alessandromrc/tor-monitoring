@@ -2420,6 +2420,9 @@
     },
     {
         "nickname": "Tribulation",
+        "exit_address": [
+            "74.50.118.26"
+        ],
         "asn": "AS29802"
     },
     {
@@ -8965,6 +8968,9 @@
     },
     {
         "nickname": "sweettooth",
+        "exit_address": [
+            "178.170.116.193"
+        ],
         "asn": "AS21409"
     },
     {
@@ -12753,6 +12759,9 @@
     },
     {
         "nickname": "TheHedy1",
+        "exit_address": [
+            "103.253.24.18"
+        ],
         "asn": "AS133210"
     },
     {
@@ -19600,9 +19609,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.95.169.110"
-        ],
         "asn": "AS211619"
     },
     {
