@@ -1250,6 +1250,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "trapExitNode",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "cozybeardev",
         "asn": "AS51396"
     },
@@ -4154,7 +4158,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -7932,6 +7936,9 @@
     },
     {
         "nickname": "trapExiNode",
+        "exit_address": [
+            "43.157.71.110"
+        ],
         "asn": "AS132203"
     },
     {
