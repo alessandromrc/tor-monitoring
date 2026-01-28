@@ -9217,13 +9217,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "HungaryFastDC2",
-        "exit_address": [
-            "37.221.209.198"
-        ],
-        "asn": "AS41075"
-    },
-    {
         "nickname": "Polyphemus7",
         "exit_address": [
             "107.189.31.187"
@@ -13629,6 +13622,10 @@
             "124.198.131.114"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "ToRPortal70oz",
+        "asn": "AS14956"
     },
     {
         "nickname": "Quetzalcoatl",
