@@ -1251,6 +1251,9 @@
     },
     {
         "nickname": "trapExitNode",
+        "exit_address": [
+            "43.159.138.176"
+        ],
         "asn": "AS132203"
     },
     {
@@ -1764,9 +1767,6 @@
     },
     {
         "nickname": "AlpineNodeWMXZ",
-        "exit_address": [
-            "154.53.75.187"
-        ],
         "asn": "AS46783"
     },
     {
@@ -4158,7 +4158,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -9036,9 +9036,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "91.132.144.59"
-        ],
         "asn": "AS197540"
     },
     {
