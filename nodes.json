@@ -13624,6 +13624,9 @@
     },
     {
         "nickname": "ToRPortal70oz",
+        "exit_address": [
+            "107.189.20.102"
+        ],
         "asn": "AS14956"
     },
     {
@@ -17898,9 +17901,6 @@
     },
     {
         "nickname": "labana",
-        "exit_address": [
-            "89.110.95.164"
-        ],
         "asn": "AS200019"
     },
     {
