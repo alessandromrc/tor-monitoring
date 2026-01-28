@@ -8625,6 +8625,9 @@
     },
     {
         "nickname": "trapExitNode",
+        "exit_address": [
+            "43.157.157.73"
+        ],
         "asn": "AS132203"
     },
     {
@@ -10816,6 +10819,10 @@
         "asn": "AS213438"
     },
     {
+        "nickname": "2083787175249486",
+        "asn": "AS211507"
+    },
+    {
         "nickname": "flokinet2n3",
         "exit_address": [
             "185.246.188.74"
@@ -11571,6 +11578,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "torclipPost11",
+        "asn": "AS14956"
+    },
+    {
         "nickname": "meerrettich",
         "exit_address": [
             "109.70.100.9"
@@ -12183,10 +12194,6 @@
             "192.42.116.208"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Jumpity",
-        "asn": "AS63949"
     },
     {
         "nickname": "VrijHeid4",
