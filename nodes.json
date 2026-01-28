@@ -998,6 +998,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "torclipPost11",
+        "asn": "AS14956"
+    },
+    {
         "nickname": "artikel5ev1",
         "exit_address": [
             "87.118.116.90"
@@ -10793,6 +10797,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.230",
             "198.167.206.238"
         ],
         "asn": "AS39287"
@@ -19864,9 +19869,6 @@
     },
     {
         "nickname": "noack4i0",
-        "exit_address": [
-            "195.47.238.86"
-        ],
         "asn": "AS30893"
     },
     {
