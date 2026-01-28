@@ -7931,6 +7931,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "trapExiNode",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "UnredactedIran",
         "exit_address": [
             "23.191.200.21"
@@ -8604,6 +8608,10 @@
             "204.8.96.157"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "trapExitNode",
+        "asn": "AS132203"
     },
     {
         "nickname": "Unnamed",
