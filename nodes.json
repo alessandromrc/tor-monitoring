@@ -10554,10 +10554,16 @@
     },
     {
         "nickname": "NadekoNet",
+        "exit_address": [
+            "95.135.208.24"
+        ],
         "asn": "AS214677"
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -20688,9 +20694,6 @@
     },
     {
         "nickname": "relayon0187",
-        "exit_address": [
-            "185.220.101.187"
-        ],
         "asn": "AS60729"
     },
     {
