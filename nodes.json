@@ -4190,6 +4190,7 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -10071,6 +10072,9 @@
     },
     {
         "nickname": "TorExitVIF",
+        "exit_address": [
+            "216.239.90.19"
+        ],
         "asn": "AS10996"
     },
     {
