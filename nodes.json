@@ -2470,6 +2470,9 @@
     },
     {
         "nickname": "blueprint",
+        "exit_address": [
+            "185.132.53.107"
+        ],
         "asn": "AS211507"
     },
     {
@@ -13093,6 +13096,10 @@
             "192.42.116.184"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "howeverExit",
+        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
