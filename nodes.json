@@ -5539,6 +5539,9 @@
     },
     {
         "nickname": "tre",
+        "exit_address": [
+            "108.181.69.137"
+        ],
         "asn": "AS40676"
     },
     {
@@ -10469,9 +10472,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
