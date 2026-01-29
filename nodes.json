@@ -4156,7 +4156,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -5536,6 +5536,10 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "tre",
+        "asn": "AS40676"
     },
     {
         "nickname": "NTH28R1",
@@ -14383,10 +14387,6 @@
             "172.234.228.174"
         ],
         "asn": "AS63949"
-    },
-    {
-        "nickname": "sartre2",
-        "asn": "AS200651"
     },
     {
         "nickname": "judoka",
