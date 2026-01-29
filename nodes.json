@@ -10553,6 +10553,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "NadekoNet",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "ninjaturtle",
         "asn": "AS60781"
     },
@@ -11585,6 +11589,7 @@
     {
         "nickname": "torclipPost11",
         "exit_address": [
+            "170.168.103.42",
             "172.86.70.20"
         ],
         "asn": "AS14956"
