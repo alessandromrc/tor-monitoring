@@ -5220,6 +5220,9 @@
     },
     {
         "nickname": "sweettooth",
+        "exit_address": [
+            "178.170.114.117"
+        ],
         "asn": "AS21409"
     },
     {
@@ -11499,6 +11502,9 @@
     },
     {
         "nickname": "sexytiem",
+        "exit_address": [
+            "95.216.107.148"
+        ],
         "asn": "AS24940"
     },
     {
@@ -12609,9 +12615,6 @@
     },
     {
         "nickname": "mirage",
-        "exit_address": [
-            "91.219.237.39"
-        ],
         "asn": "AS56322"
     },
     {
