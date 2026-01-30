@@ -1563,10 +1563,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "sartre1",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "Stratus",
         "exit_address": [
             "167.86.67.104"
@@ -4185,7 +4181,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -11534,6 +11530,9 @@
     },
     {
         "nickname": "yeewatertorexit",
+        "exit_address": [
+            "38.225.209.82"
+        ],
         "asn": "AS149440"
     },
     {
@@ -19756,6 +19755,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
