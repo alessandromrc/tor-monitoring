@@ -5219,6 +5219,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "sweettooth",
+        "asn": "AS21409"
+    },
+    {
         "nickname": "NTH2R3",
         "exit_address": [
             "192.42.116.192"
@@ -9595,6 +9599,9 @@
     },
     {
         "nickname": "hi5me0",
+        "exit_address": [
+            "51.15.20.78"
+        ],
         "asn": "AS12876"
     },
     {
@@ -17631,6 +17638,9 @@
     },
     {
         "nickname": "hi5meo",
+        "exit_address": [
+            "51.15.15.45"
+        ],
         "asn": "AS12876"
     },
     {
