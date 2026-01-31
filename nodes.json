@@ -10582,9 +10582,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -13826,6 +13823,10 @@
             "192.159.99.38"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "snTorExit02",
+        "asn": "AS40663"
     },
     {
         "nickname": "artikel10ber105",
@@ -20013,6 +20014,9 @@
     },
     {
         "nickname": "konekoovh",
+        "exit_address": [
+            "51.254.140.209"
+        ],
         "asn": "AS16276"
     },
     {
