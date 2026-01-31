@@ -8207,9 +8207,6 @@
     },
     {
         "nickname": "meowing1",
-        "exit_address": [
-            "107.152.41.55"
-        ],
         "asn": "AS11878"
     },
     {
@@ -13344,6 +13341,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.230"
+        ],
         "asn": "AS210558"
     },
     {
@@ -19263,10 +19263,6 @@
             "185.35.202.222"
         ],
         "asn": "AS50304"
-    },
-    {
-        "nickname": "kfc",
-        "asn": "AS51396"
     },
     {
         "nickname": "Quetzalcoatl",
