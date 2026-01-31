@@ -4278,7 +4278,8 @@
     {
         "nickname": "labana2",
         "exit_address": [
-            "176.125.240.208"
+            "176.125.240.208",
+            "89.110.95.164"
         ],
         "asn": "AS200019"
     },
@@ -8650,6 +8651,9 @@
     },
     {
         "nickname": "trapExitNode",
+        "exit_address": [
+            "43.157.157.73"
+        ],
         "asn": "AS132203"
     },
     {
@@ -17464,7 +17468,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "0xRelay2",
+        "nickname": "ExitForPrivacyFree",
         "exit_address": [
             "137.74.114.130"
         ],
