@@ -3539,9 +3539,6 @@
     },
     {
         "nickname": "Syst",
-        "exit_address": [
-            "185.132.53.150"
-        ],
         "asn": "AS211507"
     },
     {
@@ -5200,6 +5197,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
