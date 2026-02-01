@@ -12681,9 +12681,6 @@
     },
     {
         "nickname": "incognetALNTWNPA",
-        "exit_address": [
-            "23.137.253.254"
-        ],
         "asn": "AS40663"
     },
     {
@@ -17775,6 +17772,10 @@
             "204.8.96.169"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "ProjectPrivacyX1",
+        "asn": "AS20473"
     },
     {
         "nickname": "prsv",
