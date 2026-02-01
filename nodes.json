@@ -439,6 +439,10 @@
         "asn": "AS214209"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS51852"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.200"
@@ -17217,6 +17221,9 @@
     },
     {
         "nickname": "YourRelayName",
+        "exit_address": [
+            "104.36.80.7"
+        ],
         "asn": "AS40663"
     },
     {
