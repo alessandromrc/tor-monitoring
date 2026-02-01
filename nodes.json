@@ -4171,7 +4171,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -10855,10 +10855,6 @@
         "asn": "AS6939"
     },
     {
-        "nickname": "Lamia",
-        "asn": "AS47890"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.88.186.89"
@@ -12516,6 +12512,9 @@
     },
     {
         "nickname": "TheMadHackerNodeV5",
+        "exit_address": [
+            "152.53.170.213"
+        ],
         "asn": "AS214996"
     },
     {
