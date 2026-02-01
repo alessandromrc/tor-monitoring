@@ -3536,6 +3536,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -5028,6 +5031,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -5218,9 +5224,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
@@ -7535,6 +7538,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.137.99.79"
+        ],
         "asn": "AS214209"
     },
     {
@@ -11501,9 +11507,6 @@
     },
     {
         "nickname": "yeewatertorexit",
-        "exit_address": [
-            "38.225.209.82"
-        ],
         "asn": "AS149440"
     },
     {
@@ -14442,6 +14445,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "185.132.53.121"
+        ],
         "asn": "AS211507"
     },
     {
@@ -16619,9 +16625,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.98.162"
-        ],
         "asn": "AS197540"
     },
     {
