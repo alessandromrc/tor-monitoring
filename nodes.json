@@ -440,6 +440,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "81.17.24.237"
+        ],
         "asn": "AS51852"
     },
     {
@@ -4275,9 +4278,6 @@
     },
     {
         "nickname": "labana2",
-        "exit_address": [
-            "89.110.95.164"
-        ],
         "asn": "AS200019"
     },
     {
@@ -8645,9 +8645,6 @@
     },
     {
         "nickname": "trapExitNode",
-        "exit_address": [
-            "43.157.157.73"
-        ],
         "asn": "AS132203"
     },
     {
