@@ -4269,7 +4269,6 @@
     {
         "nickname": "labana2",
         "exit_address": [
-            "176.125.240.208",
             "89.110.95.164"
         ],
         "asn": "AS200019"
@@ -7434,6 +7433,9 @@
     },
     {
         "nickname": "Tofoten",
+        "exit_address": [
+            "216.144.230.176"
+        ],
         "asn": "AS36352"
     },
     {
@@ -16533,6 +16535,9 @@
     },
     {
         "nickname": "forest01",
+        "exit_address": [
+            "94.156.152.8"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17775,6 +17780,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
