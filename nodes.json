@@ -7473,6 +7473,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.137.99.79"
+        ],
         "asn": "AS214209"
     },
     {
@@ -10468,6 +10471,9 @@
     },
     {
         "nickname": "emberhare",
+        "exit_address": [
+            "5.34.182.203"
+        ],
         "asn": "AS15626"
     },
     {
@@ -13569,9 +13575,6 @@
     },
     {
         "nickname": "ToRPortal70oz",
-        "exit_address": [
-            "107.189.20.102"
-        ],
         "asn": "AS14956"
     },
     {
@@ -18730,6 +18733,9 @@
     },
     {
         "nickname": "sullyhelpstor",
+        "exit_address": [
+            "107.189.13.254"
+        ],
         "asn": "AS53667"
     },
     {
