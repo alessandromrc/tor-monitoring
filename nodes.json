@@ -5833,6 +5833,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "gepg",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "85.208.139.110"
@@ -7538,9 +7542,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "45.137.99.79"
-        ],
         "asn": "AS214209"
     },
     {
@@ -9356,10 +9357,6 @@
             "192.159.99.162"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "opNetcomethru",
-        "asn": "AS136258"
     },
     {
         "nickname": "FEVI04EXIT",
