@@ -12721,9 +12721,6 @@
     },
     {
         "nickname": "OMICRON",
-        "exit_address": [
-            "86.54.28.49"
-        ],
         "asn": "AS12989"
     },
     {
@@ -18091,6 +18088,9 @@
     },
     {
         "nickname": "vpsonfire",
+        "exit_address": [
+            "45.9.156.100"
+        ],
         "asn": "AS211619"
     },
     {
