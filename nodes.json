@@ -5834,6 +5834,9 @@
     },
     {
         "nickname": "gepg",
+        "exit_address": [
+            "92.117.141.204"
+        ],
         "asn": "AS8881"
     },
     {
@@ -7466,6 +7469,10 @@
     {
         "nickname": "hogman2",
         "asn": "AS40663"
+    },
+    {
+        "nickname": "brrbigchungus",
+        "asn": "AS48314"
     },
     {
         "nickname": "kerpatenko",
@@ -17036,9 +17043,6 @@
     },
     {
         "nickname": "relayon0158",
-        "exit_address": [
-            "185.220.101.158"
-        ],
         "asn": "AS60729"
     },
     {
