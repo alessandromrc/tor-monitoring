@@ -1749,10 +1749,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "AlpineNodeWMXZ",
-        "asn": "AS46783"
-    },
-    {
         "nickname": "Digitalcourage4ipgb",
         "exit_address": [
             "185.220.101.102"
@@ -12645,6 +12641,9 @@
     },
     {
         "nickname": "OMICRON",
+        "exit_address": [
+            "86.54.28.49"
+        ],
         "asn": "AS12989"
     },
     {
@@ -16832,6 +16831,10 @@
             "185.244.192.184"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "SchoolProjectIstg",
+        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
