@@ -4113,7 +4113,6 @@
     {
         "nickname": "FEVI02EXIT",
         "exit_address": [
-            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -10566,9 +10565,6 @@
     },
     {
         "nickname": "BronkHungaryHR2",
-        "exit_address": [
-            "37.221.209.199"
-        ],
         "asn": "AS41075"
     },
     {
