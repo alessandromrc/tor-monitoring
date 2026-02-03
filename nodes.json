@@ -1301,9 +1301,6 @@
     },
     {
         "nickname": "Hermes",
-        "exit_address": [
-            "104.244.72.115"
-        ],
         "asn": "AS53667"
     },
     {
@@ -3346,9 +3343,6 @@
     },
     {
         "nickname": "privatebrowsingorg",
-        "exit_address": [
-            "107.189.12.7"
-        ],
         "asn": "AS53667"
     },
     {
@@ -3935,6 +3929,9 @@
     },
     {
         "nickname": "wippvannwinkle",
+        "exit_address": [
+            "194.53.137.102"
+        ],
         "asn": "AS9009"
     },
     {
@@ -7719,6 +7716,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "94.103.3.151"
+        ],
         "asn": "AS207713"
     },
     {
@@ -16830,6 +16830,9 @@
     },
     {
         "nickname": "SchoolProjectIstg",
+        "exit_address": [
+            "172.232.219.78"
+        ],
         "asn": "AS63949"
     },
     {
