@@ -463,10 +463,6 @@
         "asn": "AS20011"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS135377"
-    },
-    {
         "nickname": "TV5302",
         "asn": "AS22927"
     },
@@ -11623,6 +11619,10 @@
         "asn": "AS20001"
     },
     {
+        "nickname": "TV131",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "TV3590",
         "asn": "AS22773"
     },
@@ -15533,6 +15533,9 @@
     },
     {
         "nickname": "mingles",
+        "exit_address": [
+            "23.236.122.193"
+        ],
         "asn": "AS21859"
     },
     {
@@ -17761,6 +17764,10 @@
     {
         "nickname": "TV6391",
         "asn": "AS37705"
+    },
+    {
+        "nickname": "mycontribution",
+        "asn": "AS14061"
     },
     {
         "nickname": "TV7001",
@@ -20285,7 +20292,7 @@
         "asn": "AS36903"
     },
     {
-        "nickname": "TV5526",
+        "nickname": "TV970",
         "asn": "AS27983"
     },
     {
@@ -21198,7 +21205,7 @@
         "asn": "AS10796"
     },
     {
-        "nickname": "TV7818",
+        "nickname": "TV1918",
         "asn": "AS7018"
     },
     {
@@ -24236,7 +24243,7 @@
         "asn": "AS8151"
     },
     {
-        "nickname": "TV8941",
+        "nickname": "TV1863",
         "asn": "AS22927"
     },
     {
@@ -26317,7 +26324,7 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "TV224",
+        "nickname": "TV5777",
         "asn": "AS7303"
     },
     {
@@ -27396,7 +27403,7 @@
         "asn": "AS22773"
     },
     {
-        "nickname": "TV7205",
+        "nickname": "TV3728",
         "asn": "AS2860"
     },
     {
@@ -30612,7 +30619,7 @@
         "asn": "AS22773"
     },
     {
-        "nickname": "TV5531",
+        "nickname": "TV9327",
         "asn": "AS27800"
     },
     {
@@ -35778,7 +35785,7 @@
         "asn": "AS13576"
     },
     {
-        "nickname": "TV7165",
+        "nickname": "TV8114",
         "asn": "AS7303"
     },
     {
@@ -39101,8 +39108,8 @@
         "asn": "AS14615"
     },
     {
-        "nickname": "TV6254",
-        "asn": "AS28075"
+        "nickname": "TV7968",
+        "asn": "AS10617"
     },
     {
         "nickname": "TV6125",
@@ -43734,6 +43741,10 @@
         "asn": "AS22927"
     },
     {
+        "nickname": "TV275",
+        "asn": "AS4181"
+    },
+    {
         "nickname": "TV2788",
         "asn": "AS13489"
     },
@@ -46356,7 +46367,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV1019",
+        "nickname": "TV1485",
         "asn": "AS7303"
     },
     {
