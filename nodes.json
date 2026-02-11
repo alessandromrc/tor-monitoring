@@ -1230,6 +1230,10 @@
         "asn": "AS22927"
     },
     {
+        "nickname": "TV411",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "TV2093",
         "asn": "AS46690"
     },
@@ -1984,6 +1988,9 @@
     },
     {
         "nickname": "hnlexit5",
+        "exit_address": [
+            "72.235.129.116"
+        ],
         "asn": "AS36149"
     },
     {
@@ -4766,7 +4773,7 @@
         "asn": "AS11232"
     },
     {
-        "nickname": "TV8067",
+        "nickname": "TV7452",
         "asn": "AS701"
     },
     {
@@ -12326,10 +12333,6 @@
     {
         "nickname": "TV6839",
         "asn": "AS22927"
-    },
-    {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS53667"
     },
     {
         "nickname": "TV760",
@@ -20411,10 +20414,6 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "TV6839",
         "asn": "AS7303"
     },
@@ -26415,6 +26414,10 @@
         "asn": "AS22927"
     },
     {
+        "nickname": "TV2165",
+        "asn": "AS6128"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.74"
@@ -28394,7 +28397,7 @@
         "asn": "AS4181"
     },
     {
-        "nickname": "TV9977",
+        "nickname": "TV29",
         "asn": "AS22927"
     },
     {
@@ -30441,7 +30444,7 @@
         "asn": "AS27747"
     },
     {
-        "nickname": "TV4748",
+        "nickname": "TV6143",
         "asn": "AS22927"
     },
     {
@@ -36402,7 +36405,7 @@
         "asn": "AS20011"
     },
     {
-        "nickname": "TV6271",
+        "nickname": "TV3056",
         "asn": "AS22927"
     },
     {
@@ -36974,9 +36977,6 @@
     },
     {
         "nickname": "bronkromanian2",
-        "exit_address": [
-            "93.113.25.160"
-        ],
         "asn": "AS214209"
     },
     {
@@ -45096,10 +45096,6 @@
     {
         "nickname": "TV8592",
         "asn": "AS22773"
-    },
-    {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS53667"
     },
     {
         "nickname": "TV8786",
