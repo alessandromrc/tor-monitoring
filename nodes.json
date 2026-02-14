@@ -1963,6 +1963,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.94.111.228"
+        ],
         "asn": "AS40021"
     },
     {
@@ -6364,7 +6367,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8559",
+        "nickname": "TV1157",
         "asn": "AS7303"
     },
     {
@@ -13284,6 +13287,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.94.111.228"
+        ],
         "asn": "AS40021"
     },
     {
@@ -16199,7 +16205,7 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV3181",
+        "nickname": "TV3450",
         "asn": "AS701"
     },
     {
@@ -16951,6 +16957,10 @@
     {
         "nickname": "TV931",
         "asn": "AS22927"
+    },
+    {
+        "nickname": "TV9360",
+        "asn": "AS37705"
     },
     {
         "nickname": "r0cket02i4",
@@ -21484,6 +21494,9 @@
     },
     {
         "nickname": "FurNet",
+        "exit_address": [
+            "80.71.228.8"
+        ],
         "asn": "AS201392"
     },
     {
