@@ -14,10 +14,6 @@
         "asn": "AS212508"
     },
     {
-        "nickname": "TV8705",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.138.16.234"
@@ -90,9 +86,6 @@
     },
     {
         "nickname": "Quintex13",
-        "exit_address": [
-            "204.8.96.103"
-        ],
         "asn": "AS62744"
     },
     {
@@ -132,16 +125,10 @@
     },
     {
         "nickname": "Quintex55",
-        "exit_address": [
-            "204.8.96.144"
-        ],
         "asn": "AS62744"
     },
     {
         "nickname": "Quintex85",
-        "exit_address": [
-            "204.8.96.174"
-        ],
         "asn": "AS62744"
     },
     {
@@ -385,9 +372,6 @@
     },
     {
         "nickname": "QuintexAirVPN26",
-        "exit_address": [
-            "204.8.96.79"
-        ],
         "asn": "AS62744"
     },
     {
@@ -1862,9 +1846,6 @@
     },
     {
         "nickname": "Quintex67",
-        "exit_address": [
-            "204.8.96.156"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2037,9 +2018,6 @@
     },
     {
         "nickname": "Quintex18",
-        "exit_address": [
-            "204.8.96.108"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2360,9 +2338,6 @@
     },
     {
         "nickname": "Quintex53",
-        "exit_address": [
-            "204.8.96.142"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2499,9 +2474,6 @@
     },
     {
         "nickname": "Quintex36",
-        "exit_address": [
-            "204.8.96.85"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2569,9 +2541,6 @@
     },
     {
         "nickname": "Quintex77",
-        "exit_address": [
-            "204.8.96.166"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2738,9 +2707,6 @@
     },
     {
         "nickname": "Quintex14",
-        "exit_address": [
-            "204.8.96.104"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2791,9 +2757,6 @@
     },
     {
         "nickname": "Quintex43",
-        "exit_address": [
-            "204.8.96.66"
-        ],
         "asn": "AS62744"
     },
     {
@@ -3048,9 +3011,6 @@
     },
     {
         "nickname": "Quintex56",
-        "exit_address": [
-            "204.8.96.145"
-        ],
         "asn": "AS62744"
     },
     {
@@ -3100,7 +3060,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4537",
+        "nickname": "TV6200",
         "asn": "AS27747"
     },
     {
@@ -3293,10 +3253,6 @@
     },
     {
         "nickname": "themisnandy",
-        "exit_address": [
-            "176.125.240.208",
-            "178.130.131.198"
-        ],
         "asn": "AS200019"
     },
     {
@@ -3367,7 +3323,7 @@
         "asn": "AS33837"
     },
     {
-        "nickname": "TV4338",
+        "nickname": "TV9401",
         "asn": "AS6167"
     },
     {
@@ -3825,10 +3781,6 @@
         "asn": "AS27747"
     },
     {
-        "nickname": "TV4265",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "NTH22R2",
         "exit_address": [
             "192.42.116.174"
@@ -3855,10 +3807,6 @@
             "178.17.171.102"
         ],
         "asn": "AS43289"
-    },
-    {
-        "nickname": "TV1823",
-        "asn": "AS22927"
     },
     {
         "nickname": "BigLoop",
@@ -4166,7 +4114,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8406",
+        "nickname": "TV2445",
         "asn": "AS6167"
     },
     {
@@ -4285,9 +4233,6 @@
     },
     {
         "nickname": "QuintexAirVPN27",
-        "exit_address": [
-            "204.8.96.80"
-        ],
         "asn": "AS62744"
     },
     {
@@ -4395,9 +4340,6 @@
     },
     {
         "nickname": "Quintex73",
-        "exit_address": [
-            "204.8.96.162"
-        ],
         "asn": "AS62744"
     },
     {
@@ -4533,9 +4475,6 @@
     },
     {
         "nickname": "Quintex61",
-        "exit_address": [
-            "204.8.96.150"
-        ],
         "asn": "AS62744"
     },
     {
@@ -4678,9 +4617,6 @@
     },
     {
         "nickname": "Quintex93",
-        "exit_address": [
-            "204.8.96.182"
-        ],
         "asn": "AS62744"
     },
     {
@@ -4737,7 +4673,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV6211",
+        "nickname": "TV5392",
         "asn": "AS22773"
     },
     {
@@ -5349,9 +5285,6 @@
     },
     {
         "nickname": "Quintex90",
-        "exit_address": [
-            "204.8.96.179"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5535,9 +5468,6 @@
     },
     {
         "nickname": "QuintexAirVPN30",
-        "exit_address": [
-            "204.8.96.83"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5757,9 +5687,6 @@
     },
     {
         "nickname": "Quintex64",
-        "exit_address": [
-            "204.8.96.153"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5884,9 +5811,6 @@
     },
     {
         "nickname": "Quintex12",
-        "exit_address": [
-            "204.8.96.102"
-        ],
         "asn": "AS62744"
     },
     {
@@ -6089,9 +6013,6 @@
     },
     {
         "nickname": "Quintex57",
-        "exit_address": [
-            "204.8.96.146"
-        ],
         "asn": "AS62744"
     },
     {
@@ -6103,9 +6024,6 @@
     },
     {
         "nickname": "QuintexAirVPN5",
-        "exit_address": [
-            "204.8.96.116"
-        ],
         "asn": "AS62744"
     },
     {
@@ -6293,7 +6211,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8286",
+        "nickname": "TV2078",
         "asn": "AS701"
     },
     {
@@ -6452,9 +6370,6 @@
     },
     {
         "nickname": "Quintex58",
-        "exit_address": [
-            "204.8.96.147"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7055,6 +6970,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TV3521",
+        "asn": "AS22773"
+    },
+    {
         "nickname": "NTH18R4",
         "exit_address": [
             "192.42.116.215"
@@ -7092,9 +7011,6 @@
     },
     {
         "nickname": "Quintex89",
-        "exit_address": [
-            "204.8.96.178"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7120,9 +7036,6 @@
     },
     {
         "nickname": "Quintex63",
-        "exit_address": [
-            "204.8.96.152"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7237,9 +7150,6 @@
     },
     {
         "nickname": "Quintex66",
-        "exit_address": [
-            "204.8.96.155"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7434,9 +7344,6 @@
     },
     {
         "nickname": "Quintex100",
-        "exit_address": [
-            "204.8.96.189"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7567,7 +7474,7 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV6285",
+        "nickname": "TV6330",
         "asn": "AS27747"
     },
     {
@@ -7593,7 +7500,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8317",
+        "nickname": "TV4530",
         "asn": "AS25019"
     },
     {
@@ -7676,9 +7583,6 @@
     },
     {
         "nickname": "QuintexAirVPN22",
-        "exit_address": [
-            "204.8.96.75"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7844,9 +7748,6 @@
     },
     {
         "nickname": "QuintexAirVPN8",
-        "exit_address": [
-            "204.8.96.122"
-        ],
         "asn": "AS62744"
     },
     {
@@ -8346,7 +8247,11 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV7710",
+        "nickname": "TV5674",
+        "asn": "AS262196"
+    },
+    {
+        "nickname": "TV4578",
         "asn": "AS7303"
     },
     {
@@ -8827,9 +8732,6 @@
     },
     {
         "nickname": "QuintexAirVPN7",
-        "exit_address": [
-            "204.8.96.118"
-        ],
         "asn": "AS62744"
     },
     {
@@ -8939,9 +8841,6 @@
     },
     {
         "nickname": "QuintexAirVPN6",
-        "exit_address": [
-            "204.8.96.117"
-        ],
         "asn": "AS62744"
     },
     {
@@ -9190,10 +9089,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9113",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "UnredactedFravor",
         "exit_address": [
             "23.191.200.14"
@@ -9327,9 +9222,6 @@
     },
     {
         "nickname": "Quintex68",
-        "exit_address": [
-            "204.8.96.157"
-        ],
         "asn": "AS62744"
     },
     {
@@ -9523,9 +9415,6 @@
     },
     {
         "nickname": "Quintex91",
-        "exit_address": [
-            "204.8.96.180"
-        ],
         "asn": "AS62744"
     },
     {
@@ -9785,10 +9674,6 @@
             "93.113.25.90"
         ],
         "asn": "AS214209"
-    },
-    {
-        "nickname": "TV6411",
-        "asn": "AS22927"
     },
     {
         "nickname": "CembraNutBoys03",
@@ -10216,9 +10101,6 @@
     },
     {
         "nickname": "Quintex60",
-        "exit_address": [
-            "204.8.96.149"
-        ],
         "asn": "AS62744"
     },
     {
@@ -11064,7 +10946,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV9690",
+        "nickname": "TV3377",
         "asn": "AS7922"
     },
     {
@@ -11155,9 +11037,6 @@
     },
     {
         "nickname": "Quintex39",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -11255,9 +11134,6 @@
     },
     {
         "nickname": "Quintex82",
-        "exit_address": [
-            "204.8.96.171"
-        ],
         "asn": "AS62744"
     },
     {
@@ -11866,7 +11742,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9798",
+        "nickname": "TV3633",
         "asn": "AS701"
     },
     {
@@ -12487,9 +12363,6 @@
     },
     {
         "nickname": "Quintex84",
-        "exit_address": [
-            "204.8.96.173"
-        ],
         "asn": "AS62744"
     },
     {
@@ -12597,9 +12470,6 @@
     },
     {
         "nickname": "Quintex78",
-        "exit_address": [
-            "204.8.96.167"
-        ],
         "asn": "AS62744"
     },
     {
@@ -13157,9 +13027,6 @@
     },
     {
         "nickname": "Quintex69",
-        "exit_address": [
-            "204.8.96.158"
-        ],
         "asn": "AS62744"
     },
     {
@@ -13252,7 +13119,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4474",
+        "nickname": "TV8366",
         "asn": "AS20001"
     },
     {
@@ -13350,9 +13217,6 @@
     },
     {
         "nickname": "Quintex50",
-        "exit_address": [
-            "204.8.96.73"
-        ],
         "asn": "AS62744"
     },
     {
@@ -13400,9 +13264,6 @@
     },
     {
         "nickname": "Quintex72",
-        "exit_address": [
-            "204.8.96.161"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14159,9 +14020,6 @@
     },
     {
         "nickname": "QuintexAirVPN21",
-        "exit_address": [
-            "204.8.96.74"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14170,9 +14028,6 @@
     },
     {
         "nickname": "Quintex95",
-        "exit_address": [
-            "204.8.96.184"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14275,9 +14130,6 @@
     },
     {
         "nickname": "Quintex16",
-        "exit_address": [
-            "204.8.96.106"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14518,9 +14370,6 @@
     },
     {
         "nickname": "Quintex15",
-        "exit_address": [
-            "204.8.96.105"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14566,7 +14415,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV996",
+        "nickname": "TV1319",
         "asn": "AS18403"
     },
     {
@@ -14820,9 +14669,6 @@
     },
     {
         "nickname": "Quintex94",
-        "exit_address": [
-            "204.8.96.183"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14952,9 +14798,6 @@
     },
     {
         "nickname": "Quintex44",
-        "exit_address": [
-            "204.8.96.67"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15274,9 +15117,6 @@
     },
     {
         "nickname": "hviv125",
-        "exit_address": [
-            "192.42.116.25"
-        ],
         "asn": "AS215125"
     },
     {
@@ -15354,14 +15194,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV9459",
-        "asn": "AS812"
-    },
-    {
         "nickname": "Quintex51",
-        "exit_address": [
-            "204.8.96.140"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15377,16 +15210,10 @@
     },
     {
         "nickname": "Quintex70",
-        "exit_address": [
-            "204.8.96.159"
-        ],
         "asn": "AS62744"
     },
     {
         "nickname": "Quintex83",
-        "exit_address": [
-            "204.8.96.172"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15398,9 +15225,6 @@
     },
     {
         "nickname": "Quintex88",
-        "exit_address": [
-            "204.8.96.177"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15862,9 +15686,6 @@
     },
     {
         "nickname": "Quintex97",
-        "exit_address": [
-            "204.8.96.186"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15997,9 +15818,6 @@
     },
     {
         "nickname": "QuintexColinNSarah",
-        "exit_address": [
-            "204.8.96.111"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16338,6 +16156,10 @@
         "asn": "AS30633"
     },
     {
+        "nickname": "TV8537",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.114"
@@ -16365,9 +16187,6 @@
     },
     {
         "nickname": "QuintexAirVPN10",
-        "exit_address": [
-            "204.8.96.100"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16457,9 +16276,6 @@
     },
     {
         "nickname": "Quintex11",
-        "exit_address": [
-            "204.8.96.101"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16539,9 +16355,6 @@
     },
     {
         "nickname": "Quintex52",
-        "exit_address": [
-            "204.8.96.141"
-        ],
         "asn": "AS62744"
     },
     {
@@ -17313,10 +17126,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV82",
-        "asn": "AS9121"
-    },
-    {
         "nickname": "DFRI28",
         "exit_address": [
             "171.25.193.78"
@@ -17555,10 +17364,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV7201",
-        "asn": "AS9198"
-    },
-    {
         "nickname": "TV6580",
         "asn": "AS701"
     },
@@ -17695,9 +17500,6 @@
     },
     {
         "nickname": "Quintex17",
-        "exit_address": [
-            "204.8.96.107"
-        ],
         "asn": "AS62744"
     },
     {
@@ -17870,9 +17672,6 @@
     },
     {
         "nickname": "Quintex46",
-        "exit_address": [
-            "204.8.96.69"
-        ],
         "asn": "AS62744"
     },
     {
@@ -18381,9 +18180,6 @@
     },
     {
         "nickname": "QuintexAirVPN4",
-        "exit_address": [
-            "204.8.96.115"
-        ],
         "asn": "AS62744"
     },
     {
@@ -18465,7 +18261,7 @@
         "asn": "AS23201"
     },
     {
-        "nickname": "TV984",
+        "nickname": "TV687",
         "asn": "AS6167"
     },
     {
@@ -18485,10 +18281,6 @@
             "124.198.131.121"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV8093",
-        "asn": "AS16591"
     },
     {
         "nickname": "LillyCL",
@@ -18673,10 +18465,6 @@
             "45.84.107.76"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "TV5420",
-        "asn": "AS701"
     },
     {
         "nickname": "NTH27R6",
@@ -19009,9 +18797,6 @@
     },
     {
         "nickname": "QuintexPhoulRules",
-        "exit_address": [
-            "204.8.96.112"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19054,10 +18839,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV5791",
-        "asn": "AS7418"
-    },
-    {
         "nickname": "artikel10ber18",
         "exit_address": [
             "185.220.101.5"
@@ -19066,9 +18847,6 @@
     },
     {
         "nickname": "QuintexAirVPN2",
-        "exit_address": [
-            "204.8.96.121"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19087,9 +18865,6 @@
     },
     {
         "nickname": "Quintex92",
-        "exit_address": [
-            "204.8.96.181"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19211,9 +18986,6 @@
     },
     {
         "nickname": "Quintex80",
-        "exit_address": [
-            "204.8.96.169"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19406,9 +19178,6 @@
     },
     {
         "nickname": "QuintexAirVPN28",
-        "exit_address": [
-            "204.8.96.81"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19774,9 +19543,6 @@
     },
     {
         "nickname": "Quintex99",
-        "exit_address": [
-            "204.8.96.188"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19864,9 +19630,6 @@
     },
     {
         "nickname": "Quintex71",
-        "exit_address": [
-            "204.8.96.160"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20153,9 +19916,6 @@
     },
     {
         "nickname": "Quintex62",
-        "exit_address": [
-            "204.8.96.151"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20256,9 +20016,6 @@
     },
     {
         "nickname": "Quintex19",
-        "exit_address": [
-            "204.8.96.109"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20756,10 +20513,6 @@
         "asn": "AS6718"
     },
     {
-        "nickname": "TV5383",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.253"
@@ -20832,9 +20585,6 @@
     },
     {
         "nickname": "Quintex98",
-        "exit_address": [
-            "204.8.96.187"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20869,9 +20619,6 @@
     },
     {
         "nickname": "Quintex34",
-        "exit_address": [
-            "204.8.96.114"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20949,7 +20696,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV9649",
+        "nickname": "TV9788",
         "asn": "AS701"
     },
     {
@@ -20986,10 +20733,6 @@
             "193.189.100.200"
         ],
         "asn": "AS41281"
-    },
-    {
-        "nickname": "TV8768",
-        "asn": "AS36903"
     },
     {
         "nickname": "prsv",
@@ -21257,7 +21000,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6333",
+        "nickname": "TV9637",
         "asn": "AS22927"
     },
     {
@@ -21369,9 +21112,6 @@
     },
     {
         "nickname": "Quintex49",
-        "exit_address": [
-            "204.8.96.72"
-        ],
         "asn": "AS62744"
     },
     {
@@ -21518,9 +21258,6 @@
     },
     {
         "nickname": "QuintexAirVPN3",
-        "exit_address": [
-            "204.8.96.119"
-        ],
         "asn": "AS62744"
     },
     {
@@ -21712,9 +21449,6 @@
     },
     {
         "nickname": "Quintex74",
-        "exit_address": [
-            "204.8.96.163"
-        ],
         "asn": "AS62744"
     },
     {
@@ -21963,9 +21697,6 @@
     },
     {
         "nickname": "Quintex87",
-        "exit_address": [
-            "204.8.96.176"
-        ],
         "asn": "AS62744"
     },
     {
@@ -22093,9 +21824,6 @@
     },
     {
         "nickname": "QuintexAirVPN23",
-        "exit_address": [
-            "204.8.96.76"
-        ],
         "asn": "AS62744"
     },
     {
@@ -22454,9 +22182,6 @@
     },
     {
         "nickname": "Quintex79",
-        "exit_address": [
-            "204.8.96.168"
-        ],
         "asn": "AS62744"
     },
     {
@@ -22835,9 +22560,6 @@
     },
     {
         "nickname": "Quintex96",
-        "exit_address": [
-            "204.8.96.185"
-        ],
         "asn": "AS62744"
     },
     {
@@ -23140,9 +22862,6 @@
     },
     {
         "nickname": "QuintexAirVPN24",
-        "exit_address": [
-            "204.8.96.77"
-        ],
         "asn": "AS62744"
     },
     {
