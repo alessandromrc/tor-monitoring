@@ -1373,6 +1373,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.94.111.228"
+        ],
         "asn": "AS40021"
     },
     {
@@ -1726,7 +1729,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV6615",
+        "nickname": "TV5351",
         "asn": "AS22927"
     },
     {
@@ -2572,7 +2575,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "TV2356",
+        "nickname": "TV4949",
         "asn": "AS26133"
     },
     {
@@ -3634,7 +3637,7 @@
         "asn": "AS399629"
     },
     {
-        "nickname": "TV1378",
+        "nickname": "TV4726",
         "asn": "AS54936"
     },
     {
@@ -4163,7 +4166,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7360",
+        "nickname": "TV8406",
         "asn": "AS6167"
     },
     {
@@ -4550,7 +4553,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4710,9 +4713,6 @@
     },
     {
         "nickname": "Quintex75",
-        "exit_address": [
-            "204.8.96.164"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5077,9 +5077,6 @@
     },
     {
         "nickname": "Quintex33",
-        "exit_address": [
-            "204.8.96.113"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5105,9 +5102,6 @@
     },
     {
         "nickname": "Quintex40",
-        "exit_address": [
-            "204.8.96.89"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5938,7 +5932,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1984",
+        "nickname": "TV9553",
         "asn": "AS7418"
     },
     {
@@ -7050,7 +7044,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9550",
+        "nickname": "TV1478",
         "asn": "AS6167"
     },
     {
@@ -8038,7 +8032,7 @@
         "asn": "AS5650"
     },
     {
-        "nickname": "TV7991",
+        "nickname": "TV6886",
         "asn": "AS11071"
     },
     {
@@ -9486,9 +9480,6 @@
     },
     {
         "nickname": "Quintex37",
-        "exit_address": [
-            "204.8.96.86"
-        ],
         "asn": "AS62744"
     },
     {
@@ -10916,7 +10907,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1750",
+        "nickname": "TV527",
         "asn": "AS48437"
     },
     {
@@ -11073,6 +11064,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "TV9690",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "BBA1",
         "exit_address": [
             "38.135.25.2"
@@ -11101,7 +11096,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3778",
+        "nickname": "TV7517",
         "asn": "AS701"
     },
     {
@@ -11590,10 +11585,6 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV8850",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "schildkroete",
         "exit_address": [
             "109.70.100.7"
@@ -11688,9 +11679,6 @@
     },
     {
         "nickname": "Quintex20",
-        "exit_address": [
-            "204.8.96.110"
-        ],
         "asn": "AS62744"
     },
     {
@@ -12691,9 +12679,6 @@
     },
     {
         "nickname": "Quintex35",
-        "exit_address": [
-            "204.8.96.84"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14682,9 +14667,6 @@
     },
     {
         "nickname": "QuintexAirVPN29",
-        "exit_address": [
-            "204.8.96.82"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15459,9 +15441,6 @@
     },
     {
         "nickname": "Quintex81",
-        "exit_address": [
-            "204.8.96.170"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15944,9 +15923,6 @@
     },
     {
         "nickname": "QuintexAirVPN9",
-        "exit_address": [
-            "204.8.96.123"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16509,7 +16485,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV1592",
+        "nickname": "TV5948",
         "asn": "AS701"
     },
     {
@@ -17020,9 +16996,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "37.228.129.189"
-        ],
         "asn": "AS200651"
     },
     {
@@ -18291,9 +18264,6 @@
     },
     {
         "nickname": "QuintexAirVPN25",
-        "exit_address": [
-            "204.8.96.78"
-        ],
         "asn": "AS62744"
     },
     {
@@ -18396,9 +18366,6 @@
     },
     {
         "nickname": "Quintex38",
-        "exit_address": [
-            "204.8.96.87"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19629,10 +19596,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9060",
-        "asn": "AS20001"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "80.66.72.134"
@@ -19818,9 +19781,6 @@
     },
     {
         "nickname": "Quintex65",
-        "exit_address": [
-            "204.8.96.154"
-        ],
         "asn": "AS62744"
     },
     {
@@ -19882,9 +19842,6 @@
     },
     {
         "nickname": "Quintex76",
-        "exit_address": [
-            "204.8.96.165"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20121,9 +20078,6 @@
     },
     {
         "nickname": "Quintex86",
-        "exit_address": [
-            "204.8.96.175"
-        ],
         "asn": "AS62744"
     },
     {
@@ -20757,9 +20711,6 @@
     },
     {
         "nickname": "hviv113",
-        "exit_address": [
-            "192.42.116.13"
-        ],
         "asn": "AS215125"
     },
     {
@@ -21083,7 +21034,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV7135",
+        "nickname": "TV9449",
         "asn": "AS701"
     },
     {
@@ -21389,9 +21340,6 @@
     },
     {
         "nickname": "Quintex54",
-        "exit_address": [
-            "204.8.96.143"
-        ],
         "asn": "AS62744"
     },
     {
@@ -23213,9 +23161,6 @@
     },
     {
         "nickname": "Quintex42",
-        "exit_address": [
-            "204.8.96.65"
-        ],
         "asn": "AS62744"
     },
     {
