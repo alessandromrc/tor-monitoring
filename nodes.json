@@ -219,6 +219,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "TV5920",
+        "asn": "AS36884"
+    },
+    {
         "nickname": "1654656309244015",
         "exit_address": [
             "185.132.53.45"
@@ -5815,10 +5819,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9190",
-        "asn": "AS28573"
-    },
-    {
         "nickname": "r0cket15i1",
         "exit_address": [
             "45.84.107.174"
@@ -6578,6 +6578,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.94.111.228"
+        ],
         "asn": "AS40021"
     },
     {
@@ -7151,7 +7154,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "TV1776",
+        "nickname": "TV2065",
         "asn": "AS37705"
     },
     {
@@ -7706,10 +7709,6 @@
             "185.220.101.37"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV4576",
-        "asn": "AS22927"
     },
     {
         "nickname": "QuintexAirVPN22",
@@ -10260,7 +10259,7 @@
         "asn": "AS33363"
     },
     {
-        "nickname": "TV3433",
+        "nickname": "TV528",
         "asn": "AS6128"
     },
     {
@@ -17803,10 +17802,6 @@
         "asn": "AS43641"
     },
     {
-        "nickname": "TV5205",
-        "asn": "AS12389"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "38.135.24.72"
@@ -19442,10 +19437,6 @@
             "45.138.16.118"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV7232",
-        "asn": "AS22927"
     },
     {
         "nickname": "TV5848",
@@ -21490,6 +21481,10 @@
             "124.198.132.52"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FurNet",
+        "asn": "AS201392"
     },
     {
         "nickname": "artikel10ber117",
