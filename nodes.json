@@ -552,6 +552,10 @@
         "asn": "AS40663"
     },
     {
+        "nickname": "FreeRelay",
+        "asn": "AS207847"
+    },
+    {
         "nickname": "morchel",
         "exit_address": [
             "109.70.100.5"
@@ -4705,7 +4709,7 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "TV2471",
+        "nickname": "TV3671",
         "asn": "AS701"
     },
     {
@@ -6150,7 +6154,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV420",
+        "nickname": "TV9740",
         "asn": "AS701"
     },
     {
@@ -10332,7 +10336,7 @@
         "asn": "AS27747"
     },
     {
-        "nickname": "TV329",
+        "nickname": "TV3094",
         "asn": "AS6167"
     },
     {
@@ -15233,10 +15237,6 @@
     {
         "nickname": "TV2915",
         "asn": "AS22927"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS209605"
     },
     {
         "nickname": "Aramis",
@@ -22266,7 +22266,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9884",
+        "nickname": "TV2771",
         "asn": "AS7029"
     },
     {
@@ -22460,10 +22460,6 @@
             "83.97.20.77"
         ],
         "asn": "AS9009"
-    },
-    {
-        "nickname": "TV7163",
-        "asn": "AS22927"
     },
     {
         "nickname": "TORKeFFORG26",
