@@ -6665,6 +6665,9 @@
     },
     {
         "nickname": "UnredactedLoki",
+        "exit_address": [
+            "23.191.200.20"
+        ],
         "asn": "AS401401"
     },
     {
@@ -7138,6 +7141,9 @@
     },
     {
         "nickname": "UnredactedLeaks",
+        "exit_address": [
+            "23.191.200.26"
+        ],
         "asn": "AS401401"
     },
     {
@@ -8101,6 +8107,9 @@
     },
     {
         "nickname": "UnredactedTor",
+        "exit_address": [
+            "23.191.200.13"
+        ],
         "asn": "AS401401"
     },
     {
@@ -8331,10 +8340,6 @@
             "124.198.131.121"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV9421",
-        "asn": "AS6128"
     },
     {
         "nickname": "TV6223",
@@ -9206,6 +9211,9 @@
     },
     {
         "nickname": "UnredactedcDc",
+        "exit_address": [
+            "23.191.200.11"
+        ],
         "asn": "AS401401"
     },
     {
@@ -10906,6 +10914,9 @@
     },
     {
         "nickname": "UnredactedBB",
+        "exit_address": [
+            "23.191.200.23"
+        ],
         "asn": "AS401401"
     },
     {
@@ -12623,6 +12634,10 @@
             "124.198.131.121"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV4372",
+        "asn": "AS33588"
     },
     {
         "nickname": "turing",
@@ -15398,10 +15413,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "TV3084",
-        "asn": "AS3215"
-    },
-    {
         "nickname": "artikel5ev10",
         "exit_address": [
             "185.170.114.25"
@@ -16560,9 +16571,6 @@
     },
     {
         "nickname": "plithismos",
-        "exit_address": [
-            "198.98.53.176"
-        ],
         "asn": "AS53667"
     },
     {
@@ -16605,7 +16613,7 @@
         "asn": "AS20001"
     },
     {
-        "nickname": "TV6259",
+        "nickname": "TV2391",
         "asn": "AS7303"
     },
     {
@@ -16947,7 +16955,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV5151",
+        "nickname": "TV8648",
         "asn": "AS37680"
     },
     {
@@ -21226,6 +21234,9 @@
     },
     {
         "nickname": "LillyCL",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
