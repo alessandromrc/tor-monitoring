@@ -634,6 +634,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "TV1936",
+        "asn": "AS701"
+    },
+    {
         "nickname": "NTH24R5",
         "exit_address": [
             "192.42.116.176"
@@ -768,7 +772,7 @@
         "asn": "AS36149"
     },
     {
-        "nickname": "TV2755",
+        "nickname": "TV7453",
         "asn": "AS7418"
     },
     {
@@ -6069,7 +6073,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7594",
+        "nickname": "TV144",
         "asn": "AS701"
     },
     {
@@ -6804,7 +6808,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV7758",
+        "nickname": "TV2987",
         "asn": "AS22773"
     },
     {
@@ -11790,7 +11794,7 @@
         "asn": "AS13614"
     },
     {
-        "nickname": "TV6274",
+        "nickname": "TV6861",
         "asn": "AS7418"
     },
     {
@@ -12557,7 +12561,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV3935",
+        "nickname": "TV4107",
         "asn": "AS8346"
     },
     {
@@ -13195,10 +13199,6 @@
             "109.70.100.5"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "TV8809",
-        "asn": "AS7303"
     },
     {
         "nickname": "CembraNutBoys05",
@@ -16391,7 +16391,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV1035",
+        "nickname": "TV1432",
         "asn": "AS8346"
     },
     {
@@ -16548,7 +16548,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV7813",
+        "nickname": "TV5193",
         "asn": "AS36556"
     },
     {
@@ -17401,9 +17401,6 @@
     },
     {
         "nickname": "tisiebatibota",
-        "exit_address": [
-            "78.130.199.40"
-        ],
         "asn": "AS9070"
     },
     {
@@ -21808,6 +21805,10 @@
     {
         "nickname": "TV9555",
         "asn": "AS10620"
+    },
+    {
+        "nickname": "TV4230",
+        "asn": "AS35819"
     },
     {
         "nickname": "NTH10R3",
