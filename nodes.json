@@ -256,10 +256,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV1201",
-        "asn": "AS7418"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "45.95.233.104"
@@ -1349,6 +1345,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.94.111.228"
+        ],
         "asn": "AS40021"
     },
     {
@@ -2564,7 +2563,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3949",
+        "nickname": "TV9762",
         "asn": "AS852"
     },
     {
@@ -4431,7 +4430,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -12628,7 +12627,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4372",
+        "nickname": "TV5252",
         "asn": "AS33588"
     },
     {
@@ -12774,7 +12773,7 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV707",
+        "nickname": "TV3737",
         "asn": "AS7418"
     },
     {
@@ -13131,6 +13130,10 @@
             "37.187.5.192"
         ],
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TV5432",
+        "asn": "AS22927"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -14778,7 +14781,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4443",
+        "nickname": "TV5482",
         "asn": "AS22927"
     },
     {
@@ -15856,7 +15859,7 @@
         "asn": "AS30633"
     },
     {
-        "nickname": "TV1879",
+        "nickname": "TV8277",
         "asn": "AS22927"
     },
     {
@@ -16552,10 +16555,6 @@
             "178.17.58.159"
         ],
         "asn": "AS215540"
-    },
-    {
-        "nickname": "TV943",
-        "asn": "AS5650"
     },
     {
         "nickname": "plithismos",
@@ -19587,10 +19586,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV2626",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "jokulhops",
         "exit_address": [
             "130.193.15.79"
@@ -20799,6 +20794,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
