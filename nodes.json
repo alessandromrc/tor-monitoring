@@ -4858,10 +4858,6 @@
         "asn": "AS29134"
     },
     {
-        "nickname": "TV2407",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.162"
@@ -6378,6 +6374,10 @@
         "asn": "AS214996"
     },
     {
+        "nickname": "TV6741",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "5.45.102.93"
@@ -6753,6 +6753,10 @@
     {
         "nickname": "TV2055",
         "asn": "AS30689"
+    },
+    {
+        "nickname": "TV5965",
+        "asn": "AS19429"
     },
     {
         "nickname": "Polyphemus8",
@@ -8090,10 +8094,6 @@
         "asn": "AS50613"
     },
     {
-        "nickname": "ExitTestNode",
-        "asn": "AS27715"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.183.157.214"
@@ -8549,7 +8549,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7207",
+        "nickname": "TV5877",
         "asn": "AS37645"
     },
     {
@@ -8815,7 +8815,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8856",
+        "nickname": "TV1285",
         "asn": "AS2860"
     },
     {
@@ -14589,6 +14589,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "TV5220",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "NadekoNet",
         "exit_address": [
             "38.134.41.34"
@@ -14661,9 +14665,6 @@
     },
     {
         "nickname": "UnredactedEllsberg",
-        "exit_address": [
-            "23.191.200.5"
-        ],
         "asn": "AS401401"
     },
     {
@@ -17698,7 +17699,7 @@
         "asn": "AS23201"
     },
     {
-        "nickname": "TV3450",
+        "nickname": "TV3332",
         "asn": "AS6167"
     },
     {
@@ -18547,7 +18548,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV3378",
+        "nickname": "TV2893",
         "asn": "AS701"
     },
     {
@@ -19168,7 +19169,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9150",
+        "nickname": "TV9111",
         "asn": "AS22927"
     },
     {
@@ -19383,9 +19384,6 @@
     },
     {
         "nickname": "FreePearDE20261",
-        "exit_address": [
-            "159.195.71.90"
-        ],
         "asn": "AS197540"
     },
     {
@@ -21760,7 +21758,7 @@
         "asn": "AS10620"
     },
     {
-        "nickname": "TV1178",
+        "nickname": "TV2379",
         "asn": "AS35819"
     },
     {
