@@ -249,6 +249,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.95.233.104"
+        ],
         "asn": "AS215540"
     },
     {
@@ -1978,7 +1981,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4561",
+        "nickname": "TV1017",
         "asn": "AS6167"
     },
     {
@@ -3998,7 +4001,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6918",
+        "nickname": "TV9099",
         "asn": "AS6167"
     },
     {
@@ -4192,7 +4195,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8068",
+        "nickname": "TV9670",
         "asn": "AS6057"
     },
     {
@@ -6432,7 +6435,7 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "TV4390",
+        "nickname": "TV6579",
         "asn": "AS701"
     },
     {
@@ -7644,6 +7647,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.95.233.104"
+        ],
         "asn": "AS215540"
     },
     {
@@ -8768,7 +8774,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1507",
+        "nickname": "TV6650",
         "asn": "AS2860"
     },
     {
@@ -9159,6 +9165,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.95.233.104"
+        ],
         "asn": "AS215540"
     },
     {
@@ -10006,7 +10015,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV2707",
+        "nickname": "TV1152",
         "asn": "AS6167"
     },
     {
@@ -12354,9 +12363,6 @@
     },
     {
         "nickname": "gfguihgrudifhguih",
-        "exit_address": [
-            "185.11.139.198"
-        ],
         "asn": "AS48823"
     },
     {
@@ -13957,6 +13963,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.95.233.104"
+        ],
         "asn": "AS215540"
     },
     {
@@ -15424,6 +15433,10 @@
             "192.42.116.176"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV9474",
+        "asn": "AS16614"
     },
     {
         "nickname": "Quetzalcoatl",
