@@ -675,10 +675,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV2443",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "DFRI67",
         "exit_address": [
             "171.25.193.37"
@@ -2807,7 +2803,7 @@
         "asn": "AS215659"
     },
     {
-        "nickname": "TV3406",
+        "nickname": "TV6396",
         "asn": "AS8151"
     },
     {
@@ -4878,6 +4874,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "TV9078",
+        "asn": "AS18822"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "194.26.192.46"
@@ -6321,7 +6321,7 @@
         "asn": "AS214996"
     },
     {
-        "nickname": "TV5396",
+        "nickname": "TV313",
         "asn": "AS7303"
     },
     {
@@ -7057,7 +7057,8 @@
     {
         "nickname": "mycontribution",
         "exit_address": [
-            "139.59.189.51"
+            "139.59.189.51",
+            "87.106.76.226"
         ],
         "asn": "AS8560"
     },
@@ -10521,7 +10522,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3520",
+        "nickname": "TV1859",
         "asn": "AS701"
     },
     {
@@ -11646,7 +11647,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV9547",
+        "nickname": "TV7678",
         "asn": "AS13614"
     },
     {
@@ -13092,7 +13093,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV2",
+        "nickname": "TV9611",
         "asn": "AS6167"
     },
     {
@@ -15338,7 +15339,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8925",
+        "nickname": "TV112",
         "asn": "AS271527"
     },
     {
@@ -18359,6 +18360,9 @@
     },
     {
         "nickname": "bagskapunkanovich",
+        "exit_address": [
+            "180.149.44.115"
+        ],
         "asn": "AS202422"
     },
     {
@@ -18561,7 +18565,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV9769",
+        "nickname": "TV9023",
         "asn": "AS14117"
     },
     {
@@ -21718,10 +21722,6 @@
     {
         "nickname": "TV5336",
         "asn": "AS22927"
-    },
-    {
-        "nickname": "TV4250",
-        "asn": "AS7018"
     },
     {
         "nickname": "Quetzalcoatl",
