@@ -1663,7 +1663,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV6692",
+        "nickname": "TV8639",
         "asn": "AS22927"
     },
     {
@@ -4885,6 +4885,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "TV4467",
+        "asn": "AS42961"
+    },
+    {
         "nickname": "Kron0sExitAU",
         "exit_address": [
             "172.105.179.100"
@@ -5888,10 +5892,6 @@
         "asn": "AS210731"
     },
     {
-        "nickname": "TV6090",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "mentoreth5",
         "exit_address": [
             "192.76.153.253"
@@ -6793,7 +6793,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "TV2065",
+        "nickname": "TV3387",
         "asn": "AS37705"
     },
     {
@@ -7235,7 +7235,7 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV6915",
+        "nickname": "TV6407",
         "asn": "AS27747"
     },
     {
@@ -9977,7 +9977,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8607",
+        "nickname": "TV2467",
         "asn": "AS7922"
     },
     {
@@ -14046,7 +14046,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9568",
+        "nickname": "TV9028",
         "asn": "AS8151"
     },
     {
@@ -15411,7 +15411,7 @@
         "asn": "AS27747"
     },
     {
-        "nickname": "TV4925",
+        "nickname": "TV703",
         "asn": "AS22927"
     },
     {
@@ -15526,6 +15526,10 @@
             "124.198.131.114"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV403",
+        "asn": "AS701"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -15971,6 +15975,10 @@
     {
         "nickname": "themisnandy",
         "asn": "AS200019"
+    },
+    {
+        "nickname": "busted",
+        "asn": "AS211507"
     },
     {
         "nickname": "NTH10R8",
@@ -16935,9 +16943,6 @@
     },
     {
         "nickname": "forest01",
-        "exit_address": [
-            "94.156.152.8"
-        ],
         "asn": "AS214209"
     },
     {
