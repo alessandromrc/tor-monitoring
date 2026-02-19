@@ -2049,7 +2049,7 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV8670",
+        "nickname": "TV2797",
         "asn": "AS22927"
     },
     {
@@ -4878,7 +4878,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV4467",
+        "nickname": "TV3868",
         "asn": "AS42961"
     },
     {
@@ -4926,10 +4926,6 @@
             "23.129.64.215"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "TV7144",
-        "asn": "AS263181"
     },
     {
         "nickname": "SnowMaster",
@@ -5421,6 +5417,9 @@
     },
     {
         "nickname": "test123rtew",
+        "exit_address": [
+            "144.31.77.174"
+        ],
         "asn": "AS213877"
     },
     {
@@ -6490,7 +6489,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1111",
+        "nickname": "TV8015",
         "asn": "AS22927"
     },
     {
@@ -20541,9 +20540,6 @@
     },
     {
         "nickname": "teletaypzz",
-        "exit_address": [
-            "144.31.77.174"
-        ],
         "asn": "AS213877"
     },
     {
