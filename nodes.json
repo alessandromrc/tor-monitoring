@@ -344,10 +344,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "slither",
-        "asn": "AS214209"
-    },
-    {
         "nickname": "TV5048",
         "asn": "AS6167"
     },
@@ -4320,7 +4316,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4530,7 +4526,7 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "TV2484",
+        "nickname": "TV3243",
         "asn": "AS701"
     },
     {
@@ -4613,10 +4609,6 @@
             "87.120.222.33"
         ],
         "asn": "AS215540"
-    },
-    {
-        "nickname": "TV3651",
-        "asn": "AS22927"
     },
     {
         "nickname": "TV6693",
@@ -9957,7 +9949,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV5625",
+        "nickname": "TV8761",
         "asn": "AS6167"
     },
     {
@@ -10165,10 +10157,6 @@
     {
         "nickname": "koneko8515",
         "asn": "AS213702"
-    },
-    {
-        "nickname": "TV5907",
-        "asn": "AS27747"
     },
     {
         "nickname": "TORKeFFORG14",
@@ -14270,10 +14258,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV3111",
-        "asn": "AS701"
-    },
-    {
         "nickname": "berenstainbears",
         "exit_address": [
             "179.43.182.58"
@@ -15245,6 +15229,10 @@
         "asn": "AS271527"
     },
     {
+        "nickname": "teampcp",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "DFRI68",
         "exit_address": [
             "171.25.193.37"
@@ -15339,10 +15327,6 @@
             "185.220.101.22"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV2113",
-        "asn": "AS27747"
     },
     {
         "nickname": "TV703",
@@ -17148,9 +17132,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -18489,6 +18470,10 @@
             "45.138.16.107"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV1794",
+        "asn": "AS7303"
     },
     {
         "nickname": "Quetzalcoatl",
