@@ -230,7 +230,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV6590",
+        "nickname": "TV7275",
         "asn": "AS4804"
     },
     {
@@ -2448,7 +2448,7 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV8365",
+        "nickname": "TV4961",
         "asn": "AS26133"
     },
     {
@@ -4950,7 +4950,7 @@
         "asn": "AS12479"
     },
     {
-        "nickname": "TV619",
+        "nickname": "TV1336",
         "asn": "AS7418"
     },
     {
@@ -7270,7 +7270,7 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "TV5497",
+        "nickname": "TV4697",
         "asn": "AS8151"
     },
     {
@@ -8033,7 +8033,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV99",
+        "nickname": "TV8519",
         "asn": "AS8151"
     },
     {
@@ -9333,7 +9333,7 @@
         "asn": "AS272996"
     },
     {
-        "nickname": "TV8048",
+        "nickname": "TV1968",
         "asn": "AS7303"
     },
     {
@@ -10586,10 +10586,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV7044",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "ferrarizKolash",
         "exit_address": [
             "185.154.110.17"
@@ -10772,6 +10768,9 @@
     },
     {
         "nickname": "teampcp",
+        "exit_address": [
+            "144.91.100.10"
+        ],
         "asn": "AS51167"
     },
     {
@@ -11580,10 +11579,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV6857",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "TV7678",
         "asn": "AS13614"
     },
@@ -12347,7 +12342,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1832",
+        "nickname": "TV1734",
         "asn": "AS8346"
     },
     {
@@ -12904,10 +12899,6 @@
             "185.241.208.115"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV9033",
-        "asn": "AS8151"
     },
     {
         "nickname": "bauruine",
@@ -13980,7 +13971,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8490",
+        "nickname": "TV8247",
         "asn": "AS8151"
     },
     {
@@ -17132,6 +17123,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -20419,6 +20413,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "TV6018",
+        "asn": "AS12479"
+    },
+    {
         "nickname": "SSDNodesROexit",
         "exit_address": [
             "185.247.224.89"
@@ -20538,6 +20536,10 @@
             "192.42.116.174"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV2768",
+        "asn": "AS7303"
     },
     {
         "nickname": "cb1tor",
