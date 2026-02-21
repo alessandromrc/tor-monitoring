@@ -3853,7 +3853,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5217",
+        "nickname": "TV1484",
         "asn": "AS6167"
     },
     {
@@ -4402,7 +4402,7 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "TV7500",
+        "nickname": "TV746",
         "asn": "AS701"
     },
     {
@@ -5731,7 +5731,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV480",
+        "nickname": "TV3232",
         "asn": "AS701"
     },
     {
@@ -5784,7 +5784,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV509",
+        "nickname": "TV5797",
         "asn": "AS701"
     },
     {
@@ -8235,7 +8235,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV2753",
+        "nickname": "TV6132",
         "asn": "AS37645"
     },
     {
@@ -10359,10 +10359,6 @@
     {
         "nickname": "CGretski",
         "asn": "AS13037"
-    },
-    {
-        "nickname": "TV5878",
-        "asn": "AS27747"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -14267,6 +14263,9 @@
     },
     {
         "nickname": "edicationistinusin",
+        "exit_address": [
+            "86.107.168.127"
+        ],
         "asn": "AS26832"
     },
     {
@@ -19533,6 +19532,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
