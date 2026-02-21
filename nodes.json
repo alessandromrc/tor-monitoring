@@ -2069,7 +2069,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV8217",
+        "nickname": "TV4682",
         "asn": "AS7418"
     },
     {
@@ -2112,7 +2112,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV2938",
+        "nickname": "TV3520",
         "asn": "AS13428"
     },
     {
@@ -4361,7 +4361,7 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "TV1101",
+        "nickname": "TV7500",
         "asn": "AS701"
     },
     {
@@ -6618,7 +6618,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1909",
+        "nickname": "TV2512",
         "asn": "AS27747"
     },
     {
@@ -7367,7 +7367,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV4712",
+        "nickname": "TV6167",
         "asn": "AS11071"
     },
     {
@@ -7756,7 +7756,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV138",
+        "nickname": "TV3897",
         "asn": "AS8151"
     },
     {
@@ -8537,7 +8537,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9185",
+        "nickname": "TV9444",
         "asn": "AS7418"
     },
     {
@@ -8630,10 +8630,6 @@
             "199.195.251.119"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "TV600",
-        "asn": "AS7303"
     },
     {
         "nickname": "NTH13R2",
@@ -9408,7 +9404,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV589",
+        "nickname": "TV8152",
         "asn": "AS6128"
     },
     {
@@ -9646,6 +9642,9 @@
     },
     {
         "nickname": "DunblaneScotland",
+        "exit_address": [
+            "45.141.119.79"
+        ],
         "asn": "AS211507"
     },
     {
@@ -12285,7 +12284,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3699",
+        "nickname": "TV8677",
         "asn": "AS7303"
     },
     {
@@ -14635,7 +14634,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4266",
+        "nickname": "TV8464",
         "asn": "AS7303"
     },
     {
@@ -15170,6 +15169,10 @@
             "104.219.236.100"
         ],
         "asn": "AS27176"
+    },
+    {
+        "nickname": "testmyexit",
+        "asn": "AS213877"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -19864,7 +19867,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV742",
+        "nickname": "TV2996",
         "asn": "AS7303"
     },
     {
