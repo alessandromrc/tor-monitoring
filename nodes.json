@@ -911,6 +911,10 @@
         "asn": "AS28111"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -2069,7 +2073,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV4682",
+        "nickname": "TV695",
         "asn": "AS7418"
     },
     {
@@ -2159,6 +2163,9 @@
     },
     {
         "nickname": "Stainless",
+        "exit_address": [
+            "77.42.70.182"
+        ],
         "asn": "AS24940"
     },
     {
@@ -2353,6 +2360,10 @@
         "exit_address": [
             "192.159.99.162"
         ],
+        "asn": "AS210558"
+    },
+    {
+        "nickname": "prsv",
         "asn": "AS210558"
     },
     {
@@ -7011,7 +7022,7 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "TV4794",
+        "nickname": "TV5292",
         "asn": "AS8151"
     },
     {
@@ -7682,6 +7693,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "TV5674",
         "asn": "AS262196"
     },
@@ -7760,7 +7775,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV71",
+        "nickname": "TV4026",
         "asn": "AS8151"
     },
     {
@@ -10667,6 +10682,10 @@
         "exit_address": [
             "192.159.99.38"
         ],
+        "asn": "AS210558"
+    },
+    {
+        "nickname": "prsv",
         "asn": "AS210558"
     },
     {
@@ -15675,6 +15694,10 @@
         "asn": "AS7303"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "CembraNutBoys06",
         "exit_address": [
             "94.154.172.227"
@@ -16051,6 +16074,10 @@
             "80.67.167.81"
         ],
         "asn": "AS2027"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS210558"
     },
     {
         "nickname": "NeelTorExit8A",
