@@ -183,10 +183,6 @@
         "asn": "AS207957"
     },
     {
-        "nickname": "TV5920",
-        "asn": "AS36884"
-    },
-    {
         "nickname": "1654656309244015",
         "exit_address": [
             "185.132.53.45"
@@ -4510,7 +4506,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6354",
+        "nickname": "TV7231",
         "asn": "AS8151"
     },
     {
@@ -4713,7 +4709,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV8879",
+        "nickname": "TV8581",
         "asn": "AS20001"
     },
     {
@@ -9400,7 +9396,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV689",
+        "nickname": "TV6975",
         "asn": "AS6128"
     },
     {
@@ -10913,7 +10909,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8387",
+        "nickname": "TV3596",
         "asn": "AS204170"
     },
     {
@@ -15958,7 +15954,7 @@
         "asn": "AS33915"
     },
     {
-        "nickname": "TV3757",
+        "nickname": "TV1140",
         "asn": "AS6167"
     },
     {
@@ -16996,6 +16992,9 @@
     },
     {
         "nickname": "YourRelayName",
+        "exit_address": [
+            "104.36.80.7"
+        ],
         "asn": "AS40663"
     },
     {
