@@ -4183,7 +4183,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4715,6 +4715,10 @@
             "172.105.179.100"
         ],
         "asn": "AS63949"
+    },
+    {
+        "nickname": "TV8879",
+        "asn": "AS20001"
     },
     {
         "nickname": "DFRI55",
@@ -12090,7 +12094,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV277",
+        "nickname": "TV735",
         "asn": "AS6167"
     },
     {
@@ -14601,6 +14605,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "TV7001",
+        "asn": "AS27747"
+    },
+    {
         "nickname": "NTH44R3",
         "exit_address": [
             "192.42.116.218"
@@ -16057,7 +16065,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV5222",
+        "nickname": "TV310",
         "asn": "AS701"
     },
     {
@@ -18965,7 +18973,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV5820",
+        "nickname": "TV5546",
         "asn": "AS10796"
     },
     {
