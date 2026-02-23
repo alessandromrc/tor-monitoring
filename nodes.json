@@ -2397,10 +2397,6 @@
         "asn": "AS213887"
     },
     {
-        "nickname": "TV5644",
-        "asn": "AS852"
-    },
-    {
         "nickname": "Digitalcourage4ipea",
         "exit_address": [
             "185.220.101.100"
@@ -4244,6 +4240,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.130.191"
+        ],
         "asn": "AS25400"
     },
     {
@@ -10641,10 +10640,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV8807",
-        "asn": "AS6128"
-    },
-    {
         "nickname": "NTH24R7",
         "exit_address": [
             "192.42.116.176"
@@ -15500,7 +15495,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV2138",
+        "nickname": "TV2467",
         "asn": "AS701"
     },
     {
