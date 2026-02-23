@@ -3387,6 +3387,9 @@
     },
     {
         "nickname": "privatebrowsingorg",
+        "exit_address": [
+            "107.189.12.7"
+        ],
         "asn": "AS53667"
     },
     {
@@ -9408,7 +9411,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV4870",
+        "nickname": "TV7489",
         "asn": "AS6128"
     },
     {
@@ -10054,7 +10057,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV5935",
+        "nickname": "TV7234",
         "asn": "AS48437"
     },
     {
@@ -10922,7 +10925,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3596",
+        "nickname": "TV5610",
         "asn": "AS204170"
     },
     {
@@ -11973,6 +11976,10 @@
             "45.134.225.36"
         ],
         "asn": "AS213438"
+    },
+    {
+        "nickname": "TV7954",
+        "asn": "AS701"
     },
     {
         "nickname": "titamon5",
@@ -17903,7 +17910,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6074",
+        "nickname": "TV9261",
         "asn": "AS7303"
     },
     {
@@ -19382,10 +19389,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV3029",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "BehemothLTDSE1",
         "exit_address": [
             "195.47.238.44"
@@ -19864,7 +19867,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4179",
+        "nickname": "TV9262",
         "asn": "AS7303"
     },
     {
