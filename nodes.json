@@ -4706,7 +4706,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV7083",
+        "nickname": "TV3283",
         "asn": "AS20001"
     },
     {
@@ -9514,6 +9514,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.113.25.96"
+        ],
         "asn": "AS214209"
     },
     {
@@ -10608,6 +10611,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.113.25.96"
+        ],
         "asn": "AS214209"
     },
     {
@@ -13233,9 +13239,6 @@
     },
     {
         "nickname": "keepingfaith",
-        "exit_address": [
-            "93.95.231.88"
-        ],
         "asn": "AS44925"
     },
     {
@@ -14458,6 +14461,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.113.25.96"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17440,6 +17446,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "93.113.25.96"
+        ],
         "asn": "AS214209"
     },
     {
@@ -18274,9 +18283,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "62.60.232.4"
-        ],
         "asn": "AS215540"
     },
     {
