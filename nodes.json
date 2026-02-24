@@ -4199,7 +4199,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4401,7 +4401,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV3360",
+        "nickname": "TV1315",
         "asn": "AS701"
     },
     {
@@ -5401,6 +5401,10 @@
             "45.9.156.192"
         ],
         "asn": "AS211619"
+    },
+    {
+        "nickname": "testmye5677",
+        "asn": "AS213877"
     },
     {
         "nickname": "relayon0161",
@@ -8186,7 +8190,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7881",
+        "nickname": "TV5888",
         "asn": "AS37645"
     },
     {
@@ -11523,6 +11527,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.154.98.153"
+        ],
         "asn": "AS210558"
     },
     {
@@ -14579,6 +14586,10 @@
         "asn": "AS215659"
     },
     {
+        "nickname": "TV2820",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "artikel10ber124",
         "exit_address": [
             "185.220.101.31"
@@ -14825,7 +14836,7 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV9235",
+        "nickname": "TV9048",
         "asn": "AS7303"
     },
     {
@@ -17872,10 +17883,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "PufferfishNYC",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "marcuse5",
         "exit_address": [
             "178.20.55.16"
@@ -18314,6 +18321,9 @@
     },
     {
         "nickname": "lametite2025",
+        "exit_address": [
+            "64.190.113.106"
+        ],
         "asn": "AS399629"
     },
     {
