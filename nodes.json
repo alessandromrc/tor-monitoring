@@ -1510,9 +1510,6 @@
     },
     {
         "nickname": "sartre1",
-        "exit_address": [
-            "185.246.191.53"
-        ],
         "asn": "AS200651"
     },
     {
@@ -4858,7 +4855,7 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "TV5981",
+        "nickname": "TV5978",
         "asn": "AS7303"
     },
     {
@@ -4892,10 +4889,6 @@
             "185.100.87.250"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "UnredactedAlien",
-        "asn": "AS401401"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -5188,6 +5181,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
@@ -6459,7 +6455,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV3113",
+        "nickname": "TV63",
         "asn": "AS6167"
     },
     {
@@ -6504,10 +6500,6 @@
             "192.42.116.201"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "vZXg2llGWAoR8Lyt03",
-        "asn": "AS213887"
     },
     {
         "nickname": "NTH13R1",
@@ -7766,7 +7758,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV4929",
+        "nickname": "TV4200",
         "asn": "AS8151"
     },
     {
@@ -10021,7 +10013,7 @@
         "asn": "AS47890"
     },
     {
-        "nickname": "TV7799",
+        "nickname": "TV8442",
         "asn": "AS22927"
     },
     {
@@ -12067,10 +12059,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "eden",
-        "asn": "AS197648"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS215540"
     },
@@ -12548,7 +12536,7 @@
         "asn": "AS56322"
     },
     {
-        "nickname": "TV1032",
+        "nickname": "TV7959",
         "asn": "AS6057"
     },
     {
@@ -16377,7 +16365,7 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "TV4506",
+        "nickname": "TV6806",
         "asn": "AS25019"
     },
     {
@@ -17535,10 +17523,6 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "ProjectPrivacyX1",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "92.118.112.83"
@@ -18252,6 +18236,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "62.60.232.4"
+        ],
         "asn": "AS215540"
     },
     {
@@ -18262,7 +18249,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9143",
+        "nickname": "TV8998",
         "asn": "AS22927"
     },
     {
