@@ -1052,6 +1052,10 @@
         "asn": "AS7992"
     },
     {
+        "nickname": "TV1753",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.184"
@@ -8529,9 +8533,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -13321,9 +13322,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -14513,10 +14511,6 @@
         "asn": "AS138915"
     },
     {
-        "nickname": "TV2918",
-        "asn": "AS6327"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.185"
@@ -14918,10 +14912,6 @@
             "192.42.116.45"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TV9474",
-        "asn": "AS16614"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -18137,9 +18127,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -19896,10 +19883,6 @@
             "38.135.25.142"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "teletaypzz",
-        "asn": "AS213877"
     },
     {
         "nickname": "Polyphemus6",
