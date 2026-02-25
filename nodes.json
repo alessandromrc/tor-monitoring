@@ -1177,7 +1177,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "NTH7R8",
+        "nickname": "NTH100R8",
         "exit_address": [
             "192.42.116.197"
         ],
@@ -1617,7 +1617,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5358",
+        "nickname": "TV1485",
         "asn": "AS22927"
     },
     {
@@ -2304,7 +2304,7 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "TV2690",
+        "nickname": "TV8890",
         "asn": "AS7303"
     },
     {
@@ -4727,13 +4727,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "NTH7R1",
-        "exit_address": [
-            "192.42.116.197"
-        ],
-        "asn": "AS215125"
-    },
-    {
         "nickname": "DFRI106",
         "exit_address": [
             "171.25.193.82"
@@ -5782,7 +5775,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9945",
+        "nickname": "TV5495",
         "asn": "AS701"
     },
     {
@@ -6067,7 +6060,7 @@
         "asn": "AS20766"
     },
     {
-        "nickname": "NTH7R5",
+        "nickname": "NTH100R5",
         "exit_address": [
             "192.42.116.197"
         ],
@@ -8245,6 +8238,10 @@
     {
         "nickname": "TV2957",
         "asn": "AS37645"
+    },
+    {
+        "nickname": "test1488",
+        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -10754,10 +10751,6 @@
         "asn": "AS213373"
     },
     {
-        "nickname": "TV3421",
-        "asn": "AS33588"
-    },
-    {
         "nickname": "r0cket12i1",
         "exit_address": [
             "45.84.107.17"
@@ -12941,7 +12934,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "NTH7R3",
+        "nickname": "NTH100R3",
         "exit_address": [
             "192.42.116.197"
         ],
@@ -13651,7 +13644,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8509",
+        "nickname": "TV8410",
         "asn": "AS8151"
     },
     {
@@ -16057,9 +16050,6 @@
     },
     {
         "nickname": "eo200",
-        "exit_address": [
-            "23.129.64.200"
-        ],
         "asn": "AS396507"
     },
     {
@@ -17015,7 +17005,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "NTH7R4",
+        "nickname": "NTH100R4",
         "exit_address": [
             "192.42.116.197"
         ],
@@ -18174,7 +18164,7 @@
         "asn": "AS40021"
     },
     {
-        "nickname": "NTH7R6",
+        "nickname": "NTH100R6",
         "exit_address": [
             "192.42.116.197"
         ],
@@ -20272,7 +20262,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "NTH7R7",
+        "nickname": "NTH100R7",
         "exit_address": [
             "192.42.116.197"
         ],
