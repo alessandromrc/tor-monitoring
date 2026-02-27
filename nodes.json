@@ -14915,6 +14915,9 @@
     },
     {
         "nickname": "syverson",
+        "exit_address": [
+            "23.129.64.161"
+        ],
         "asn": "AS396507"
     },
     {
@@ -15334,6 +15337,9 @@
     },
     {
         "nickname": "kaminsky",
+        "exit_address": [
+            "23.129.64.139"
+        ],
         "asn": "AS396507"
     },
     {
@@ -15598,6 +15604,9 @@
     },
     {
         "nickname": "eo200",
+        "exit_address": [
+            "23.129.64.200"
+        ],
         "asn": "AS396507"
     },
     {
@@ -19037,10 +19046,6 @@
     {
         "nickname": "TV2886",
         "asn": "AS701"
-    },
-    {
-        "nickname": "TV7942",
-        "asn": "AS5650"
     },
     {
         "nickname": "Digitalcourage4ipha",
