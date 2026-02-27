@@ -3311,7 +3311,7 @@
         "asn": "AS51290"
     },
     {
-        "nickname": "TV6886",
+        "nickname": "TV4719",
         "asn": "AS701"
     },
     {
@@ -6808,10 +6808,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4900",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "DFRI128",
         "exit_address": [
             "171.25.193.131"
@@ -8268,6 +8264,9 @@
     },
     {
         "nickname": "TheBlur",
+        "exit_address": [
+            "5.255.123.164"
+        ],
         "asn": "AS60404"
     },
     {
@@ -13644,10 +13643,6 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "TV8455",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "NadekoNet",
         "exit_address": [
             "38.134.41.34"
@@ -17781,7 +17776,7 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "TV1304",
+        "nickname": "TV6758",
         "asn": "AS27747"
     },
     {
@@ -19047,7 +19042,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV2362",
+        "nickname": "TV5096",
         "asn": "AS701"
     },
     {
@@ -20198,6 +20193,9 @@
     },
     {
         "nickname": "jager",
+        "exit_address": [
+            "51.15.15.12"
+        ],
         "asn": "AS12876"
     },
     {
