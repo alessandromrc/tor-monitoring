@@ -3776,7 +3776,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV531",
+        "nickname": "TV1050",
         "asn": "AS6167"
     },
     {
@@ -4121,7 +4121,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -4603,7 +4603,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1365",
+        "nickname": "TV3495",
         "asn": "AS42961"
     },
     {
@@ -9959,10 +9959,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV3765",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "BBA1",
         "asn": "AS27284"
     },
@@ -14671,7 +14667,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV1808",
+        "nickname": "TV3379",
         "asn": "AS7303"
     },
     {
@@ -16916,9 +16912,6 @@
     },
     {
         "nickname": "KingShadow1",
-        "exit_address": [
-            "104.167.242.116"
-        ],
         "asn": "AS26286"
     },
     {
@@ -17813,7 +17806,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9177",
+        "nickname": "TV9130",
         "asn": "AS22927"
     },
     {
@@ -19276,7 +19269,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9494",
+        "nickname": "TV3102",
         "asn": "AS7303"
     },
     {
@@ -20596,6 +20589,9 @@
     },
     {
         "nickname": "toodenwablesrelay",
+        "exit_address": [
+            "69.163.77.166"
+        ],
         "asn": "AS36103"
     },
     {
