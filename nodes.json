@@ -559,7 +559,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV5082",
+        "nickname": "TV4995",
         "asn": "AS701"
     },
     {
@@ -613,7 +613,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7711",
+        "nickname": "TV5820",
         "asn": "AS701"
     },
     {
@@ -1166,7 +1166,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3069",
+        "nickname": "TV1171",
         "asn": "AS6167"
     },
     {
@@ -1326,7 +1326,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV565",
+        "nickname": "TV8358",
         "asn": "AS22927"
     },
     {
@@ -1609,7 +1609,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV2468",
+        "nickname": "TV3490",
         "asn": "AS6167"
     },
     {
@@ -2309,7 +2309,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV859",
+        "nickname": "TV1892",
         "asn": "AS6167"
     },
     {
@@ -3288,7 +3288,7 @@
         "asn": "AS51290"
     },
     {
-        "nickname": "TV525",
+        "nickname": "TV2903",
         "asn": "AS701"
     },
     {
@@ -4366,7 +4366,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV2386",
+        "nickname": "TV2017",
         "asn": "AS6167"
     },
     {
@@ -4531,7 +4531,7 @@
         "asn": "AS29134"
     },
     {
-        "nickname": "TV5331",
+        "nickname": "TV6013",
         "asn": "AS701"
     },
     {
@@ -4570,7 +4570,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV2555",
+        "nickname": "TV2970",
         "asn": "AS701"
     },
     {
@@ -5404,7 +5404,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4952",
+        "nickname": "TV9474",
         "asn": "AS27747"
     },
     {
@@ -5606,7 +5606,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1557",
+        "nickname": "TV2031",
         "asn": "AS701"
     },
     {
@@ -5981,7 +5981,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV5547",
+        "nickname": "TV2790",
         "asn": "AS701"
     },
     {
@@ -6182,7 +6182,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8306",
+        "nickname": "TV2294",
         "asn": "AS701"
     },
     {
@@ -7602,6 +7602,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "94.103.3.151"
+        ],
         "asn": "AS207713"
     },
     {
@@ -8100,7 +8103,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV673",
+        "nickname": "TV9771",
         "asn": "AS3215"
     },
     {
@@ -8795,7 +8798,7 @@
         "asn": "AS27176"
     },
     {
-        "nickname": "TV6462",
+        "nickname": "TV957",
         "asn": "AS6167"
     },
     {
@@ -8926,7 +8929,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV5746",
+        "nickname": "TV8056",
         "asn": "AS6167"
     },
     {
@@ -8937,7 +8940,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7661",
+        "nickname": "TV8411",
         "asn": "AS6167"
     },
     {
@@ -9540,7 +9543,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV2359",
+        "nickname": "TV614",
         "asn": "AS701"
     },
     {
@@ -9918,7 +9921,7 @@
         "asn": "AS9"
     },
     {
-        "nickname": "TV6364",
+        "nickname": "TV9849",
         "asn": "AS7303"
     },
     {
@@ -9969,7 +9972,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7219",
+        "nickname": "TV3021",
         "asn": "AS701"
     },
     {
@@ -10091,6 +10094,10 @@
             "185.220.101.8"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV5983",
+        "asn": "AS4773"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -10642,7 +10649,7 @@
         "asn": "AS204170"
     },
     {
-        "nickname": "TV3650",
+        "nickname": "TV9124",
         "asn": "AS701"
     },
     {
@@ -10833,7 +10840,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV7259",
+        "nickname": "TV1628",
         "asn": "AS701"
     },
     {
@@ -10964,7 +10971,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9603",
+        "nickname": "TV1354",
         "asn": "AS701"
     },
     {
@@ -11689,6 +11696,10 @@
         "asn": "AS212508"
     },
     {
+        "nickname": "TV4850",
+        "asn": "AS6167"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "89.58.26.216"
@@ -12341,7 +12352,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6876",
+        "nickname": "TV3579",
         "asn": "AS701"
     },
     {
@@ -12785,6 +12796,10 @@
         "asn": "AS559"
     },
     {
+        "nickname": "DingBerry",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "Aramis",
         "exit_address": [
             "45.141.215.28"
@@ -13017,7 +13032,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV5487",
+        "nickname": "TV1069",
         "asn": "AS6167"
     },
     {
@@ -13130,7 +13145,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5716",
+        "nickname": "TV6957",
         "asn": "AS701"
     },
     {
@@ -13523,7 +13538,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV3790",
+        "nickname": "TV4614",
         "asn": "AS6167"
     },
     {
@@ -13658,7 +13673,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4667",
+        "nickname": "TV6259",
         "asn": "AS6167"
     },
     {
@@ -14550,7 +14565,7 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "TV9731",
+        "nickname": "TV7385",
         "asn": "AS701"
     },
     {
@@ -14883,6 +14898,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "TV4392",
+        "asn": "AS16863"
+    },
+    {
         "nickname": "DFRI114",
         "exit_address": [
             "171.25.193.79"
@@ -15069,7 +15088,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8373",
+        "nickname": "TV2379",
         "asn": "AS701"
     },
     {
@@ -15647,7 +15666,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV6782",
+        "nickname": "TV5874",
         "asn": "AS701"
     },
     {
@@ -15991,6 +16010,7 @@
     {
         "nickname": "PrincessLipid",
         "exit_address": [
+            "89.98.218.18",
             "89.99.115.4"
         ],
         "asn": "AS33915"
@@ -16264,6 +16284,9 @@
     },
     {
         "nickname": "HungaryST",
+        "exit_address": [
+            "45.9.168.106"
+        ],
         "asn": "AS211619"
     },
     {
@@ -16417,10 +16440,6 @@
             "185.220.100.249"
         ],
         "asn": "AS205100"
-    },
-    {
-        "nickname": "TV1677",
-        "asn": "AS23201"
     },
     {
         "nickname": "TV3911",
@@ -16800,7 +16819,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV664",
+        "nickname": "TV2730",
         "asn": "AS701"
     },
     {
@@ -17230,7 +17249,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV3539",
+        "nickname": "TV1881",
         "asn": "AS701"
     },
     {
@@ -18640,7 +18659,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV9922",
+        "nickname": "TV5921",
         "asn": "AS701"
     },
     {
@@ -19248,7 +19267,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4514",
+        "nickname": "TV4225",
         "asn": "AS7303"
     },
     {
@@ -19777,7 +19796,7 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "TV5015",
+        "nickname": "TV423",
         "asn": "AS701"
     },
     {
@@ -20403,6 +20422,10 @@
             "193.26.115.43"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV2924",
+        "asn": "AS701"
     },
     {
         "nickname": "Quetzalcoatl",
