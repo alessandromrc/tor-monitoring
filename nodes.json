@@ -562,7 +562,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV1250",
+        "nickname": "TV5082",
         "asn": "AS701"
     },
     {
@@ -3291,7 +3291,7 @@
         "asn": "AS51290"
     },
     {
-        "nickname": "TV2281",
+        "nickname": "TV525",
         "asn": "AS701"
     },
     {
@@ -3766,7 +3766,7 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV4135",
+        "nickname": "TV2553",
         "asn": "AS701"
     },
     {
@@ -4220,10 +4220,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "MyExitNode",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "Yenoki",
         "exit_address": [
             "77.239.97.46"
@@ -4239,9 +4235,6 @@
     },
     {
         "nickname": "klingonsodondonworq",
-        "exit_address": [
-            "193.169.194.21"
-        ],
         "asn": "AS214576"
     },
     {
@@ -5414,7 +5407,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8537",
+        "nickname": "TV4952",
         "asn": "AS27747"
     },
     {
@@ -5616,7 +5609,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5584",
+        "nickname": "TV1557",
         "asn": "AS701"
     },
     {
@@ -8947,7 +8940,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9234",
+        "nickname": "TV7661",
         "asn": "AS6167"
     },
     {
@@ -9388,7 +9381,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV8772",
+        "nickname": "TV2610",
         "asn": "AS6167"
     },
     {
@@ -9448,7 +9441,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9152",
+        "nickname": "TV9865",
         "asn": "AS33363"
     },
     {
@@ -9550,7 +9543,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4771",
+        "nickname": "TV2359",
         "asn": "AS701"
     },
     {
@@ -10475,10 +10468,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV7299",
-        "asn": "AS9919"
-    },
-    {
         "nickname": "jerryrelay",
         "exit_address": [
             "220.135.36.173"
@@ -10845,6 +10834,10 @@
             "5.39.108.20"
         ],
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TV7259",
+        "asn": "AS701"
     },
     {
         "nickname": "TrujillosExit",
@@ -13027,7 +13020,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7453",
+        "nickname": "TV5487",
         "asn": "AS6167"
     },
     {
@@ -13140,7 +13133,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV111",
+        "nickname": "TV5716",
         "asn": "AS701"
     },
     {
@@ -13721,7 +13714,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV9420",
+        "nickname": "TV7646",
         "asn": "AS6167"
     },
     {
@@ -13944,9 +13937,6 @@
     },
     {
         "nickname": "exit1413",
-        "exit_address": [
-            "159.89.45.183"
-        ],
         "asn": "AS14061"
     },
     {
@@ -14851,6 +14841,10 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
+    },
+    {
+        "nickname": "TV1575",
+        "asn": "AS8151"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -16580,10 +16574,6 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV9410",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "NTH93R4",
         "exit_address": [
             "192.42.116.93"
@@ -16665,7 +16655,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV2673",
+        "nickname": "TV9581",
         "asn": "AS22927"
     },
     {
@@ -17441,7 +17431,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8220",
+        "nickname": "TV8178",
         "asn": "AS5384"
     },
     {
@@ -18136,10 +18126,6 @@
             "38.135.24.32"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "TV5014",
-        "asn": "AS7303"
     },
     {
         "nickname": "r0cket04i0",
@@ -19265,7 +19251,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7272",
+        "nickname": "TV4514",
         "asn": "AS7303"
     },
     {
@@ -20343,10 +20329,6 @@
             "192.42.116.13"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TV6719",
-        "asn": "AS7303"
     },
     {
         "nickname": "Quetzalcoatl",
