@@ -1870,6 +1870,9 @@
     },
     {
         "nickname": "jackblackrelay",
+        "exit_address": [
+            "80.71.235.16"
+        ],
         "asn": "AS211673"
     },
     {
@@ -2320,7 +2323,7 @@
         "asn": "AS6167"
     },
     {
-        "nickname": "TV1103",
+        "nickname": "TV89",
         "asn": "AS27747"
     },
     {
@@ -2610,10 +2613,6 @@
             "45.84.107.222"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "TV7914",
-        "asn": "AS22927"
     },
     {
         "nickname": "r0cket08i1",
@@ -4119,7 +4118,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -5255,7 +5254,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7881",
+        "nickname": "TV872",
         "asn": "AS7418"
     },
     {
@@ -9961,9 +9960,6 @@
     },
     {
         "nickname": "klingonsodondonwore",
-        "exit_address": [
-            "77.90.185.51"
-        ],
         "asn": "AS214576"
     },
     {
@@ -16284,6 +16280,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "HungaryST",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "46.250.243.29"
@@ -16673,7 +16673,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3514",
+        "nickname": "TV4124",
         "asn": "AS22927"
     },
     {
@@ -19273,7 +19273,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6383",
+        "nickname": "TV5582",
         "asn": "AS7303"
     },
     {
@@ -19708,6 +19708,10 @@
             "23.151.8.88"
         ],
         "asn": "AS264617"
+    },
+    {
+        "nickname": "TV9508",
+        "asn": "AS4181"
     },
     {
         "nickname": "NTH12R3",
@@ -20244,6 +20248,10 @@
             "45.9.156.192"
         ],
         "asn": "AS211619"
+    },
+    {
+        "nickname": "TV5010",
+        "asn": "AS7303"
     },
     {
         "nickname": "prsv",
