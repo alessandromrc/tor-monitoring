@@ -5808,9 +5808,6 @@
     },
     {
         "nickname": "NTH100R5",
-        "exit_address": [
-            "192.42.116.100"
-        ],
         "asn": "AS215125"
     },
     {
@@ -8390,6 +8387,9 @@
     },
     {
         "nickname": "trapExitNode",
+        "exit_address": [
+            "43.157.157.73"
+        ],
         "asn": "AS132203"
     },
     {
