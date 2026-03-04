@@ -3121,6 +3121,9 @@
     },
     {
         "nickname": "ageinghacker",
+        "exit_address": [
+            "82.221.139.190"
+        ],
         "asn": "AS50613"
     },
     {
@@ -5547,10 +5550,6 @@
             "185.225.69.203"
         ],
         "asn": "AS30836"
-    },
-    {
-        "nickname": "shanoshema2",
-        "asn": "AS9070"
     },
     {
         "nickname": "marcuse8",
@@ -9758,9 +9757,6 @@
     },
     {
         "nickname": "tedreker",
-        "exit_address": [
-            "89.169.13.202"
-        ],
         "asn": "AS207957"
     },
     {
@@ -12366,9 +12362,6 @@
     },
     {
         "nickname": "MyExit78",
-        "exit_address": [
-            "104.28.197.15"
-        ],
         "asn": "AS210644"
     },
     {
@@ -14444,10 +14437,6 @@
             "185.241.208.136"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV7383",
-        "asn": "AS6167"
     },
     {
         "nickname": "prsv",
