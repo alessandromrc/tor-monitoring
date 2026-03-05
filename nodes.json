@@ -5664,6 +5664,9 @@
     },
     {
         "nickname": "runesandrelics",
+        "exit_address": [
+            "54.36.108.162"
+        ],
         "asn": "AS16276"
     },
     {
@@ -8139,6 +8142,9 @@
     },
     {
         "nickname": "RUMMS",
+        "exit_address": [
+            "82.221.100.222"
+        ],
         "asn": "AS50613"
     },
     {
@@ -8366,9 +8372,6 @@
     },
     {
         "nickname": "trapExitNode",
-        "exit_address": [
-            "43.157.157.73"
-        ],
         "asn": "AS132203"
     },
     {
@@ -14320,9 +14323,6 @@
     },
     {
         "nickname": "yetiready",
-        "exit_address": [
-            "91.203.144.194"
-        ],
         "asn": "AS45045"
     },
     {
@@ -15138,6 +15138,7 @@
     {
         "nickname": "forest08",
         "exit_address": [
+            "176.65.134.8",
             "176.65.134.9"
         ],
         "asn": "AS36680"
@@ -16685,7 +16686,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV3319",
+        "nickname": "TV7667",
         "asn": "AS17676"
     },
     {
