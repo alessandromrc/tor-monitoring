@@ -1535,7 +1535,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4631",
+        "nickname": "TV2849",
         "asn": "AS22927"
     },
     {
@@ -4041,13 +4041,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
-        "exit_address": [
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -5028,10 +5021,6 @@
             "45.138.16.222"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV9857",
-        "asn": "AS27747"
     },
     {
         "nickname": "obzgs5tbmn4q",
@@ -13175,7 +13164,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8647",
+        "nickname": "TV6506",
         "asn": "AS8151"
     },
     {
@@ -14447,7 +14436,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3412",
+        "nickname": "TV2976",
         "asn": "AS22927"
     },
     {
@@ -15091,8 +15080,7 @@
     {
         "nickname": "forest08",
         "exit_address": [
-            "176.65.134.8",
-            "176.65.134.9"
+            "176.65.134.8"
         ],
         "asn": "AS36680"
     },
@@ -16752,6 +16740,10 @@
             "109.70.100.11"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "DebianLehnert2",
+        "asn": "AS3303"
     },
     {
         "nickname": "Quetzalcoatl",
