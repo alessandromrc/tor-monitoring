@@ -1082,10 +1082,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1333",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "kohlrabi",
         "exit_address": [
             "109.70.100.4"
@@ -2029,9 +2025,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -4277,9 +4270,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -8216,9 +8206,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -10062,7 +10049,7 @@
         "asn": "AS47890"
     },
     {
-        "nickname": "TV2987",
+        "nickname": "TV3626",
         "asn": "AS7122"
     },
     {
@@ -11328,9 +11315,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -12249,7 +12233,7 @@
         "asn": "AS56322"
     },
     {
-        "nickname": "TV970",
+        "nickname": "TV157",
         "asn": "AS6057"
     },
     {
@@ -12885,9 +12869,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
@@ -14429,10 +14410,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3545",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "Pjotrek",
         "exit_address": [
             "45.137.70.158"
@@ -15652,10 +15629,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV969",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "TV6580",
         "asn": "AS701"
     },
@@ -16742,6 +16715,10 @@
             "124.198.132.237"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "ForPrivacyNET",
+        "asn": "AS53667"
     },
     {
         "nickname": "hnlexit3",
@@ -20053,9 +20030,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.141.215.16"
-        ],
         "asn": "AS210558"
     },
     {
