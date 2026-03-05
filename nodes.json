@@ -7546,9 +7546,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "94.103.3.151"
-        ],
         "asn": "AS207713"
     },
     {
@@ -18956,9 +18953,6 @@
     },
     {
         "nickname": "resterus334",
-        "exit_address": [
-            "159.89.45.183"
-        ],
         "asn": "AS14061"
     },
     {
@@ -19754,6 +19748,9 @@
     },
     {
         "nickname": "CembraNutBoys02",
+        "exit_address": [
+            "131.72.79.38"
+        ],
         "asn": "AS264811"
     },
     {
