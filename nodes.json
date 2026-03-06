@@ -166,9 +166,6 @@
     },
     {
         "nickname": "TheMadHackerSkyeV1",
-        "exit_address": [
-            "45.84.196.162"
-        ],
         "asn": "AS216063"
     },
     {
@@ -1833,6 +1830,9 @@
     },
     {
         "nickname": "jackblackrelay",
+        "exit_address": [
+            "80.71.235.16"
+        ],
         "asn": "AS211673"
     },
     {
@@ -1988,9 +1988,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -4374,9 +4371,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -6093,9 +6087,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -6172,6 +6163,7 @@
     {
         "nickname": "homesweethome760",
         "exit_address": [
+            "45.87.249.39",
             "5.39.222.19"
         ],
         "asn": "AS210006"
@@ -7807,9 +7799,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -9860,10 +9849,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "BBA1",
-        "asn": "AS27284"
-    },
-    {
         "nickname": "klingonsodondonwore",
         "asn": "AS214576"
     },
@@ -10335,6 +10320,10 @@
             "5.255.98.23"
         ],
         "asn": "AS60404"
+    },
+    {
+        "nickname": "ndengin",
+        "asn": "AS215540"
     },
     {
         "nickname": "DeafCitadel",
@@ -10858,6 +10847,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "Hdfsjgsddfd",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "lunar5",
         "exit_address": [
             "203.55.81.1"
@@ -11180,9 +11173,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -12157,10 +12147,6 @@
             "185.243.218.232"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "mirage",
-        "asn": "AS56322"
     },
     {
         "nickname": "TV1050",
@@ -14220,9 +14206,6 @@
     },
     {
         "nickname": "OXDUED7874",
-        "exit_address": [
-            "45.93.137.168"
-        ],
         "asn": "AS47583"
     },
     {
@@ -14456,9 +14439,6 @@
     },
     {
         "nickname": "tortillanshore",
-        "exit_address": [
-            "71.57.84.10"
-        ],
         "asn": "AS7922"
     },
     {
@@ -14502,9 +14482,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -14572,7 +14549,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV527",
+        "nickname": "TV5400",
         "asn": "AS701"
     },
     {
@@ -16588,9 +16565,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -16671,7 +16645,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV6273",
+        "nickname": "TV9307",
         "asn": "AS701"
     },
     {
@@ -17128,6 +17102,10 @@
             "23.129.64.159"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "ginnden",
+        "asn": "AS215540"
     },
     {
         "nickname": "fourwinds02",
@@ -18242,9 +18220,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -18826,9 +18801,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -18844,10 +18816,6 @@
             "185.220.101.3"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV2886",
-        "asn": "AS701"
     },
     {
         "nickname": "Digitalcourage4ipha",
