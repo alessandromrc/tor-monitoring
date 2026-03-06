@@ -1833,9 +1833,6 @@
     },
     {
         "nickname": "jackblackrelay",
-        "exit_address": [
-            "80.71.235.16"
-        ],
         "asn": "AS211673"
     },
     {
@@ -6202,6 +6199,9 @@
     },
     {
         "nickname": "PrivacyIsRight",
+        "exit_address": [
+            "141.11.76.231"
+        ],
         "asn": "AS32167"
     },
     {
@@ -11883,9 +11883,6 @@
     },
     {
         "nickname": "SwitzerlandExit",
-        "exit_address": [
-            "23.137.252.225"
-        ],
         "asn": "AS40663"
     },
     {
