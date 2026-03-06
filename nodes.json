@@ -6209,6 +6209,10 @@
         "asn": "AS203446"
     },
     {
+        "nickname": "MyDebianRelay",
+        "asn": "AS32167"
+    },
+    {
         "nickname": "NTH17R8",
         "exit_address": [
             "192.42.116.17"
@@ -13380,9 +13384,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "51.38.225.46"
-        ],
         "asn": "AS16276"
     },
     {
