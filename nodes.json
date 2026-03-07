@@ -2009,6 +2009,9 @@
     },
     {
         "nickname": "dim",
+        "exit_address": [
+            "179.43.140.198"
+        ],
         "asn": "AS51852"
     },
     {
@@ -17305,9 +17308,6 @@
     },
     {
         "nickname": "flokinet1",
-        "exit_address": [
-            "185.100.87.174"
-        ],
         "asn": "AS200651"
     },
     {
