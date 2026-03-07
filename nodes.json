@@ -6236,8 +6236,7 @@
     {
         "nickname": "homesweethome760",
         "exit_address": [
-            "45.87.249.39",
-            "5.39.222.19"
+            "45.87.249.39"
         ],
         "asn": "AS210006"
     },
@@ -11985,6 +11984,9 @@
     },
     {
         "nickname": "SwitzerlandExit",
+        "exit_address": [
+            "23.137.252.225"
+        ],
         "asn": "AS40663"
     },
     {
