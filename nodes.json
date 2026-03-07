@@ -3938,6 +3938,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "TV7819",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "kofatra",
         "exit_address": [
             "23.129.64.171"
@@ -4057,7 +4061,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.61"
         ],
@@ -4370,6 +4374,10 @@
             "192.159.99.74"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV4528",
+        "asn": "AS8151"
     },
     {
         "nickname": "VictorCryptoUMich",
@@ -5847,7 +5855,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6487",
+        "nickname": "TV4006",
         "asn": "AS7418"
     },
     {
@@ -7968,7 +7976,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8423",
+        "nickname": "TV2835",
         "asn": "AS52367"
     },
     {
@@ -11977,9 +11985,6 @@
     },
     {
         "nickname": "SwitzerlandExit",
-        "exit_address": [
-            "23.137.252.225"
-        ],
         "asn": "AS40663"
     },
     {
