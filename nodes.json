@@ -4120,6 +4120,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "KingcelWon",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.139"
@@ -6385,11 +6389,10 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "ScaryBeaver",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "MyTorExitNode",
+        "exit_address": [
+            "45.137.205.34"
+        ],
         "asn": "AS212477"
     },
     {
@@ -9973,10 +9976,6 @@
             "23.129.64.130"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "klingonsodondonwore",
-        "asn": "AS214576"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -14645,10 +14644,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3379",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "MRBEAST2",
         "exit_address": [
             "62.149.23.133"
@@ -15048,6 +15043,7 @@
     {
         "nickname": "dark",
         "exit_address": [
+            "212.46.33.18",
             "94.249.175.18"
         ],
         "asn": "AS216078"
@@ -16172,9 +16168,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -17007,6 +17000,9 @@
     },
     {
         "nickname": "VisionVillage",
+        "exit_address": [
+            "94.75.225.81"
+        ],
         "asn": "AS60781"
     },
     {
@@ -18425,10 +18421,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV1622",
-        "asn": "AS701"
-    },
-    {
         "nickname": "quokka",
         "exit_address": [
             "109.70.100.12"
@@ -19073,10 +19065,6 @@
             "212.95.50.223"
         ],
         "asn": "AS28753"
-    },
-    {
-        "nickname": "TV984",
-        "asn": "AS271907"
     },
     {
         "nickname": "Quetzalcoatl",
