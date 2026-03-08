@@ -162,6 +162,10 @@
         "asn": "AS329325"
     },
     {
+        "nickname": "TV6217",
+        "asn": "AS13370"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS215540"
     },
@@ -1552,7 +1556,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5432",
+        "nickname": "TV5982",
         "asn": "AS22927"
     },
     {
@@ -1625,6 +1629,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TorExitForYou",
+        "asn": "AS53667"
     },
     {
         "nickname": "httpx",
@@ -3671,7 +3679,7 @@
         "asn": "AS15497"
     },
     {
-        "nickname": "TV7607",
+        "nickname": "TV2856",
         "asn": "AS701"
     },
     {
@@ -3745,7 +3753,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV992",
+        "nickname": "TV2576",
         "asn": "AS6167"
     },
     {
@@ -4081,13 +4089,6 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "FEVI02EXIT",
-        "exit_address": [
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -5503,7 +5504,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV3482",
+        "nickname": "TV3086",
         "asn": "AS701"
     },
     {
@@ -5878,7 +5879,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4006",
+        "nickname": "TV1522",
         "asn": "AS7418"
     },
     {
@@ -8031,7 +8032,7 @@
         "asn": "AS44570"
     },
     {
-        "nickname": "TV4616",
+        "nickname": "TV5711",
         "asn": "AS52367"
     },
     {
@@ -8357,9 +8358,6 @@
     },
     {
         "nickname": "NTH16R2",
-        "exit_address": [
-            "192.42.116.16"
-        ],
         "asn": "AS215125"
     },
     {
@@ -12714,6 +12712,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "TV7839",
+        "asn": "AS27747"
+    },
+    {
         "nickname": "manning",
         "exit_address": [
             "23.129.64.142"
@@ -12765,10 +12767,6 @@
             "185.220.101.50"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "BBA2",
-        "asn": "AS27284"
     },
     {
         "nickname": "NTH42R7",
@@ -15083,6 +15081,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV8723",
+        "asn": "AS12389"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.62"
@@ -16856,7 +16858,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV4499",
+        "nickname": "TV8221",
         "asn": "AS701"
     },
     {
@@ -18724,7 +18726,7 @@
         "asn": "AS680"
     },
     {
-        "nickname": "TV2368",
+        "nickname": "TV7825",
         "asn": "AS7418"
     },
     {
