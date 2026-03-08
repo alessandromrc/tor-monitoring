@@ -1027,6 +1027,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "TV6331",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "LocalenbySGExit",
         "exit_address": [
             "172.104.186.73"
@@ -6063,6 +6067,10 @@
             "45.9.156.192"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "UnredactedLoki",
@@ -12216,13 +12224,6 @@
         "asn": "AS10961"
     },
     {
-        "nickname": "DerTeufel",
-        "exit_address": [
-            "78.153.140.44"
-        ],
-        "asn": "AS202306"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.29"
@@ -12608,6 +12609,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS215540"
+    },
+    {
         "nickname": "NTH102R2",
         "exit_address": [
             "192.42.116.102"
@@ -12690,6 +12695,10 @@
             "185.220.101.102"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "manning",
@@ -15320,6 +15329,10 @@
             "45.12.3.80"
         ],
         "asn": "AS6698"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS215540"
     },
     {
         "nickname": "kaminsky",
