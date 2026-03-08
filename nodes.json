@@ -14534,7 +14534,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV1402",
+        "nickname": "TV875",
         "asn": "AS22927"
     },
     {
@@ -14582,6 +14582,9 @@
     },
     {
         "nickname": "tortillanshore",
+        "exit_address": [
+            "73.208.172.167"
+        ],
         "asn": "AS7922"
     },
     {
@@ -18463,6 +18466,10 @@
             "124.198.132.13"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV8518",
+        "asn": "AS7303"
     },
     {
         "nickname": "TV5644",
