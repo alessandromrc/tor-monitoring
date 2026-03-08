@@ -2089,7 +2089,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV2972",
+        "nickname": "TV5636",
         "asn": "AS701"
     },
     {
@@ -5857,9 +5857,6 @@
     },
     {
         "nickname": "jkimnot1",
-        "exit_address": [
-            "179.43.133.50"
-        ],
         "asn": "AS51852"
     },
     {
@@ -7213,6 +7210,9 @@
     },
     {
         "nickname": "FEVI06EXIT",
+        "exit_address": [
+            "185.121.170.61"
+        ],
         "asn": "AS44570"
     },
     {
@@ -8028,6 +8028,9 @@
     },
     {
         "nickname": "FEVI05EXIT",
+        "exit_address": [
+            "185.121.170.60"
+        ],
         "asn": "AS44570"
     },
     {
