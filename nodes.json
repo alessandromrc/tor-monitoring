@@ -4098,9 +4098,6 @@
     },
     {
         "nickname": "drake",
-        "exit_address": [
-            "23.129.64.134"
-        ],
         "asn": "AS396507"
     },
     {
@@ -14584,7 +14581,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV697",
+        "nickname": "TV8190",
         "asn": "AS22927"
     },
     {
@@ -15113,8 +15110,7 @@
     {
         "nickname": "dark",
         "exit_address": [
-            "212.46.33.18",
-            "94.249.175.18"
+            "212.46.33.18"
         ],
         "asn": "AS216078"
     },
@@ -17802,6 +17798,10 @@
     {
         "nickname": "prsv",
         "asn": "AS51396"
+    },
+    {
+        "nickname": "sts",
+        "asn": "AS4766"
     },
     {
         "nickname": "Quetzalcoatl",
