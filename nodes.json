@@ -7212,6 +7212,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "FEVI06EXIT",
+        "asn": "AS44570"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.79",
@@ -8021,6 +8025,10 @@
             "192.42.116.97"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "FEVI05EXIT",
+        "asn": "AS44570"
     },
     {
         "nickname": "TV4616",
@@ -12613,6 +12621,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.233.252.46"
+        ],
         "asn": "AS215540"
     },
     {
@@ -14570,7 +14581,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV4443",
+        "nickname": "TV697",
         "asn": "AS22927"
     },
     {
@@ -18714,7 +18725,7 @@
         "asn": "AS680"
     },
     {
-        "nickname": "TV9448",
+        "nickname": "TV2368",
         "asn": "AS7418"
     },
     {
