@@ -1288,6 +1288,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "TV910",
+        "asn": "AS701"
+    },
+    {
         "nickname": "eo187",
         "exit_address": [
             "23.129.64.187"
@@ -18641,9 +18645,6 @@
     },
     {
         "nickname": "lawqel",
-        "exit_address": [
-            "94.142.139.146"
-        ],
         "asn": "AS216071"
     },
     {
@@ -20059,7 +20060,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV2449",
+        "nickname": "TV3366",
         "asn": "AS7029"
     },
     {
@@ -20489,6 +20490,9 @@
     },
     {
         "nickname": "xenia",
+        "exit_address": [
+            "121.78.28.166"
+        ],
         "asn": "AS21859"
     },
     {
