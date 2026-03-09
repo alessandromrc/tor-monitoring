@@ -629,10 +629,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3606",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "194.26.192.77"
@@ -2993,7 +2989,7 @@
         "asn": "AS33837"
     },
     {
-        "nickname": "TV4860",
+        "nickname": "TV5294",
         "asn": "AS6167"
     },
     {
@@ -6660,6 +6656,9 @@
     },
     {
         "nickname": "gopsstop",
+        "exit_address": [
+            "170.168.61.15"
+        ],
         "asn": "AS63023"
     },
     {
@@ -13325,10 +13324,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV278",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -14698,7 +14693,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV2152",
+        "nickname": "TV5399",
         "asn": "AS22927"
     },
     {
