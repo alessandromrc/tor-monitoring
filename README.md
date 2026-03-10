@@ -11,6 +11,8 @@ The data is automatically updated every hour and stored in the `output` branch.
 | ---------- | --- |
 | **ASNs** | https://alessandromrc.github.io/tor-monitoring/ASN.json |
 | **Nodes** | https://alessandromrc.github.io/tor-monitoring/nodes.json |
+| **IPs** | https://alessandromrc.github.io/tor-monitoring/ips.txt |
+| **IPs JSON** | https://alessandromrc.github.io/tor-monitoring/ips.json |
 
 ---
 
