@@ -34,8 +34,19 @@ async function main() {
     if (ASN.indexOf(node.as) === -1) ASN.push(node.as);
   })
 
+  let IPs = [];
+  data.relays.forEach(node => {
+    if (node.exit_addresses) {
+      node.exit_addresses.forEach(ip => {
+        if (IPs.indexOf(ip) === -1) IPs.push(ip);
+      });
+    }
+  });
+
   fs.writeFileSync(outputPath + "nodes.json", JSON.stringify(Node, null, 4));
   fs.writeFileSync(outputPath + "ASN.json", JSON.stringify(ASN, null, 4));
+  fs.writeFileSync(outputPath + "ips.txt", IPs.join("\n"));
+  fs.writeFileSync(outputPath + "ips.json", JSON.stringify(IPs, null, 2));
 }
 
 main()
