@@ -2998,7 +2998,7 @@
         "asn": "AS33837"
     },
     {
-        "nickname": "TV2990",
+        "nickname": "TV8576",
         "asn": "AS6167"
     },
     {
@@ -5918,7 +5918,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3206",
+        "nickname": "TV1199",
         "asn": "AS7418"
     },
     {
@@ -7271,6 +7271,9 @@
     },
     {
         "nickname": "artikel10buc15",
+        "exit_address": [
+            "185.100.85.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -14123,6 +14126,9 @@
     },
     {
         "nickname": "artikel10buc13",
+        "exit_address": [
+            "185.100.85.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -17533,6 +17539,9 @@
     },
     {
         "nickname": "flokinet1",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -17903,7 +17912,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9124",
+        "nickname": "TV8280",
         "asn": "AS22927"
     },
     {
