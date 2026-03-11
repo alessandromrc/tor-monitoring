@@ -822,10 +822,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "luxvptorex",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "Digitalcourage4ipca",
         "exit_address": [
             "185.220.101.98"
@@ -4315,7 +4311,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV4282",
+        "nickname": "TV3901",
         "asn": "AS701"
     },
     {
@@ -4884,6 +4880,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.233.253.7"
+        ],
         "asn": "AS215540"
     },
     {
@@ -5403,7 +5402,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV1844",
+        "nickname": "TV4486",
         "asn": "AS5650"
     },
     {
@@ -12341,6 +12340,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.233.253.7"
+        ],
         "asn": "AS215540"
     },
     {
@@ -12509,10 +12511,6 @@
             "45.141.215.61"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "MyExit78",
-        "asn": "AS210644"
     },
     {
         "nickname": "fin",
@@ -13352,6 +13350,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.233.253.7"
+        ],
         "asn": "AS215540"
     },
     {
@@ -13984,6 +13985,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "193.233.253.7"
+        ],
         "asn": "AS215540"
     },
     {
@@ -17699,10 +17703,6 @@
             "46.250.243.29"
         ],
         "asn": "AS141995"
-    },
-    {
-        "nickname": "Mjolnir",
-        "asn": "AS53667"
     },
     {
         "nickname": "NTH45R3",
