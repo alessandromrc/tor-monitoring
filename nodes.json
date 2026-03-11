@@ -1926,7 +1926,7 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "TV7483",
+        "nickname": "TV5409",
         "asn": "AS27747"
     },
     {
@@ -2599,7 +2599,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV1396",
+        "nickname": "TV485",
         "asn": "AS22927"
     },
     {
@@ -3139,9 +3139,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -3986,9 +3983,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9693,7 +9687,7 @@
         "asn": "AS61125"
     },
     {
-        "nickname": "TV4305",
+        "nickname": "TV7362",
         "asn": "AS6167"
     },
     {
@@ -10965,6 +10959,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "TV652",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.132.13"
@@ -11811,7 +11809,7 @@
         "asn": "AS213438"
     },
     {
-        "nickname": "TV610",
+        "nickname": "TV2683",
         "asn": "AS701"
     },
     {
@@ -13378,10 +13376,6 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "YourExitNodeName",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "Objedkowa",
         "exit_address": [
             "185.246.188.73"
@@ -13396,7 +13390,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8702",
+        "nickname": "TV8336",
         "asn": "AS8151"
     },
     {
@@ -14252,7 +14246,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV8219",
+        "nickname": "TV2059",
         "asn": "AS6167"
     },
     {
@@ -18001,9 +17995,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -18983,6 +18974,10 @@
             "185.220.100.254"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "TV5199",
+        "asn": "AS8151"
     },
     {
         "nickname": "BehemothLTDSE1",
@@ -20687,7 +20682,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV2758",
+        "nickname": "TV5784",
         "asn": "AS7418"
     },
     {
