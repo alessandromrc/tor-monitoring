@@ -3522,6 +3522,9 @@
     },
     {
         "nickname": "NTH51R7",
+        "exit_address": [
+            "192.42.116.51"
+        ],
         "asn": "AS215125"
     },
     {
@@ -8403,9 +8406,6 @@
     },
     {
         "nickname": "trapExitNode",
-        "exit_address": [
-            "43.157.157.73"
-        ],
         "asn": "AS132203"
     },
     {
@@ -15694,7 +15694,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV6304",
+        "nickname": "TV2799",
         "asn": "AS12353"
     },
     {
