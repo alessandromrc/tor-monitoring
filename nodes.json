@@ -8833,7 +8833,7 @@
         "asn": "AS27176"
     },
     {
-        "nickname": "TV4195",
+        "nickname": "TV7589",
         "asn": "AS6167"
     },
     {
@@ -13266,7 +13266,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9047",
+        "nickname": "TV8405",
         "asn": "AS8151"
     },
     {
@@ -14618,7 +14618,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7293",
+        "nickname": "TV7156",
         "asn": "AS7303"
     },
     {
@@ -19126,6 +19126,9 @@
     },
     {
         "nickname": "rosemoon",
+        "exit_address": [
+            "94.142.139.146"
+        ],
         "asn": "AS216071"
     },
     {
