@@ -6258,9 +6258,6 @@
     },
     {
         "nickname": "DrofsExitNodeFFM",
-        "exit_address": [
-            "37.114.41.202"
-        ],
         "asn": "AS203446"
     },
     {
@@ -10482,10 +10479,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "ndengin",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "DeafCitadel",
         "exit_address": [
             "2.56.10.36"
@@ -10642,6 +10635,10 @@
             "185.132.53.11"
         ],
         "asn": "AS211507"
+    },
+    {
+        "nickname": "TV1193",
+        "asn": "AS22927"
     },
     {
         "nickname": "flokinet2n3",
@@ -10998,10 +10995,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "Hdfsjgsddfd",
-        "asn": "AS47583"
-    },
-    {
         "nickname": "lunar5",
         "exit_address": [
             "203.55.81.1"
@@ -11315,9 +11308,6 @@
     },
     {
         "nickname": "frarelay",
-        "exit_address": [
-            "144.31.120.166"
-        ],
         "asn": "AS213877"
     },
     {
@@ -11995,10 +11985,6 @@
             "89.234.157.254"
         ],
         "asn": "AS197422"
-    },
-    {
-        "nickname": "ndengin",
-        "asn": "AS215540"
     },
     {
         "nickname": "VrijHeid4",
