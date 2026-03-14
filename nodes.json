@@ -1750,7 +1750,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8889",
+        "nickname": "TV7000",
         "asn": "AS701"
     },
     {
@@ -2333,9 +2333,6 @@
     },
     {
         "nickname": "NTH17R5",
-        "exit_address": [
-            "192.42.116.17"
-        ],
         "asn": "AS215125"
     },
     {
@@ -3420,6 +3417,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "TVOzKGKLbiZ",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "gigatux",
         "exit_address": [
             "185.113.128.30"
@@ -4049,6 +4050,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -5150,7 +5158,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV4741",
+        "nickname": "TV413",
         "asn": "AS14117"
     },
     {
@@ -5734,9 +5742,6 @@
     },
     {
         "nickname": "NTH12R8",
-        "exit_address": [
-            "192.42.116.12"
-        ],
         "asn": "AS215125"
     },
     {
@@ -14726,7 +14731,7 @@
         "asn": "AS47890"
     },
     {
-        "nickname": "TV3540",
+        "nickname": "TV9470",
         "asn": "AS27747"
     },
     {
