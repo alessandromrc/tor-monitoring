@@ -618,9 +618,6 @@
     },
     {
         "nickname": "DFRI67",
-        "exit_address": [
-            "171.25.193.37"
-        ],
         "asn": "AS198093"
     },
     {
@@ -671,9 +668,6 @@
     },
     {
         "nickname": "DFRI100",
-        "exit_address": [
-            "171.25.193.81"
-        ],
         "asn": "AS198093"
     },
     {
@@ -1232,9 +1226,6 @@
     },
     {
         "nickname": "DFRI78",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
@@ -1728,9 +1719,6 @@
     },
     {
         "nickname": "DFRI77",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
@@ -4493,9 +4481,6 @@
     },
     {
         "nickname": "DFRI106",
-        "exit_address": [
-            "171.25.193.82"
-        ],
         "asn": "AS198093"
     },
     {
@@ -4536,9 +4521,6 @@
     },
     {
         "nickname": "DFRI55",
-        "exit_address": [
-            "171.25.193.36"
-        ],
         "asn": "AS198093"
     },
     {
@@ -4932,9 +4914,6 @@
     },
     {
         "nickname": "DFRI81",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
@@ -5160,7 +5139,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV8336",
+        "nickname": "TV4674",
         "asn": "AS14117"
     },
     {
@@ -5390,9 +5369,6 @@
     },
     {
         "nickname": "DFRI66",
-        "exit_address": [
-            "171.25.193.37"
-        ],
         "asn": "AS198093"
     },
     {
@@ -5712,9 +5688,6 @@
     },
     {
         "nickname": "DFRI80",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
@@ -9318,9 +9291,6 @@
     },
     {
         "nickname": "DFRI64",
-        "exit_address": [
-            "171.25.193.37"
-        ],
         "asn": "AS198093"
     },
     {
@@ -9730,6 +9700,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TV4456",
+        "asn": "AS701"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.223"
@@ -10119,9 +10093,6 @@
     },
     {
         "nickname": "DFRI73",
-        "exit_address": [
-            "171.25.193.38"
-        ],
         "asn": "AS198093"
     },
     {
@@ -11098,9 +11069,6 @@
     },
     {
         "nickname": "DFRI103",
-        "exit_address": [
-            "171.25.193.82"
-        ],
         "asn": "AS198093"
     },
     {
@@ -11890,10 +11858,6 @@
             "23.129.64.223"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "SwitzerlandExit",
-        "asn": "AS40663"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -12943,9 +12907,6 @@
     },
     {
         "nickname": "DFRI88",
-        "exit_address": [
-            "171.25.193.40"
-        ],
         "asn": "AS198093"
     },
     {
@@ -14387,9 +14348,6 @@
     },
     {
         "nickname": "DFRI98",
-        "exit_address": [
-            "171.25.193.81"
-        ],
         "asn": "AS198093"
     },
     {
@@ -14619,9 +14577,6 @@
     },
     {
         "nickname": "DFRI70",
-        "exit_address": [
-            "171.25.193.38"
-        ],
         "asn": "AS198093"
     },
     {
@@ -15188,9 +15143,6 @@
     },
     {
         "nickname": "DFRI53",
-        "exit_address": [
-            "171.25.193.36"
-        ],
         "asn": "AS198093"
     },
     {
@@ -16477,9 +16429,6 @@
     },
     {
         "nickname": "DFRI85",
-        "exit_address": [
-            "171.25.193.40"
-        ],
         "asn": "AS198093"
     },
     {
@@ -16893,6 +16842,10 @@
         "asn": "AS7303"
     },
     {
+        "nickname": "TV9316",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "ProjectPrivacyX1",
         "exit_address": [
             "67.219.109.141"
@@ -17261,16 +17214,10 @@
     },
     {
         "nickname": "DFRI83",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
         "nickname": "DFRI61",
-        "exit_address": [
-            "171.25.193.37"
-        ],
         "asn": "AS198093"
     },
     {
@@ -17664,9 +17611,6 @@
     },
     {
         "nickname": "DFRI47",
-        "exit_address": [
-            "171.25.193.35"
-        ],
         "asn": "AS198093"
     },
     {
@@ -18136,9 +18080,6 @@
     },
     {
         "nickname": "DFRI84",
-        "exit_address": [
-            "171.25.193.39"
-        ],
         "asn": "AS198093"
     },
     {
@@ -18744,7 +18685,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV5960",
+        "nickname": "TV1916",
         "asn": "AS7122"
     },
     {
@@ -19719,9 +19660,6 @@
     },
     {
         "nickname": "DFRI62",
-        "exit_address": [
-            "171.25.193.37"
-        ],
         "asn": "AS198093"
     },
     {
