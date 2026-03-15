@@ -3097,6 +3097,10 @@
         "asn": "AS328364"
     },
     {
+        "nickname": "TV2834",
+        "asn": "AS20412"
+    },
+    {
         "nickname": "kinogeek",
         "asn": "AS44477"
     },
@@ -6841,6 +6845,7 @@
     {
         "nickname": "hnlexit7",
         "exit_address": [
+            "141.239.158.222",
             "72.235.129.116"
         ],
         "asn": "AS36149"
@@ -7960,6 +7965,10 @@
             "66.78.40.91"
         ],
         "asn": "AS215659"
+    },
+    {
+        "nickname": "TV4982",
+        "asn": "AS22927"
     },
     {
         "nickname": "ghostdriver",
@@ -11246,10 +11255,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV2502",
-        "asn": "AS701"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.243.218.232"
@@ -11990,6 +11995,7 @@
     {
         "nickname": "hnlexit4",
         "exit_address": [
+            "141.239.158.222",
             "72.235.129.116"
         ],
         "asn": "AS36149"
@@ -13118,7 +13124,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8512",
+        "nickname": "TV8458",
         "asn": "AS8151"
     },
     {
@@ -16096,6 +16102,7 @@
     {
         "nickname": "hnlexit1",
         "exit_address": [
+            "141.239.158.222",
             "72.235.129.116"
         ],
         "asn": "AS36149"
@@ -16591,6 +16598,7 @@
     {
         "nickname": "hnlexit3",
         "exit_address": [
+            "141.239.158.222",
             "72.235.129.116"
         ],
         "asn": "AS36149"
@@ -19700,7 +19708,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV2762",
+        "nickname": "TV7914",
         "asn": "AS6167"
     },
     {
