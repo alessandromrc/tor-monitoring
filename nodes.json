@@ -702,9 +702,6 @@
     },
     {
         "nickname": "hnlexit5",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -826,6 +823,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.94.31.244"
+        ],
         "asn": "AS210558"
     },
     {
@@ -2075,9 +2075,6 @@
     },
     {
         "nickname": "UnredactedCapricorn",
-        "exit_address": [
-            "23.191.200.25"
-        ],
         "asn": "AS401401"
     },
     {
@@ -3244,9 +3241,6 @@
     },
     {
         "nickname": "privatebrowsingorg",
-        "exit_address": [
-            "107.189.12.7"
-        ],
         "asn": "AS53667"
     },
     {
@@ -3726,7 +3720,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6204",
+        "nickname": "TV3662",
         "asn": "AS26860"
     },
     {
@@ -6820,9 +6814,6 @@
     },
     {
         "nickname": "hnlexit7",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -7704,9 +7695,6 @@
     },
     {
         "nickname": "hnlexit6",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -8740,7 +8728,7 @@
         "asn": "AS27176"
     },
     {
-        "nickname": "TV5167",
+        "nickname": "TV8978",
         "asn": "AS6167"
     },
     {
@@ -9730,9 +9718,6 @@
     },
     {
         "nickname": "hnlexit2",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -11984,9 +11969,6 @@
     },
     {
         "nickname": "hnlexit4",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -12152,7 +12134,11 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV5462",
+        "nickname": "mirage",
+        "asn": "AS56322"
+    },
+    {
+        "nickname": "TV5778",
         "asn": "AS6057"
     },
     {
@@ -14558,7 +14544,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV2526",
+        "nickname": "TV939",
         "asn": "AS701"
     },
     {
@@ -16091,9 +16077,6 @@
     },
     {
         "nickname": "hnlexit1",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -16593,9 +16576,6 @@
     },
     {
         "nickname": "hnlexit3",
-        "exit_address": [
-            "141.239.158.222"
-        ],
         "asn": "AS36149"
     },
     {
@@ -17209,6 +17189,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.94.31.244"
+        ],
         "asn": "AS210558"
     },
     {
