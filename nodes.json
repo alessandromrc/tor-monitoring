@@ -5133,7 +5133,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV1543",
+        "nickname": "TV2047",
         "asn": "AS14117"
     },
     {
@@ -9393,10 +9393,6 @@
         "asn": "AS20904"
     },
     {
-        "nickname": "TV7833",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "194.26.192.77"
@@ -12119,6 +12115,9 @@
     },
     {
         "nickname": "mirage",
+        "exit_address": [
+            "91.219.237.39"
+        ],
         "asn": "AS56322"
     },
     {
@@ -16271,7 +16270,7 @@
         "asn": "AS214996"
     },
     {
-        "nickname": "TV943",
+        "nickname": "TV3689",
         "asn": "AS22927"
     },
     {
