@@ -1225,10 +1225,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV312",
-        "asn": "AS27747"
-    },
-    {
         "nickname": "r0cket14i5",
         "exit_address": [
             "45.84.107.54"
@@ -6757,6 +6753,9 @@
     },
     {
         "nickname": "hnlexit7",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -7635,6 +7634,9 @@
     },
     {
         "nickname": "hnlexit6",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
