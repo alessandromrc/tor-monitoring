@@ -845,7 +845,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9437",
+        "nickname": "TV624",
         "asn": "AS28111"
     },
     {
@@ -4197,7 +4197,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9223",
+        "nickname": "TV2938",
         "asn": "AS701"
     },
     {
@@ -5384,10 +5384,6 @@
         "asn": "AS197648"
     },
     {
-        "nickname": "TV4402",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "45.141.215.28"
@@ -5654,10 +5650,6 @@
             "45.141.215.200"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV8669",
-        "asn": "AS701"
     },
     {
         "nickname": "BulgarianBronkA2",
@@ -10792,6 +10784,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TV7398",
+        "asn": "AS28573"
+    },
+    {
         "nickname": "mailboxorg",
         "exit_address": [
             "80.241.60.207"
@@ -11164,6 +11160,13 @@
             "124.198.131.121"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "PuErh384",
+        "exit_address": [
+            "45.141.119.113"
+        ],
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
@@ -11849,6 +11852,9 @@
     },
     {
         "nickname": "hnlexit4",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -14744,7 +14750,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV1654",
+        "nickname": "TV1934",
         "asn": "AS7418"
     },
     {
@@ -18731,10 +18737,6 @@
         "asn": "AS28753"
     },
     {
-        "nickname": "TV8573",
-        "asn": "AS271907"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.97"
@@ -20307,6 +20309,13 @@
             "45.141.215.110"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FedoNode",
+        "exit_address": [
+            "5.101.82.148"
+        ],
+        "asn": "AS63023"
     },
     {
         "nickname": "prsv",
