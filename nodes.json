@@ -1529,7 +1529,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5287",
+        "nickname": "TV6039",
         "asn": "AS22927"
     },
     {
@@ -3528,7 +3528,7 @@
         "asn": "AS34224"
     },
     {
-        "nickname": "TV5386",
+        "nickname": "TV3523",
         "asn": "AS701"
     },
     {
@@ -3996,6 +3996,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -4858,6 +4865,9 @@
     },
     {
         "nickname": "lobbyistforlove",
+        "exit_address": [
+            "84.16.224.227"
+        ],
         "asn": "AS28753"
     },
     {
@@ -6083,7 +6093,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV6411",
+        "nickname": "TV4620",
         "asn": "AS6167"
     },
     {
@@ -11428,10 +11438,6 @@
             "178.218.144.51"
         ],
         "asn": "AS212508"
-    },
-    {
-        "nickname": "TV5395",
-        "asn": "AS6167"
     },
     {
         "nickname": "Quetzalcoatl",
