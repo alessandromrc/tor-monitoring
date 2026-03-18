@@ -1976,10 +1976,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "VIKINGVPN1",
-        "asn": "AS35100"
-    },
-    {
         "nickname": "klein",
         "exit_address": [
             "23.129.64.141"
@@ -3031,6 +3027,9 @@
     },
     {
         "nickname": "ageinghacker",
+        "exit_address": [
+            "82.221.139.190"
+        ],
         "asn": "AS50613"
     },
     {
