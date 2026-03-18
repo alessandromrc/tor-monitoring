@@ -841,7 +841,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV6168",
+        "nickname": "TV5490",
         "asn": "AS28111"
     },
     {
@@ -6115,8 +6115,12 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "TV6813",
+        "nickname": "TV519",
         "asn": "AS701"
+    },
+    {
+        "nickname": "TV6849",
+        "asn": "AS33915"
     },
     {
         "nickname": "NTH95R2",
@@ -15524,7 +15528,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8655",
+        "nickname": "TV2394",
         "asn": "AS701"
     },
     {
@@ -16236,9 +16240,6 @@
     },
     {
         "nickname": "YourRelayName",
-        "exit_address": [
-            "104.36.80.7"
-        ],
         "asn": "AS40663"
     },
     {
