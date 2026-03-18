@@ -570,6 +570,7 @@
     {
         "nickname": "PrincessShroob",
         "exit_address": [
+            "178.85.124.70",
             "178.85.130.234"
         ],
         "asn": "AS33915"
@@ -693,6 +694,9 @@
     },
     {
         "nickname": "hnlexit5",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -1425,10 +1429,6 @@
             "154.53.58.161"
         ],
         "asn": "AS40021"
-    },
-    {
-        "nickname": "TV3223",
-        "asn": "AS24556"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -3355,10 +3355,6 @@
             "178.17.171.102"
         ],
         "asn": "AS43289"
-    },
-    {
-        "nickname": "TV4109",
-        "asn": "AS22927"
     },
     {
         "nickname": "BigLoop",
@@ -5696,6 +5692,7 @@
     {
         "nickname": "PrincessDaisy",
         "exit_address": [
+            "178.85.124.70",
             "178.85.130.234"
         ],
         "asn": "AS33915"
@@ -12965,7 +12962,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV8420",
+        "nickname": "TV8408",
         "asn": "AS8151"
     },
     {
@@ -14743,7 +14740,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9529",
+        "nickname": "TV9910",
         "asn": "AS7418"
     },
     {
@@ -15257,12 +15254,13 @@
     {
         "nickname": "PrincessShokora",
         "exit_address": [
+            "178.85.124.70",
             "178.85.130.234"
         ],
         "asn": "AS33915"
     },
     {
-        "nickname": "TV7712",
+        "nickname": "TV8023",
         "asn": "AS701"
     },
     {
