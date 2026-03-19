@@ -487,9 +487,6 @@
     },
     {
         "nickname": "AuroraTorealisExit",
-        "exit_address": [
-            "185.157.222.230"
-        ],
         "asn": "AS42708"
     },
     {
@@ -9353,6 +9350,9 @@
     },
     {
         "nickname": "smurfix",
+        "exit_address": [
+            "213.95.149.22"
+        ],
         "asn": "AS12337"
     },
     {
@@ -12142,6 +12142,10 @@
         "asn": "AS201308"
     },
     {
+        "nickname": "sburkaska",
+        "asn": "AS202422"
+    },
+    {
         "nickname": "TheMadHackerNodev2",
         "exit_address": [
             "144.208.79.169"
@@ -12753,7 +12757,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1400",
+        "nickname": "TV1422",
         "asn": "AS18403"
     },
     {
