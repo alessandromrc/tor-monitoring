@@ -14031,6 +14031,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "TV2310",
+        "asn": "AS8439"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.73.190"
@@ -15485,9 +15489,6 @@
     },
     {
         "nickname": "forest01",
-        "exit_address": [
-            "94.156.152.8"
-        ],
         "asn": "AS214209"
     },
     {
@@ -17332,10 +17333,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5081",
-        "asn": "AS49183"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.61"
@@ -18798,10 +18795,6 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "apophenia",
-        "asn": "AS50613"
     },
     {
         "nickname": "arecoque7",
