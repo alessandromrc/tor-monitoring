@@ -3463,9 +3463,6 @@
     },
     {
         "nickname": "goodman",
-        "exit_address": [
-            "23.129.64.138"
-        ],
         "asn": "AS396507"
     },
     {
@@ -4163,6 +4160,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "InvisibleInternet",
+        "asn": "AS58087"
+    },
+    {
         "nickname": "TV4151",
         "asn": "AS701"
     },
@@ -4294,9 +4295,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -4308,6 +4306,9 @@
     },
     {
         "nickname": "EfkdTXSVnj",
+        "exit_address": [
+            "103.68.110.101"
+        ],
         "asn": "AS9009"
     },
     {
@@ -6089,10 +6090,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "DrofsExitNodeFFM",
-        "asn": "AS203446"
-    },
-    {
         "nickname": "NTH17R8",
         "exit_address": [
             "192.42.116.17"
@@ -6114,7 +6111,7 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "TV2650",
+        "nickname": "TV7609",
         "asn": "AS701"
     },
     {
@@ -11005,7 +11002,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV3210",
+        "nickname": "TV5042",
         "asn": "AS28111"
     },
     {
@@ -14221,10 +14218,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS41745"
-    },
-    {
         "nickname": "NTH46R8",
         "exit_address": [
             "192.42.116.46"
@@ -17165,7 +17158,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV5718",
+        "nickname": "TV2103",
         "asn": "AS3215"
     },
     {
@@ -18135,7 +18128,7 @@
         "asn": "AS680"
     },
     {
-        "nickname": "TV5217",
+        "nickname": "TV8997",
         "asn": "AS7418"
     },
     {
@@ -18789,6 +18782,10 @@
             "45.80.158.142"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "BronkUsaBSD",
+        "asn": "AS215659"
     },
     {
         "nickname": "TORnadoExit03",
