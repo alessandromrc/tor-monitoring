@@ -1438,10 +1438,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "Stratus",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.191"
@@ -11390,7 +11386,7 @@
         "asn": "AS213438"
     },
     {
-        "nickname": "TV1237",
+        "nickname": "TV9886",
         "asn": "AS701"
     },
     {
@@ -17836,6 +17832,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "TV8762",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS215540"
     },
@@ -19943,10 +19943,6 @@
             "171.25.193.38"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "TV6093",
-        "asn": "AS7418"
     },
     {
         "nickname": "TORKeFFORG5",
