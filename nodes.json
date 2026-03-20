@@ -2502,6 +2502,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "boooch",
+        "asn": "AS63023"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.41"
@@ -2812,10 +2816,6 @@
             "23.191.200.16"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "TV9936",
-        "asn": "AS27747"
     },
     {
         "nickname": "NTH14R2",
@@ -3175,6 +3175,9 @@
     },
     {
         "nickname": "magasco",
+        "exit_address": [
+            "62.50.145.59"
+        ],
         "asn": "AS50049"
     },
     {
@@ -9552,6 +9555,9 @@
     },
     {
         "nickname": "NTH143R7",
+        "exit_address": [
+            "192.42.116.143"
+        ],
         "asn": "AS215125"
     },
     {
@@ -11030,7 +11036,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV5042",
+        "nickname": "TV9302",
         "asn": "AS28111"
     },
     {
@@ -18975,6 +18981,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "IndianTorMonitor2",
+        "asn": "AS14618"
+    },
+    {
         "nickname": "2249922515513594",
         "exit_address": [
             "92.119.164.208"
@@ -19240,6 +19250,10 @@
             "107.189.3.94"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "IndianTorMonitor",
+        "asn": "AS14618"
     },
     {
         "nickname": "CSTLLNODE58",
