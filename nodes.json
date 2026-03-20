@@ -2735,9 +2735,6 @@
     },
     {
         "nickname": "finrelay",
-        "exit_address": [
-            "144.31.120.166"
-        ],
         "asn": "AS213877"
     },
     {
@@ -3087,6 +3084,10 @@
             "185.132.53.58"
         ],
         "asn": "AS211507"
+    },
+    {
+        "nickname": "SiroxNetworkExit",
+        "asn": "AS24940"
     },
     {
         "nickname": "yangwenli",
@@ -5271,6 +5272,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.132.98"
+        ],
         "asn": "AS210558"
     },
     {
@@ -11207,7 +11211,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4315",
+        "nickname": "TV4331",
         "asn": "AS701"
     },
     {
@@ -18499,6 +18503,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV6245",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "188.68.52.231"
@@ -19004,6 +19012,9 @@
     },
     {
         "nickname": "IndianTorMonitor2",
+        "exit_address": [
+            "54.82.15.33"
+        ],
         "asn": "AS14618"
     },
     {
@@ -19043,6 +19054,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.132.98"
+        ],
         "asn": "AS210558"
     },
     {
@@ -19275,6 +19289,9 @@
     },
     {
         "nickname": "IndianTorMonitor",
+        "exit_address": [
+            "18.209.16.140"
+        ],
         "asn": "AS14618"
     },
     {
