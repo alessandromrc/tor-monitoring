@@ -9170,10 +9170,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV4938",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "artikel10ber37",
         "exit_address": [
             "185.220.101.10"
@@ -10827,6 +10823,10 @@
             "185.220.101.37"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV8140",
+        "asn": "AS7992"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -13738,7 +13738,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV3052",
+        "nickname": "TV2721",
         "asn": "AS6167"
     },
     {
@@ -18785,6 +18785,9 @@
     },
     {
         "nickname": "BronkUsaBSD",
+        "exit_address": [
+            "45.38.20.219"
+        ],
         "asn": "AS215659"
     },
     {
