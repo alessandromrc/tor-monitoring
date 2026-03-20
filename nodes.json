@@ -5444,7 +5444,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TV3033",
+        "nickname": "TV3683",
         "asn": "AS701"
     },
     {
@@ -6079,7 +6079,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV102",
+        "nickname": "TV83",
         "asn": "AS6167"
     },
     {
@@ -9675,6 +9675,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "BONNODE",
+        "asn": "AS63023"
+    },
+    {
         "nickname": "ageis",
         "exit_address": [
             "23.129.64.130"
@@ -12355,6 +12359,10 @@
             "192.42.116.50"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV3782",
+        "asn": "AS6167"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17154,7 +17162,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV2103",
+        "nickname": "TV3443",
         "asn": "AS3215"
     },
     {
@@ -18446,6 +18454,9 @@
     },
     {
         "nickname": "InvisibleInternet",
+        "exit_address": [
+            "92.118.206.161"
+        ],
         "asn": "AS58087"
     },
     {
@@ -19417,7 +19428,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV2904",
+        "nickname": "TV4681",
         "asn": "AS7029"
     },
     {
