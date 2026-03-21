@@ -1151,6 +1151,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV1871",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "mentoreth2",
         "exit_address": [
             "192.76.153.253"
@@ -1700,7 +1704,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7000",
+        "nickname": "TV7833",
         "asn": "AS701"
     },
     {
@@ -2503,6 +2507,9 @@
     },
     {
         "nickname": "boooch",
+        "exit_address": [
+            "5.101.82.148"
+        ],
         "asn": "AS63023"
     },
     {
@@ -4411,10 +4418,6 @@
         "asn": "AS29134"
     },
     {
-        "nickname": "TV5218",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.162"
@@ -6084,10 +6087,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV6049",
-        "asn": "AS19429"
-    },
-    {
         "nickname": "Polyphemus8",
         "exit_address": [
             "107.189.8.16"
@@ -6095,7 +6094,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV83",
+        "nickname": "TV4806",
         "asn": "AS6167"
     },
     {
@@ -11049,7 +11048,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV8068",
+        "nickname": "TV3211",
         "asn": "AS28111"
     },
     {
@@ -12969,7 +12968,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV7969",
+        "nickname": "TV8008",
         "asn": "AS8151"
     },
     {
@@ -15210,7 +15209,7 @@
         "asn": "AS33915"
     },
     {
-        "nickname": "TV8056",
+        "nickname": "TV962",
         "asn": "AS701"
     },
     {
@@ -15499,7 +15498,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5706",
+        "nickname": "TV6103",
         "asn": "AS701"
     },
     {
@@ -15515,6 +15514,10 @@
             "192.42.116.101"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV9149",
+        "asn": "AS33588"
     },
     {
         "nickname": "Quetzalcoatl",
