@@ -3990,6 +3990,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -10111,10 +10118,6 @@
         "asn": "AS214209"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS142113"
-    },
-    {
         "nickname": "binney",
         "exit_address": [
             "23.129.64.132"
@@ -10869,7 +10872,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1866",
+        "nickname": "TV3728",
         "asn": "AS7992"
     },
     {
@@ -18440,6 +18443,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
