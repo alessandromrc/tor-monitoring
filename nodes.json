@@ -7518,6 +7518,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.73.193"
+        ],
         "asn": "AS53667"
     },
     {
@@ -9896,6 +9899,9 @@
     },
     {
         "nickname": "SoftKitty",
+        "exit_address": [
+            "176.58.89.182"
+        ],
         "asn": "AS36236"
     },
     {
@@ -12822,7 +12828,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1721",
+        "nickname": "TV198",
         "asn": "AS6739"
     },
     {
@@ -13097,6 +13103,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TV9483",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "PRQseTORexit8",
         "exit_address": [
             "88.80.26.2"
@@ -13328,10 +13338,6 @@
             "23.129.64.198"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "TV4267",
-        "asn": "AS6167"
     },
     {
         "nickname": "lunar4",
