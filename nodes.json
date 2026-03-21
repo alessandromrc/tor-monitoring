@@ -3094,6 +3094,9 @@
     },
     {
         "nickname": "SiroxNetworkExit",
+        "exit_address": [
+            "65.109.50.251"
+        ],
         "asn": "AS24940"
     },
     {
@@ -7550,10 +7553,6 @@
             "45.9.156.193"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS204957"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -12106,10 +12105,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3922",
-        "asn": "AS701"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.61"
@@ -16418,10 +16413,6 @@
             "45.9.156.101"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "TV2717",
-        "asn": "AS701"
     },
     {
         "nickname": "ZackMorris",
