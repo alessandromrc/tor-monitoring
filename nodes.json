@@ -623,10 +623,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV462",
-        "asn": "AS12389"
-    },
-    {
         "nickname": "pengy",
         "exit_address": [
             "185.56.171.94"
@@ -670,6 +666,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -1847,9 +1846,6 @@
     },
     {
         "nickname": "UnredactedLibra",
-        "exit_address": [
-            "23.191.200.24"
-        ],
         "asn": "AS401401"
     },
     {
@@ -2230,6 +2226,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -2814,9 +2813,6 @@
     },
     {
         "nickname": "UnredactedRussia",
-        "exit_address": [
-            "23.191.200.16"
-        ],
         "asn": "AS401401"
     },
     {
@@ -5440,9 +5436,6 @@
     },
     {
         "nickname": "UnredactedEFF",
-        "exit_address": [
-            "23.191.200.12"
-        ],
         "asn": "AS401401"
     },
     {
@@ -5894,9 +5887,6 @@
     },
     {
         "nickname": "UnredactedLoki",
-        "exit_address": [
-            "23.191.200.20"
-        ],
         "asn": "AS401401"
     },
     {
@@ -5971,9 +5961,6 @@
     },
     {
         "nickname": "noack14i1",
-        "exit_address": [
-            "195.47.238.178"
-        ],
         "asn": "AS30893"
     },
     {
@@ -6342,9 +6329,6 @@
     },
     {
         "nickname": "UnredactedLeaks",
-        "exit_address": [
-            "23.191.200.26"
-        ],
         "asn": "AS401401"
     },
     {
@@ -7275,9 +7259,6 @@
     },
     {
         "nickname": "UnredactedTor",
-        "exit_address": [
-            "23.191.200.13"
-        ],
         "asn": "AS401401"
     },
     {
@@ -7391,9 +7372,6 @@
     },
     {
         "nickname": "UnredactedChina",
-        "exit_address": [
-            "23.191.200.15"
-        ],
         "asn": "AS401401"
     },
     {
@@ -7574,9 +7552,6 @@
     },
     {
         "nickname": "UnredactedIran",
-        "exit_address": [
-            "23.191.200.21"
-        ],
         "asn": "AS401401"
     },
     {
@@ -7992,9 +7967,6 @@
     },
     {
         "nickname": "noack14i0",
-        "exit_address": [
-            "195.47.238.178"
-        ],
         "asn": "AS30893"
     },
     {
@@ -8094,9 +8066,6 @@
     },
     {
         "nickname": "UnredactedFravor",
-        "exit_address": [
-            "23.191.200.14"
-        ],
         "asn": "AS401401"
     },
     {
@@ -8312,9 +8281,6 @@
     },
     {
         "nickname": "UnredactedcDc",
-        "exit_address": [
-            "23.191.200.11"
-        ],
         "asn": "AS401401"
     },
     {
@@ -8634,9 +8600,6 @@
     },
     {
         "nickname": "UnredactedChonk",
-        "exit_address": [
-            "23.191.200.19"
-        ],
         "asn": "AS401401"
     },
     {
@@ -9843,9 +9806,6 @@
     },
     {
         "nickname": "UnredactedBB",
-        "exit_address": [
-            "23.191.200.23"
-        ],
         "asn": "AS401401"
     },
     {
@@ -10250,6 +10210,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -10433,9 +10396,6 @@
     },
     {
         "nickname": "UnredactedLille",
-        "exit_address": [
-            "23.191.200.22"
-        ],
         "asn": "AS401401"
     },
     {
@@ -10563,9 +10523,6 @@
     },
     {
         "nickname": "UnredactedArea51",
-        "exit_address": [
-            "23.191.200.8"
-        ],
         "asn": "AS401401"
     },
     {
@@ -11049,7 +11006,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV3211",
+        "nickname": "TV1025",
         "asn": "AS28111"
     },
     {
@@ -12562,9 +12519,6 @@
     },
     {
         "nickname": "UnredactedCalyx",
-        "exit_address": [
-            "23.191.200.17"
-        ],
         "asn": "AS401401"
     },
     {
@@ -12716,9 +12670,6 @@
     },
     {
         "nickname": "UnredactedWikiLeaks",
-        "exit_address": [
-            "23.191.200.10"
-        ],
         "asn": "AS401401"
     },
     {
@@ -12835,7 +12786,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV7258",
+        "nickname": "TV150",
         "asn": "AS6739"
     },
     {
@@ -15077,9 +15028,6 @@
     },
     {
         "nickname": "noack14i3",
-        "exit_address": [
-            "195.47.238.178"
-        ],
         "asn": "AS30893"
     },
     {
@@ -15816,13 +15764,13 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
         "nickname": "UnredactedMKUltra",
-        "exit_address": [
-            "23.191.200.9"
-        ],
         "asn": "AS401401"
     },
     {
@@ -16031,9 +15979,6 @@
     },
     {
         "nickname": "UnredactedBasil",
-        "exit_address": [
-            "23.191.200.18"
-        ],
         "asn": "AS401401"
     },
     {
@@ -17201,7 +17146,7 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "TV9407",
+        "nickname": "TV6256",
         "asn": "AS7303"
     },
     {
@@ -18737,9 +18682,6 @@
     },
     {
         "nickname": "noack14i2",
-        "exit_address": [
-            "195.47.238.178"
-        ],
         "asn": "AS30893"
     },
     {
