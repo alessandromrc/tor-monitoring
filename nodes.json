@@ -553,6 +553,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "IndianTorMonitor",
+        "asn": "AS14618"
+    },
+    {
         "nickname": "PrincessShroob",
         "exit_address": [
             "178.85.124.70"
@@ -2735,6 +2739,10 @@
             "194.26.192.177"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV735",
+        "asn": "AS6167"
     },
     {
         "nickname": "relayon0134",
@@ -6073,7 +6081,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV4806",
+        "nickname": "TV2209",
         "asn": "AS6167"
     },
     {
@@ -6445,6 +6453,9 @@
     },
     {
         "nickname": "RMC5",
+        "exit_address": [
+            "150.241.121.245"
+        ],
         "asn": "AS26383"
     },
     {
@@ -7223,13 +7234,6 @@
             "185.241.208.234"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "SecurityInfinity",
-        "exit_address": [
-            "65.108.95.146"
-        ],
-        "asn": "AS24940"
     },
     {
         "nickname": "mwittig1",
@@ -12816,7 +12820,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1259",
+        "nickname": "TV1102",
         "asn": "AS18403"
     },
     {
@@ -12834,7 +12838,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV6323",
+        "nickname": "TV2638",
         "asn": "AS6739"
     },
     {
@@ -17230,7 +17234,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV2994",
+        "nickname": "TV6157",
         "asn": "AS3215"
     },
     {
