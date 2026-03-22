@@ -1704,6 +1704,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.223"
@@ -6158,6 +6162,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "koyote",
         "exit_address": [
             "109.70.100.7"
@@ -7127,10 +7135,6 @@
             "45.80.158.93"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "PonyLV",
-        "asn": "AS53667"
     },
     {
         "nickname": "algrothendieck2",
@@ -12765,7 +12769,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV6816",
+        "nickname": "TV8433",
         "asn": "AS6739"
     },
     {
@@ -14496,6 +14500,10 @@
             "185.220.101.30"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS51396"
     },
     {
         "nickname": "Kitty",
@@ -16468,6 +16476,10 @@
             "185.220.101.5"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS51396"
     },
     {
         "nickname": "NTH14R6",
@@ -18868,6 +18880,9 @@
     },
     {
         "nickname": "FreeTorFreeWorld",
+        "exit_address": [
+            "216.36.84.34"
+        ],
         "asn": "AS3257"
     },
     {
@@ -19152,6 +19167,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
