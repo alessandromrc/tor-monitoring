@@ -3425,10 +3425,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "TV3069",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "NTH51R7",
         "exit_address": [
             "192.42.116.51"
@@ -5699,10 +5695,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3955",
-        "asn": "AS7418"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "5.45.102.93"
@@ -7202,6 +7194,9 @@
     },
     {
         "nickname": "SecurityInfinity",
+        "exit_address": [
+            "65.108.95.146"
+        ],
         "asn": "AS24940"
     },
     {
@@ -9343,10 +9338,6 @@
             "45.80.158.165"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV5963",
-        "asn": "AS7418"
     },
     {
         "nickname": "smurfix",
@@ -12786,7 +12777,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV150",
+        "nickname": "TV922",
         "asn": "AS6739"
     },
     {
@@ -14210,10 +14201,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3555",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.79.61"
@@ -15246,10 +15233,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV17",
-        "asn": "AS12353"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.80.158.143"
@@ -15848,7 +15831,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV1591",
+        "nickname": "TV7123",
         "asn": "AS20207"
     },
     {
@@ -17146,7 +17129,7 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "TV6256",
+        "nickname": "TV6418",
         "asn": "AS7303"
     },
     {
@@ -17504,10 +17487,6 @@
             "185.220.100.251"
         ],
         "asn": "AS205100"
-    },
-    {
-        "nickname": "DebianLehnert",
-        "asn": "AS3303"
     },
     {
         "nickname": "steamedhams",
@@ -19490,7 +19469,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9696",
+        "nickname": "TV8951",
         "asn": "AS7029"
     },
     {
