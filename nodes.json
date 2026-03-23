@@ -675,9 +675,6 @@
     },
     {
         "nickname": "2mpe",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -900,6 +897,10 @@
             "192.42.116.94"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "IndianTorMonitor",
+        "asn": "AS16509"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -2249,9 +2250,6 @@
     },
     {
         "nickname": "2mpe3",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -4469,9 +4467,6 @@
     },
     {
         "nickname": "ozguryazilim8turk",
-        "exit_address": [
-            "95.182.101.112"
-        ],
         "asn": "AS56971"
     },
     {
@@ -10230,9 +10225,6 @@
     },
     {
         "nickname": "2mpe2",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -11261,6 +11253,10 @@
             "185.220.101.10"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Relay",
+        "asn": "AS150623"
     },
     {
         "nickname": "eo193",
@@ -15825,7 +15821,7 @@
         "asn": "AS30836"
     },
     {
-        "nickname": "TV1209",
+        "nickname": "TV1379",
         "asn": "AS22927"
     },
     {
@@ -16680,10 +16676,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "ProjectPrivacyX1",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "SmokeAspectRangers",
         "exit_address": [
             "82.221.128.191"
@@ -17197,7 +17189,7 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "TV3179",
+        "nickname": "TV7644",
         "asn": "AS7303"
     },
     {
