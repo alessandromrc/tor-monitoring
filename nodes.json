@@ -3975,6 +3975,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -7794,10 +7801,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4761",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "ghostdriver",
         "exit_address": [
             "107.189.30.49"
@@ -7901,10 +7904,6 @@
             "109.70.100.4"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "TV7828",
-        "asn": "AS701"
     },
     {
         "nickname": "WorldofMatthew",
@@ -8406,7 +8405,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV9135",
+        "nickname": "TV8993",
         "asn": "AS7303"
     },
     {
@@ -9734,7 +9733,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV9111",
+        "nickname": "TV4923",
         "asn": "AS8151"
     },
     {
@@ -11001,7 +11000,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV7509",
+        "nickname": "TV7253",
         "asn": "AS28111"
     },
     {
