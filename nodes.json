@@ -900,6 +900,9 @@
     },
     {
         "nickname": "IndianTorMonitor",
+        "exit_address": [
+            "15.134.222.145"
+        ],
         "asn": "AS16509"
     },
     {
@@ -2760,7 +2763,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV735",
+        "nickname": "TV9371",
         "asn": "AS6167"
     },
     {
@@ -3035,9 +3038,6 @@
     },
     {
         "nickname": "ageinghacker",
-        "exit_address": [
-            "82.221.139.190"
-        ],
         "asn": "AS50613"
     },
     {
@@ -3046,10 +3046,6 @@
             "102.130.127.117"
         ],
         "asn": "AS328364"
-    },
-    {
-        "nickname": "TV894",
-        "asn": "AS20412"
     },
     {
         "nickname": "kinogeek",
@@ -3659,10 +3655,6 @@
             "124.198.131.121"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV3662",
-        "asn": "AS26860"
     },
     {
         "nickname": "TV8904",
@@ -4602,10 +4594,6 @@
             "124.198.131.114"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "UnredactedAlien",
-        "asn": "AS401401"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -6832,6 +6820,10 @@
             "107.189.3.94"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "ZeroDarkThirty",
+        "asn": "AS44925"
     },
     {
         "nickname": "relayondiinkarazan",
@@ -11040,7 +11032,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV7253",
+        "nickname": "TV3159",
         "asn": "AS28111"
     },
     {
@@ -13082,7 +13074,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV2004",
+        "nickname": "TV9494",
         "asn": "AS22927"
     },
     {
@@ -14088,7 +14080,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3818",
+        "nickname": "TV2582",
         "asn": "AS7303"
     },
     {
@@ -15262,7 +15254,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV6575",
+        "nickname": "TV7042",
         "asn": "AS22927"
     },
     {
@@ -15821,7 +15813,7 @@
         "asn": "AS30836"
     },
     {
-        "nickname": "TV1379",
+        "nickname": "TV6055",
         "asn": "AS22927"
     },
     {
@@ -17055,10 +17047,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "UnredactedTLS",
-        "asn": "AS401401"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.253"
@@ -17189,7 +17177,7 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "TV7644",
+        "nickname": "TV7205",
         "asn": "AS7303"
     },
     {
@@ -17339,10 +17327,6 @@
             "138.226.236.65"
         ],
         "asn": "AS205775"
-    },
-    {
-        "nickname": "UnredactedXMR",
-        "asn": "AS401401"
     },
     {
         "nickname": "prsv",
@@ -17588,10 +17572,6 @@
             "185.241.208.234"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV5755",
-        "asn": "AS209"
     },
     {
         "nickname": "DigiGesTor5e3",
@@ -18545,10 +18525,6 @@
             "109.70.100.10"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "UnredactedL7",
-        "asn": "AS401401"
     },
     {
         "nickname": "relayon0148",
