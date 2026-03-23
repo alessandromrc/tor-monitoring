@@ -3372,9 +3372,6 @@
     },
     {
         "nickname": "infernoCatalyst",
-        "exit_address": [
-            "165.232.87.223"
-        ],
         "asn": "AS14061"
     },
     {
@@ -3506,9 +3503,6 @@
     },
     {
         "nickname": "dragonfireApex",
-        "exit_address": [
-            "206.189.98.30"
-        ],
         "asn": "AS14061"
     },
     {
@@ -9702,7 +9696,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV5140",
+        "nickname": "TV9163",
         "asn": "AS8151"
     },
     {
@@ -17051,7 +17045,7 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "TV7528",
+        "nickname": "TV1261",
         "asn": "AS7303"
     },
     {
@@ -18364,6 +18358,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
