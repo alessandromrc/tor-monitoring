@@ -5136,6 +5136,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV9502",
+        "asn": "AS5650"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "149.102.153.38"
@@ -9663,7 +9667,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV9545",
+        "nickname": "TV1525",
         "asn": "AS8151"
     },
     {
@@ -10078,9 +10082,6 @@
     },
     {
         "nickname": "DeafCitadel",
-        "exit_address": [
-            "2.56.10.36"
-        ],
         "asn": "AS213373"
     },
     {
@@ -10918,7 +10919,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV6288",
+        "nickname": "TV7509",
         "asn": "AS28111"
     },
     {
@@ -11076,7 +11077,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4331",
+        "nickname": "TV4509",
         "asn": "AS701"
     },
     {
@@ -16435,10 +16436,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV2025",
-        "asn": "AS31615"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.80.158.167"
@@ -18405,9 +18402,6 @@
     },
     {
         "nickname": "greenlandstrong",
-        "exit_address": [
-            "212.95.50.223"
-        ],
         "asn": "AS28753"
     },
     {
@@ -19304,7 +19298,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8951",
+        "nickname": "TV3515",
         "asn": "AS7029"
     },
     {
@@ -19907,6 +19901,10 @@
             "185.220.101.25"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "IcyOceana",
+        "asn": "AS44925"
     },
     {
         "nickname": "forest04",
