@@ -6215,6 +6215,9 @@
     },
     {
         "nickname": "HCoil",
+        "exit_address": [
+            "212.86.126.239"
+        ],
         "asn": "AS43641"
     },
     {
@@ -19237,9 +19240,6 @@
     },
     {
         "nickname": "w00naningansAMS1",
-        "exit_address": [
-            "45.58.190.74"
-        ],
         "asn": "AS46844"
     },
     {
