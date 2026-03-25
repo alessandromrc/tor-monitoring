@@ -284,7 +284,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV9168",
+        "nickname": "TV8705",
         "asn": "AS27747"
     },
     {
@@ -1026,10 +1026,6 @@
             "109.70.100.10"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "TV2",
-        "asn": "AS7303"
     },
     {
         "nickname": "LocalenbySGExit",
@@ -4137,13 +4133,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
-        "exit_address": [
-            "23.134.88.60"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -5655,7 +5644,7 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "TV7667",
+        "nickname": "TV6111",
         "asn": "AS701"
     },
     {
@@ -6829,7 +6818,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7606",
+        "nickname": "TV9268",
         "asn": "AS262196"
     },
     {
@@ -7371,10 +7360,6 @@
             "194.26.192.46"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV9744",
-        "asn": "AS3215"
     },
     {
         "nickname": "kerpatenko",
@@ -8734,7 +8719,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV9145",
+        "nickname": "TV9101",
         "asn": "AS7303"
     },
     {
@@ -11161,10 +11146,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV483",
-        "asn": "AS28573"
-    },
-    {
         "nickname": "mailboxorg",
         "exit_address": [
             "80.241.60.207"
@@ -11421,7 +11402,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV7676",
+        "nickname": "TV6436",
         "asn": "AS28111"
     },
     {
@@ -14113,6 +14094,10 @@
             "23.191.200.53"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "TV3405",
+        "asn": "AS2856"
     },
     {
         "nickname": "prsv",
@@ -17600,9 +17585,6 @@
     },
     {
         "nickname": "CUZ9Uvkkd",
-        "exit_address": [
-            "195.54.170.42"
-        ],
         "asn": "AS9009"
     },
     {
