@@ -2986,6 +2986,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "TV7038",
+        "asn": "AS27747"
+    },
+    {
         "nickname": "NTH14R2",
         "exit_address": [
             "192.42.116.14"
@@ -6348,7 +6352,7 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "TV341",
+        "nickname": "TV7373",
         "asn": "AS701"
     },
     {
@@ -9581,8 +9585,7 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.223.235",
-            "87.101.92.171"
+            "184.75.223.235"
         ],
         "asn": "AS32489"
     },
@@ -16649,7 +16652,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV980",
+        "nickname": "TV888",
         "asn": "AS6167"
     },
     {
