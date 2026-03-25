@@ -4236,7 +4236,7 @@
         "asn": "AS25400"
     },
     {
-        "nickname": "TV8463",
+        "nickname": "TV2261",
         "asn": "AS7303"
     },
     {
@@ -5320,9 +5320,6 @@
     },
     {
         "nickname": "nqA8EYOYZk5WieGI",
-        "exit_address": [
-            "52.149.123.145"
-        ],
         "asn": "AS8075"
     },
     {
@@ -11924,6 +11921,10 @@
             "185.220.101.1"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV6066",
+        "asn": "AS701"
     },
     {
         "nickname": "relayon0146",
