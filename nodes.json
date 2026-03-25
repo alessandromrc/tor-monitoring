@@ -284,7 +284,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV9337",
+        "nickname": "TV8647",
         "asn": "AS27747"
     },
     {
@@ -4136,6 +4136,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -5651,10 +5658,6 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "TV776",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "TV7667",
         "asn": "AS701"
     },
@@ -6830,7 +6833,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6930",
+        "nickname": "TV7606",
         "asn": "AS262196"
     },
     {
@@ -10576,10 +10579,6 @@
             "154.26.159.157"
         ],
         "asn": "AS141995"
-    },
-    {
-        "nickname": "deploy1",
-        "asn": "AS40676"
     },
     {
         "nickname": "NTH101R3",
@@ -15205,10 +15204,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV2632",
-        "asn": "AS7418"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "45.84.107.200"
@@ -16683,7 +16678,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV9394",
+        "nickname": "TV4333",
         "asn": "AS8151"
     },
     {
@@ -18544,10 +18539,6 @@
         "asn": "AS7303"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "VaginaDick",
         "exit_address": [
             "185.181.60.204"
@@ -18686,9 +18677,6 @@
     },
     {
         "nickname": "pinwen",
-        "exit_address": [
-            "104.208.86.125"
-        ],
         "asn": "AS8075"
     },
     {
