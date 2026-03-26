@@ -2474,10 +2474,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "rubl",
-        "asn": "AS63023"
-    },
-    {
         "nickname": "eo217",
         "exit_address": [
             "23.129.64.217"
@@ -3012,6 +3008,10 @@
             "185.220.101.36"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "NeoXMR",
+        "asn": "AS210558"
     },
     {
         "nickname": "r0cket01i5",
@@ -4966,6 +4966,10 @@
         "asn": "AS211619"
     },
     {
+        "nickname": "TrinityXMR",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.74"
@@ -6517,6 +6521,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "MorpheusMonero",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "NTH45R2",
         "exit_address": [
             "192.42.116.45"
@@ -7963,6 +7971,10 @@
             "152.53.210.165"
         ],
         "asn": "AS214996"
+    },
+    {
+        "nickname": "MorpheusMonero",
+        "asn": "AS210558"
     },
     {
         "nickname": "Aramis",
@@ -11257,6 +11269,10 @@
             "185.181.61.201"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "TrinityXMR",
+        "asn": "AS210558"
     },
     {
         "nickname": "noack13i3",
@@ -16880,6 +16896,10 @@
         "exit_address": [
             "45.138.16.118"
         ],
+        "asn": "AS210558"
+    },
+    {
+        "nickname": "NeoXMR",
         "asn": "AS210558"
     },
     {
