@@ -1324,9 +1324,6 @@
     },
     {
         "nickname": "NTH145R3",
-        "exit_address": [
-            "192.42.116.145"
-        ],
         "asn": "AS215125"
     },
     {
@@ -1458,6 +1455,10 @@
             "154.53.58.161"
         ],
         "asn": "AS40021"
+    },
+    {
+        "nickname": "SBR",
+        "asn": "AS31103"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -3924,6 +3925,9 @@
     },
     {
         "nickname": "ArcticFrost",
+        "exit_address": [
+            "89.147.110.251"
+        ],
         "asn": "AS44925"
     },
     {
@@ -4725,9 +4729,6 @@
     },
     {
         "nickname": "artikel10buc05",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -4767,9 +4768,6 @@
     },
     {
         "nickname": "artikel10buc03",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -5125,6 +5123,10 @@
             "45.138.16.69"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV7768",
+        "asn": "AS22927"
     },
     {
         "nickname": "DFRI136",
@@ -5543,9 +5545,6 @@
     },
     {
         "nickname": "artikel10buc06",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -5831,6 +5830,9 @@
     },
     {
         "nickname": "adjammy",
+        "exit_address": [
+            "86.54.42.247"
+        ],
         "asn": "AS42624"
     },
     {
@@ -6511,6 +6513,9 @@
     },
     {
         "nickname": "torrcgrouprelay",
+        "exit_address": [
+            "151.241.154.218"
+        ],
         "asn": "AS399486"
     },
     {
@@ -13967,6 +13972,9 @@
     },
     {
         "nickname": "torwaresetup",
+        "exit_address": [
+            "82.153.138.143"
+        ],
         "asn": "AS214209"
     },
     {
@@ -16272,9 +16280,6 @@
     },
     {
         "nickname": "artikel10buc04",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -20199,7 +20204,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3018",
+        "nickname": "TV3036",
         "asn": "AS7029"
     },
     {
