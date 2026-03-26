@@ -1458,6 +1458,9 @@
     },
     {
         "nickname": "SBR",
+        "exit_address": [
+            "95.169.191.186"
+        ],
         "asn": "AS31103"
     },
     {
@@ -3653,10 +3656,6 @@
         "asn": "AS34224"
     },
     {
-        "nickname": "TV1103",
-        "asn": "AS701"
-    },
-    {
         "nickname": "dragonfireApex",
         "asn": "AS14061"
     },
@@ -5125,7 +5124,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1278",
+        "nickname": "TV2162",
         "asn": "AS22927"
     },
     {
@@ -6840,10 +6839,6 @@
             "109.70.100.3"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "TV8908",
-        "asn": "AS7303"
     },
     {
         "nickname": "DFRI128",
@@ -12335,10 +12330,6 @@
         "asn": "AS39287"
     },
     {
-        "nickname": "TheMadHackerNodeV5",
-        "asn": "AS214996"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.79"
@@ -17275,6 +17266,9 @@
     },
     {
         "nickname": "SmokeAspectRangers",
+        "exit_address": [
+            "82.221.128.191"
+        ],
         "asn": "AS50613"
     },
     {
