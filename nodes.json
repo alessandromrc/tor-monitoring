@@ -552,9 +552,6 @@
     },
     {
         "nickname": "artikel10buc02",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -857,10 +854,6 @@
             "205.185.121.177"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "TV6258",
-        "asn": "AS28111"
     },
     {
         "nickname": "UnredactedHechler",
@@ -3930,6 +3923,10 @@
         "asn": "AS213873"
     },
     {
+        "nickname": "ArcticFrost",
+        "asn": "AS44925"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.121"
@@ -5253,10 +5250,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7733",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "relayon0161",
         "exit_address": [
             "185.220.101.161"
@@ -6515,6 +6508,10 @@
             "185.129.61.129"
         ],
         "asn": "AS210731"
+    },
+    {
+        "nickname": "torrcgrouprelay",
+        "asn": "AS399486"
     },
     {
         "nickname": "bauruine",
@@ -13969,6 +13966,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "torwaresetup",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "38.135.25.136"
@@ -14146,9 +14147,6 @@
     },
     {
         "nickname": "artikel10buc01",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -20010,10 +20008,6 @@
             "109.70.100.13"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "TV4263",
-        "asn": "AS9506"
     },
     {
         "nickname": "flokinet2n1",
