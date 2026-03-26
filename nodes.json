@@ -2569,10 +2569,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV28",
-        "asn": "AS395354"
-    },
-    {
         "nickname": "r0cket05i4",
         "exit_address": [
             "45.84.107.222"
@@ -6339,10 +6335,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV6849",
-        "asn": "AS33915"
-    },
-    {
         "nickname": "NTH95R2",
         "exit_address": [
             "192.42.116.95"
@@ -7529,6 +7521,9 @@
     },
     {
         "nickname": "olmecrubber",
+        "exit_address": [
+            "143.20.166.14"
+        ],
         "asn": "AS55720"
     },
     {
@@ -13144,6 +13139,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "TV1139",
+        "asn": "AS701"
+    },
+    {
         "nickname": "Unnamed",
         "exit_address": [
             "8.215.52.126"
@@ -14822,7 +14821,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV1703",
+        "nickname": "TV9066",
         "asn": "AS701"
     },
     {
