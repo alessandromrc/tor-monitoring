@@ -2883,6 +2883,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "TV9710",
+        "asn": "AS15267"
+    },
+    {
         "nickname": "finrelay",
         "asn": "AS213877"
     },
@@ -3324,10 +3328,6 @@
             "192.42.116.47"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "FAFONODE",
-        "asn": "AS63023"
     },
     {
         "nickname": "magasco",
@@ -20963,10 +20963,6 @@
             "45.141.215.110"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "FedoNode",
-        "asn": "AS63023"
     },
     {
         "nickname": "prsv",
