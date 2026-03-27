@@ -85,9 +85,6 @@
     },
     {
         "nickname": "NTH43R4",
-        "exit_address": [
-            "192.42.116.43"
-        ],
         "asn": "AS215125"
     },
     {
@@ -17663,6 +17660,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "BulgarianBronkA1",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "5.104.84.183"
@@ -17857,7 +17858,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV1598",
+        "nickname": "TV6732",
         "asn": "AS262196"
     },
     {
@@ -20206,10 +20207,6 @@
             "204.8.96.120"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "slavaukraini",
-        "asn": "AS16276"
     },
     {
         "nickname": "Quetzalcoatl",
