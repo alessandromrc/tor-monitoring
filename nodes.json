@@ -4350,9 +4350,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "103.253.42.209"
-        ],
         "asn": "AS133398"
     },
     {
@@ -9278,6 +9275,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "TV7611",
+        "asn": "AS5384"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.9.156.101"
@@ -9957,10 +9958,6 @@
             "194.26.192.177"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV6768",
-        "asn": "AS12389"
     },
     {
         "nickname": "artikel5ev12",
@@ -11145,6 +11142,10 @@
             "185.220.101.29"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV3456",
+        "asn": "AS22927"
     },
     {
         "nickname": "UnredactedMacLean",
@@ -14710,6 +14711,10 @@
     {
         "nickname": "TV8126",
         "asn": "AS11260"
+    },
+    {
+        "nickname": "NetShield",
+        "asn": "AS200019"
     },
     {
         "nickname": "Quetzalcoatl",
