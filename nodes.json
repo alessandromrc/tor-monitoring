@@ -924,9 +924,6 @@
     },
     {
         "nickname": "IndianTorMonitor",
-        "exit_address": [
-            "15.134.222.145"
-        ],
         "asn": "AS16509"
     },
     {
@@ -3872,6 +3869,9 @@
     },
     {
         "nickname": "Runaz2",
+        "exit_address": [
+            "185.93.89.106"
+        ],
         "asn": "AS213790"
     },
     {
@@ -4944,6 +4944,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.9.156.193"
+        ],
         "asn": "AS211619"
     },
     {
@@ -11343,7 +11346,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3428",
+        "nickname": "TV7782",
         "asn": "AS6167"
     },
     {
@@ -14525,10 +14528,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV2310",
-        "asn": "AS8439"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.73.190"
@@ -17465,6 +17464,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.9.156.193"
+        ],
         "asn": "AS211619"
     },
     {
@@ -17655,6 +17657,9 @@
     },
     {
         "nickname": "BulgarianBronkA1",
+        "exit_address": [
+            "45.9.156.106"
+        ],
         "asn": "AS211619"
     },
     {
