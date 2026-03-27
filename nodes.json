@@ -332,6 +332,9 @@
     },
     {
         "nickname": "ultraboy",
+        "exit_address": [
+            "87.121.79.219"
+        ],
         "asn": "AS213725"
     },
     {
@@ -9526,6 +9529,7 @@
     {
         "nickname": "DunblaneScotland",
         "exit_address": [
+            "185.132.53.60",
             "45.141.119.79"
         ],
         "asn": "AS211507"
@@ -11350,7 +11354,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7782",
+        "nickname": "TV9637",
         "asn": "AS6167"
     },
     {
