@@ -332,9 +332,6 @@
     },
     {
         "nickname": "ultraboy",
-        "exit_address": [
-            "87.121.79.219"
-        ],
         "asn": "AS213725"
     },
     {
@@ -2610,10 +2607,6 @@
             "185.220.101.28"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "boooch",
-        "asn": "AS63023"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -6399,6 +6392,9 @@
     },
     {
         "nickname": "SecureTorNode",
+        "exit_address": [
+            "44.214.92.30"
+        ],
         "asn": "AS14618"
     },
     {
@@ -11489,6 +11485,10 @@
             "45.80.158.249"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "DunblaneScotland",
+        "asn": "AS211507"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -20441,6 +20441,9 @@
     },
     {
         "nickname": "GODblessed",
+        "exit_address": [
+            "107.174.133.195"
+        ],
         "asn": "AS36352"
     },
     {
