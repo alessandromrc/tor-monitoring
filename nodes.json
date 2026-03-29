@@ -4095,6 +4095,13 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -11270,7 +11277,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3242",
+        "nickname": "TV418",
         "asn": "AS6167"
     },
     {
@@ -11904,6 +11911,10 @@
             "194.163.136.187"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "sinlciaym3",
+        "asn": "AS215540"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17094,6 +17105,9 @@
     },
     {
         "nickname": "Amphinobi",
+        "exit_address": [
+            "185.173.200.73"
+        ],
         "asn": "AS42487"
     },
     {
@@ -19519,6 +19533,10 @@
             "92.119.164.208"
         ],
         "asn": "AS211507"
+    },
+    {
+        "nickname": "NTH47R6",
+        "asn": "AS215125"
     },
     {
         "nickname": "NTH145R8",
