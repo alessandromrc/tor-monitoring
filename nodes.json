@@ -576,7 +576,8 @@
     {
         "nickname": "PrincessShroob",
         "exit_address": [
-            "178.85.124.70"
+            "178.85.124.70",
+            "178.85.139.57"
         ],
         "asn": "AS33915"
     },
@@ -5863,7 +5864,8 @@
     {
         "nickname": "PrincessDaisy",
         "exit_address": [
-            "178.85.124.70"
+            "178.85.124.70",
+            "178.85.139.57"
         ],
         "asn": "AS33915"
     },
@@ -8296,10 +8298,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "SAEGW",
-        "asn": "AS328723"
-    },
-    {
         "nickname": "TheBlur",
         "exit_address": [
             "5.255.123.164"
@@ -9049,6 +9047,9 @@
     },
     {
         "nickname": "TORKeFFORG1",
+        "exit_address": [
+            "193.189.100.194"
+        ],
         "asn": "AS41281"
     },
     {
@@ -9563,6 +9564,9 @@
     },
     {
         "nickname": "wurzelIO",
+        "exit_address": [
+            "5.255.100.26"
+        ],
         "asn": "AS60404"
     },
     {
@@ -11286,7 +11290,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV2469",
+        "nickname": "TV1702",
         "asn": "AS6167"
     },
     {
@@ -11898,9 +11902,6 @@
     },
     {
         "nickname": "marylou2",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -15618,7 +15619,8 @@
     {
         "nickname": "PrincessShokora",
         "exit_address": [
-            "178.85.124.70"
+            "178.85.124.70",
+            "178.85.139.57"
         ],
         "asn": "AS33915"
     },
@@ -15641,7 +15643,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV3024",
+        "nickname": "TV6297",
         "asn": "AS37680"
     },
     {
@@ -16054,7 +16056,8 @@
     {
         "nickname": "PrincessLipid",
         "exit_address": [
-            "178.85.124.70"
+            "178.85.124.70",
+            "178.85.139.57"
         ],
         "asn": "AS33915"
     },
@@ -18731,9 +18734,6 @@
     },
     {
         "nickname": "NTH16R4",
-        "exit_address": [
-            "192.42.116.16"
-        ],
         "asn": "AS215125"
     },
     {
