@@ -2062,6 +2062,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "Stainless",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "mentoreth6",
         "exit_address": [
             "192.76.153.253"
@@ -4108,6 +4112,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -9509,7 +9520,6 @@
     {
         "nickname": "DunblaneScotland",
         "exit_address": [
-            "185.132.53.60",
             "45.141.119.148"
         ],
         "asn": "AS211507"
@@ -11207,10 +11217,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV8878",
-        "asn": "AS7992"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.121"
@@ -11337,7 +11343,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9803",
+        "nickname": "TV22",
         "asn": "AS6167"
     },
     {
@@ -13057,7 +13063,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV2795",
+        "nickname": "TV4808",
         "asn": "AS22927"
     },
     {
@@ -13785,10 +13791,6 @@
             "45.138.16.231"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV1379",
-        "asn": "AS6167"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -14696,10 +14698,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV8126",
-        "asn": "AS11260"
-    },
-    {
         "nickname": "NetShield",
         "exit_address": [
             "176.123.8.48"
@@ -14979,10 +14977,6 @@
             "45.141.215.156"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV5192",
-        "asn": "AS20001"
     },
     {
         "nickname": "artikel10buc08",
