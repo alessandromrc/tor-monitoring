@@ -621,7 +621,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4388",
+        "nickname": "TV5203",
         "asn": "AS8151"
     },
     {
@@ -5011,9 +5011,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -8653,7 +8650,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7395",
+        "nickname": "TV5605",
         "asn": "AS7303"
     },
     {
@@ -10086,6 +10083,10 @@
             "80.94.92.99"
         ],
         "asn": "AS47890"
+    },
+    {
+        "nickname": "TV1724",
+        "asn": "AS7122"
     },
     {
         "nickname": "vogerlsalat",
@@ -12645,6 +12646,10 @@
             "185.220.101.35"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV8283",
+        "asn": "AS37705"
     },
     {
         "nickname": "reverie",
@@ -18726,6 +18731,9 @@
     },
     {
         "nickname": "NTH16R4",
+        "exit_address": [
+            "192.42.116.16"
+        ],
         "asn": "AS215125"
     },
     {
@@ -18986,6 +18994,9 @@
     },
     {
         "nickname": "NTH48R8",
+        "exit_address": [
+            "192.42.116.48"
+        ],
         "asn": "AS215125"
     },
     {
@@ -19536,6 +19547,9 @@
     },
     {
         "nickname": "NTH47R6",
+        "exit_address": [
+            "192.42.116.47"
+        ],
         "asn": "AS215125"
     },
     {
