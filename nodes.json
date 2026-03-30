@@ -1005,7 +1005,7 @@
         "asn": "AS2900"
     },
     {
-        "nickname": "TV3341",
+        "nickname": "TV7407",
         "asn": "AS8346"
     },
     {
@@ -1059,6 +1059,9 @@
     },
     {
         "nickname": "Agorist",
+        "exit_address": [
+            "185.28.47.72"
+        ],
         "asn": "AS52048"
     },
     {
@@ -1671,6 +1674,9 @@
     },
     {
         "nickname": "Switch",
+        "exit_address": [
+            "45.9.156.124"
+        ],
         "asn": "AS211619"
     },
     {
@@ -2212,10 +2218,16 @@
     },
     {
         "nickname": "Cypherpunk",
+        "exit_address": [
+            "185.28.47.67"
+        ],
         "asn": "AS52048"
     },
     {
         "nickname": "Mixmaster",
+        "exit_address": [
+            "45.9.156.125"
+        ],
         "asn": "AS211619"
     },
     {
@@ -4137,6 +4149,9 @@
     },
     {
         "nickname": "Cypherpunk",
+        "exit_address": [
+            "185.28.47.67"
+        ],
         "asn": "AS52048"
     },
     {
@@ -5376,11 +5391,10 @@
     },
     {
         "nickname": "Cypher",
+        "exit_address": [
+            "185.28.47.61"
+        ],
         "asn": "AS52048"
-    },
-    {
-        "nickname": "PlainesPaisible",
-        "asn": "AS60781"
     },
     {
         "nickname": "bauruine",
@@ -8084,6 +8098,9 @@
     },
     {
         "nickname": "CryptoRebel",
+        "exit_address": [
+            "102.211.56.120"
+        ],
         "asn": "AS329325"
     },
     {
@@ -8285,6 +8302,9 @@
     },
     {
         "nickname": "CryptoRebel",
+        "exit_address": [
+            "102.211.56.120"
+        ],
         "asn": "AS329325"
     },
     {
@@ -9195,6 +9215,9 @@
     },
     {
         "nickname": "Agorist",
+        "exit_address": [
+            "185.28.47.72"
+        ],
         "asn": "AS52048"
     },
     {
@@ -9485,6 +9508,7 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
+            "104.193.135.243",
             "184.75.223.235"
         ],
         "asn": "AS394256"
@@ -11294,7 +11318,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8828",
+        "nickname": "TV6945",
         "asn": "AS6167"
     },
     {
@@ -11884,6 +11908,9 @@
     },
     {
         "nickname": "ZeroProof",
+        "exit_address": [
+            "45.9.168.188"
+        ],
         "asn": "AS211619"
     },
     {
@@ -12020,6 +12047,9 @@
     },
     {
         "nickname": "Cypher",
+        "exit_address": [
+            "185.28.47.61"
+        ],
         "asn": "AS52048"
     },
     {
@@ -13067,6 +13097,9 @@
     },
     {
         "nickname": "Tank",
+        "exit_address": [
+            "185.28.47.64"
+        ],
         "asn": "AS52048"
     },
     {
@@ -16211,9 +16244,6 @@
     },
     {
         "nickname": "tisiebatibota",
-        "exit_address": [
-            "78.130.199.40"
-        ],
         "asn": "AS9070"
     },
     {
@@ -16767,6 +16797,9 @@
     },
     {
         "nickname": "Mixmaster",
+        "exit_address": [
+            "45.9.156.125"
+        ],
         "asn": "AS211619"
     },
     {
@@ -17541,6 +17574,9 @@
     },
     {
         "nickname": "Satoshi",
+        "exit_address": [
+            "185.28.47.66"
+        ],
         "asn": "AS52048"
     },
     {
@@ -17836,7 +17872,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV6694",
+        "nickname": "TV6622",
         "asn": "AS262196"
     },
     {
@@ -18592,6 +18628,9 @@
     },
     {
         "nickname": "Satoshi",
+        "exit_address": [
+            "185.28.47.66"
+        ],
         "asn": "AS52048"
     },
     {
@@ -19648,6 +19687,9 @@
     },
     {
         "nickname": "ZeroProof",
+        "exit_address": [
+            "45.9.168.188"
+        ],
         "asn": "AS211619"
     },
     {
@@ -20531,6 +20573,9 @@
     },
     {
         "nickname": "Switch",
+        "exit_address": [
+            "45.9.156.124"
+        ],
         "asn": "AS211619"
     },
     {
@@ -20889,6 +20934,9 @@
     },
     {
         "nickname": "Tank",
+        "exit_address": [
+            "185.28.47.64"
+        ],
         "asn": "AS52048"
     },
     {
