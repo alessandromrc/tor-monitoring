@@ -2564,10 +2564,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV7572",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "r0cket08i1",
         "exit_address": [
             "45.84.107.172"
@@ -10558,6 +10554,10 @@
         "asn": "AS42237"
     },
     {
+        "nickname": "europeantgah",
+        "asn": "AS39287"
+    },
+    {
         "nickname": "anonymityiscool",
         "exit_address": [
             "205.185.113.180"
@@ -13966,6 +13966,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "185.132.53.121"
+        ],
         "asn": "AS211507"
     },
     {
