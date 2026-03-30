@@ -1058,6 +1058,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "Agorist",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.8.56"
@@ -1666,6 +1670,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "Switch",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.121"
@@ -2201,6 +2209,14 @@
             "185.220.101.14"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Cypherpunk",
+        "asn": "AS52048"
+    },
+    {
+        "nickname": "Mixmaster",
+        "asn": "AS211619"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -2936,7 +2952,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV9766",
+        "nickname": "TV5744",
         "asn": "AS27747"
     },
     {
@@ -4122,6 +4138,10 @@
             "45.84.107.101"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "Cypherpunk",
+        "asn": "AS52048"
     },
     {
         "nickname": "torexitams14",
@@ -5361,6 +5381,10 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Cypher",
+        "asn": "AS52048"
     },
     {
         "nickname": "PlainesPaisible",
@@ -8067,6 +8091,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "CryptoRebel",
+        "asn": "AS329325"
+    },
+    {
         "nickname": "TV3707",
         "asn": "AS28111"
     },
@@ -8262,6 +8290,10 @@
             "193.189.100.203"
         ],
         "asn": "AS41281"
+    },
+    {
+        "nickname": "CryptoRebel",
+        "asn": "AS329325"
     },
     {
         "nickname": "TheBlur",
@@ -9170,6 +9202,10 @@
         "asn": "AS14670"
     },
     {
+        "nickname": "Agorist",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.48"
@@ -9181,7 +9217,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7057",
+        "nickname": "TV7671",
         "asn": "AS5384"
     },
     {
@@ -11855,6 +11891,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "ZeroProof",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "NTH143R2",
         "asn": "AS215125"
     },
@@ -11985,6 +12025,10 @@
             "107.189.13.253"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "Cypher",
+        "asn": "AS52048"
     },
     {
         "nickname": "vanzetti",
@@ -13024,6 +13068,10 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Tank",
+        "asn": "AS52048"
     },
     {
         "nickname": "merrill",
@@ -15114,9 +15162,6 @@
     },
     {
         "nickname": "dark",
-        "exit_address": [
-            "212.46.33.18"
-        ],
         "asn": "AS200912"
     },
     {
@@ -15311,9 +15356,6 @@
     },
     {
         "nickname": "CembraNutBoys06",
-        "exit_address": [
-            "94.154.172.227"
-        ],
         "asn": "AS209101"
     },
     {
@@ -16728,6 +16770,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Mixmaster",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "DFRI85",
         "exit_address": [
             "171.25.193.40"
@@ -17498,6 +17544,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "Satoshi",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "CUZ9Uvkkd",
         "asn": "AS9009"
     },
@@ -17790,7 +17840,7 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "TV6808",
+        "nickname": "TV6694",
         "asn": "AS262196"
     },
     {
@@ -18543,6 +18593,10 @@
             "124.198.132.13"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Satoshi",
+        "asn": "AS52048"
     },
     {
         "nickname": "xmission",
@@ -19512,10 +19566,6 @@
         "asn": "AS33837"
     },
     {
-        "nickname": "FreeTorFreeWorld",
-        "asn": "AS3257"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.184"
@@ -19599,6 +19649,10 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "ZeroProof",
+        "asn": "AS211619"
     },
     {
         "nickname": "DFRI57",
@@ -20480,6 +20534,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Switch",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.74"
@@ -20832,6 +20890,10 @@
             "107.189.31.187"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "Tank",
+        "asn": "AS52048"
     },
     {
         "nickname": "artikel10ber84",
