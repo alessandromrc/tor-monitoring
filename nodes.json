@@ -13739,6 +13739,9 @@
     },
     {
         "nickname": "SlugnetExitRelay02",
+        "exit_address": [
+            "23.137.253.214"
+        ],
         "asn": "AS40663"
     },
     {
@@ -14309,9 +14312,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "94.156.152.223"
-        ],
         "asn": "AS214209"
     },
     {
