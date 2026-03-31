@@ -665,7 +665,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9591",
+        "nickname": "TV3859",
         "asn": "AS7303"
     },
     {
@@ -1480,6 +1480,9 @@
     },
     {
         "nickname": "SBR",
+        "exit_address": [
+            "95.169.191.186"
+        ],
         "asn": "AS31103"
     },
     {
@@ -2062,6 +2065,9 @@
     },
     {
         "nickname": "VIKINGVPN1",
+        "exit_address": [
+            "31.44.238.25"
+        ],
         "asn": "AS35100"
     },
     {
@@ -19026,6 +19032,10 @@
             "192.42.116.12"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV8666",
+        "asn": "AS7303"
     },
     {
         "nickname": "artikel10ber33",
