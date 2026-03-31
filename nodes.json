@@ -629,7 +629,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5962",
+        "nickname": "TV5893",
         "asn": "AS8151"
     },
     {
@@ -3472,6 +3472,9 @@
     },
     {
         "nickname": "gotthatindo",
+        "exit_address": [
+            "103.146.203.14"
+        ],
         "asn": "AS136052"
     },
     {
@@ -4665,10 +4668,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV3018",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.181.61.203"
@@ -4908,7 +4907,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV4869",
+        "nickname": "TV5909",
         "asn": "AS8151"
     },
     {
@@ -5675,7 +5674,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6626",
+        "nickname": "TV4786",
         "asn": "AS701"
     },
     {
@@ -6343,10 +6342,6 @@
             "107.189.8.16"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "TV5878",
-        "asn": "AS6167"
     },
     {
         "nickname": "relayon0138",
@@ -9675,10 +9670,6 @@
             "124.198.131.62"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV1476",
-        "asn": "AS22927"
     },
     {
         "nickname": "HeliosTor",
@@ -17513,9 +17504,6 @@
     },
     {
         "nickname": "VisionVillage",
-        "exit_address": [
-            "94.75.225.81"
-        ],
         "asn": "AS60781"
     },
     {
@@ -19532,10 +19520,6 @@
             "193.189.100.198"
         ],
         "asn": "AS41281"
-    },
-    {
-        "nickname": "TV9799",
-        "asn": "AS701"
     },
     {
         "nickname": "artikel10ber10",
