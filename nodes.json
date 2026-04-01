@@ -639,7 +639,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6015",
+        "nickname": "TV4587",
         "asn": "AS8151"
     },
     {
@@ -4210,6 +4210,13 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -8503,6 +8510,10 @@
             "102.211.56.120"
         ],
         "asn": "AS329325"
+    },
+    {
+        "nickname": "SAEGW",
+        "asn": "AS328723"
     },
     {
         "nickname": "TheBlur",
@@ -20382,7 +20393,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV6603",
+        "nickname": "TV5695",
         "asn": "AS9506"
     },
     {
