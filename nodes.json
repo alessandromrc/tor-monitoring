@@ -1160,9 +1160,6 @@
     },
     {
         "nickname": "NTH100R8",
-        "exit_address": [
-            "192.42.116.100"
-        ],
         "asn": "AS215125"
     },
     {
@@ -4970,9 +4967,6 @@
     },
     {
         "nickname": "Syst",
-        "exit_address": [
-            "185.132.53.150"
-        ],
         "asn": "AS211507"
     },
     {
@@ -6008,6 +6002,10 @@
         "asn": "AS33915"
     },
     {
+        "nickname": "death",
+        "asn": "AS210083"
+    },
+    {
         "nickname": "jkimnot1",
         "exit_address": [
             "179.43.133.50"
@@ -6548,6 +6546,10 @@
             "185.241.208.185"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "MyTorExitNode",
+        "asn": "AS212477"
     },
     {
         "nickname": "bludicapra",
@@ -8513,6 +8515,9 @@
     },
     {
         "nickname": "SAEGW",
+        "exit_address": [
+            "102.206.117.134"
+        ],
         "asn": "AS328723"
     },
     {
@@ -10574,9 +10579,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -18176,9 +18178,6 @@
     },
     {
         "nickname": "NTH100R6",
-        "exit_address": [
-            "192.42.116.100"
-        ],
         "asn": "AS215125"
     },
     {
