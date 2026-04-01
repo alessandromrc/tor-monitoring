@@ -4019,6 +4019,9 @@
     },
     {
         "nickname": "wippvannwinkle",
+        "exit_address": [
+            "194.53.137.102"
+        ],
         "asn": "AS9009"
     },
     {
@@ -14047,10 +14050,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV4934",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "lunar4",
         "exit_address": [
             "203.55.81.1"
@@ -16392,6 +16391,9 @@
     },
     {
         "nickname": "forest01",
+        "exit_address": [
+            "94.156.152.8"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17634,6 +17636,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
@@ -21093,10 +21098,6 @@
             "124.198.131.173"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV4634",
-        "asn": "AS701"
     },
     {
         "nickname": "Quetzalcoatl",
