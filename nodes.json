@@ -6006,6 +6006,9 @@
     },
     {
         "nickname": "death",
+        "exit_address": [
+            "202.181.177.206"
+        ],
         "asn": "AS210083"
     },
     {
@@ -6552,6 +6555,9 @@
     },
     {
         "nickname": "MyTorExitNode",
+        "exit_address": [
+            "45.137.205.34"
+        ],
         "asn": "AS212477"
     },
     {
@@ -8539,6 +8545,9 @@
     },
     {
         "nickname": "SCSRelay",
+        "exit_address": [
+            "78.141.219.102"
+        ],
         "asn": "AS398924"
     },
     {
@@ -15170,9 +15179,6 @@
     },
     {
         "nickname": "ivasi",
-        "exit_address": [
-            "135.136.176.225"
-        ],
         "asn": "AS207569"
     },
     {
