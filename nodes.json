@@ -5118,6 +5118,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -17255,10 +17258,6 @@
         "asn": "AS215659"
     },
     {
-        "nickname": "VampireFunWorld",
-        "asn": "AS60781"
-    },
-    {
         "nickname": "relayon0144",
         "exit_address": [
             "185.220.101.144"
@@ -21145,10 +21144,6 @@
             "192.159.99.74"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV3036",
-        "asn": "AS7029"
     },
     {
         "nickname": "Quetzalcoatl",
