@@ -4497,7 +4497,6 @@
     {
         "nickname": "nylic",
         "exit_address": [
-            "135.136.176.226",
             "178.17.57.190"
         ],
         "asn": "AS207569"
@@ -5143,6 +5142,9 @@
     },
     {
         "nickname": "Fastnet07",
+        "exit_address": [
+            "185.28.47.80"
+        ],
         "asn": "AS52048"
     },
     {
@@ -5587,6 +5589,9 @@
     },
     {
         "nickname": "Fastnet09",
+        "exit_address": [
+            "185.28.47.78"
+        ],
         "asn": "AS52048"
     },
     {
@@ -6593,10 +6598,6 @@
             "204.137.14.105"
         ],
         "asn": "AS399820"
-    },
-    {
-        "nickname": "TV4139",
-        "asn": "AS701"
     },
     {
         "nickname": "TV5666",
@@ -9117,7 +9118,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7493",
+        "nickname": "TV7541",
         "asn": "AS7303"
     },
     {
@@ -11088,7 +11089,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.159",
             "198.167.206.228"
         ],
         "asn": "AS39287"
@@ -12497,6 +12497,9 @@
     },
     {
         "nickname": "Fastnet05",
+        "exit_address": [
+            "185.28.47.84"
+        ],
         "asn": "AS52048"
     },
     {
@@ -13159,6 +13162,9 @@
     },
     {
         "nickname": "Fastnet04",
+        "exit_address": [
+            "185.28.47.85"
+        ],
         "asn": "AS52048"
     },
     {
@@ -17242,6 +17248,9 @@
     },
     {
         "nickname": "Fastnet08",
+        "exit_address": [
+            "185.28.47.79"
+        ],
         "asn": "AS52048"
     },
     {
@@ -17973,9 +17982,6 @@
     },
     {
         "nickname": "Amphinobi",
-        "exit_address": [
-            "185.173.200.73"
-        ],
         "asn": "AS42487"
     },
     {
@@ -19342,6 +19348,9 @@
     },
     {
         "nickname": "Fastnet10",
+        "exit_address": [
+            "185.28.47.77"
+        ],
         "asn": "AS52048"
     },
     {
@@ -21761,6 +21770,9 @@
     },
     {
         "nickname": "Fastnet06",
+        "exit_address": [
+            "185.28.47.82"
+        ],
         "asn": "AS52048"
     },
     {
