@@ -4574,9 +4574,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "103.253.42.209"
-        ],
         "asn": "AS133398"
     },
     {
@@ -5145,6 +5142,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Fastnet07",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "UnredactedEdmonds",
         "exit_address": [
             "23.191.200.42"
@@ -5583,6 +5584,10 @@
             "209.141.46.203"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "Fastnet09",
+        "asn": "AS52048"
     },
     {
         "nickname": "r0cket08i4",
@@ -6520,9 +6525,6 @@
     },
     {
         "nickname": "TheMadHackerV3",
-        "exit_address": [
-            "74.208.192.81"
-        ],
         "asn": "AS8560"
     },
     {
@@ -6597,7 +6599,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV7594",
+        "nickname": "TV622",
         "asn": "AS7303"
     },
     {
@@ -8164,9 +8166,6 @@
     },
     {
         "nickname": "TheMadHackerNodeV3",
-        "exit_address": [
-            "67.217.244.5"
-        ],
         "asn": "AS8560"
     },
     {
@@ -12497,6 +12496,10 @@
         "asn": "AS197422"
     },
     {
+        "nickname": "Fastnet05",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.71"
@@ -13153,6 +13156,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS6192"
+    },
+    {
+        "nickname": "Fastnet04",
+        "asn": "AS52048"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -13968,9 +13975,6 @@
     },
     {
         "nickname": "WindyCity219",
-        "exit_address": [
-            "74.208.79.7"
-        ],
         "asn": "AS8560"
     },
     {
@@ -17237,6 +17241,10 @@
         "asn": "AS214094"
     },
     {
+        "nickname": "Fastnet08",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "r0cket10i2",
         "exit_address": [
             "45.84.107.47"
@@ -19335,6 +19343,10 @@
             "171.25.193.39"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Fastnet10",
+        "asn": "AS52048"
     },
     {
         "nickname": "VaginaDick",
@@ -21750,6 +21762,10 @@
             "185.220.101.25"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Fastnet06",
+        "asn": "AS52048"
     },
     {
         "nickname": "forest04",
