@@ -3570,6 +3570,9 @@
     },
     {
         "nickname": "NTH19R8",
+        "exit_address": [
+            "192.42.116.19"
+        ],
         "asn": "AS215125"
     },
     {
@@ -4260,6 +4263,9 @@
     },
     {
         "nickname": "NTH107R8",
+        "exit_address": [
+            "192.42.116.107"
+        ],
         "asn": "AS215125"
     },
     {
@@ -5781,6 +5787,9 @@
     },
     {
         "nickname": "NTH19R4",
+        "exit_address": [
+            "192.42.116.19"
+        ],
         "asn": "AS215125"
     },
     {
@@ -7092,6 +7101,9 @@
     },
     {
         "nickname": "NTH60R5",
+        "exit_address": [
+            "192.42.116.60"
+        ],
         "asn": "AS215125"
     },
     {
@@ -9439,6 +9451,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV619",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "artikel10ber88",
         "exit_address": [
             "185.220.101.22"
@@ -9633,6 +9649,9 @@
     },
     {
         "nickname": "NTH60R6",
+        "exit_address": [
+            "192.42.116.60"
+        ],
         "asn": "AS215125"
     },
     {
@@ -12816,6 +12835,9 @@
     },
     {
         "nickname": "NTH57R8",
+        "exit_address": [
+            "192.42.116.57"
+        ],
         "asn": "AS215125"
     },
     {
@@ -14767,6 +14789,9 @@
     },
     {
         "nickname": "NTH108R3",
+        "exit_address": [
+            "192.42.116.108"
+        ],
         "asn": "AS215125"
     },
     {
@@ -15293,6 +15318,9 @@
     },
     {
         "nickname": "NTH110R8",
+        "exit_address": [
+            "192.42.116.110"
+        ],
         "asn": "AS215125"
     },
     {
@@ -15910,7 +15938,7 @@
         "exit_address": [
             "5.83.143.18"
         ],
-        "asn": "AS12586"
+        "asn": "AS200912"
     },
     {
         "nickname": "thankssnowden0",
@@ -18458,6 +18486,9 @@
     },
     {
         "nickname": "NTH19R3",
+        "exit_address": [
+            "192.42.116.19"
+        ],
         "asn": "AS215125"
     },
     {
