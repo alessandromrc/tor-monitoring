@@ -653,7 +653,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5167",
+        "nickname": "TV6024",
         "asn": "AS8151"
     },
     {
@@ -2008,7 +2008,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV1727",
+        "nickname": "TV6367",
         "asn": "AS4766"
     },
     {
@@ -3336,6 +3336,10 @@
             "45.94.31.244"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV8424",
+        "asn": "AS6167"
     },
     {
         "nickname": "ageinghacker",
@@ -6782,9 +6786,6 @@
     },
     {
         "nickname": "torrcgrouprelay",
-        "exit_address": [
-            "151.241.154.218"
-        ],
         "asn": "AS399486"
     },
     {
@@ -9115,7 +9116,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7541",
+        "nickname": "TV7599",
         "asn": "AS7303"
     },
     {
@@ -13282,6 +13283,10 @@
             "185.241.208.71"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "JustASillyRelay",
+        "asn": "AS51396"
     },
     {
         "nickname": "NTH100R3",
