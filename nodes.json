@@ -3038,10 +3038,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4667",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "relayon0134",
         "exit_address": [
             "185.220.101.134"
@@ -7153,7 +7149,7 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "TV6584",
+        "nickname": "TV5264",
         "asn": "AS8151"
     },
     {
@@ -16042,6 +16038,9 @@
     },
     {
         "nickname": "forest08",
+        "exit_address": [
+            "176.65.134.8"
+        ],
         "asn": "AS36680"
     },
     {
