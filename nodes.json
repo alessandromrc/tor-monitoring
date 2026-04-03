@@ -646,7 +646,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5884",
+        "nickname": "TV6013",
         "asn": "AS8151"
     },
     {
@@ -2006,9 +2006,6 @@
     },
     {
         "nickname": "TV8561",
-        "exit_address": [
-            "183.98.22.39"
-        ],
         "asn": "AS4766"
     },
     {
@@ -6194,9 +6191,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -6495,9 +6489,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -8161,9 +8152,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -8284,9 +8272,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -9119,7 +9104,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7762",
+        "nickname": "TV7444",
         "asn": "AS7303"
     },
     {
@@ -9961,7 +9946,6 @@
     {
         "nickname": "DunblaneScotland",
         "exit_address": [
-            "45.141.119.148",
             "62.164.141.96"
         ],
         "asn": "AS207841"
@@ -11619,10 +11603,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV3456",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "UnredactedMacLean",
         "exit_address": [
             "23.191.200.99"
@@ -11680,9 +11660,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -13818,6 +13795,10 @@
             "185.220.101.9"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV9225",
+        "asn": "AS7303"
     },
     {
         "nickname": "DarmokAndJalad1684",
@@ -17388,9 +17369,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -19973,6 +19951,9 @@
     },
     {
         "nickname": "Viola",
+        "exit_address": [
+            "3.64.179.155"
+        ],
         "asn": "AS16509"
     },
     {
@@ -20472,9 +20453,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
