@@ -7138,7 +7138,7 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "TV8556",
+        "nickname": "TV4750",
         "asn": "AS8151"
     },
     {
@@ -11065,6 +11065,9 @@
     },
     {
         "nickname": "europeantgah",
+        "exit_address": [
+            "198.167.206.167"
+        ],
         "asn": "AS39287"
     },
     {
