@@ -2639,7 +2639,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7095",
+        "nickname": "TV1181",
         "asn": "AS61487"
     },
     {
@@ -9651,6 +9651,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "TV1106",
+        "asn": "AS14522"
+    },
+    {
         "nickname": "TORnadoExit02",
         "exit_address": [
             "109.71.252.97"
@@ -11865,6 +11869,10 @@
     {
         "nickname": "TV2679",
         "asn": "AS28111"
+    },
+    {
+        "nickname": "fatboy",
+        "asn": "AS12876"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -21240,6 +21248,10 @@
             "192.42.116.109"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "fatman",
+        "asn": "AS12876"
     },
     {
         "nickname": "Quetzalcoatl",
