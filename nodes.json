@@ -5676,6 +5676,9 @@
     },
     {
         "nickname": "PlainesPaisible",
+        "exit_address": [
+            "95.211.174.137"
+        ],
         "asn": "AS60781"
     },
     {
@@ -5893,7 +5896,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4786",
+        "nickname": "TV1907",
         "asn": "AS701"
     },
     {
@@ -6712,9 +6715,6 @@
     },
     {
         "nickname": "MyTorExitNode",
-        "exit_address": [
-            "45.137.205.34"
-        ],
         "asn": "AS212477"
     },
     {
@@ -7143,7 +7143,7 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "TV4750",
+        "nickname": "TV5475",
         "asn": "AS8151"
     },
     {
@@ -10702,6 +10702,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "TV9163",
+        "asn": "AS5410"
+    },
+    {
         "nickname": "artikel10ber59",
         "exit_address": [
             "185.220.101.15"
@@ -11872,6 +11876,9 @@
     },
     {
         "nickname": "fatboy",
+        "exit_address": [
+            "51.15.18.73"
+        ],
         "asn": "AS12876"
     },
     {
@@ -16786,7 +16793,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV2041",
+        "nickname": "TV2867",
         "asn": "AS22927"
     },
     {
@@ -21251,6 +21258,9 @@
     },
     {
         "nickname": "fatman",
+        "exit_address": [
+            "51.15.16.14"
+        ],
         "asn": "AS12876"
     },
     {
