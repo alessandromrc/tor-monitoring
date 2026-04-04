@@ -3753,6 +3753,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.212"
+        ],
         "asn": "AS27284"
     },
     {
@@ -6048,6 +6051,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.245"
+        ],
         "asn": "AS27284"
     },
     {
@@ -6408,6 +6414,10 @@
             "192.159.99.79"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV5995",
+        "asn": "AS7303"
     },
     {
         "nickname": "UnredactedLoki",
@@ -8349,6 +8359,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.245"
+        ],
         "asn": "AS27284"
     },
     {
@@ -9484,6 +9497,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.91"
+        ],
         "asn": "AS27284"
     },
     {
@@ -10570,6 +10586,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.212"
+        ],
         "asn": "AS27284"
     },
     {
@@ -11255,6 +11274,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.212"
+        ],
         "asn": "AS27284"
     },
     {
@@ -11582,6 +11604,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.91"
+        ],
         "asn": "AS27284"
     },
     {
@@ -11593,6 +11618,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.245"
+        ],
         "asn": "AS27284"
     },
     {
@@ -12771,6 +12799,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.245"
+        ],
         "asn": "AS27284"
     },
     {
@@ -13702,6 +13733,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.212"
+        ],
         "asn": "AS27284"
     },
     {
@@ -13881,7 +13915,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1438",
+        "nickname": "TV7544",
         "asn": "AS7303"
     },
     {
@@ -15453,6 +15487,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.91"
+        ],
         "asn": "AS27284"
     },
     {
@@ -19232,6 +19269,9 @@
     },
     {
         "nickname": "sullyhelpstor",
+        "exit_address": [
+            "107.189.13.254"
+        ],
         "asn": "AS53667"
     },
     {
