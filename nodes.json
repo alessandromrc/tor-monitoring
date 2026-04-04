@@ -4352,10 +4352,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "DunblaneScotland",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.241.208.136"
@@ -6137,8 +6133,7 @@
     {
         "nickname": "adjammy",
         "exit_address": [
-            "209.99.189.200",
-            "86.54.42.247"
+            "209.99.189.200"
         ],
         "asn": "AS402253"
     },
@@ -6725,10 +6720,6 @@
             "38.135.24.241"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "SecureTorNode",
-        "asn": "AS14618"
     },
     {
         "nickname": "Aramis",
@@ -13113,6 +13104,10 @@
             "192.42.116.144"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV8781",
+        "asn": "AS7303"
     },
     {
         "nickname": "Quetzalcoatl",
