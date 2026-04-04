@@ -1518,9 +1518,6 @@
     },
     {
         "nickname": "KyunTorExitNode",
-        "exit_address": [
-            "45.137.99.182"
-        ],
         "asn": "AS214209"
     },
     {
@@ -3651,6 +3648,9 @@
     },
     {
         "nickname": "gotthatindo",
+        "exit_address": [
+            "103.146.203.14"
+        ],
         "asn": "AS136052"
     },
     {
@@ -10224,6 +10224,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.91"
+        ],
         "asn": "AS27284"
     },
     {
@@ -12072,10 +12075,6 @@
             "45.80.158.249"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "DunblaneScotland",
-        "asn": "AS211507"
     },
     {
         "nickname": "Quetzalcoatl",
