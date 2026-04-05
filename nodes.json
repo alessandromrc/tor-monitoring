@@ -4368,6 +4368,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -9354,6 +9358,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "level9000",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "r0cket05i6",
         "exit_address": [
             "45.84.107.222"
@@ -11144,9 +11152,6 @@
     },
     {
         "nickname": "anonymityiscool",
-        "exit_address": [
-            "205.185.113.180"
-        ],
         "asn": "AS53667"
     },
     {
@@ -16136,9 +16141,6 @@
     },
     {
         "nickname": "Yeereereeim",
-        "exit_address": [
-            "172.81.132.94"
-        ],
         "asn": "AS27176"
     },
     {
@@ -21533,10 +21535,6 @@
             "23.191.200.105"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "GODblessed",
-        "asn": "AS36352"
     },
     {
         "nickname": "4726",
