@@ -1518,6 +1518,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS214209"
     },
     {
@@ -1850,6 +1853,10 @@
             "176.65.148.246"
         ],
         "asn": "AS51396"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -4601,6 +4608,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "103.253.42.209"
+        ],
         "asn": "AS133398"
     },
     {
@@ -8084,6 +8094,10 @@
             "194.15.112.133"
         ],
         "asn": "AS213354"
+    },
+    {
+        "nickname": "TV8370",
+        "asn": "AS264715"
     },
     {
         "nickname": "prsv",
@@ -13913,7 +13927,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV953",
+        "nickname": "TV1367",
         "asn": "AS7303"
     },
     {
@@ -18122,9 +18136,6 @@
     },
     {
         "nickname": "Amphinobi",
-        "exit_address": [
-            "185.173.200.73"
-        ],
         "asn": "AS42487"
     },
     {
