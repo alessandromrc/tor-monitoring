@@ -4369,6 +4369,9 @@
     },
     {
         "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60"
+        ],
         "asn": "AS924"
     },
     {
@@ -9359,6 +9362,9 @@
     },
     {
         "nickname": "level9000",
+        "exit_address": [
+            "194.53.137.156"
+        ],
         "asn": "AS9009"
     },
     {
@@ -16577,10 +16583,6 @@
             "45.9.168.106"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "TV6297",
-        "asn": "AS37680"
     },
     {
         "nickname": "DicedOnions",
