@@ -809,6 +809,9 @@
     },
     {
         "nickname": "AvHOPk",
+        "exit_address": [
+            "80.78.23.4"
+        ],
         "asn": "AS39287"
     },
     {
@@ -2035,9 +2038,6 @@
     },
     {
         "nickname": "TV6518",
-        "exit_address": [
-            "183.98.22.39"
-        ],
         "asn": "AS4766"
     },
     {
@@ -13917,7 +13917,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV9179",
+        "nickname": "TV7771",
         "asn": "AS7303"
     },
     {
@@ -17877,9 +17877,6 @@
     },
     {
         "nickname": "MyTorExit",
-        "exit_address": [
-            "38.135.25.206"
-        ],
         "asn": "AS27284"
     },
     {
@@ -18137,6 +18134,9 @@
     },
     {
         "nickname": "Amphinobi",
+        "exit_address": [
+            "185.173.200.73"
+        ],
         "asn": "AS42487"
     },
     {
