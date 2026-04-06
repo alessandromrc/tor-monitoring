@@ -10724,7 +10724,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV5061",
+        "nickname": "TV9063",
         "asn": "AS5410"
     },
     {
@@ -11098,6 +11098,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.201",
             "198.167.206.233"
         ],
         "asn": "AS39287"
@@ -14546,7 +14547,7 @@
         "asn": "AS55720"
     },
     {
-        "nickname": "TV476",
+        "nickname": "TV7504",
         "asn": "AS6849"
     },
     {
@@ -17215,10 +17216,6 @@
             "23.191.200.61"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "TV2341",
-        "asn": "AS27831"
     },
     {
         "nickname": "pastinake",
