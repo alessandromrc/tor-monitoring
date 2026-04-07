@@ -1069,7 +1069,10 @@
         "asn": "AS8346"
     },
     {
-        "nickname": "justman10000"
+        "nickname": "justman10000",
+        "exit_address": [
+            "5.175.245.46"
+        ]
     },
     {
         "nickname": "Quetzalcoatl",
@@ -11096,7 +11099,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.201"
+            "198.167.206.201",
+            "198.167.206.231"
         ],
         "asn": "AS39287"
     },
