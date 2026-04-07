@@ -4591,9 +4591,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "103.253.42.209"
-        ],
         "asn": "AS133398"
     },
     {
@@ -9096,7 +9093,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7522",
+        "nickname": "TV9219",
         "asn": "AS7303"
     },
     {
@@ -20240,6 +20237,13 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "SSDNodesROexit",
+        "exit_address": [
+            "185.247.224.89"
+        ],
+        "asn": "AS200651"
     },
     {
         "nickname": "UnredactedTice",
