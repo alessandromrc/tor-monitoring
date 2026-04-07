@@ -4359,6 +4359,7 @@
     {
         "nickname": "FEVI01EXIT",
         "exit_address": [
+            "23.134.88.60",
             "23.134.88.61"
         ],
         "asn": "AS924"
@@ -11853,7 +11854,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV279",
+        "nickname": "TV597",
         "asn": "AS36884"
     },
     {
@@ -17251,6 +17252,9 @@
     },
     {
         "nickname": "VampireFunWorld",
+        "exit_address": [
+            "95.168.173.143"
+        ],
         "asn": "AS60781"
     },
     {
@@ -17767,7 +17771,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV5655",
+        "nickname": "TV6705",
         "asn": "AS701"
     },
     {
