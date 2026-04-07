@@ -4150,6 +4150,9 @@
     },
     {
         "nickname": "ArcticFrost",
+        "exit_address": [
+            "89.147.110.251"
+        ],
         "asn": "AS44925"
     },
     {
@@ -4363,7 +4366,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -9102,7 +9105,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7564",
+        "nickname": "TV7483",
         "asn": "AS7303"
     },
     {
@@ -20915,7 +20918,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4828",
+        "nickname": "TV2306",
         "asn": "AS9506"
     },
     {
