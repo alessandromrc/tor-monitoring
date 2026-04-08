@@ -4887,9 +4887,6 @@
     },
     {
         "nickname": "algrothendieck4",
-        "exit_address": [
-            "80.67.172.162"
-        ],
         "asn": "AS20766"
     },
     {
@@ -6164,9 +6161,6 @@
     },
     {
         "nickname": "algrothendieck1",
-        "exit_address": [
-            "80.67.172.162"
-        ],
         "asn": "AS20766"
     },
     {
@@ -7744,9 +7738,6 @@
     },
     {
         "nickname": "algrothendieck2",
-        "exit_address": [
-            "80.67.172.162"
-        ],
         "asn": "AS20766"
     },
     {
@@ -17192,7 +17183,7 @@
         "asn": "AS206264"
     },
     {
-        "nickname": "TV7473",
+        "nickname": "TV1104",
         "asn": "AS28048"
     },
     {
@@ -18054,6 +18045,9 @@
     },
     {
         "nickname": "VisionVillage",
+        "exit_address": [
+            "94.75.225.81"
+        ],
         "asn": "AS60781"
     },
     {
