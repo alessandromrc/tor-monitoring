@@ -1941,6 +1941,10 @@
         "asn": "AS12389"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS8728"
+    },
+    {
         "nickname": "NTH93R2",
         "exit_address": [
             "192.42.116.93"
@@ -9585,9 +9589,6 @@
     },
     {
         "nickname": "FEVI04EXIT",
-        "exit_address": [
-            "23.134.90.61"
-        ],
         "asn": "AS924"
     },
     {
@@ -11854,7 +11855,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4789",
+        "nickname": "TV7098",
         "exit_address": [
             "105.69.50.114"
         ],
@@ -16566,7 +16567,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV6116",
+        "nickname": "TV6420",
         "asn": "AS22927"
     },
     {
