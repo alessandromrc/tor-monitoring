@@ -4373,7 +4373,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -5828,9 +5828,6 @@
     },
     {
         "nickname": "artikel10buc06",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
@@ -9107,7 +9104,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7483",
+        "nickname": "TV9251",
         "asn": "AS7303"
     },
     {
@@ -11101,7 +11098,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.201",
             "198.167.206.231"
         ],
         "asn": "AS39287"
@@ -11508,9 +11504,6 @@
     },
     {
         "nickname": "TorRelay5963B7",
-        "exit_address": [
-            "185.208.159.170"
-        ],
         "asn": "AS42624"
     },
     {
@@ -11793,6 +11786,9 @@
     },
     {
         "nickname": "sexytiem",
+        "exit_address": [
+            "95.216.107.148"
+        ],
         "asn": "AS24940"
     },
     {
@@ -17062,9 +17058,6 @@
     },
     {
         "nickname": "artikel10buc04",
-        "exit_address": [
-            "185.100.87.250"
-        ],
         "asn": "AS200651"
     },
     {
