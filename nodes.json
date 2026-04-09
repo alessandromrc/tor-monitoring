@@ -6105,6 +6105,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "TV6001",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "UnredactedChambers",
         "exit_address": [
             "23.191.200.104"
@@ -20299,6 +20303,10 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "PRICC78634",
+        "asn": "AS211619"
     },
     {
         "nickname": "SSDNodesROexit",
