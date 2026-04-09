@@ -4373,14 +4373,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
-        "exit_address": [
-            "23.134.88.60",
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -4941,9 +4933,6 @@
     },
     {
         "nickname": "Runaz4",
-        "exit_address": [
-            "185.93.89.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -9116,7 +9105,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7450",
+        "nickname": "TV7544",
         "asn": "AS7303"
     },
     {
@@ -11897,7 +11886,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV932",
+        "nickname": "TV8680",
         "asn": "AS36884"
     },
     {
@@ -12441,7 +12430,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV8616",
+        "nickname": "TV7171",
         "asn": "AS8346"
     },
     {
@@ -16614,7 +16603,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV772",
+        "nickname": "TV3419",
         "asn": "AS22927"
     },
     {
@@ -18819,7 +18808,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5393",
+        "nickname": "TV9342",
         "asn": "AS39869"
     },
     {
@@ -19353,6 +19342,10 @@
             "192.159.99.21"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "2KKTT896534",
+        "asn": "AS210083"
     },
     {
         "nickname": "eo209",
@@ -20306,6 +20299,9 @@
     },
     {
         "nickname": "PRICC78634",
+        "exit_address": [
+            "150.40.126.9"
+        ],
         "asn": "AS211619"
     },
     {
