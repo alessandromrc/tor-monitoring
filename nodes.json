@@ -5819,7 +5819,7 @@
         "asn": "AS210731"
     },
     {
-        "nickname": "TV4916",
+        "nickname": "TV8775",
         "asn": "AS803"
     },
     {
@@ -6122,7 +6122,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV6001",
+        "nickname": "TV4881",
         "asn": "AS8151"
     },
     {
@@ -10545,6 +10545,9 @@
     },
     {
         "nickname": "FJB5",
+        "exit_address": [
+            "198.46.168.20"
+        ],
         "asn": "AS36352"
     },
     {
