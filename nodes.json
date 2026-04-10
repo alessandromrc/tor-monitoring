@@ -4399,6 +4399,14 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60",
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
+    },
+    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -15631,9 +15639,6 @@
     },
     {
         "nickname": "HungarianBronkExit",
-        "exit_address": [
-            "45.9.168.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -21009,7 +21014,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV7183",
+        "nickname": "TV7825",
         "asn": "AS9506"
     },
     {
