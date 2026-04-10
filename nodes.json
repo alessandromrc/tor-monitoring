@@ -3091,6 +3091,9 @@
     },
     {
         "nickname": "imaddictedtoweed",
+        "exit_address": [
+            "45.92.1.70"
+        ],
         "asn": "AS210558"
     },
     {
@@ -10538,6 +10541,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "FJB5",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "DFRI101",
         "exit_address": [
             "171.25.193.82"
@@ -11530,9 +11537,6 @@
     },
     {
         "nickname": "xinchaovit",
-        "exit_address": [
-            "125.212.241.131"
-        ],
         "asn": "AS7552"
     },
     {
@@ -15725,6 +15729,10 @@
             "45.84.107.33"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "FJB6",
+        "asn": "AS36352"
     },
     {
         "nickname": "NTH20R2",
