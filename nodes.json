@@ -2661,6 +2661,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Zela",
+        "asn": "AS39392"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.80.158.142"
@@ -11116,7 +11120,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.161"
+            "198.167.206.161",
+            "198.167.206.208"
         ],
         "asn": "AS39287"
     },
@@ -15043,9 +15048,6 @@
     },
     {
         "nickname": "2NN36745new",
-        "exit_address": [
-            "202.181.177.126"
-        ],
         "asn": "AS210083"
     },
     {
@@ -21796,7 +21798,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7228",
+        "nickname": "TV8002",
         "asn": "AS22927"
     },
     {
