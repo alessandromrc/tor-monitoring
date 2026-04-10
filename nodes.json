@@ -2663,6 +2663,9 @@
     },
     {
         "nickname": "Zela",
+        "exit_address": [
+            "88.86.116.138"
+        ],
         "asn": "AS39392"
     },
     {
@@ -4400,7 +4403,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -5182,6 +5185,10 @@
             "185.220.100.240"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "TV4288",
+        "asn": "AS8151"
     },
     {
         "nickname": "relayon0175",
@@ -9110,7 +9117,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7489",
+        "nickname": "TV7497",
         "asn": "AS7303"
     },
     {
@@ -11890,7 +11897,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4124",
+        "nickname": "TV6222",
         "asn": "AS36884"
     },
     {
