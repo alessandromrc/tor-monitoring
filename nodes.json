@@ -6165,6 +6165,9 @@
     },
     {
         "nickname": "adjammy",
+        "exit_address": [
+            "209.99.189.200"
+        ],
         "asn": "AS402253"
     },
     {
@@ -11152,7 +11155,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.161",
             "198.167.206.208"
         ],
         "asn": "AS39287"
