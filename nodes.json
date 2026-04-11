@@ -2833,6 +2833,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TV9015",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "NTH52R6",
         "exit_address": [
             "192.42.116.52"
@@ -4403,6 +4407,14 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "FEVI01EXIT",
+        "exit_address": [
+            "23.134.88.60",
+            "23.134.88.61"
+        ],
+        "asn": "AS924"
     },
     {
         "nickname": "tainish",
@@ -9127,7 +9139,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7550",
+        "nickname": "TV7536",
         "asn": "AS7303"
     },
     {
@@ -11914,7 +11926,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6478",
+        "nickname": "TV5451",
         "exit_address": [
             "105.77.112.20"
         ],
