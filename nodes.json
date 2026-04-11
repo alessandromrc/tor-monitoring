@@ -3720,6 +3720,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -5146,6 +5149,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -20129,9 +20135,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
