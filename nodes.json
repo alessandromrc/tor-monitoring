@@ -4413,14 +4413,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI02EXIT",
-        "exit_address": [
-            "23.134.88.60",
-            "23.134.88.61"
-        ],
-        "asn": "AS924"
-    },
-    {
         "nickname": "tainish",
         "exit_address": [
             "130.193.10.21"
@@ -7861,7 +7853,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9527",
+        "nickname": "TV2732",
         "asn": "AS39273"
     },
     {
@@ -8464,6 +8456,9 @@
     },
     {
         "nickname": "pladywin2",
+        "exit_address": [
+            "89.124.99.182"
+        ],
         "asn": "AS216071"
     },
     {
@@ -9141,7 +9136,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7536",
+        "nickname": "TV9297",
         "asn": "AS7303"
     },
     {
@@ -18997,7 +18992,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV6876",
+        "nickname": "TV3174",
         "asn": "AS7303"
     },
     {
