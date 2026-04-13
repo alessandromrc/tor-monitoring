@@ -1963,6 +1963,7 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
+            "84.52.1.181",
             "84.52.14.27",
             "84.52.24.210",
             "84.52.39.35"
@@ -4432,7 +4433,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -12506,7 +12507,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV374",
+        "nickname": "TV5499",
         "asn": "AS8346"
     },
     {
@@ -20223,6 +20224,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
