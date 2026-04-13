@@ -1974,6 +1974,7 @@
         "nickname": "Unnamed",
         "exit_address": [
             "84.52.1.181",
+            "84.52.31.181",
             "84.52.39.35"
         ],
         "asn": "AS8728"
@@ -4932,6 +4933,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.73.43"
+        ],
         "asn": "AS53667"
     },
     {
@@ -11224,6 +11228,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.174",
             "198.167.206.218"
         ],
         "asn": "AS39287"
@@ -12543,7 +12548,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV6821",
+        "nickname": "TV9055",
         "asn": "AS8346"
     },
     {
