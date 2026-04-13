@@ -5239,7 +5239,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV4288",
+        "nickname": "TV3183",
         "asn": "AS8151"
     },
     {
@@ -8223,6 +8223,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.73.193"
+        ],
         "asn": "AS53667"
     },
     {
@@ -9207,7 +9210,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "TV7566",
+        "nickname": "TV7830",
         "asn": "AS7303"
     },
     {
@@ -12548,7 +12551,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV9055",
+        "nickname": "TV6396",
         "asn": "AS8346"
     },
     {
@@ -16743,7 +16746,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV9378",
+        "nickname": "TV8332",
         "asn": "AS22927"
     },
     {
@@ -17318,6 +17321,10 @@
             "23.191.200.81"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "TV7472",
+        "asn": "AS7303"
     },
     {
         "nickname": "TV3497",
@@ -21126,7 +21133,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1828",
+        "nickname": "TV4870",
         "asn": "AS9506"
     },
     {
