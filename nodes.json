@@ -1974,7 +1974,6 @@
         "nickname": "Unnamed",
         "exit_address": [
             "84.52.1.181",
-            "84.52.14.27",
             "84.52.39.35"
         ],
         "asn": "AS8728"
@@ -4932,6 +4931,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "ForPrivacyNET",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "DFRI55",
         "exit_address": [
             "171.25.193.36"
@@ -6886,6 +6889,10 @@
             "45.80.158.27"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "BehemothLTDFI4",
+        "asn": "AS211507"
     },
     {
         "nickname": "MorpheusMonero",
@@ -9304,6 +9311,10 @@
             "185.100.85.25"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "BehemothLTDCH1",
+        "asn": "AS211507"
     },
     {
         "nickname": "Aramis",
@@ -13967,7 +13978,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV7771",
+        "nickname": "TV9065",
         "asn": "AS7303"
     },
     {
@@ -21089,7 +21100,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV7825",
+        "nickname": "TV1828",
         "asn": "AS9506"
     },
     {
