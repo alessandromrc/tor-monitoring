@@ -9708,10 +9708,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "FEVI04EXIT",
-        "asn": "AS924"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -15007,7 +15003,7 @@
         "asn": "AS40021"
     },
     {
-        "nickname": "TV1040",
+        "nickname": "TV8871",
         "asn": "AS6327"
     },
     {
@@ -17190,10 +17186,6 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "FEVI03EXIT",
-        "asn": "AS924"
-    },
-    {
         "nickname": "PRQseTORexit4",
         "exit_address": [
             "88.80.26.3"
@@ -17425,6 +17417,9 @@
     },
     {
         "nickname": "VampireFunWorld",
+        "exit_address": [
+            "95.168.173.143"
+        ],
         "asn": "AS60781"
     },
     {
@@ -18206,6 +18201,9 @@
     },
     {
         "nickname": "VisionVillage",
+        "exit_address": [
+            "94.75.225.81"
+        ],
         "asn": "AS60781"
     },
     {
