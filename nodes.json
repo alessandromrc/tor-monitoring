@@ -13989,7 +13989,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV4174",
+        "nickname": "TV560",
         "asn": "AS7303"
     },
     {
@@ -18853,7 +18853,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV2420",
+        "nickname": "TV7354",
         "asn": "AS3215"
     },
     {
@@ -20142,6 +20142,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
