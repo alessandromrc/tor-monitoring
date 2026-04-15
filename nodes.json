@@ -233,10 +233,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "BlackIceHostNode5",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -1161,6 +1157,10 @@
             "178.20.55.16"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "TRRelay3",
+        "asn": "AS207279"
     },
     {
         "nickname": "TORtuga",
@@ -14392,10 +14392,6 @@
         "asn": "AS786"
     },
     {
-        "nickname": "JohnSnow",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "rainbowexperience",
         "asn": "AS59711"
     },
@@ -27109,6 +27105,10 @@
     {
         "nickname": "YorkHost",
         "asn": "AS199415"
+    },
+    {
+        "nickname": "eclipse27",
+        "asn": "AS201670"
     },
     {
         "nickname": "TrujillosExit",
