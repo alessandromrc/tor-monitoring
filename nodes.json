@@ -5770,10 +5770,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "HappyToServeYou03",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Mixmaster",
         "asn": "AS211619"
     },
@@ -7604,6 +7600,10 @@
         "asn": "AS16019"
     },
     {
+        "nickname": "rockericy",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "famousdex",
         "asn": "AS36849"
     },
@@ -8167,6 +8167,10 @@
             "185.220.101.15"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "lumenforge",
+        "asn": "AS51852"
     },
     {
         "nickname": "xks",
@@ -41084,6 +41088,9 @@
     },
     {
         "nickname": "relayon0151",
+        "exit_address": [
+            "185.220.101.151"
+        ],
         "asn": "AS60729"
     },
     {
