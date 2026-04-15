@@ -2603,6 +2603,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV5430",
+        "asn": "AS28111"
+    },
+    {
         "nickname": "SSDNodesICexit",
         "exit_address": [
             "82.221.100.12"
@@ -15707,6 +15711,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "TV4781",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "NTH20R2",
         "exit_address": [
             "192.42.116.20"
@@ -15810,6 +15818,13 @@
             "23.191.200.89"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "syverson",
+        "exit_address": [
+            "23.129.64.161"
+        ],
+        "asn": "AS396507"
     },
     {
         "nickname": "HiMom",
@@ -17778,6 +17793,10 @@
             "45.138.16.230"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV5369",
+        "asn": "AS36903"
     },
     {
         "nickname": "Quetzalcoatl",
