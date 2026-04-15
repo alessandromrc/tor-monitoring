@@ -42,6 +42,27 @@ function extractIpFromAddress(addr) {
   return trimmed.slice(0, idx);
 }
 
+function writeArrayToTxt(filePath, arr) {
+  fs.writeFileSync(filePath, arr.join('\n') + (arr.length ? '\n' : ''), 'utf8');
+}
+
+function toMikrotikAddressListLineV4(address, list) {
+  return `/ip firewall address-list add list=${list} address=${address} comment="${list}/tor-monitoring"`;
+}
+
+function toMikrotikAddressListLineV6(address, list) {
+  return `/ipv6 firewall address-list add list=${list} address=${address} comment="${list}/tor-monitoring"`;
+}
+
+function writeMikrotikRsc(filePath, addresses, listName, version) {
+  const lines = addresses.map((address) =>
+    version === 6
+      ? toMikrotikAddressListLineV6(address, listName)
+      : toMikrotikAddressListLineV4(address, listName)
+  );
+  writeArrayToTxt(filePath, lines);
+}
+
 async function main() {
   const tor_json = "./details.json";
 
@@ -123,6 +144,9 @@ async function main() {
   fs.writeFileSync(outputPath + "ips.json", JSON.stringify(IPsV4, null, 2));
   fs.writeFileSync(outputPath + "ips_v6.txt", IPsV6.join("\n"));
   fs.writeFileSync(outputPath + "ips_v6.json", JSON.stringify(IPsV6, null, 2));
+
+  writeMikrotikRsc(outputPath + "ips_v4.rsc", IPsV4, "tor_ipv4", 4);
+  writeMikrotikRsc(outputPath + "ips_v6.rsc", IPsV6, "tor_ipv6", 6);
 }
 
 main()
