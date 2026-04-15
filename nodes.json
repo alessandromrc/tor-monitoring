@@ -3775,6 +3775,7 @@
     {
         "nickname": "UnredactedDrake",
         "exit_address": [
+            "103.17.154.7",
             "23.191.200.6"
         ],
         "asn": "AS401401"
@@ -24446,6 +24447,7 @@
     {
         "nickname": "UnredactedManning",
         "exit_address": [
+            "103.17.154.7",
             "23.191.200.3"
         ],
         "asn": "AS401401"
@@ -34742,6 +34744,7 @@
     {
         "nickname": "UnredactedEllsberg",
         "exit_address": [
+            "103.17.154.7",
             "23.191.200.5"
         ],
         "asn": "AS401401"
@@ -37929,6 +37932,9 @@
     },
     {
         "nickname": "esta0lilja",
+        "exit_address": [
+            "104.219.236.100"
+        ],
         "asn": "AS27176"
     },
     {
@@ -41018,6 +41024,7 @@
     {
         "nickname": "UnredactedAssange",
         "exit_address": [
+            "103.17.154.7",
             "23.191.200.4"
         ],
         "asn": "AS401401"
@@ -43383,7 +43390,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Gama",
+        "nickname": "Laputa",
         "asn": "AS12322"
     },
     {
@@ -50231,6 +50238,7 @@
     {
         "nickname": "UnredactedSnowden",
         "exit_address": [
+            "103.17.154.7",
             "23.191.200.2"
         ],
         "asn": "AS401401"
