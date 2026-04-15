@@ -1590,7 +1590,6 @@
     {
         "nickname": "UnredactedDrake",
         "exit_address": [
-            "103.17.154.7",
             "23.191.200.6"
         ],
         "asn": "AS401401"
@@ -10280,7 +10279,6 @@
     {
         "nickname": "UnredactedManning",
         "exit_address": [
-            "103.17.154.7",
             "23.191.200.3"
         ],
         "asn": "AS401401"
@@ -13085,7 +13083,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV2988",
+        "nickname": "TV6548",
         "asn": "AS7303"
     },
     {
@@ -13926,6 +13924,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.57"
+        ],
         "asn": "AS210558"
     },
     {
@@ -14484,7 +14485,6 @@
     {
         "nickname": "UnredactedEllsberg",
         "exit_address": [
-            "103.17.154.7",
             "23.191.200.5"
         ],
         "asn": "AS401401"
@@ -16898,7 +16898,6 @@
     {
         "nickname": "UnredactedAssange",
         "exit_address": [
-            "103.17.154.7",
             "23.191.200.4"
         ],
         "asn": "AS401401"
@@ -18598,6 +18597,10 @@
             "5.104.84.183"
         ],
         "asn": "AS141995"
+    },
+    {
+        "nickname": "TV9825",
+        "asn": "AS263181"
     },
     {
         "nickname": "UnredactedPotter",
@@ -20871,7 +20874,6 @@
     {
         "nickname": "UnredactedSnowden",
         "exit_address": [
-            "103.17.154.7",
             "23.191.200.2"
         ],
         "asn": "AS401401"
