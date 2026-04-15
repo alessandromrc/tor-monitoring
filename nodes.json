@@ -3942,10 +3942,6 @@
         "asn": "AS41108"
     },
     {
-        "nickname": "schlafschaf",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "GuiltyCarbine",
         "asn": "AS50360"
     },
@@ -8177,6 +8173,9 @@
     },
     {
         "nickname": "lumenforge",
+        "exit_address": [
+            "185.12.44.163"
+        ],
         "asn": "AS51852"
     },
     {
@@ -9212,10 +9211,6 @@
             "124.198.131.29"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "default",
-        "asn": "AS24940"
     },
     {
         "nickname": "Waeswynn",
@@ -13039,10 +13034,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "LobanfRelay",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "hlab17relay02",
         "asn": "AS401833"
     },
@@ -13415,10 +13406,6 @@
     {
         "nickname": "LaLigaGate",
         "asn": "AS12479"
-    },
-    {
-        "nickname": "Jk231f",
-        "asn": "AS20473"
     },
     {
         "nickname": "sudokill",
@@ -23629,10 +23616,6 @@
     {
         "nickname": "CanisLatrans",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "liberTORian",
-        "asn": "AS3269"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -35492,10 +35475,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "souRelayNode",
-        "asn": "AS2527"
-    },
-    {
         "nickname": "hollywoodyc",
         "asn": "AS36849"
     },
@@ -41646,10 +41625,6 @@
     {
         "nickname": "ShinobiBusouge",
         "asn": "AS45839"
-    },
-    {
-        "nickname": "ForTheLoveOfTheGame",
-        "asn": "AS24940"
     },
     {
         "nickname": "happypaws",
