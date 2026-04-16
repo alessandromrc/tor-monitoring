@@ -1489,6 +1489,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "Oberwallis",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Perplexed0419",
         "exit_address": [
             "178.79.154.219"
@@ -4195,7 +4199,7 @@
         "asn": "AS63770"
     },
     {
-        "nickname": "TV8437",
+        "nickname": "TV1021",
         "asn": "AS12322"
     },
     {
@@ -8042,10 +8046,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV2613",
-        "asn": "AS39812"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS210558"
     },
@@ -10356,7 +10356,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -33525,10 +33525,6 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "DEBrelay",
-        "asn": "AS803"
-    },
-    {
         "nickname": "TV8308",
         "asn": "AS28573"
     },
@@ -38024,7 +38020,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "YourRelayNickname",
+        "nickname": "gaytor",
         "asn": "AS5483"
     },
     {
@@ -39526,6 +39522,10 @@
     {
         "nickname": "ncbanerelay",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "overvpn",
+        "asn": "AS49453"
     },
     {
         "nickname": "sipebero",
