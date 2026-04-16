@@ -4057,10 +4057,6 @@
         "asn": "AS19437"
     },
     {
-        "nickname": "torarch",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "mdfnet1",
         "asn": "AS1653"
     },
@@ -26431,7 +26427,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146"
+            "198.167.206.146",
+            "198.167.206.229"
         ],
         "asn": "AS39287"
     },
@@ -31498,10 +31495,6 @@
         "asn": "AS48314"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS5056"
-    },
-    {
         "nickname": "sburkaska",
         "exit_address": [
             "180.149.44.109"
@@ -33401,10 +33394,6 @@
             "194.15.36.117"
         ],
         "asn": "AS58087"
-    },
-    {
-        "nickname": "ElektroGod1",
-        "asn": "AS33915"
     },
     {
         "nickname": "Strelnikov",
@@ -36466,10 +36455,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "2NN36745new",
-        "asn": "AS210083"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.169"
@@ -38037,6 +38022,10 @@
     {
         "nickname": "pIetr0d1C4rB04711",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "YourRelayNickname",
+        "asn": "AS5483"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -43837,6 +43826,10 @@
             "45.61.185.172"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "DarkDevil",
+        "asn": "AS211619"
     },
     {
         "nickname": "GermanCraft12",
@@ -52190,6 +52183,10 @@
     {
         "nickname": "SellNeverSold",
         "asn": "AS6698"
+    },
+    {
+        "nickname": "ChelseaManning",
+        "asn": "AS22612"
     },
     {
         "nickname": "letsdoitUK",
