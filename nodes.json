@@ -3300,6 +3300,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "moira",
+        "asn": "AS39608"
+    },
+    {
         "nickname": "wakaflocka",
         "asn": "AS36849"
     },
@@ -8396,6 +8400,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "PotaTor",
+        "asn": "AS6697"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS31898"
     },
@@ -10342,7 +10350,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -15785,6 +15793,10 @@
     {
         "nickname": "myNiceRelay",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "PotaTor",
+        "asn": "AS6697"
     },
     {
         "nickname": "hellomyduckAutumn",
@@ -25771,9 +25783,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
