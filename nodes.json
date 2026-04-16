@@ -13709,6 +13709,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "pureAir",
+        "asn": "AS204957"
+    },
+    {
         "nickname": "TheEarlyBasilisk",
         "asn": "AS1257"
     },
@@ -16947,6 +16951,9 @@
     },
     {
         "nickname": "Syndicate",
+        "exit_address": [
+            "5.255.123.162"
+        ],
         "asn": "AS60404"
     },
     {
@@ -38250,6 +38257,9 @@
     },
     {
         "nickname": "pingj",
+        "exit_address": [
+            "185.247.184.105"
+        ],
         "asn": "AS215540"
     },
     {
@@ -43159,7 +43169,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV6817",
+        "nickname": "TV9795",
         "asn": "AS701"
     },
     {
@@ -44866,6 +44876,9 @@
     },
     {
         "nickname": "DFRI144",
+        "exit_address": [
+            "171.25.193.45"
+        ],
         "asn": "AS198093"
     },
     {
@@ -49330,7 +49343,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
