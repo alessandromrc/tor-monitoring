@@ -10924,6 +10924,10 @@
         "asn": "AS133398"
     },
     {
+        "nickname": "NordicRelay42",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "forest13",
         "asn": "AS211619"
     },
@@ -30945,6 +30949,9 @@
     },
     {
         "nickname": "mirage",
+        "exit_address": [
+            "91.219.237.39"
+        ],
         "asn": "AS56322"
     },
     {
