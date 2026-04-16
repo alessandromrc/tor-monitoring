@@ -16717,6 +16717,9 @@
     },
     {
         "nickname": "die",
+        "exit_address": [
+            "45.141.119.80"
+        ],
         "asn": "AS211507"
     },
     {
@@ -16977,6 +16980,10 @@
             "192.42.116.142"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Borrowing",
+        "asn": "AS26599"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -26687,6 +26694,10 @@
     {
         "nickname": "rocmarci",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS34224"
     },
     {
         "nickname": "havoc",
@@ -40434,6 +40445,9 @@
     },
     {
         "nickname": "dim",
+        "exit_address": [
+            "45.137.201.5"
+        ],
         "asn": "AS211507"
     },
     {
@@ -48858,6 +48872,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV2169",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "bauruine",
         "exit_address": [
             "185.181.61.203"
@@ -51042,6 +51060,10 @@
         "asn": "AS58915"
     },
     {
+        "nickname": "TV2099",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "roomformushroom",
         "asn": "AS16276"
     },
@@ -52089,6 +52111,10 @@
     {
         "nickname": "remains",
         "asn": "AS211619"
+    },
+    {
+        "nickname": "onthgostudio",
+        "asn": "AS7459"
     },
     {
         "nickname": "prsv",
