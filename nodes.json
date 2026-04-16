@@ -696,10 +696,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "BurningMaggi",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.94.31.228"
@@ -17285,7 +17281,7 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "TV5180",
+        "nickname": "TV1817",
         "asn": "AS8151"
     },
     {
@@ -17728,6 +17724,10 @@
     {
         "nickname": "TerrorismNetwork",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "luminto",
+        "asn": "AS215439"
     },
     {
         "nickname": "ThinkPenguin",
@@ -41712,6 +41712,10 @@
     {
         "nickname": "marclhtor1",
         "asn": "AS577"
+    },
+    {
+        "nickname": "Pocahontas",
+        "asn": "AS16276"
     },
     {
         "nickname": "harryfraud",
