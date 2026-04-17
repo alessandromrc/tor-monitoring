@@ -357,6 +357,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "ChickenShawarma",
+        "asn": "AS5378"
+    },
+    {
         "nickname": "dreamachine",
         "exit_address": [
             "5.255.110.120"
@@ -7997,6 +8001,9 @@
     },
     {
         "nickname": "NTH68R3",
+        "exit_address": [
+            "192.42.116.68"
+        ],
         "asn": "AS215125"
     },
     {
@@ -26711,7 +26718,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146",
             "198.167.206.229"
         ],
         "asn": "AS39287"
@@ -50003,7 +50009,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
