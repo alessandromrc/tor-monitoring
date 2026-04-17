@@ -1575,10 +1575,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "Nadascoin",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "OracleFreeKR",
         "asn": "AS31898"
     },
@@ -10496,7 +10492,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13560,6 +13556,10 @@
     {
         "nickname": "PresidentXi",
         "asn": "AS211619"
+    },
+    {
+        "nickname": "hadesRelay",
+        "asn": "AS8560"
     },
     {
         "nickname": "prsv",
@@ -22440,10 +22440,6 @@
     {
         "nickname": "code9n",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "comasmr",
-        "asn": "AS44486"
     },
     {
         "nickname": "AntonPann2",
@@ -52317,6 +52313,10 @@
     {
         "nickname": "sugarman",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
     },
     {
         "nickname": "SagaciousTor",
