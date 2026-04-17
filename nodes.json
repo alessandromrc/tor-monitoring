@@ -2665,10 +2665,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1413",
-        "asn": "AS47193"
-    },
-    {
         "nickname": "marlonbrando",
         "asn": "AS20473"
     },
@@ -34353,7 +34349,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV216",
+        "nickname": "TV116",
         "asn": "AS28573"
     },
     {
@@ -45813,6 +45809,10 @@
             "2.58.56.35"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TorSidney",
+        "asn": "AS31898"
     },
     {
         "nickname": "MatrixRevolution",
