@@ -1289,7 +1289,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV713",
+        "nickname": "TV4508",
         "asn": "AS22927"
     },
     {
@@ -11306,10 +11306,6 @@
     {
         "nickname": "marta",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "toradmin",
-        "asn": "AS397142"
     },
     {
         "nickname": "NTH101R6",
@@ -45448,6 +45444,9 @@
     },
     {
         "nickname": "jmrpExitES0",
+        "exit_address": [
+            "79.116.3.64"
+        ],
         "asn": "AS57269"
     },
     {
@@ -49071,10 +49070,6 @@
     {
         "nickname": "fifthwardweebie",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Viola",
-        "asn": "AS16509"
     },
     {
         "nickname": "prsv",
