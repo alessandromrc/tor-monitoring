@@ -931,6 +931,9 @@
     },
     {
         "nickname": "ultraboy",
+        "exit_address": [
+            "87.121.79.219"
+        ],
         "asn": "AS199428"
     },
     {
@@ -9699,10 +9702,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "nezupub",
-        "asn": "AS51175"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS43513"
     },
@@ -15429,6 +15428,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "SilentOrbit",
+        "asn": "AS398256"
+    },
+    {
         "nickname": "SteveJobless",
         "asn": "AS47583"
     },
@@ -19872,6 +19875,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "BunnyHop",
+        "asn": "AS212655"
+    },
+    {
         "nickname": "mackdre",
         "asn": "AS36849"
     },
@@ -23863,10 +23870,6 @@
     {
         "nickname": "schwartz",
         "asn": "AS208323"
-    },
-    {
-        "nickname": "huckleberie",
-        "asn": "AS60404"
     },
     {
         "nickname": "baronCV3",
@@ -33928,10 +33931,6 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV8308",
-        "asn": "AS28573"
-    },
-    {
         "nickname": "DFRI153",
         "exit_address": [
             "171.25.193.46"
@@ -37576,6 +37575,10 @@
     {
         "nickname": "geheimschreiber",
         "asn": "AS2856"
+    },
+    {
+        "nickname": "MyTorRelay",
+        "asn": "AS40663"
     },
     {
         "nickname": "magic848relay",
