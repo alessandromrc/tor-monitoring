@@ -10483,7 +10483,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -14276,7 +14276,7 @@
         "asn": "AS5378"
     },
     {
-        "nickname": "TV8976",
+        "nickname": "TV5810",
         "asn": "AS28573"
     },
     {
@@ -24223,6 +24223,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "171.25.193.234"
+        ],
         "asn": "AS198093"
     },
     {
@@ -26695,8 +26698,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.173",
-            "198.167.206.229"
+            "198.167.206.173"
         ],
         "asn": "AS39287"
     },
@@ -31814,6 +31816,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "171.25.193.25"
+        ],
         "asn": "AS198093"
     },
     {
