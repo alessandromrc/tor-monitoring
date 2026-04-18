@@ -1155,7 +1155,10 @@
         "asn": "AS15943"
     },
     {
-        "nickname": "WONNI43mma234",
+        "nickname": "KGJjgh3646Exit",
+        "exit_address": [
+            "150.40.127.243"
+        ],
         "asn": "AS211619"
     },
     {
@@ -10363,6 +10366,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "phin",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "stubbornoxenoracle",
         "asn": "AS31898"
     },
@@ -13900,6 +13907,10 @@
             "23.191.200.27"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "phin",
+        "asn": "AS214677"
     },
     {
         "nickname": "pureAir",
@@ -23885,6 +23896,10 @@
         "asn": "AS6939"
     },
     {
+        "nickname": "ieditheconfigmuch",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "MiddleRelay93",
         "asn": "AS47583"
     },
@@ -26731,7 +26746,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.173"
+            "198.167.206.173",
+            "198.167.206.186"
         ],
         "asn": "AS39287"
     },
@@ -35955,6 +35971,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -36142,6 +36161,10 @@
             "171.25.193.36"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "pulse",
+        "asn": "AS214036"
     },
     {
         "nickname": "relayon1139",
@@ -47912,6 +47935,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "phin",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "mogamin",
         "asn": "AS18526"
     },
@@ -51971,6 +51998,10 @@
     {
         "nickname": "fluffypancakes004ca",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "MyRelayNode",
+        "asn": "AS0"
     },
     {
         "nickname": "ferrariferrell",
