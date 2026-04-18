@@ -675,6 +675,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -1297,7 +1300,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9002",
+        "nickname": "TV1370",
         "asn": "AS22927"
     },
     {
@@ -3331,6 +3334,10 @@
             "23.129.64.187"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "nbrelay1",
+        "asn": "AS211619"
     },
     {
         "nickname": "DFRI46",
@@ -6686,7 +6693,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "nobuhide",
@@ -8203,6 +8210,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -10685,6 +10695,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.139",
             "2.58.56.46"
         ],
         "asn": "AS210558"
@@ -13055,6 +13066,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -15595,7 +15609,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS212238"
+        "asn": "AS42708"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -16674,6 +16688,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -17516,7 +17533,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS174"
+        "asn": "AS3257"
     },
     {
         "nickname": "Unnamed",
@@ -17582,10 +17599,6 @@
     {
         "nickname": "JanFugeTR",
         "asn": "AS209847"
-    },
-    {
-        "nickname": "leek",
-        "asn": "AS51167"
     },
     {
         "nickname": "KissMyAES",
@@ -44242,9 +44255,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "176.65.148.246"
-        ],
         "asn": "AS51396"
     },
     {
@@ -44587,6 +44597,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -49353,6 +49366,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
@@ -51764,6 +51780,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "124.198.131.86"
+        ],
         "asn": "AS210558"
     },
     {
