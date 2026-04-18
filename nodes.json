@@ -7968,7 +7968,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Entry465",
+        "nickname": "Entry3490",
         "asn": "AS22927"
     },
     {
@@ -10483,7 +10483,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13131,6 +13131,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS3303"
+    },
+    {
+        "nickname": "MyTorExitNode",
+        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -24148,6 +24152,9 @@
     },
     {
         "nickname": "HeliosTor",
+        "exit_address": [
+            "104.193.135.243"
+        ],
         "asn": "AS394256"
     },
     {
@@ -24291,9 +24298,6 @@
     },
     {
         "nickname": "wurzelIO",
-        "exit_address": [
-            "5.255.100.26"
-        ],
         "asn": "AS60404"
     },
     {
@@ -33291,10 +33295,6 @@
     {
         "nickname": "BigTuna",
         "asn": "AS3842"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "UnredactedWikiLeaks",
