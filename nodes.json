@@ -1174,6 +1174,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Guest",
+        "asn": "AS212238"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS17676"
     },
@@ -7858,6 +7862,9 @@
     },
     {
         "nickname": "DFRI157",
+        "exit_address": [
+            "171.25.193.78"
+        ],
         "asn": "AS198093"
     },
     {
@@ -7986,7 +7993,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Entry4861",
+        "nickname": "Entry1703",
         "asn": "AS22927"
     },
     {
@@ -10472,6 +10479,9 @@
     },
     {
         "nickname": "DFRI159",
+        "exit_address": [
+            "171.25.193.78"
+        ],
         "asn": "AS198093"
     },
     {
@@ -15056,6 +15066,9 @@
     },
     {
         "nickname": "DFRI158",
+        "exit_address": [
+            "171.25.193.78"
+        ],
         "asn": "AS198093"
     },
     {
@@ -15297,6 +15310,10 @@
     {
         "nickname": "Aethe",
         "asn": "AS40994"
+    },
+    {
+        "nickname": "MyIdleServer",
+        "asn": "AS60781"
     },
     {
         "nickname": "StuRav",
@@ -29076,6 +29093,9 @@
     },
     {
         "nickname": "DFRI160",
+        "exit_address": [
+            "171.25.193.78"
+        ],
         "asn": "AS198093"
     },
     {
@@ -41912,10 +41932,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "thegreatfirewall26",
-        "asn": "AS397162"
-    },
-    {
         "nickname": "spinat",
         "exit_address": [
             "109.70.100.5"
@@ -51202,6 +51218,10 @@
         "asn": "AS50673"
     },
     {
+        "nickname": "ChaosRelay",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "ogre005",
         "asn": "AS7018"
     },
@@ -52382,6 +52402,10 @@
     {
         "nickname": "zgato",
         "asn": "AS40663"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS152565"
     },
     {
         "nickname": "arbitraryKenzie2",
