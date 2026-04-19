@@ -5309,6 +5309,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "Valais",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "SchulteTorRelay001",
         "asn": "AS16276"
     },
@@ -6603,6 +6607,10 @@
     {
         "nickname": "Diameter10point5",
         "asn": "AS57403"
+    },
+    {
+        "nickname": "Jura",
+        "asn": "AS29222"
     },
     {
         "nickname": "spotemgottemjax",
@@ -24028,6 +24036,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Vaud",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.169"
@@ -25033,6 +25045,10 @@
     {
         "nickname": "ra2sys",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "AetherValve",
+        "asn": "AS29222"
     },
     {
         "nickname": "relayon0140",
@@ -28998,7 +29014,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "chimay29470",
+        "nickname": "AetherValve",
         "asn": "AS5410"
     },
     {
@@ -29177,6 +29193,10 @@
             "171.25.193.78"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Neuchatel",
+        "asn": "AS29222"
     },
     {
         "nickname": "CuriousGeorge",
@@ -40971,6 +40991,10 @@
     {
         "nickname": "pataky",
         "asn": "AS13213"
+    },
+    {
+        "nickname": "Fribourg",
+        "asn": "AS29222"
     },
     {
         "nickname": "youngboy",
