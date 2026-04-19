@@ -2348,6 +2348,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "EUTOR1",
+        "asn": "AS209604"
+    },
+    {
         "nickname": "UnredactedHechler",
         "exit_address": [
             "23.191.200.84"
@@ -17770,6 +17774,10 @@
         "asn": "AS199950"
     },
     {
+        "nickname": "AppenzellInnerrhod",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "apple",
         "asn": "AS5650"
     },
@@ -22077,6 +22085,10 @@
         "asn": "AS3356"
     },
     {
+        "nickname": "Zug",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "NTH50R5",
         "exit_address": [
             "192.42.116.50"
@@ -25859,6 +25871,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "ZaoLoo",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "as215296torrelay04",
         "asn": "AS215296"
     },
@@ -28685,10 +28701,6 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV8080",
-        "asn": "AS36884"
-    },
-    {
         "nickname": "dondada",
         "asn": "AS36849"
     },
@@ -30528,6 +30540,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Luzern",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "strunt",
         "asn": "AS214677"
     },
@@ -30565,6 +30581,10 @@
             "194.163.136.187"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "dragonDrakonRelay",
+        "asn": "AS20845"
     },
     {
         "nickname": "haveyoueatentoday",
@@ -37644,6 +37664,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Thurgau",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "ABOBA",
         "asn": "AS214279"
     },
@@ -40157,6 +40181,9 @@
     },
     {
         "nickname": "overvpn",
+        "exit_address": [
+            "193.138.7.164"
+        ],
         "asn": "AS49453"
     },
     {
@@ -42998,6 +43025,10 @@
     {
         "nickname": "bigpun",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "EUTOR2",
+        "asn": "AS209604"
     },
     {
         "nickname": "magic848relay",
@@ -52123,7 +52154,7 @@
     },
     {
         "nickname": "MyRelayNode",
-        "asn": "AS0"
+        "asn": "AS50053"
     },
     {
         "nickname": "ferrariferrell",
@@ -52671,6 +52702,10 @@
     {
         "nickname": "zgato",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "UnseenWoo",
+        "asn": "AS214677"
     },
     {
         "nickname": "KrazyG",
