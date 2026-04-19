@@ -10577,7 +10577,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -39153,10 +39153,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "MyTorGuardRen",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "Digitalcourage4ip2b",
         "exit_address": [
             "185.220.101.105"
@@ -39629,10 +39625,6 @@
     {
         "nickname": "lerelayfr",
         "asn": "AS210699"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS14061"
     },
     {
         "nickname": "Moonlight",
@@ -41639,6 +41631,10 @@
     {
         "nickname": "EhrenRelay",
         "asn": "AS47172"
+    },
+    {
+        "nickname": "BehemothLTDCH3",
+        "asn": "AS31898"
     },
     {
         "nickname": "Digitalcourage4ipab",
