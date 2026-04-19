@@ -10598,9 +10598,6 @@
     },
     {
         "nickname": "tainish",
-        "exit_address": [
-            "130.193.10.21"
-        ],
         "asn": "AS29134"
     },
     {
@@ -23832,6 +23829,10 @@
         "asn": "AS12312"
     },
     {
+        "nickname": "name",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "2.58.56.43"
@@ -26865,7 +26866,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.186"
+            "198.167.206.186",
+            "198.167.206.219"
         ],
         "asn": "AS39287"
     },
@@ -29454,7 +29456,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "185.241.208.139",
             "2.58.56.46"
         ],
         "asn": "AS210558"
