@@ -1303,7 +1303,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7027",
+        "nickname": "TV1871",
         "asn": "AS22927"
     },
     {
@@ -25300,6 +25300,10 @@
         "asn": "AS16509"
     },
     {
+        "nickname": "JohnTheFisherman",
+        "asn": "AS6855"
+    },
+    {
         "nickname": "NSOGroupSucks",
         "asn": "AS214503"
     },
@@ -37199,6 +37203,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NTH12R7",
         "exit_address": [
             "192.42.116.12"
@@ -46529,6 +46537,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
@@ -53870,10 +53881,6 @@
     {
         "nickname": "Groseille",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "NodeRPI5",
-        "asn": "AS7018"
     },
     {
         "nickname": "anarchosyndical7",
