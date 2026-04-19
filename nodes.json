@@ -1581,7 +1581,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "DFRID161",
+        "nickname": "DFRI161",
         "exit_address": [
             "171.25.193.25"
         ],
@@ -5197,6 +5197,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
@@ -6160,6 +6163,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "194.26.192.186"
+        ],
         "asn": "AS210558"
     },
     {
@@ -7261,6 +7267,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -8206,6 +8215,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
@@ -10565,7 +10577,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -17529,6 +17541,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "194.26.192.186"
+        ],
         "asn": "AS210558"
     },
     {
@@ -19815,6 +19830,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "194.26.192.186"
+        ],
         "asn": "AS210558"
     },
     {
@@ -22960,6 +22978,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "194.26.192.186"
+        ],
         "asn": "AS210558"
     },
     {
@@ -24585,10 +24606,6 @@
     {
         "nickname": "gergernet2",
         "asn": "AS43150"
-    },
-    {
-        "nickname": "Jeese22",
-        "asn": "AS20473"
     },
     {
         "nickname": "KevinRelayMidwest",
@@ -28644,6 +28661,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
@@ -28730,6 +28750,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -29278,6 +29301,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -30148,6 +30174,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -34003,6 +34032,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
@@ -37019,6 +37051,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -38105,6 +38140,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "45.92.1.136"
+        ],
         "asn": "AS210558"
     },
     {
@@ -41629,10 +41667,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "madenrelay",
-        "asn": "AS41549"
-    },
-    {
         "nickname": "Caramelo",
         "asn": "AS136258"
     },
@@ -42753,6 +42787,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "2.58.56.92"
+        ],
         "asn": "AS210558"
     },
     {
