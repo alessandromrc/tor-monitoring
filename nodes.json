@@ -8010,7 +8010,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Entry6240",
+        "nickname": "Entry6712",
         "asn": "AS22927"
     },
     {
@@ -10569,7 +10569,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -11627,9 +11627,6 @@
     },
     {
         "nickname": "taine",
-        "exit_address": [
-            "130.193.15.186"
-        ],
         "asn": "AS29134"
     },
     {
@@ -24654,6 +24651,9 @@
     },
     {
         "nickname": "fatstor7",
+        "exit_address": [
+            "161.97.160.86"
+        ],
         "asn": "AS51167"
     },
     {
@@ -37896,10 +37896,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "a9scj8209pujnhr",
-        "asn": "AS64236"
-    },
-    {
         "nickname": "corruptedrangers",
         "asn": "AS51852"
     },
@@ -46906,9 +46902,6 @@
     },
     {
         "nickname": "jokulhops",
-        "exit_address": [
-            "130.193.15.79"
-        ],
         "asn": "AS29134"
     },
     {
