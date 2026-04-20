@@ -2064,6 +2064,10 @@
         "asn": "AS13045"
     },
     {
+        "nickname": "Beta183",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "AvHOPk",
         "asn": "AS39287"
     },
@@ -15988,6 +15992,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "Hyper97552",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "lolaiur",
         "asn": "AS7018"
     },
@@ -29829,10 +29837,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "LastBeretta",
-        "asn": "AS212271"
-    },
-    {
         "nickname": "4716",
         "exit_address": [
             "185.243.218.229"
@@ -33666,10 +33670,6 @@
     {
         "nickname": "myNiceRelay",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "NoGoodwill",
-        "asn": "AS212271"
     },
     {
         "nickname": "DFRI88",
@@ -40195,7 +40195,6 @@
         "nickname": "overvpn",
         "exit_address": [
             "185.65.133.196",
-            "193.138.7.164",
             "89.37.63.80"
         ],
         "asn": "AS49453"
@@ -43849,6 +43848,10 @@
     {
         "nickname": "TV5369",
         "asn": "AS36903"
+    },
+    {
+        "nickname": "TV8535",
+        "asn": "AS7303"
     },
     {
         "nickname": "bfbdapackman",
