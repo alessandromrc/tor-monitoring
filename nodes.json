@@ -3787,10 +3787,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "torry2",
-        "asn": "AS6805"
-    },
-    {
         "nickname": "KyunTorExitNode",
         "exit_address": [
             "45.137.99.182"
@@ -5213,10 +5209,6 @@
     {
         "nickname": "dnaqueens",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "lon",
-        "asn": "AS328364"
     },
     {
         "nickname": "BigChungus",
@@ -9071,6 +9063,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -11408,6 +11403,9 @@
     },
     {
         "nickname": "TorNode",
+        "exit_address": [
+            "162.0.223.223"
+        ],
         "asn": "AS22612"
     },
     {
@@ -12667,6 +12665,9 @@
     },
     {
         "nickname": "Syst",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -26876,6 +26877,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.142",
             "198.167.206.219"
         ],
         "asn": "AS39287"
@@ -28728,6 +28730,7 @@
     {
         "nickname": "TV9909",
         "exit_address": [
+            "105.69.25.83",
             "105.69.39.237"
         ],
         "asn": "AS36884"
@@ -43860,7 +43863,7 @@
         "asn": "AS36903"
     },
     {
-        "nickname": "TV8424",
+        "nickname": "TV8845",
         "asn": "AS7303"
     },
     {
@@ -46872,6 +46875,9 @@
     },
     {
         "nickname": "jokulhops",
+        "exit_address": [
+            "130.193.15.79"
+        ],
         "asn": "AS29134"
     },
     {
