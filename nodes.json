@@ -8199,6 +8199,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "PandaHideout",
+        "asn": "AS213605"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "2.58.56.92"
@@ -14278,6 +14282,10 @@
             "45.84.107.55"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
     },
     {
         "nickname": "priceisright",
@@ -30530,10 +30538,6 @@
     {
         "nickname": "lukast",
         "asn": "AS211507"
-    },
-    {
-        "nickname": "brbbtw",
-        "asn": "AS9009"
     },
     {
         "nickname": "Fastnet05",
@@ -49548,9 +49552,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
