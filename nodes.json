@@ -810,10 +810,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "forest35",
-        "asn": "AS26383"
-    },
-    {
         "nickname": "RelayUli",
         "asn": "AS197540"
     },
@@ -25678,10 +25674,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TORHELPER",
-        "asn": "AS212271"
-    },
-    {
         "nickname": "bart",
         "asn": "AS262287"
     },
@@ -40203,7 +40195,8 @@
         "nickname": "overvpn",
         "exit_address": [
             "185.65.133.196",
-            "193.138.7.164"
+            "193.138.7.164",
+            "89.37.63.80"
         ],
         "asn": "AS49453"
     },
@@ -49523,6 +49516,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -50988,10 +50984,6 @@
     {
         "nickname": "HeeJin",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "Netmaster",
-        "asn": "AS30982"
     },
     {
         "nickname": "FlashBull",
