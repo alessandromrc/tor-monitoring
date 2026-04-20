@@ -5467,10 +5467,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "NoWINDOWS",
-        "asn": "AS51852"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS199173"
     },
@@ -8387,10 +8383,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "contributeLinux",
-        "asn": "AS51852"
-    },
-    {
         "nickname": "SkibidiCrackhead",
         "asn": "AS48314"
     },
@@ -10597,6 +10589,9 @@
     },
     {
         "nickname": "tainish",
+        "exit_address": [
+            "130.193.10.21"
+        ],
         "asn": "AS29134"
     },
     {
@@ -11626,6 +11621,9 @@
     },
     {
         "nickname": "taine",
+        "exit_address": [
+            "130.193.15.186"
+        ],
         "asn": "AS29134"
     },
     {
@@ -26850,7 +26848,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.186",
             "198.167.206.219"
         ],
         "asn": "AS39287"
@@ -29639,6 +29636,10 @@
             "185.207.107.130"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "mariana",
+        "asn": "AS51765"
     },
     {
         "nickname": "windows98se",
@@ -36471,10 +36472,6 @@
         "asn": "AS47610"
     },
     {
-        "nickname": "MeesixRelay",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "Planetclaire62",
         "asn": "AS63023"
     },
@@ -37202,6 +37199,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS56655"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -37888,10 +37889,6 @@
             "192.42.116.110"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "GoInstallLinux",
-        "asn": "AS51852"
     },
     {
         "nickname": "Unnamed",
@@ -40207,7 +40204,6 @@
     {
         "nickname": "overvpn",
         "exit_address": [
-            "185.65.133.196",
             "89.37.63.80"
         ],
         "asn": "AS49453"
@@ -49352,6 +49348,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "mariana",
+        "asn": "AS51765"
+    },
+    {
         "nickname": "Zeus",
         "asn": "AS14061"
     },
@@ -53442,6 +53442,10 @@
     {
         "nickname": "AaronSwartzMemorial",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "hlabRelay",
+        "asn": "AS49453"
     },
     {
         "nickname": "winner",
