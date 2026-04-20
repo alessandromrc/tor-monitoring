@@ -9067,9 +9067,6 @@
     },
     {
         "nickname": "Syst",
-        "exit_address": [
-            "185.132.53.150"
-        ],
         "asn": "AS211507"
     },
     {
@@ -9991,10 +9988,6 @@
     {
         "nickname": "quaffle",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SmoothOperator",
-        "asn": "AS1136"
     },
     {
         "nickname": "Aramis",
@@ -27841,10 +27834,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Pow3rShell",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "normani",
         "asn": "AS36849"
     },
@@ -28713,6 +28702,9 @@
     },
     {
         "nickname": "TV1448",
+        "exit_address": [
+            "105.69.39.237"
+        ],
         "asn": "AS36884"
     },
     {
@@ -36931,6 +36923,10 @@
             "192.42.116.13"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "wsokytfqyn3",
+        "asn": "AS20845"
     },
     {
         "nickname": "FluentDuckNode2",
