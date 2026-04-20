@@ -1865,6 +1865,10 @@
         "asn": "AS19504"
     },
     {
+        "nickname": "YorkHost",
+        "asn": "AS33993"
+    },
+    {
         "nickname": "iDIDedittheconfig",
         "asn": "AS215730"
     },
@@ -10560,7 +10564,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13401,6 +13405,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "YorkHost",
+        "asn": "AS33993"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -19022,6 +19030,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS133159"
+    },
+    {
+        "nickname": "0b11111000000",
+        "asn": "AS24961"
     },
     {
         "nickname": "Prometheus",
@@ -28702,7 +28714,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV6216",
+        "nickname": "TV9909",
         "exit_address": [
             "105.69.39.237"
         ],
@@ -31078,9 +31090,6 @@
     },
     {
         "nickname": "PP7CV19",
-        "exit_address": [
-            "202.181.177.126"
-        ],
         "asn": "AS210083"
     },
     {
@@ -33006,10 +33015,6 @@
     {
         "nickname": "bigtuckdfw",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Bebe",
-        "asn": "AS43180"
     },
     {
         "nickname": "NTH301R2",
@@ -43746,10 +43751,6 @@
             "185.243.218.233"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "kachow",
-        "asn": "AS36352"
     },
     {
         "nickname": "Belgique",
