@@ -2878,6 +2878,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -7394,6 +7397,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "overvpn",
+        "asn": "AS49453"
+    },
+    {
         "nickname": "CSTLLNODE3",
         "exit_address": [
             "23.137.253.125"
@@ -9960,6 +9967,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -15085,6 +15095,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -19125,6 +19138,9 @@
     },
     {
         "nickname": "NeelTorExit1B",
+        "exit_address": [
+            "38.135.24.30"
+        ],
         "asn": "AS27284"
     },
     {
@@ -20308,10 +20324,6 @@
     {
         "nickname": "trustytorplace",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "InVinoVeritas5",
-        "asn": "AS202053"
     },
     {
         "nickname": "t00r",
@@ -23466,6 +23478,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -26056,6 +26071,10 @@
             "185.246.188.74"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "CSTLLNODE",
+        "asn": "AS63023"
     },
     {
         "nickname": "brutus",
@@ -28689,7 +28708,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV5895",
+        "nickname": "TV394",
         "exit_address": [
             "197.147.75.53"
         ],
@@ -34644,10 +34663,6 @@
     {
         "nickname": "2mproc",
         "asn": "AS701"
-    },
-    {
-        "nickname": "InVinoVeritas3",
-        "asn": "AS202053"
     },
     {
         "nickname": "rapid2",
@@ -43549,6 +43564,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -44763,6 +44781,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.138.16.118"
+        ],
         "asn": "AS210558"
     },
     {
@@ -47638,10 +47659,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "InVinoVeritas4",
-        "asn": "AS202053"
-    },
-    {
         "nickname": "sinilaukka",
         "asn": "AS719"
     },
@@ -49667,6 +49684,9 @@
     },
     {
         "nickname": "NeelTorExit1A",
+        "exit_address": [
+            "38.135.24.30"
+        ],
         "asn": "AS27284"
     },
     {
@@ -52293,6 +52313,10 @@
             "192.42.116.92"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "xat2relay2",
+        "asn": "AS24940"
     },
     {
         "nickname": "NTH109R3",
