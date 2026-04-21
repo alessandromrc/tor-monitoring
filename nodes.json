@@ -356,7 +356,6 @@
     {
         "nickname": "ChickenShawarma",
         "exit_address": [
-            "193.237.155.109",
             "90.255.234.132"
         ],
         "asn": "AS5378"
@@ -7395,6 +7394,9 @@
     },
     {
         "nickname": "overvpn",
+        "exit_address": [
+            "185.254.75.32"
+        ],
         "asn": "AS49453"
     },
     {
@@ -15730,10 +15732,6 @@
         "asn": "AS41564"
     },
     {
-        "nickname": "CatButler",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "centralcee",
         "asn": "AS36849"
     },
@@ -23319,10 +23317,6 @@
             "151.242.242.16"
         ],
         "asn": "AS270013"
-    },
-    {
-        "nickname": "InVinoVeritas5",
-        "asn": "AS202053"
     },
     {
         "nickname": "server13r2",
@@ -43788,10 +43782,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV5369",
-        "asn": "AS36903"
-    },
-    {
         "nickname": "TV1363",
         "asn": "AS7303"
     },
@@ -53673,10 +53663,6 @@
             "185.130.47.58"
         ],
         "asn": "AS210083"
-    },
-    {
-        "nickname": "Cicada3301",
-        "asn": "AS33915"
     },
     {
         "nickname": "zgato",
