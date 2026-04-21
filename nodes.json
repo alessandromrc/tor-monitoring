@@ -10552,7 +10552,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -28659,10 +28659,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "mimiri06",
-        "asn": "AS214209"
-    },
-    {
         "nickname": "Privacyignr",
         "asn": "AS32133"
     },
@@ -39516,10 +39512,6 @@
         "asn": "AS27651"
     },
     {
-        "nickname": "icestorm",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "zgato",
         "asn": "AS57043"
     },
@@ -50347,9 +50339,6 @@
     },
     {
         "nickname": "apophenia",
-        "exit_address": [
-            "82.221.131.86"
-        ],
         "asn": "AS50613"
     },
     {
