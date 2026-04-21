@@ -13603,6 +13603,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "NotYourISP",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "fatamorgana",
         "asn": "AS8881"
     },
@@ -26250,6 +26254,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -28123,10 +28130,6 @@
             "23.191.200.99"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "cdbrelay01",
-        "asn": "AS20473"
     },
     {
         "nickname": "NTH101R5",
@@ -40127,10 +40130,6 @@
         "asn": "AS215381"
     },
     {
-        "nickname": "CembraNutBoys06",
-        "asn": "AS209101"
-    },
-    {
         "nickname": "HairApprentice",
         "asn": "AS202759"
     },
@@ -40193,10 +40192,6 @@
             "192.42.116.145"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "GermanCraft7",
-        "asn": "AS48314"
     },
     {
         "nickname": "squadsal",
@@ -52104,7 +52099,7 @@
         "asn": "AS58915"
     },
     {
-        "nickname": "TV844",
+        "nickname": "TV1145",
         "asn": "AS22927"
     },
     {
