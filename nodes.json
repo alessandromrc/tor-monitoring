@@ -28111,6 +28111,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "cdbrelay01",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "NTH101R5",
         "asn": "AS8283"
     },
@@ -33769,10 +33773,6 @@
     {
         "nickname": "WOTNoob",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "TV9731",
-        "asn": "AS7303"
     },
     {
         "nickname": "DarmokAndJalad1684",
@@ -40178,6 +40178,7 @@
     {
         "nickname": "overvpn",
         "exit_address": [
+            "193.138.7.213",
             "89.37.63.80"
         ],
         "asn": "AS49453"
@@ -43812,7 +43813,7 @@
         "asn": "AS36903"
     },
     {
-        "nickname": "TV667",
+        "nickname": "TV1363",
         "asn": "AS7303"
     },
     {
@@ -53632,6 +53633,10 @@
             "216.73.159.101"
         ],
         "asn": "AS61138"
+    },
+    {
+        "nickname": "realprivate",
+        "asn": "AS212238"
     },
     {
         "nickname": "swaelee",
