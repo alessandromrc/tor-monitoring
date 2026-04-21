@@ -9069,7 +9069,7 @@
     },
     {
         "nickname": "server2r2",
-        "asn": "AS197540"
+        "asn": "AS47147"
     },
     {
         "nickname": "forest40",
@@ -11483,7 +11483,7 @@
     },
     {
         "nickname": "server2r1",
-        "asn": "AS197540"
+        "asn": "AS47147"
     },
     {
         "nickname": "NostromoRelay",
@@ -17502,7 +17502,7 @@
     },
     {
         "nickname": "server2r3",
-        "asn": "AS197540"
+        "asn": "AS47147"
     },
     {
         "nickname": "mileirelay",
@@ -36381,6 +36381,9 @@
     },
     {
         "nickname": "secretpassage2",
+        "exit_address": [
+            "171.25.158.50"
+        ],
         "asn": "AS35100"
     },
     {
@@ -42390,6 +42393,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "203.202.232.160"
+        ],
         "asn": "AS44382"
     },
     {
@@ -43714,6 +43720,10 @@
         "asn": "AS36149"
     },
     {
+        "nickname": "tracerwall",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "ZX81",
         "asn": "AS12709"
     },
@@ -44118,7 +44128,7 @@
     },
     {
         "nickname": "Kashmooter",
-        "asn": "AS197540"
+        "asn": "AS47147"
     },
     {
         "nickname": "fancy",
@@ -49875,6 +49885,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "BlueGene",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "relayon0147",
         "exit_address": [
             "185.220.101.147"
@@ -51588,6 +51602,10 @@
     {
         "nickname": "GuilelNode",
         "asn": "AS30722"
+    },
+    {
+        "nickname": "Polar72951",
+        "asn": "AS36007"
     },
     {
         "nickname": "TV4029",
