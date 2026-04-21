@@ -2722,9 +2722,6 @@
     },
     {
         "nickname": "justman10000",
-        "exit_address": [
-            "5.175.245.46"
-        ],
         "asn": "AS213850"
     },
     {
@@ -3830,6 +3827,10 @@
     {
         "nickname": "FOSSonly",
         "asn": "AS5483"
+    },
+    {
+        "nickname": "Mayflower",
+        "asn": "AS212238"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -6680,7 +6681,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS212238"
+        "asn": "AS174"
     },
     {
         "nickname": "nobuhide",
@@ -17611,7 +17612,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "Unnamed",
@@ -21407,10 +21408,6 @@
     {
         "nickname": "who",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SpeedyLays",
-        "asn": "AS399629"
     },
     {
         "nickname": "prsv",
@@ -31136,10 +31133,6 @@
         "asn": "AS215296"
     },
     {
-        "nickname": "RelayNode",
-        "asn": "AS22773"
-    },
-    {
         "nickname": "mephinzi",
         "asn": "AS36352"
     },
@@ -40166,8 +40159,7 @@
     {
         "nickname": "overvpn",
         "exit_address": [
-            "193.138.7.213",
-            "89.37.63.80"
+            "193.138.7.213"
         ],
         "asn": "AS49453"
     },
