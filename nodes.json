@@ -3326,10 +3326,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV5035",
-        "asn": "AS7418"
-    },
-    {
         "nickname": "billwoods",
         "asn": "AS36849"
     },
@@ -10548,7 +10544,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -26864,8 +26860,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.142",
-            "198.167.206.219"
+            "198.167.206.142"
         ],
         "asn": "AS39287"
     },
@@ -28707,7 +28702,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV6651",
+        "nickname": "TV43",
         "exit_address": [
             "105.69.25.83",
             "197.147.75.53"
@@ -34500,10 +34495,6 @@
     {
         "nickname": "Jackdaw3",
         "asn": "AS62005"
-    },
-    {
-        "nickname": "PrivacyComDeR1",
-        "asn": "AS3209"
     },
     {
         "nickname": "marcuse1",
