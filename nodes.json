@@ -12619,6 +12619,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "TV4110",
+        "asn": "AS6181"
+    },
+    {
         "nickname": "Tiny",
         "asn": "AS56322"
     },
@@ -12750,10 +12754,6 @@
     {
         "nickname": "rodwave",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV3183",
-        "asn": "AS8151"
     },
     {
         "nickname": "earthgang",
@@ -14930,10 +14930,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "TV9207",
-        "asn": "AS8151"
     },
     {
         "nickname": "UnredactedChambers",
@@ -26526,9 +26522,6 @@
     },
     {
         "nickname": "oniondaoftw",
-        "exit_address": [
-            "5.255.98.23"
-        ],
         "asn": "AS60404"
     },
     {
@@ -28696,9 +28689,8 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV1941",
+        "nickname": "TV5895",
         "exit_address": [
-            "105.69.25.83",
             "197.147.75.53"
         ],
         "asn": "AS36884"
@@ -34371,10 +34363,6 @@
     {
         "nickname": "pharcyde",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV9159",
-        "asn": "AS29571"
     },
     {
         "nickname": "RoteServer",
@@ -46968,6 +46956,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "daemonized",
+        "asn": "AS209"
+    },
+    {
         "nickname": "Dumbledore",
         "exit_address": [
             "45.61.188.15"
@@ -53837,9 +53829,5 @@
     {
         "nickname": "Unnamed",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "bupropion",
-        "asn": "AS24940"
     }
 ]
