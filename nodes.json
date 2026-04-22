@@ -3921,9 +3921,6 @@
     },
     {
         "nickname": "ForPrivacyNET",
-        "exit_address": [
-            "185.220.101.42"
-        ],
         "asn": "AS60729"
     },
     {
@@ -7395,6 +7392,7 @@
     {
         "nickname": "overvpn",
         "exit_address": [
+            "169.150.201.7",
             "185.254.75.32"
         ],
         "asn": "AS49453"
@@ -10546,7 +10544,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13658,10 +13656,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ei8fdb",
-        "asn": "AS197540"
     },
     {
         "nickname": "UnredactedFelt",
@@ -21931,10 +21925,6 @@
             "45.66.35.21"
         ],
         "asn": "AS61125"
-    },
-    {
-        "nickname": "Tor4H",
-        "asn": "AS9031"
     },
     {
         "nickname": "tor101",
@@ -38536,6 +38526,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Liriri",
+        "asn": "AS49683"
+    },
+    {
         "nickname": "orelsan",
         "asn": "AS36849"
     },
@@ -38620,9 +38614,6 @@
     },
     {
         "nickname": "esta0lilja",
-        "exit_address": [
-            "104.219.236.100"
-        ],
         "asn": "AS27176"
     },
     {
