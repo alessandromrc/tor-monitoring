@@ -26062,6 +26062,9 @@
     },
     {
         "nickname": "CSTLLNODE",
+        "exit_address": [
+            "94.154.172.72"
+        ],
         "asn": "AS63023"
     },
     {
@@ -28696,7 +28699,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV394",
+        "nickname": "TV6814",
         "exit_address": [
             "197.147.75.53"
         ],
@@ -40760,6 +40763,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Hallon",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "eo200",
         "exit_address": [
             "23.129.64.200"
@@ -50161,10 +50168,6 @@
         "asn": "AS200019"
     },
     {
-        "nickname": "PrivacyComDeExit",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "cherrypi",
         "asn": "AS7922"
     },
@@ -51288,6 +51291,10 @@
     {
         "nickname": "teutates",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "Merlin",
+        "asn": "AS8434"
     },
     {
         "nickname": "lilynetnyc1",
