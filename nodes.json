@@ -5296,6 +5296,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "egomaniachumvee",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "xmtx",
         "asn": "AS12322"
     },
@@ -7381,8 +7385,7 @@
     {
         "nickname": "overvpn",
         "exit_address": [
-            "169.150.201.7",
-            "185.254.75.32"
+            "169.150.201.7"
         ],
         "asn": "AS49453"
     },
@@ -10522,7 +10525,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -28641,7 +28644,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV8566",
+        "nickname": "TV6256",
         "exit_address": [
             "197.147.75.53"
         ],
@@ -30212,6 +30215,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -30657,6 +30663,10 @@
     {
         "nickname": "bighawksuc",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "torrone",
+        "asn": "AS1267"
     },
     {
         "nickname": "TheShadowRoute19",
