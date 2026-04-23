@@ -13720,6 +13720,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "LowlandsRelay",
+        "asn": "AS1136"
+    },
+    {
         "nickname": "fatstor5",
         "asn": "AS24940"
     },
@@ -26517,10 +26521,6 @@
         "asn": "AS215120"
     },
     {
-        "nickname": "crimson",
-        "asn": "AS62005"
-    },
-    {
         "nickname": "snoopyrelay2",
         "asn": "AS40663"
     },
@@ -38258,10 +38258,6 @@
     {
         "nickname": "tr21",
         "asn": "AS200303"
-    },
-    {
-        "nickname": "Alien",
-        "asn": "AS45045"
     },
     {
         "nickname": "friedman",
@@ -53537,6 +53533,10 @@
             "185.130.47.58"
         ],
         "asn": "AS210083"
+    },
+    {
+        "nickname": "Cicada3301",
+        "asn": "AS33915"
     },
     {
         "nickname": "zgato",
