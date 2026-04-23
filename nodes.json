@@ -6884,6 +6884,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "NLRelay01",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "book",
         "exit_address": [
             "81.17.28.95"
@@ -17314,10 +17318,6 @@
             "192.42.116.142"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Borrowing",
-        "asn": "AS26599"
     },
     {
         "nickname": "Quetzalcoatl",
