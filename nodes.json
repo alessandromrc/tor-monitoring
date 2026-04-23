@@ -5778,6 +5778,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "JustATorExample",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "NTH105R7",
         "exit_address": [
             "192.42.116.105"
@@ -10529,7 +10533,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -30305,10 +30309,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "BringBackSilkRo",
-        "asn": "AS209605"
-    },
-    {
         "nickname": "r0cket03i5",
         "exit_address": [
             "45.84.107.76"
@@ -32143,10 +32143,6 @@
     {
         "nickname": "corae",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "SwissSecureNode",
-        "asn": "AS214036"
     },
     {
         "nickname": "DRCTor",
@@ -35954,9 +35950,6 @@
     },
     {
         "nickname": "sartre2",
-        "exit_address": [
-            "185.246.191.53"
-        ],
         "asn": "AS200651"
     },
     {
@@ -37848,7 +37841,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV9376",
+        "nickname": "TV7973",
         "asn": "AS7303"
     },
     {
@@ -38628,10 +38621,6 @@
     {
         "nickname": "viennaOnTheGo",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "castor",
-        "asn": "AS6805"
     },
     {
         "nickname": "GBPi",
@@ -39679,9 +39668,6 @@
     },
     {
         "nickname": "forest08",
-        "exit_address": [
-            "176.65.134.8"
-        ],
         "asn": "AS36680"
     },
     {
@@ -49937,10 +49923,6 @@
     {
         "nickname": "XMRBest",
         "asn": "AS203003"
-    },
-    {
-        "nickname": "TsakoSeTsakosa",
-        "asn": "AS6799"
     },
     {
         "nickname": "lsjH72",
