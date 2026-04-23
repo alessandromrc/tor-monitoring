@@ -3789,9 +3789,6 @@
     },
     {
         "nickname": "KyunTorExitNode",
-        "exit_address": [
-            "45.137.99.182"
-        ],
         "asn": "AS214209"
     },
     {
@@ -44759,6 +44756,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS200698"
+    },
+    {
         "nickname": "TheGreatTorNode",
         "asn": "AS201670"
     },
@@ -48599,6 +48600,10 @@
             "45.138.16.42"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "jr32",
+        "asn": "AS48314"
     },
     {
         "nickname": "prsv",
