@@ -5687,6 +5687,10 @@
         "asn": "AS40244"
     },
     {
+        "nickname": "NLRelay01",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Millerntor",
         "asn": "AS16276"
     },
@@ -16669,10 +16673,6 @@
     {
         "nickname": "Perseverance",
         "asn": "AS35592"
-    },
-    {
-        "nickname": "Pitel",
-        "asn": "AS16019"
     },
     {
         "nickname": "Protocol73",
@@ -41275,10 +41275,6 @@
         "asn": "AS19148"
     },
     {
-        "nickname": "TorifficNode",
-        "asn": "AS18390"
-    },
-    {
         "nickname": "Swiftmaster46",
         "asn": "AS54913"
     },
@@ -43705,10 +43701,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9795",
-        "asn": "AS701"
-    },
-    {
         "nickname": "ZackMorris",
         "exit_address": [
             "178.218.144.96"
@@ -43980,7 +43972,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV2889",
+        "nickname": "TV7879",
         "asn": "AS701"
     },
     {
@@ -44883,10 +44875,6 @@
             "45.154.98.52"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS60404"
     },
     {
         "nickname": "theTorDoor",
