@@ -7388,9 +7388,6 @@
     },
     {
         "nickname": "overvpn",
-        "exit_address": [
-            "169.150.201.7"
-        ],
         "asn": "AS49453"
     },
     {
@@ -29159,6 +29156,10 @@
             "192.42.116.117"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS5645"
     },
     {
         "nickname": "ooooFUCKoPUTINoooo",
