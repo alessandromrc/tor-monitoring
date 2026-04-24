@@ -10519,7 +10519,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -26761,7 +26761,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.166",
             "198.167.206.208"
         ],
         "asn": "AS39287"
@@ -28612,10 +28611,9 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV4048",
+        "nickname": "TV6303",
         "exit_address": [
-            "105.69.51.98",
-            "197.147.77.73"
+            "105.69.51.98"
         ],
         "asn": "AS36884"
     },
@@ -28814,6 +28812,9 @@
     },
     {
         "nickname": "KNode2",
+        "exit_address": [
+            "85.137.57.19"
+        ],
         "asn": "AS6698"
     },
     {
@@ -31235,7 +31236,7 @@
         "asn": "AS10961"
     },
     {
-        "nickname": "TV1361",
+        "nickname": "TV5641",
         "asn": "AS22927"
     },
     {
@@ -34308,6 +34309,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS197540"
     },
     {
         "nickname": "bauruine",
