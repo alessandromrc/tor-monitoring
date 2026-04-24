@@ -653,6 +653,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "lttlexit1",
+        "asn": "AS150855"
+    },
+    {
         "nickname": "PrivacyComDeR2",
         "asn": "AS197540"
     },
@@ -4640,6 +4644,10 @@
     {
         "nickname": "Oracle",
         "asn": "AS52048"
+    },
+    {
+        "nickname": "wrelay",
+        "asn": "AS7922"
     },
     {
         "nickname": "casaholiday",
@@ -23829,9 +23837,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "93.113.25.96"
-        ],
         "asn": "AS214209"
     },
     {
@@ -25402,6 +25407,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "soniux1337",
+        "asn": "AS216071"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "38.135.24.212"
@@ -26155,9 +26164,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "93.113.25.96"
-        ],
         "asn": "AS214209"
     },
     {
@@ -28277,10 +28283,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "NadekoNet",
-        "asn": "AS207590"
-    },
-    {
         "nickname": "Ticino",
         "asn": "AS29222"
     },
@@ -28580,7 +28582,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV4416",
+        "nickname": "TV1583",
         "exit_address": [
             "105.69.51.98"
         ],
@@ -31917,9 +31919,6 @@
     },
     {
         "nickname": "nonameRelay",
-        "exit_address": [
-            "82.153.138.184"
-        ],
         "asn": "AS214209"
     },
     {
@@ -35633,9 +35632,6 @@
     },
     {
         "nickname": "torwaresetup",
-        "exit_address": [
-            "82.153.138.143"
-        ],
         "asn": "AS214209"
     },
     {
@@ -36470,9 +36466,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "93.113.25.96"
-        ],
         "asn": "AS214209"
     },
     {
@@ -43653,10 +43646,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "hotthing",
-        "asn": "AS60117"
-    },
-    {
         "nickname": "Pertnineere",
         "asn": "AS26832"
     },
@@ -44210,9 +44199,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "93.113.25.96"
-        ],
         "asn": "AS214209"
     },
     {
