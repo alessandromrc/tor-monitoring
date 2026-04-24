@@ -28175,6 +28175,9 @@
     },
     {
         "nickname": "death",
+        "exit_address": [
+            "93.113.25.109"
+        ],
         "asn": "AS214209"
     },
     {
@@ -28998,6 +29001,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "45.94.31.57"
+        ],
         "asn": "AS210558"
     },
     {
@@ -37798,7 +37804,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV9609",
+        "nickname": "TV1320",
         "asn": "AS7303"
     },
     {
@@ -39342,6 +39348,10 @@
     {
         "nickname": "razek",
         "asn": "AS27651"
+    },
+    {
+        "nickname": "icestorm",
+        "asn": "AS53667"
     },
     {
         "nickname": "zgato",
