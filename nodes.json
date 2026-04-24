@@ -29317,6 +29317,10 @@
         "asn": "AS21499"
     },
     {
+        "nickname": "renrpo26cellrecord",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "194.26.192.46"
@@ -30402,6 +30406,9 @@
     },
     {
         "nickname": "drear",
+        "exit_address": [
+            "45.38.20.213"
+        ],
         "asn": "AS215659"
     },
     {
@@ -53309,10 +53316,6 @@
     {
         "nickname": "turing",
         "asn": "AS6805"
-    },
-    {
-        "nickname": "JumboJimbo",
-        "asn": "AS577"
     },
     {
         "nickname": "forest04",
