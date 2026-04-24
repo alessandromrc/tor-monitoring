@@ -10534,7 +10534,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -23746,6 +23746,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "obsidianrelay",
+        "asn": "AS214209"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "2.58.56.43"
@@ -25941,6 +25945,10 @@
     {
         "nickname": "juicybae",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "defconrelay17",
+        "asn": "AS7922"
     },
     {
         "nickname": "singaporemickey",
@@ -28424,6 +28432,10 @@
         "asn": "AS209604"
     },
     {
+        "nickname": "bonjour",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "TORKeFFORG17",
         "exit_address": [
             "193.189.100.197"
@@ -28625,6 +28637,7 @@
     {
         "nickname": "TV4035",
         "exit_address": [
+            "105.69.51.98",
             "197.147.77.73"
         ],
         "asn": "AS36884"
@@ -37800,7 +37813,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV1320",
+        "nickname": "TV8065",
         "asn": "AS7303"
     },
     {
@@ -38549,10 +38562,6 @@
     {
         "nickname": "pIetr0d1C4rB04711",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "gaytor",
-        "asn": "AS5483"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -40114,6 +40123,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "defconrelay13",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.168"
@@ -40693,6 +40706,10 @@
             "192.42.116.118"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "defconrelay18",
+        "asn": "AS7922"
     },
     {
         "nickname": "b5408b331b13dd",
@@ -43099,10 +43116,6 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "pv3middle1",
-        "asn": "AS12083"
-    },
-    {
         "nickname": "Armik",
         "asn": "AS209693"
     },
@@ -43574,6 +43587,10 @@
     {
         "nickname": "plaincrown",
         "asn": "AS34224"
+    },
+    {
+        "nickname": "defconrelay14",
+        "asn": "AS7922"
     },
     {
         "nickname": "ClimbHigher",
