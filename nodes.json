@@ -3785,6 +3785,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS214209"
     },
     {
@@ -12091,9 +12094,6 @@
     },
     {
         "nickname": "Runaz4",
-        "exit_address": [
-            "185.93.89.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -28623,7 +28623,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV8344",
+        "nickname": "TV4035",
         "exit_address": [
             "197.147.77.73"
         ],
@@ -29886,10 +29886,6 @@
     {
         "nickname": "zubrowka",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "rinzler1",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -40116,10 +40112,6 @@
             "45.84.107.76"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "defconrelay13",
-        "asn": "AS7922"
     },
     {
         "nickname": "Quetzalcoatl",
