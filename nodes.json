@@ -4538,10 +4538,6 @@
         "asn": "AS200019"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS51396"
-    },
-    {
         "nickname": "fumo",
         "exit_address": [
             "45.137.69.13"
@@ -16186,6 +16182,10 @@
         "asn": "AS32167"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS198610"
+    },
+    {
         "nickname": "doraemon",
         "asn": "AS43350"
     },
@@ -16482,10 +16482,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS51396"
-    },
-    {
         "nickname": "OpenAISucks",
         "asn": "AS214503"
     },
@@ -16592,10 +16588,6 @@
     {
         "nickname": "univeralregg1",
         "asn": "AS16019"
-    },
-    {
-        "nickname": "ashP",
-        "asn": "AS396362"
     },
     {
         "nickname": "huenerfauth",
@@ -26733,6 +26725,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.205",
             "198.167.206.208"
         ],
         "asn": "AS39287"
@@ -38921,10 +38914,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS51396"
-    },
-    {
         "nickname": "Kitty",
         "exit_address": [
             "104.244.73.14"
@@ -44177,10 +44166,6 @@
         "asn": "AS49683"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS51396"
-    },
-    {
         "nickname": "GermanCraft24",
         "asn": "AS31103"
     },
@@ -46015,10 +46000,6 @@
             "185.220.101.27"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV1542",
-        "asn": "AS7303"
     },
     {
         "nickname": "rhabarber",
