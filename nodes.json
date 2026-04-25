@@ -23536,6 +23536,9 @@
     },
     {
         "nickname": "TORKeFFORG28",
+        "exit_address": [
+            "193.189.100.195"
+        ],
         "asn": "AS41281"
     },
     {
@@ -23857,10 +23860,6 @@
     {
         "nickname": "lilwayne1",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV5267",
-        "asn": "AS28573"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -26816,6 +26815,10 @@
             "192.42.116.62"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "boerni",
+        "asn": "AS8881"
     },
     {
         "nickname": "5257314966716040",
@@ -41519,7 +41522,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV2156",
+        "nickname": "TV3498",
         "asn": "AS22927"
     },
     {
