@@ -10509,7 +10509,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -36016,6 +36016,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "renrpo26flowrecord",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "45.148.10.217"
@@ -37578,10 +37582,6 @@
     {
         "nickname": "geheimschreiber",
         "asn": "AS2856"
-    },
-    {
-        "nickname": "MyTorRelay",
-        "asn": "AS40663"
     },
     {
         "nickname": "magic848relay",
@@ -41422,10 +41422,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "EsperpentoApanto",
-        "asn": "AS57269"
-    },
-    {
         "nickname": "relayon0162",
         "exit_address": [
             "185.220.101.162"
@@ -42019,6 +42015,10 @@
     {
         "nickname": "remember300baud",
         "asn": "AS27411"
+    },
+    {
+        "nickname": "TV2456",
+        "asn": "AS12389"
     },
     {
         "nickname": "r0cket04i3",
@@ -44690,6 +44690,10 @@
     {
         "nickname": "Urania",
         "asn": "AS16509"
+    },
+    {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
     },
     {
         "nickname": "HelloWorldItsMe",
