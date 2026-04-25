@@ -28724,10 +28724,6 @@
         "asn": "AS209847"
     },
     {
-        "nickname": "1886Woolwich",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "45.83.104.137"
@@ -52159,6 +52155,9 @@
     },
     {
         "nickname": "teap0t",
+        "exit_address": [
+            "83.97.20.77"
+        ],
         "asn": "AS9009"
     },
     {
