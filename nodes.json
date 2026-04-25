@@ -7395,6 +7395,9 @@
     },
     {
         "nickname": "disrupTOR",
+        "exit_address": [
+            "51.158.252.2"
+        ],
         "asn": "AS12876"
     },
     {
@@ -18827,7 +18830,7 @@
     },
     {
         "nickname": "toronada",
-        "asn": "AS3352"
+        "asn": "AS57269"
     },
     {
         "nickname": "algrothendieck2",
@@ -23533,9 +23536,6 @@
     },
     {
         "nickname": "TORKeFFORG28",
-        "exit_address": [
-            "193.189.100.195"
-        ],
         "asn": "AS41281"
     },
     {
@@ -29953,10 +29953,6 @@
             "80.67.167.81"
         ],
         "asn": "AS2027"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS6079"
     },
     {
         "nickname": "pointderupture",
@@ -42380,10 +42376,6 @@
     {
         "nickname": "ss23voyager",
         "asn": "AS56030"
-    },
-    {
-        "nickname": "wampg123",
-        "asn": "AS395173"
     },
     {
         "nickname": "buddy",
