@@ -7473,9 +7473,6 @@
     },
     {
         "nickname": "artikel10buc11",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -23986,6 +23983,9 @@
     },
     {
         "nickname": "eageloven",
+        "exit_address": [
+            "204.137.14.53"
+        ],
         "asn": "AS399820"
     },
     {
@@ -28573,7 +28573,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV7153",
+        "nickname": "TV86",
         "exit_address": [
             "105.69.51.98"
         ],
@@ -31190,7 +31190,7 @@
         "asn": "AS10961"
     },
     {
-        "nickname": "TV5748",
+        "nickname": "TV6220",
         "asn": "AS22927"
     },
     {
@@ -36848,9 +36848,6 @@
     },
     {
         "nickname": "artikel10buc12",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -37019,6 +37016,10 @@
     {
         "nickname": "Killix",
         "asn": "AS56655"
+    },
+    {
+        "nickname": "rpo180flowRecord",
+        "asn": "AS14061"
     },
     {
         "nickname": "prsv",
@@ -37739,7 +37740,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV3937",
+        "nickname": "TV8689",
         "asn": "AS7303"
     },
     {
@@ -38686,9 +38687,6 @@
     },
     {
         "nickname": "artikel10buc08",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -42529,9 +42527,6 @@
     },
     {
         "nickname": "artikel10buc07",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -46588,9 +46583,6 @@
     },
     {
         "nickname": "artikel10buc10",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -48253,9 +48245,6 @@
     },
     {
         "nickname": "artikel10buc09",
-        "exit_address": [
-            "185.100.87.192"
-        ],
         "asn": "AS200651"
     },
     {
@@ -49908,7 +49897,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
