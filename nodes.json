@@ -654,6 +654,9 @@
     },
     {
         "nickname": "lttlexit1",
+        "exit_address": [
+            "103.109.187.71"
+        ],
         "asn": "AS150855"
     },
     {
@@ -20724,10 +20727,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "pbranenettorrelay",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "NTH51R1",
         "asn": "AS215125"
     },
@@ -29359,6 +29358,10 @@
         "asn": "AS12322"
     },
     {
+        "nickname": "TV4458",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "FieTor",
         "asn": "AS3209"
     },
@@ -31927,6 +31930,9 @@
     },
     {
         "nickname": "nonameRelay",
+        "exit_address": [
+            "82.153.138.184"
+        ],
         "asn": "AS214209"
     },
     {
@@ -35640,6 +35646,9 @@
     },
     {
         "nickname": "torwaresetup",
+        "exit_address": [
+            "82.153.138.143"
+        ],
         "asn": "AS214209"
     },
     {
@@ -51902,6 +51911,10 @@
     {
         "nickname": "bowwow",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "HFCRelay",
+        "asn": "AS63949"
     },
     {
         "nickname": "artikel10ber22",
