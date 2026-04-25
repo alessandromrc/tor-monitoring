@@ -6082,6 +6082,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Neko",
+        "asn": "AS209847"
+    },
+    {
         "nickname": "d3xtor",
         "asn": "AS8708"
     },
@@ -7795,7 +7799,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV7690",
+        "nickname": "TV6275",
         "asn": "AS27747"
     },
     {
@@ -11368,6 +11372,10 @@
             "118.163.74.160"
         ],
         "asn": "AS3462"
+    },
+    {
+        "nickname": "MonRelaisTor",
+        "asn": "AS12322"
     },
     {
         "nickname": "MoneroMeansMoney",
@@ -20965,10 +20973,6 @@
         "asn": "AS14868"
     },
     {
-        "nickname": "xotch",
-        "asn": "AS57043"
-    },
-    {
         "nickname": "SCSRelay",
         "exit_address": [
             "78.141.219.102"
@@ -22293,7 +22297,7 @@
     },
     {
         "nickname": "Magma0s0Highway3",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "sirmichaelrocks",
@@ -23316,6 +23320,10 @@
     {
         "nickname": "wale",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Neko",
+        "asn": "AS209847"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -28562,7 +28570,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV5756",
+        "nickname": "TV6831",
         "exit_address": [
             "105.69.51.98"
         ],
@@ -31179,7 +31187,7 @@
         "asn": "AS10961"
     },
     {
-        "nickname": "TV1063",
+        "nickname": "TV5748",
         "asn": "AS22927"
     },
     {
@@ -31914,10 +31922,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS5056"
-    },
-    {
-        "nickname": "sburkaska",
-        "asn": "AS202422"
     },
     {
         "nickname": "MyCore2Tor",
@@ -34287,10 +34291,6 @@
             "185.220.101.106"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Uri",
-        "asn": "AS29222"
     },
     {
         "nickname": "wildbill",
@@ -37736,7 +37736,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV4811",
+        "nickname": "TV3937",
         "asn": "AS7303"
     },
     {
@@ -42017,7 +42017,7 @@
         "asn": "AS27411"
     },
     {
-        "nickname": "TV2456",
+        "nickname": "TV6895",
         "asn": "AS12389"
     },
     {
@@ -45341,10 +45341,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "jmrpExitES0",
-        "asn": "AS57269"
-    },
-    {
         "nickname": "MartinoRelay",
         "asn": "AS16276"
     },
@@ -47631,6 +47627,9 @@
     },
     {
         "nickname": "kfc",
+        "exit_address": [
+            "176.65.148.133"
+        ],
         "asn": "AS51396"
     },
     {
