@@ -2149,10 +2149,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "Neko",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "W0LFF",
         "asn": "AS197540"
     },
@@ -13569,6 +13565,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Susanoo",
+        "asn": "AS209847"
+    },
+    {
         "nickname": "NotYourISP",
         "exit_address": [
             "64.94.85.248"
@@ -13712,6 +13712,10 @@
             "192.42.116.58"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "youtouchmytralala",
+        "asn": "AS5089"
     },
     {
         "nickname": "itpol2",
@@ -16123,7 +16127,7 @@
         "asn": "AS18460"
     },
     {
-        "nickname": "TV6210",
+        "nickname": "TV6092",
         "asn": "AS19429"
     },
     {
@@ -22012,10 +22016,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "Nicenstein",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "dotsrcExit9",
         "exit_address": [
             "185.129.61.9"
@@ -26721,8 +26721,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.205",
-            "198.167.206.208"
+            "198.167.206.205"
         ],
         "asn": "AS39287"
     },
@@ -47382,7 +47381,7 @@
     },
     {
         "nickname": "1510tyTorRelay",
-        "asn": "AS51167"
+        "asn": "AS141995"
     },
     {
         "nickname": "UnshakledJSON",
@@ -51360,6 +51359,10 @@
     {
         "nickname": "theprivacyhaven",
         "asn": "AS21409"
+    },
+    {
+        "nickname": "M1K3Y",
+        "asn": "AS202870"
     },
     {
         "nickname": "prsv",
