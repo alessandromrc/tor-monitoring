@@ -10444,7 +10444,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -14542,6 +14542,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "Kllx",
+        "asn": "AS26383"
+    },
+    {
         "nickname": "dotsrcExit10",
         "exit_address": [
             "185.129.61.10"
@@ -14971,6 +14975,10 @@
     {
         "nickname": "BumbleSucks",
         "asn": "AS214503"
+    },
+    {
+        "nickname": "OVPodRelay",
+        "asn": "AS803"
     },
     {
         "nickname": "NTH100R5",
@@ -18592,6 +18600,10 @@
     {
         "nickname": "londonboy",
         "asn": "AS206134"
+    },
+    {
+        "nickname": "Kllx",
+        "asn": "AS26383"
     },
     {
         "nickname": "NTH110R3",
@@ -28468,7 +28480,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV6570",
+        "nickname": "TV683",
         "exit_address": [
             "105.69.51.98",
             "197.147.76.89"
@@ -29690,6 +29702,10 @@
             "45.134.225.36"
         ],
         "asn": "AS213438"
+    },
+    {
+        "nickname": "MyLatviaRelay",
+        "asn": "AS20910"
     },
     {
         "nickname": "lightblue",
@@ -33365,10 +33381,6 @@
             "203.55.81.1"
         ],
         "asn": "AS213873"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS197540"
     },
     {
         "nickname": "DFRI88",
@@ -51486,6 +51498,10 @@
     {
         "nickname": "profi",
         "asn": "AS214798"
+    },
+    {
+        "nickname": "Starsend",
+        "asn": "AS13037"
     },
     {
         "nickname": "Quetzalcoatl",
