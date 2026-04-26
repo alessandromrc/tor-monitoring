@@ -58,6 +58,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.33"
+        ],
         "asn": "AS60729"
     },
     {
@@ -3885,6 +3888,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.42"
+        ],
         "asn": "AS60729"
     },
     {
@@ -6877,6 +6883,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.41"
+        ],
         "asn": "AS60729"
     },
     {
@@ -7893,6 +7902,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.36"
+        ],
         "asn": "AS60729"
     },
     {
@@ -9772,6 +9784,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.32"
+        ],
         "asn": "AS60729"
     },
     {
@@ -17588,6 +17603,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.37"
+        ],
         "asn": "AS60729"
     },
     {
@@ -19115,6 +19133,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.34"
+        ],
         "asn": "AS60729"
     },
     {
@@ -21568,6 +21589,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.32"
+        ],
         "asn": "AS60729"
     },
     {
@@ -24774,6 +24798,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.40"
+        ],
         "asn": "AS60729"
     },
     {
@@ -25363,6 +25390,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.39"
+        ],
         "asn": "AS60729"
     },
     {
@@ -25988,6 +26018,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Mojyo",
+        "asn": "AS20766"
     },
     {
         "nickname": "Sachya",
@@ -28039,6 +28073,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.37"
+        ],
         "asn": "AS60729"
     },
     {
@@ -31251,9 +31288,6 @@
     },
     {
         "nickname": "Purple",
-        "exit_address": [
-            "103.91.65.44"
-        ],
         "asn": "AS55720"
     },
     {
@@ -32105,6 +32139,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.35"
+        ],
         "asn": "AS60729"
     },
     {
@@ -36300,6 +36337,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.35"
+        ],
         "asn": "AS60729"
     },
     {
@@ -39590,6 +39630,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.34"
+        ],
         "asn": "AS60729"
     },
     {
@@ -40489,6 +40532,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.36"
+        ],
         "asn": "AS60729"
     },
     {
@@ -44927,6 +44973,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.38"
+        ],
         "asn": "AS60729"
     },
     {
@@ -45817,10 +45866,6 @@
     {
         "nickname": "tr31",
         "asn": "AS200303"
-    },
-    {
-        "nickname": "OrrinRelayHetzner2",
-        "asn": "AS212477"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -47616,6 +47661,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.33"
+        ],
         "asn": "AS60729"
     },
     {
@@ -49707,7 +49755,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -51045,6 +51093,10 @@
     {
         "nickname": "Polar72951",
         "asn": "AS36007"
+    },
+    {
+        "nickname": "TV1215",
+        "asn": "AS9506"
     },
     {
         "nickname": "flokinet2n1",
@@ -52500,6 +52552,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.39"
+        ],
         "asn": "AS60729"
     },
     {
@@ -53183,6 +53238,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "185.220.101.38"
+        ],
         "asn": "AS60729"
     },
     {
