@@ -10477,7 +10477,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI02EXIT",
+        "nickname": "FEVI10",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13073,6 +13073,10 @@
     {
         "nickname": "pharrellwilliams",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS200651"
     },
     {
         "nickname": "Jersey",
@@ -17974,10 +17978,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "ThinkPenguin",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "TorNode07dot2",
         "asn": "AS8560"
     },
@@ -21446,10 +21446,6 @@
         "asn": "AS199654"
     },
     {
-        "nickname": "YuXingLi",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "duata",
         "asn": "AS20115"
     },
@@ -23810,10 +23806,6 @@
         "asn": "AS6939"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "ieditheconfigmuch",
         "asn": "AS3209"
     },
@@ -25083,10 +25075,6 @@
     {
         "nickname": "sonnydigital",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "AwsFreeBsd",
-        "asn": "AS16509"
     },
     {
         "nickname": "JohnTheFisherman",
@@ -27192,10 +27180,6 @@
     {
         "nickname": "torbogen51",
         "asn": "AS9145"
-    },
-    {
-        "nickname": "coolNiggaExit",
-        "asn": "AS215659"
     },
     {
         "nickname": "koolkeith",
@@ -32922,10 +32906,6 @@
             "185.241.208.234"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "dragonDrakonRelay",
-        "asn": "AS20845"
     },
     {
         "nickname": "UnredactedAlderson",
@@ -39791,6 +39771,10 @@
         "asn": "AS3"
     },
     {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "Dagobah",
         "asn": "AS9009"
     },
@@ -42490,10 +42474,6 @@
     {
         "nickname": "renrpo26",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
     },
     {
         "nickname": "PapaJohns",
@@ -52423,10 +52403,6 @@
     {
         "nickname": "bishoplamont",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
     },
     {
         "nickname": "Quetzalcoatl",
