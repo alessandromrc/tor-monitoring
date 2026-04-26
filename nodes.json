@@ -9511,6 +9511,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "bitcoinonly21m",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.11.111"
@@ -10448,7 +10452,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -13237,6 +13241,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -14791,10 +14798,6 @@
     {
         "nickname": "server13r1",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "LastDragonRelay",
-        "asn": "AS8151"
     },
     {
         "nickname": "hellowebtun2",
@@ -18233,6 +18236,10 @@
     {
         "nickname": "StreamsofLifeSpa",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "PlanckConstant",
+        "asn": "AS24940"
     },
     {
         "nickname": "dotsrcExit4",
@@ -28494,7 +28501,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV683",
+        "nickname": "TV5727",
         "exit_address": [
             "197.147.76.89"
         ],
@@ -38571,6 +38578,10 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "SussyWussy",
+        "asn": "AS12400"
+    },
+    {
         "nickname": "NTH106R7",
         "exit_address": [
             "192.42.116.106"
@@ -40517,6 +40528,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -47344,6 +47358,10 @@
         "asn": "AS13428"
     },
     {
+        "nickname": "zombidevasus",
+        "asn": "AS8708"
+    },
+    {
         "nickname": "nobutaka",
         "exit_address": [
             "91.208.75.156"
@@ -51404,6 +51422,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
