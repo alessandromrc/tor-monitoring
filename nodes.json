@@ -932,9 +932,6 @@
     },
     {
         "nickname": "ultraboy",
-        "exit_address": [
-            "87.121.79.219"
-        ],
         "asn": "AS199428"
     },
     {
@@ -6723,6 +6720,10 @@
         "asn": "AS215365"
     },
     {
+        "nickname": "GenuineCyanKerios",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "megantheestallion1",
         "asn": "AS36849"
     },
@@ -10423,9 +10424,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.138.16.230"
-        ],
         "asn": "AS210558"
     },
     {
@@ -12122,6 +12120,10 @@
     {
         "nickname": "Kllx",
         "asn": "AS26383"
+    },
+    {
+        "nickname": "UberNifty",
+        "asn": "AS3292"
     },
     {
         "nickname": "65panhead",
@@ -20800,6 +20802,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "TV3019",
+        "asn": "AS50581"
+    },
+    {
         "nickname": "folieadeux",
         "asn": "AS7018"
     },
@@ -22123,7 +22129,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "MKIndiaMiddleRelay",
+        "nickname": "MK7Ind",
         "asn": "AS8075"
     },
     {
@@ -24592,9 +24598,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.138.16.230"
-        ],
         "asn": "AS210558"
     },
     {
@@ -26635,7 +26638,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.176"
+            "198.167.206.176",
+            "198.167.206.229"
         ],
         "asn": "AS39287"
     },
@@ -28029,6 +28033,9 @@
     },
     {
         "nickname": "death",
+        "exit_address": [
+            "93.113.25.109"
+        ],
         "asn": "AS214209"
     },
     {
@@ -30831,10 +30838,6 @@
             "124.198.132.98"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "PP7CV19",
-        "asn": "AS210083"
     },
     {
         "nickname": "Unnamed",
@@ -35385,9 +35388,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.138.16.230"
-        ],
         "asn": "AS210558"
     },
     {
@@ -36665,10 +36665,6 @@
     {
         "nickname": "rivon",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "eckestorrelay",
-        "asn": "AS3301"
     },
     {
         "nickname": "PRQseTORexit5",
@@ -53022,6 +53018,10 @@
             "178.175.148.155"
         ],
         "asn": "AS43289"
+    },
+    {
+        "nickname": "juliansTorNode",
+        "asn": "AS3320"
     },
     {
         "nickname": "speedybits",
