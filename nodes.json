@@ -2237,9 +2237,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -4591,9 +4588,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -7926,10 +7920,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Entry6712",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "GermanCraft17",
         "asn": "AS8560"
     },
@@ -8198,9 +8188,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9168,9 +9155,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -10150,9 +10134,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -20262,6 +20243,9 @@
     },
     {
         "nickname": "SkaffaExit",
+        "exit_address": [
+            "66.78.40.91"
+        ],
         "asn": "AS215659"
     },
     {
@@ -27646,6 +27630,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "GeminiRelay",
+        "asn": "AS5650"
+    },
+    {
         "nickname": "askatasuna64",
         "exit_address": [
             "51.158.151.177"
@@ -28444,9 +28432,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -28509,7 +28494,7 @@
         "asn": "AS7684"
     },
     {
-        "nickname": "TV5727",
+        "nickname": "TV2854",
         "exit_address": [
             "105.69.52.15",
             "197.147.76.89"
@@ -29045,7 +29030,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "tor",
+        "nickname": "segv",
         "asn": "AS14061"
     },
     {
@@ -44940,9 +44925,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -46186,9 +46168,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
