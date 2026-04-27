@@ -5994,6 +5994,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "82.153.138.57"
+        ],
         "asn": "AS214209"
     },
     {
@@ -15121,9 +15124,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -15912,9 +15912,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -19618,9 +19615,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -19888,9 +19882,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -21251,6 +21242,10 @@
     {
         "nickname": "who",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TorLays",
+        "asn": "AS399629"
     },
     {
         "nickname": "prsv",
@@ -28069,9 +28064,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -28665,10 +28657,6 @@
     {
         "nickname": "compuBiloutte",
         "asn": "AS9031"
-    },
-    {
-        "nickname": "TV1018",
-        "asn": "AS28111"
     },
     {
         "nickname": "fatboy",
@@ -33490,10 +33478,6 @@
         "asn": "AS270013"
     },
     {
-        "nickname": "TV1826",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "WOTNoob",
         "asn": "AS24940"
     },
@@ -34866,9 +34850,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -39841,6 +39822,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "ncbanerelay",
         "asn": "AS197540"
     },
@@ -42695,9 +42680,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -49733,10 +49715,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "anonymous",
-        "asn": "AS8473"
-    },
-    {
         "nickname": "FirstAmendment",
         "asn": "AS5650"
     },
@@ -49974,9 +49952,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
