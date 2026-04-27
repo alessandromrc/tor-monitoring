@@ -4193,6 +4193,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "PiGuardBX",
+        "asn": "AS701"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "193.26.115.123"
@@ -10691,6 +10695,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "82.153.138.57"
+        ],
         "asn": "AS214209"
     },
     {
@@ -22610,6 +22617,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "82.153.138.57"
+        ],
         "asn": "AS214209"
     },
     {
@@ -33537,6 +33547,10 @@
         "asn": "AS199950"
     },
     {
+        "nickname": "TV9102",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "hitmayne",
         "asn": "AS36849"
     },
@@ -35128,6 +35142,9 @@
     },
     {
         "nickname": "taxevader",
+        "exit_address": [
+            "45.141.119.248"
+        ],
         "asn": "AS211507"
     },
     {
@@ -52439,6 +52456,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "82.153.138.57"
+        ],
         "asn": "AS214209"
     },
     {
