@@ -10439,7 +10439,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI01EXIT",
+        "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -18508,10 +18508,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "DebianElena",
-        "asn": "AS57269"
-    },
-    {
         "nickname": "Digitalcourage4ipba",
         "exit_address": [
             "185.220.101.97"
@@ -22378,6 +22374,10 @@
     {
         "nickname": "BlueGene",
         "asn": "AS3292"
+    },
+    {
+        "nickname": "LauchYT",
+        "asn": "AS24940"
     },
     {
         "nickname": "token",
@@ -45233,7 +45233,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
