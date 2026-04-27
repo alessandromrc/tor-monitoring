@@ -8112,10 +8112,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "PandaHideout",
-        "asn": "AS213605"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "2.58.56.92"
@@ -10790,9 +10786,6 @@
     },
     {
         "nickname": "softmouse",
-        "exit_address": [
-            "46.165.194.56"
-        ],
         "asn": "AS28753"
     },
     {
@@ -26794,7 +26787,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV253",
+        "nickname": "TV265",
         "asn": "AS28048"
     },
     {
@@ -35132,6 +35125,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "taxevader",
+        "asn": "AS211507"
     },
     {
         "nickname": "Weeblelikesanon",
