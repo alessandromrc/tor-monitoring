@@ -11277,9 +11277,6 @@
     },
     {
         "nickname": "TorNode",
-        "exit_address": [
-            "162.0.223.223"
-        ],
         "asn": "AS22612"
     },
     {
@@ -13577,10 +13574,6 @@
     {
         "nickname": "kanemeadminmanmu",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "yourenemy",
-        "asn": "AS200651"
     },
     {
         "nickname": "Silesia",
@@ -45645,6 +45638,10 @@
     {
         "nickname": "wokwaixtor",
         "asn": "AS4764"
+    },
+    {
+        "nickname": "StadisRelay",
+        "asn": "AS197524"
     },
     {
         "nickname": "NTH116R3",
