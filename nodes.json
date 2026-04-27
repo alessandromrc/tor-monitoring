@@ -10439,7 +10439,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "FEVI10",
+        "nickname": "FEVI01EXIT",
         "exit_address": [
             "23.134.88.60",
             "23.134.88.61"
@@ -32198,9 +32198,6 @@
     },
     {
         "nickname": "CastSecurity",
-        "exit_address": [
-            "43.228.157.121"
-        ],
         "asn": "AS205759"
     },
     {
@@ -33659,10 +33656,6 @@
     {
         "nickname": "mnylera",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "sipededi1",
-        "asn": "AS36352"
     },
     {
         "nickname": "NTH105R3",
@@ -48977,7 +48970,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV8751",
+        "nickname": "TV4204",
         "asn": "AS7122"
     },
     {
@@ -49732,7 +49725,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
