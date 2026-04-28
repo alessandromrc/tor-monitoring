@@ -7406,6 +7406,9 @@
     },
     {
         "nickname": "artikel10buc11",
+        "exit_address": [
+            "185.100.87.192"
+        ],
         "asn": "AS200651"
     },
     {
@@ -16142,6 +16145,10 @@
     {
         "nickname": "Hermodr",
         "asn": "AS3303"
+    },
+    {
+        "nickname": "Vexon",
+        "asn": "AS29802"
     },
     {
         "nickname": "FreeToBuild",
