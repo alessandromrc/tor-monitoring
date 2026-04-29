@@ -5486,7 +5486,7 @@
     },
     {
         "nickname": "ididnteditheconfig",
-        "asn": "AS51396"
+        "asn": "AS214639"
     },
     {
         "nickname": "c0wb0y",
@@ -12504,10 +12504,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4110",
-        "asn": "AS6181"
-    },
-    {
         "nickname": "Tiny",
         "asn": "AS56322"
     },
@@ -13524,10 +13520,6 @@
     {
         "nickname": "PresidentXi",
         "asn": "AS211619"
-    },
-    {
-        "nickname": "hadesRelay",
-        "asn": "AS8560"
     },
     {
         "nickname": "prsv",
@@ -26569,6 +26561,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.130",
             "198.167.206.180"
         ],
         "asn": "AS39287"
@@ -49685,7 +49678,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
