@@ -7923,6 +7923,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -11982,10 +11985,6 @@
     {
         "nickname": "TykRelay02",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "OnionExpressDE",
-        "asn": "AS214036"
     },
     {
         "nickname": "AnonsRelay",
@@ -30207,6 +30206,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "TV5768",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "Luzern",
         "asn": "AS29222"
     },
@@ -34880,10 +34883,6 @@
     {
         "nickname": "NTH301R4",
         "asn": "AS206238"
-    },
-    {
-        "nickname": "TV3775",
-        "asn": "AS27747"
     },
     {
         "nickname": "ShinobiTora",
