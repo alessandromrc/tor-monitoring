@@ -5454,10 +5454,6 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "SignalMask",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "nosferatu",
         "asn": "AS31898"
     },
@@ -5964,10 +5960,6 @@
         "asn": "AS47890"
     },
     {
-        "nickname": "kisij",
-        "asn": "AS57043"
-    },
-    {
         "nickname": "FreedomFries2",
         "asn": "AS24940"
     },
@@ -6043,6 +6035,10 @@
     {
         "nickname": "leblitzdick",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS200651"
     },
     {
         "nickname": "lemon01",
@@ -11281,6 +11277,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "MiddleRelay1",
+        "asn": "AS136052"
+    },
+    {
         "nickname": "privy14you",
         "asn": "AS13213"
     },
@@ -15585,9 +15585,6 @@
     },
     {
         "nickname": "Nedjem",
-        "exit_address": [
-            "196.196.200.100"
-        ],
         "asn": "AS41564"
     },
     {
@@ -21310,6 +21307,10 @@
     {
         "nickname": "TorRelayCAN",
         "asn": "AS5769"
+    },
+    {
+        "nickname": "MiddleRelay3",
+        "asn": "AS136052"
     },
     {
         "nickname": "Schnurpselpeter",
@@ -39343,9 +39344,6 @@
     },
     {
         "nickname": "forest08",
-        "exit_address": [
-            "176.65.134.8"
-        ],
         "asn": "AS36680"
     },
     {
@@ -40366,10 +40364,6 @@
     {
         "nickname": "UnshakledHydra",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Hallon",
-        "asn": "AS3301"
     },
     {
         "nickname": "eo200",
@@ -46381,6 +46375,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Zer0n",
+        "asn": "AS200088"
+    },
+    {
         "nickname": "artikel10buc10",
         "exit_address": [
             "185.100.87.192"
@@ -49014,10 +49012,6 @@
         "asn": "AS35592"
     },
     {
-        "nickname": "IceConnectTree",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "rickrolltroll",
         "asn": "AS42927"
     },
@@ -49669,7 +49663,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -52934,6 +52928,10 @@
             "185.220.101.25"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "MiddleRelay2",
+        "asn": "AS136052"
     },
     {
         "nickname": "turing",
