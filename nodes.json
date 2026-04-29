@@ -22136,10 +22136,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "HappyToServeYou07",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "TORstenExit03",
         "exit_address": [
             "45.133.74.53"
@@ -24935,6 +24931,9 @@
     },
     {
         "nickname": "CasjaysDevExit",
+        "exit_address": [
+            "82.29.128.145"
+        ],
         "asn": "AS142036"
     },
     {
@@ -49285,10 +49284,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "BlueGene",
-        "asn": "AS3292"
-    },
-    {
         "nickname": "relayon0147",
         "exit_address": [
             "185.220.101.147"
@@ -49623,7 +49618,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
