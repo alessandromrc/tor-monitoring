@@ -15555,7 +15555,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS212238"
+        "asn": "AS174"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -31721,10 +31721,6 @@
         "asn": "AS48314"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS5056"
-    },
-    {
         "nickname": "MyCore2Tor",
         "asn": "AS398242"
     },
@@ -36679,7 +36675,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV3690",
+        "nickname": "TV5563",
         "asn": "AS31272"
     },
     {
@@ -41610,7 +41606,7 @@
         "asn": "AS206075"
     },
     {
-        "nickname": "TV4024",
+        "nickname": "TV5891",
         "asn": "AS25472"
     },
     {
@@ -46257,9 +46253,6 @@
     },
     {
         "nickname": "GLOAydrg87",
-        "exit_address": [
-            "203.12.31.99"
-        ],
         "asn": "AS210083"
     },
     {
@@ -49341,7 +49334,8 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
-            "144.31.60.240"
+            "144.31.60.240",
+            "5.101.87.176"
         ],
         "asn": "AS26383"
     },
@@ -49691,7 +49685,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -53288,6 +53282,10 @@
     {
         "nickname": "Groseille",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "tachikoma",
+        "asn": "AS5089"
     },
     {
         "nickname": "anarchosyndical7",
