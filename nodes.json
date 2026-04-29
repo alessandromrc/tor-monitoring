@@ -7943,10 +7943,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "torhaj",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "dark",
         "asn": "AS199428"
     },
@@ -19862,10 +19858,6 @@
     {
         "nickname": "WOPR1",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "torbox",
-        "asn": "AS5378"
     },
     {
         "nickname": "coldhart",
@@ -35967,6 +35959,9 @@
     },
     {
         "nickname": "secretpassage2",
+        "exit_address": [
+            "171.25.158.50"
+        ],
         "asn": "AS35100"
     },
     {
@@ -41211,6 +41206,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "EsperpentoApanto",
+        "asn": "AS57269"
+    },
+    {
         "nickname": "relayon0162",
         "exit_address": [
             "185.220.101.162"
@@ -45835,6 +45834,10 @@
             "192.159.99.27"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "DexterMcKormik",
+        "asn": "AS197540"
     },
     {
         "nickname": "ForDemocracy7",
@@ -50908,6 +50911,10 @@
     {
         "nickname": "andrewhack",
         "asn": "AS8717"
+    },
+    {
+        "nickname": "DexterMcKormik",
+        "asn": "AS197540"
     },
     {
         "nickname": "TorZoner",
