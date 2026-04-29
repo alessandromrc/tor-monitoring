@@ -12028,10 +12028,6 @@
         "asn": "AS200303"
     },
     {
-        "nickname": "butterOverflow",
-        "asn": "AS64073"
-    },
-    {
         "nickname": "server8r3",
         "asn": "AS213230"
     },
@@ -18692,6 +18688,9 @@
     },
     {
         "nickname": "RICHIdjsfg",
+        "exit_address": [
+            "203.12.31.99"
+        ],
         "asn": "AS210083"
     },
     {
@@ -20084,6 +20083,10 @@
     {
         "nickname": "trustytorplace",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "superMechaRelay",
+        "asn": "AS31898"
     },
     {
         "nickname": "t00r",
@@ -27414,7 +27417,7 @@
         "asn": "AS199950"
     },
     {
-        "nickname": "mountaneer",
+        "nickname": "foucellas",
         "asn": "AS3352"
     },
     {
@@ -29240,6 +29243,10 @@
     {
         "nickname": "h7f35",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "bugi82relay",
+        "asn": "AS12491"
     },
     {
         "nickname": "bauruine",
@@ -49662,7 +49669,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
