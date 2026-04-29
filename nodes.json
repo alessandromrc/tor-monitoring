@@ -10421,9 +10421,6 @@
     },
     {
         "nickname": "FEVI10",
-        "exit_address": [
-            "23.134.88.60"
-        ],
         "asn": "AS924"
     },
     {
@@ -17391,6 +17388,10 @@
     {
         "nickname": "server14r3",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "MegaFrankfurt64",
+        "asn": "AS215439"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -25046,9 +25047,6 @@
     },
     {
         "nickname": "ERMA87609cc",
-        "exit_address": [
-            "202.181.177.126"
-        ],
         "asn": "AS210083"
     },
     {
@@ -26571,8 +26569,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.180",
-            "198.167.206.242"
+            "198.167.206.180"
         ],
         "asn": "AS39287"
     },
@@ -27741,6 +27738,10 @@
     {
         "nickname": "TwiddlyBits",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "TorScale",
+        "asn": "AS6697"
     },
     {
         "nickname": "Digitalcourage4ipcb",
@@ -30169,9 +30170,6 @@
     },
     {
         "nickname": "drear",
-        "exit_address": [
-            "45.38.20.213"
-        ],
         "asn": "AS215659"
     },
     {
@@ -42919,6 +42917,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "bubblegum",
+        "asn": "AS34702"
+    },
+    {
         "nickname": "forest27",
         "asn": "AS214677"
     },
@@ -43642,6 +43644,10 @@
     {
         "nickname": "Desert19",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "TorScale",
+        "asn": "AS6697"
     },
     {
         "nickname": "TV7879",
