@@ -5237,6 +5237,9 @@
     },
     {
         "nickname": "SkyyRelay1",
+        "exit_address": [
+            "45.90.98.8"
+        ],
         "asn": "AS58087"
     },
     {
@@ -6581,7 +6584,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS212238"
+        "asn": "AS174"
     },
     {
         "nickname": "nobuhide",
@@ -15528,7 +15531,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17869,9 +17872,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "121.127.34.125"
-        ],
         "asn": "AS400587"
     },
     {
@@ -26231,9 +26231,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "121.127.34.125"
-        ],
         "asn": "AS400587"
     },
     {
@@ -28345,10 +28342,6 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "Tor4xahfaogu",
-        "asn": "AS57269"
-    },
-    {
         "nickname": "delfininterior",
         "asn": "AS12479"
     },
@@ -29924,9 +29917,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "121.127.34.125"
-        ],
         "asn": "AS400587"
     },
     {
@@ -30826,9 +30816,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "121.127.34.125"
-        ],
         "asn": "AS400587"
     },
     {
@@ -41551,7 +41538,7 @@
         "asn": "AS206075"
     },
     {
-        "nickname": "TV4712",
+        "nickname": "TV4054",
         "asn": "AS25472"
     },
     {
@@ -49628,7 +49615,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
