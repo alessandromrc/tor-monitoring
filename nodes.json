@@ -2974,6 +2974,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "phantom0084",
+        "asn": "AS215311"
+    },
+    {
         "nickname": "2mpe4b",
         "exit_address": [
             "107.189.5.249"
@@ -5236,7 +5240,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "SkyyRelay1",
+        "nickname": "RyzenAndShine",
         "asn": "AS58087"
     },
     {
@@ -5595,10 +5599,6 @@
     {
         "nickname": "Assange013us4",
         "asn": "AS40244"
-    },
-    {
-        "nickname": "NLRelay01",
-        "asn": "AS211619"
     },
     {
         "nickname": "Millerntor",
@@ -12075,6 +12075,9 @@
     },
     {
         "nickname": "YourDataMyProblem",
+        "exit_address": [
+            "45.131.64.118"
+        ],
         "asn": "AS58087"
     },
     {
@@ -14839,9 +14842,6 @@
     },
     {
         "nickname": "adjammy",
-        "exit_address": [
-            "209.99.189.200"
-        ],
         "asn": "AS402253"
     },
     {
@@ -27411,6 +27411,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "default",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "tigris",
         "asn": "AS19437"
     },
@@ -37373,6 +37377,9 @@
     },
     {
         "nickname": "delusional",
+        "exit_address": [
+            "45.135.193.117"
+        ],
         "asn": "AS51396"
     },
     {
@@ -49279,7 +49286,6 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
-            "144.31.60.240",
             "5.101.87.176"
         ],
         "asn": "AS26383"
