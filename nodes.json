@@ -9372,6 +9372,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "5.101.87.176"
+        ],
         "asn": "AS26383"
     },
     {
@@ -11965,6 +11968,10 @@
             "185.241.208.71"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Runaz4",
+        "asn": "AS213790"
     },
     {
         "nickname": "bender",
@@ -25472,10 +25479,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TorKnob",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "KingShadow3",
         "exit_address": [
             "104.167.242.118"
@@ -27589,6 +27592,10 @@
     {
         "nickname": "pluto",
         "asn": "AS43513"
+    },
+    {
+        "nickname": "Montelibero",
+        "asn": "AS24940"
     },
     {
         "nickname": "zgato",
@@ -44166,10 +44173,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "nlson01",
-        "asn": "AS215365"
-    },
-    {
         "nickname": "OnoinOnME",
         "asn": "AS16904"
     },
@@ -49607,7 +49610,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -50411,7 +50414,7 @@
         "asn": "AS8881"
     },
     {
-        "nickname": "Dentist",
+        "nickname": "DentistBr",
         "asn": "AS13036"
     },
     {
