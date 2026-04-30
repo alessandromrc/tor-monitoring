@@ -11689,10 +11689,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4153",
-        "asn": "AS42961"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS8400"
     },
@@ -11967,6 +11963,9 @@
     },
     {
         "nickname": "Runaz4",
+        "exit_address": [
+            "185.93.89.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -19627,7 +19626,7 @@
     },
     {
         "nickname": "Jason",
-        "asn": "AS17552"
+        "asn": "AS23969"
     },
     {
         "nickname": "EtaIsNext",
@@ -21744,6 +21743,10 @@
     {
         "nickname": "relayon1149",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "salentrakain",
+        "asn": "AS1257"
     },
     {
         "nickname": "zgato",
@@ -34649,10 +34652,6 @@
     {
         "nickname": "jcstamos",
         "asn": "AS16019"
-    },
-    {
-        "nickname": "vpnhub1",
-        "asn": "AS24940"
     },
     {
         "nickname": "Unnamed",
@@ -49189,10 +49188,6 @@
         "asn": "AS30836"
     },
     {
-        "nickname": "rapscal",
-        "asn": "AS202053"
-    },
-    {
         "nickname": "tritium1",
         "asn": "AS200651"
     },
@@ -49259,9 +49254,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "5.101.87.176"
-        ],
         "asn": "AS26383"
     },
     {
@@ -49614,7 +49606,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
