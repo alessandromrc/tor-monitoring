@@ -89,8 +89,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -1969,10 +1968,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "hye",
-        "asn": "AS33993"
     },
     {
         "nickname": "DFRI123",
@@ -6673,8 +6668,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -6913,8 +6907,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -14248,10 +14241,6 @@
     {
         "nickname": "bruhNode123",
         "asn": "AS5378"
-    },
-    {
-        "nickname": "TV9029",
-        "asn": "AS28573"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -25134,8 +25123,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -25471,6 +25459,9 @@
     },
     {
         "nickname": "SoftKitty",
+        "exit_address": [
+            "176.58.89.182"
+        ],
         "asn": "AS36236"
     },
     {
@@ -30799,8 +30790,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -36002,8 +35992,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "124.198.131.119",
-            "193.26.115.140"
+            "124.198.131.119"
         ],
         "asn": "AS210558"
     },
@@ -43319,6 +43308,9 @@
     },
     {
         "nickname": "BringBackSilkRo",
+        "exit_address": [
+            "141.98.11.62"
+        ],
         "asn": "AS209605"
     },
     {
