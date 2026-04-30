@@ -2439,6 +2439,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "144.31.60.240"
+        ],
         "asn": "AS26383"
     },
     {
@@ -11581,6 +11584,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "ZARAv8475",
+        "asn": "AS210083"
+    },
+    {
         "nickname": "ToRussiaWithTruth",
         "asn": "AS12876"
     },
@@ -11980,10 +11987,6 @@
     {
         "nickname": "ShinobiOkami",
         "asn": "AS44382"
-    },
-    {
-        "nickname": "DFtor01",
-        "asn": "AS2856"
     },
     {
         "nickname": "immortal",
@@ -14869,9 +14872,6 @@
     },
     {
         "nickname": "BulgarianBronkA2",
-        "exit_address": [
-            "45.9.156.106"
-        ],
         "asn": "AS211619"
     },
     {
