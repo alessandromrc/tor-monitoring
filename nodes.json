@@ -7276,10 +7276,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "overvpn",
-        "asn": "AS49453"
-    },
-    {
         "nickname": "CSTLLNODE3",
         "exit_address": [
             "23.137.253.125"
@@ -25250,6 +25246,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "HugeTransFemNerd",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "tor102",
         "asn": "AS214366"
     },
@@ -28064,6 +28064,10 @@
     {
         "nickname": "TrinityXMR",
         "asn": "AS210558"
+    },
+    {
+        "nickname": "NadekoNet",
+        "asn": "AS207590"
     },
     {
         "nickname": "Ticino",
@@ -38985,7 +38989,7 @@
         "asn": "AS27651"
     },
     {
-        "nickname": "icestorm",
+        "nickname": "RestoreEU",
         "exit_address": [
             "107.189.6.232"
         ],
@@ -50414,7 +50418,7 @@
         "asn": "AS8881"
     },
     {
-        "nickname": "DentistBr",
+        "nickname": "Dentist",
         "asn": "AS13036"
     },
     {
