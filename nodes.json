@@ -4975,6 +4975,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "TV4412",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "zgato",
         "asn": "AS48753"
     },
@@ -11585,6 +11589,9 @@
     },
     {
         "nickname": "ZARAv8475",
+        "exit_address": [
+            "121.127.33.253"
+        ],
         "asn": "AS210083"
     },
     {
@@ -18647,9 +18654,6 @@
     },
     {
         "nickname": "RICHIdjsfg",
-        "exit_address": [
-            "203.12.31.99"
-        ],
         "asn": "AS210083"
     },
     {
@@ -24244,10 +24248,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "GOLDcryptoXMR",
-        "asn": "AS215362"
-    },
-    {
         "nickname": "gergernet2",
         "asn": "AS43150"
     },
@@ -26521,8 +26521,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.130",
-            "198.167.206.180"
+            "198.167.206.130"
         ],
         "asn": "AS39287"
     },
@@ -43615,10 +43614,6 @@
         "asn": "AS6697"
     },
     {
-        "nickname": "TV7879",
-        "asn": "AS701"
-    },
-    {
         "nickname": "marleybone3a",
         "asn": "AS20473"
     },
@@ -44599,10 +44594,6 @@
     {
         "nickname": "slarty2",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "CloudyNode",
-        "asn": "AS1136"
     },
     {
         "nickname": "NTH59R2",
@@ -49643,7 +49634,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
