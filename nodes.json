@@ -269,10 +269,6 @@
         "asn": "AS5650"
     },
     {
-        "nickname": "ande",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "tried",
         "asn": "AS29802"
     },
@@ -9844,6 +9840,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "RonvauRelay",
+        "asn": "AS701"
+    },
+    {
         "nickname": "atrisqueladay",
         "asn": "AS6192"
     },
@@ -13699,10 +13699,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "ClubKornelius",
-        "asn": "AS6739"
-    },
-    {
         "nickname": "Serenity060874e7",
         "asn": "AS29802"
     },
@@ -14003,10 +13999,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "LHiroshima",
-        "asn": "AS10013"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.108"
@@ -14100,6 +14092,10 @@
             "185.129.61.6"
         ],
         "asn": "AS210731"
+    },
+    {
+        "nickname": "TV4013",
+        "asn": "AS803"
     },
     {
         "nickname": "NTH19R4",
@@ -25478,6 +25474,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "SoftKitty",
+        "asn": "AS36236"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -30179,6 +30179,9 @@
     },
     {
         "nickname": "drear",
+        "exit_address": [
+            "45.38.20.213"
+        ],
         "asn": "AS215659"
     },
     {
@@ -43323,6 +43326,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "BringBackSilkRo",
+        "asn": "AS209605"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.57"
@@ -49710,7 +49717,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -52035,10 +52042,6 @@
     {
         "nickname": "server8r2",
         "asn": "AS213230"
-    },
-    {
-        "nickname": "sugarman",
-        "asn": "AS20473"
     },
     {
         "nickname": "Unnamed",
