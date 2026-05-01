@@ -1360,6 +1360,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Zuko2",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "morchel",
         "exit_address": [
             "109.70.100.5"
@@ -3317,6 +3321,9 @@
     },
     {
         "nickname": "Zuko1",
+        "exit_address": [
+            "172.239.18.89"
+        ],
         "asn": "AS63949"
     },
     {
@@ -26649,6 +26656,9 @@
     },
     {
         "nickname": "europeantgah",
+        "exit_address": [
+            "198.167.206.134"
+        ],
         "asn": "AS39287"
     },
     {
