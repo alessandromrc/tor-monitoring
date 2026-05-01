@@ -9500,6 +9500,10 @@
         "asn": "AS44709"
     },
     {
+        "nickname": "CrowRelay",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "bitcoinonly21m",
         "asn": "AS36352"
     },
@@ -10853,6 +10857,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "justbytes",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "BahnhufPowah",
         "asn": "AS8473"
     },
@@ -11049,7 +11057,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV7128",
+        "nickname": "TV7192",
         "asn": "AS8151"
     },
     {
@@ -20882,6 +20890,9 @@
     },
     {
         "nickname": "SCSRelay",
+        "exit_address": [
+            "78.141.219.102"
+        ],
         "asn": "AS398924"
     },
     {
@@ -22552,10 +22563,6 @@
         "asn": "AS1680"
     },
     {
-        "nickname": "M0N3R0",
-        "asn": "AS207713"
-    },
-    {
         "nickname": "4727",
         "asn": "AS57169"
     },
@@ -23746,7 +23753,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV8859",
+        "nickname": "TV4841",
         "asn": "AS28573"
     },
     {
@@ -44363,6 +44370,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
@@ -49570,10 +49580,6 @@
         "asn": "AS45007"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "S4NT0S",
         "asn": "AS31898"
     },
@@ -49804,7 +49810,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
