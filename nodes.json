@@ -6618,7 +6618,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "nobuhide",
@@ -11310,9 +11310,6 @@
     },
     {
         "nickname": "TorNode",
-        "exit_address": [
-            "162.0.223.223"
-        ],
         "asn": "AS22612"
     },
     {
@@ -21259,6 +21256,10 @@
     {
         "nickname": "justbits",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "silvstor",
+        "asn": "AS3462"
     },
     {
         "nickname": "slushfund",
@@ -41507,6 +41508,10 @@
             "185.220.101.151"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Alien",
+        "asn": "AS45045"
     },
     {
         "nickname": "gruenkohl",
