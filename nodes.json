@@ -2447,9 +2447,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "144.31.60.240"
-        ],
         "asn": "AS26383"
     },
     {
@@ -3317,6 +3314,10 @@
     {
         "nickname": "FreeExit",
         "asn": "AS51852"
+    },
+    {
+        "nickname": "Zuko1",
+        "asn": "AS63949"
     },
     {
         "nickname": "Anaconda1",
@@ -8310,6 +8311,10 @@
             "192.42.116.118"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
     },
     {
         "nickname": "prsv",
@@ -24286,10 +24291,6 @@
             "192.42.116.92"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Bobrik",
-        "asn": "AS51765"
     },
     {
         "nickname": "NTH118R7",
@@ -44097,6 +44098,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Dunderek",
+        "asn": "AS35179"
+    },
+    {
         "nickname": "myNiceRelay",
         "asn": "AS32244"
     },
@@ -49499,9 +49504,6 @@
     },
     {
         "nickname": "ambient8exit",
-        "exit_address": [
-            "5.255.97.221"
-        ],
         "asn": "AS60404"
     },
     {
