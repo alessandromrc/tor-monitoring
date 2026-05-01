@@ -1361,6 +1361,9 @@
     },
     {
         "nickname": "Zuko2",
+        "exit_address": [
+            "172.234.102.113"
+        ],
         "asn": "AS63949"
     },
     {
@@ -1960,10 +1963,6 @@
             "185.220.101.18"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "2kxRelay",
-        "asn": "AS3209"
     },
     {
         "nickname": "krypton",
@@ -18142,6 +18141,10 @@
             "109.70.100.1"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "ShadowSphere",
+        "asn": "AS14638"
     },
     {
         "nickname": "ItsAOnion",
@@ -44627,6 +44630,10 @@
             "192.42.116.107"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Zuko3",
+        "asn": "AS63949"
     },
     {
         "nickname": "INSRelay41at5443",
