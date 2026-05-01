@@ -8103,9 +8103,6 @@
     },
     {
         "nickname": "Ernest",
-        "exit_address": [
-            "92.243.24.163"
-        ],
         "asn": "AS203476"
     },
     {
@@ -24760,10 +24757,6 @@
         "asn": "AS44133"
     },
     {
-        "nickname": "myTorMiddleRelay",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "kihkamihk",
         "asn": "AS852"
     },
@@ -26646,9 +26639,6 @@
     },
     {
         "nickname": "europeantgah",
-        "exit_address": [
-            "198.167.206.130"
-        ],
         "asn": "AS39287"
     },
     {
@@ -29993,6 +29983,10 @@
         "asn": "AS62005"
     },
     {
+        "nickname": "PhilTorRelay",
+        "asn": "AS210644"
+    },
+    {
         "nickname": "shawtylod4l",
         "asn": "AS36849"
     },
@@ -30937,6 +30931,9 @@
     },
     {
         "nickname": "TRONTO346",
+        "exit_address": [
+            "203.12.31.99"
+        ],
         "asn": "AS210083"
     },
     {
