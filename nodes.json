@@ -272,10 +272,6 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "relay1",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "ChumBucket",
         "asn": "AS24940"
     },
@@ -4224,6 +4220,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "QuakePHOBOS",
+        "asn": "AS16125"
+    },
+    {
         "nickname": "christravis",
         "asn": "AS36849"
     },
@@ -5716,10 +5716,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "JustATorExample",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH105R7",
         "exit_address": [
             "192.42.116.105"
@@ -6610,6 +6606,10 @@
     {
         "nickname": "oraclefree1",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "Wolf359",
+        "asn": "AS12989"
     },
     {
         "nickname": "W4LS3R",
@@ -16729,10 +16729,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "net228nerd",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "ElonTusk",
         "asn": "AS24940"
     },
@@ -21782,10 +21778,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "net228nerd",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "Jotnar",
         "asn": "AS14061"
     },
@@ -22806,6 +22798,10 @@
     {
         "nickname": "viennaOnTheRunnn",
         "asn": "AS6724"
+    },
+    {
+        "nickname": "Kllx",
+        "asn": "AS26383"
     },
     {
         "nickname": "r0cket12i7",
@@ -28356,10 +28352,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "relay1",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "Kn0wy0urEnemy",
         "asn": "AS6206"
     },
@@ -31326,6 +31318,10 @@
             "185.243.218.232"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "Kllx",
+        "asn": "AS26383"
     },
     {
         "nickname": "mirage",
@@ -37441,10 +37437,6 @@
             "180.150.226.99"
         ],
         "asn": "AS45382"
-    },
-    {
-        "nickname": "geheimschreiber",
-        "asn": "AS2856"
     },
     {
         "nickname": "magic848relay",
@@ -46203,10 +46195,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "MatrixRevolution",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "BSDrelay07",
         "asn": "AS8560"
     },
@@ -49813,7 +49801,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -51424,10 +51412,6 @@
     {
         "nickname": "Infiltrator",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "relay1",
-        "asn": "AS204601"
     },
     {
         "nickname": "Quetzalcoatl",
