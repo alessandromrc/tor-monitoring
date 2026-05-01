@@ -678,6 +678,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "GermanyRelay",
+        "asn": "AS400992"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.97"
@@ -6479,6 +6483,10 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
+    },
+    {
+        "nickname": "tspxrc1",
+        "asn": "AS9009"
     },
     {
         "nickname": "XMRisGoldCrypto",
@@ -35969,9 +35977,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.241.208.184"
-        ],
         "asn": "AS210558"
     },
     {
