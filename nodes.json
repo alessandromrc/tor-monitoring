@@ -16141,16 +16141,16 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "MyMiddleRelay",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "NTH157R1",
         "asn": "AS215125"
     },
     {
         "nickname": "PrivacyIsRight",
         "asn": "AS32167"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS198610"
     },
     {
         "nickname": "doraemon",
@@ -29313,6 +29313,10 @@
     {
         "nickname": "CyberDuck",
         "asn": "AS34087"
+    },
+    {
+        "nickname": "MyRelayName",
+        "asn": "AS10796"
     },
     {
         "nickname": "Intrepid",
@@ -52144,6 +52148,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "TV5011",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "r0cket15i0",
         "exit_address": [
             "45.84.107.174"
@@ -53203,10 +53211,6 @@
             "38.135.24.122"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "TV6871",
-        "asn": "AS8167"
     },
     {
         "nickname": "violetknight",
