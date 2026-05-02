@@ -11319,6 +11319,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "melquiadex",
+        "asn": "AS12479"
+    },
+    {
         "nickname": "NTH101R6",
         "asn": "AS8283"
     },
@@ -13316,10 +13320,6 @@
             "154.53.58.161"
         ],
         "asn": "AS40021"
-    },
-    {
-        "nickname": "thatswatshesaid",
-        "asn": "AS16276"
     },
     {
         "nickname": "NTH112R5",
@@ -26718,7 +26718,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.134"
+            "198.167.206.134",
+            "198.167.206.249"
         ],
         "asn": "AS39287"
     },
@@ -29042,6 +29043,10 @@
             "171.25.193.78"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "AestetiumRelay",
+        "asn": "AS1267"
     },
     {
         "nickname": "Neuchatel",
