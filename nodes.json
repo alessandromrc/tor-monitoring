@@ -1926,10 +1926,6 @@
         "asn": "AS6315"
     },
     {
-        "nickname": "GodIsOnYourSide",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "bananenmuffin",
         "asn": "AS24940"
     },
@@ -7376,6 +7372,9 @@
     },
     {
         "nickname": "georgetor",
+        "exit_address": [
+            "152.89.39.187"
+        ],
         "asn": "AS42807"
     },
     {
@@ -14126,6 +14125,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "f292b82fd6f083b6",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "Digitalcourage4iphb",
         "exit_address": [
             "185.220.101.103"
@@ -17531,7 +17534,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "Unnamed",
@@ -19787,7 +19790,7 @@
     },
     {
         "nickname": "Jason",
-        "asn": "AS23969"
+        "asn": "AS17552"
     },
     {
         "nickname": "EtaIsNext",
@@ -48680,6 +48683,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "reblaze",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "NTH64R5",
         "exit_address": [
             "192.42.116.64"
@@ -53441,10 +53448,6 @@
     {
         "nickname": "GreenOnion",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SuceMonIndex01",
-        "asn": "AS5769"
     },
     {
         "nickname": "plan9leia",
