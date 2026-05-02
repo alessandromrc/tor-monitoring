@@ -4068,10 +4068,6 @@
         "asn": "AS214481"
     },
     {
-        "nickname": "SecureDevMike44",
-        "asn": "AS63023"
-    },
-    {
         "nickname": "badthread",
         "asn": "AS213230"
     },
@@ -15843,10 +15839,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "EdSnowdenOurSaviour",
-        "asn": "AS33915"
-    },
-    {
         "nickname": "gizmo13",
         "asn": "AS26832"
     },
@@ -19795,7 +19787,7 @@
     },
     {
         "nickname": "Jason",
-        "asn": "AS17552"
+        "asn": "AS23969"
     },
     {
         "nickname": "EtaIsNext",
@@ -27723,10 +27715,6 @@
         "asn": "AS395510"
     },
     {
-        "nickname": "KosherTempler",
-        "asn": "AS214790"
-    },
-    {
         "nickname": "gangstaboo",
         "asn": "AS36849"
     },
@@ -35124,9 +35112,6 @@
     },
     {
         "nickname": "chimuelo",
-        "exit_address": [
-            "37.48.70.156"
-        ],
         "asn": "AS60781"
     },
     {
@@ -38991,6 +38976,9 @@
     },
     {
         "nickname": "plebelet",
+        "exit_address": [
+            "107.189.27.145"
+        ],
         "asn": "AS14956"
     },
     {
