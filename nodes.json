@@ -5230,7 +5230,6 @@
     {
         "nickname": "dim",
         "exit_address": [
-            "179.43.140.198",
             "45.91.194.198"
         ],
         "asn": "AS0"
@@ -7376,6 +7375,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "georgetor",
+        "asn": "AS42807"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -8152,10 +8155,6 @@
             "109.169.33.163"
         ],
         "asn": "AS20860"
-    },
-    {
-        "nickname": "russianalbiona",
-        "asn": "AS20473"
     },
     {
         "nickname": "NTH105R4",
@@ -10318,7 +10317,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8982",
+        "nickname": "TV6253",
         "asn": "AS27747"
     },
     {
@@ -13350,6 +13349,7 @@
     {
         "nickname": "zombidevvps1",
         "exit_address": [
+            "128.254.206.24",
             "207.2.121.145"
         ],
         "asn": "AS216382"
@@ -13443,10 +13443,6 @@
     {
         "nickname": "DediRock2",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "Assange023gr2",
-        "asn": "AS20857"
     },
     {
         "nickname": "KavinRelay",
@@ -23309,10 +23305,6 @@
             "2.58.56.220"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "clawdRelay",
-        "asn": "AS206996"
     },
     {
         "nickname": "Malinka3",
@@ -35087,10 +35079,6 @@
         "asn": "AS62240"
     },
     {
-        "nickname": "Assange033de",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "statquo",
         "asn": "AS36849"
     },
@@ -36421,10 +36409,6 @@
             "185.220.101.35"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS9009"
     },
     {
         "nickname": "RainingTor",
@@ -41676,7 +41660,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "SkyyRelay3",
+        "nickname": "SkyyRelay1",
         "asn": "AS22295"
     },
     {
@@ -44726,10 +44710,6 @@
         "asn": "AS16509"
     },
     {
-        "nickname": "LastDragonRelay",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "HelloWorldItsMe",
         "asn": "AS7922"
     },
@@ -47409,10 +47389,6 @@
     {
         "nickname": "shawnna",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "1510tyTorRelay",
-        "asn": "AS141995"
     },
     {
         "nickname": "UnshakledJSON",
