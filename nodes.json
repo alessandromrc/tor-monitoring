@@ -5551,6 +5551,10 @@
         "asn": "AS40284"
     },
     {
+        "nickname": "DalRelay",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "DFRI154",
         "exit_address": [
             "171.25.193.46"
@@ -13957,10 +13961,6 @@
     {
         "nickname": "pureAir",
         "asn": "AS204957"
-    },
-    {
-        "nickname": "TV1880",
-        "asn": "AS7545"
     },
     {
         "nickname": "TheEarlyBasilisk",
@@ -23852,7 +23852,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV4444",
+        "nickname": "TV4427",
         "asn": "AS28573"
     },
     {
@@ -37674,10 +37674,6 @@
     {
         "nickname": "ididedittheconfig",
         "asn": "AS2856"
-    },
-    {
-        "nickname": "TV7667",
-        "asn": "AS7303"
     },
     {
         "nickname": "Quetzalcoatl",
