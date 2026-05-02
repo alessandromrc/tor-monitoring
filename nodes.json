@@ -6393,7 +6393,8 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
-            "144.31.60.240"
+            "144.31.60.240",
+            "5.101.87.176"
         ],
         "asn": "AS26383"
     },
@@ -8678,6 +8679,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "Myrelayds12345",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "CtrlAltEscape",
         "asn": "AS24940"
     },
@@ -9447,9 +9452,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "144.31.60.240"
-        ],
         "asn": "AS26383"
     },
     {
@@ -11956,10 +11958,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "MyTorHSDirRen",
-        "asn": "AS14061"
     },
     {
         "nickname": "ColombianBridge",
@@ -17840,10 +17838,6 @@
         "asn": "AS26383"
     },
     {
-        "nickname": "pulsar",
-        "asn": "AS49902"
-    },
-    {
         "nickname": "NTH17R4",
         "exit_address": [
             "192.42.116.17"
@@ -23032,6 +23026,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "sacco",
+        "asn": "AS215540"
     },
     {
         "nickname": "Velocistar237",
