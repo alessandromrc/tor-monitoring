@@ -17961,6 +17961,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "144.31.60.240"
+        ],
         "asn": "AS26383"
     },
     {
@@ -35546,6 +35549,10 @@
         "asn": "AS42730"
     },
     {
+        "nickname": "router",
+        "asn": "AS8412"
+    },
+    {
         "nickname": "MoneroTRUEonly",
         "asn": "AS215540"
     },
@@ -37212,7 +37219,7 @@
         "asn": "AS136258"
     },
     {
-        "nickname": "TV5822",
+        "nickname": "TV6169",
         "asn": "AS20011"
     },
     {
@@ -45769,10 +45776,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "kyra",
-        "asn": "AS196967"
-    },
-    {
         "nickname": "NTH32R1",
         "asn": "AS215125"
     },
@@ -53214,6 +53217,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "TV99",
+        "asn": "AS5466"
     },
     {
         "nickname": "Quetzalcoatl",
