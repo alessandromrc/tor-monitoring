@@ -608,10 +608,6 @@
         "asn": "AS152992"
     },
     {
-        "nickname": "changeme",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "TRRelay2",
         "asn": "AS207326"
     },
@@ -1619,6 +1615,10 @@
             "192.42.116.65"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "ididnteditheconfig",
+        "asn": "AS8560"
     },
     {
         "nickname": "NTH45R5",
@@ -6237,6 +6237,9 @@
     },
     {
         "nickname": "majoran",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -6301,6 +6304,9 @@
     },
     {
         "nickname": "basilikum",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -7754,6 +7760,9 @@
     },
     {
         "nickname": "koriander",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -9516,6 +9525,9 @@
     },
     {
         "nickname": "breitwegerich",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -11440,6 +11452,9 @@
     },
     {
         "nickname": "gaensebluemchen",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -12449,6 +12464,9 @@
     },
     {
         "nickname": "schaf",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -12563,10 +12581,6 @@
     {
         "nickname": "jayworthy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "sipehostc1",
-        "asn": "AS211462"
     },
     {
         "nickname": "relayon0136",
@@ -16412,6 +16426,9 @@
     },
     {
         "nickname": "kiwi",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -24450,6 +24467,9 @@
     },
     {
         "nickname": "thymian",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -24555,6 +24575,9 @@
     },
     {
         "nickname": "peterwurz",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -35480,6 +35503,9 @@
     },
     {
         "nickname": "brennnessel",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
@@ -37491,10 +37517,13 @@
     },
     {
         "nickname": "hollunder",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
-        "nickname": "TV3606",
+        "nickname": "TV9145",
         "asn": "AS20011"
     },
     {
@@ -40753,6 +40782,9 @@
     },
     {
         "nickname": "sauerampfer",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -42719,6 +42751,9 @@
     },
     {
         "nickname": "schafgarbe",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -46964,6 +46999,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "Zuko5",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "NTH61R2",
         "exit_address": [
             "192.42.116.61"
@@ -47284,7 +47323,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV7226",
+        "nickname": "TV8157",
         "asn": "AS10617"
     },
     {
@@ -50727,10 +50766,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "gloriamundi",
-        "asn": "AS35042"
-    },
-    {
         "nickname": "Anarchism21",
         "asn": "AS28753"
     },
@@ -52825,6 +52860,9 @@
     },
     {
         "nickname": "rosmarin",
+        "exit_address": [
+            "109.70.100.15"
+        ],
         "asn": "AS208323"
     },
     {
@@ -53885,6 +53923,9 @@
     },
     {
         "nickname": "loewenzahn",
+        "exit_address": [
+            "109.70.100.14"
+        ],
         "asn": "AS208323"
     },
     {
