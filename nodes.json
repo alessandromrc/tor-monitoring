@@ -22573,10 +22573,6 @@
         "asn": "AS213230"
     },
     {
-        "nickname": "level9000",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "Glarus",
         "asn": "AS29222"
     },
@@ -31016,9 +31012,6 @@
     },
     {
         "nickname": "TRONTO346",
-        "exit_address": [
-            "203.12.31.99"
-        ],
         "asn": "AS210083"
     },
     {
@@ -44330,6 +44323,10 @@
             "185.173.200.73"
         ],
         "asn": "AS42487"
+    },
+    {
+        "nickname": "NCLS349",
+        "asn": "AS11776"
     },
     {
         "nickname": "XMRBuyNow",
