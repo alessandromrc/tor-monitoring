@@ -17437,6 +17437,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "AutistAltruist",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "carlosleal",
         "asn": "AS36849"
     },
@@ -20003,6 +20007,10 @@
     {
         "nickname": "delasoul",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "PoptartRelay",
+        "asn": "AS5483"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -23598,6 +23606,10 @@
     {
         "nickname": "FreeExit",
         "asn": "AS51852"
+    },
+    {
+        "nickname": "theispco",
+        "asn": "AS40663"
     },
     {
         "nickname": "NTH60R6",
@@ -35406,7 +35418,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "ConfigTest",
+        "nickname": "theispco",
         "exit_address": [
             "23.137.251.75"
         ],
@@ -42861,9 +42873,6 @@
     },
     {
         "nickname": "VampireFunWorld",
-        "exit_address": [
-            "95.168.173.143"
-        ],
         "asn": "AS60781"
     },
     {
@@ -44825,9 +44834,6 @@
     },
     {
         "nickname": "VisionVillage",
-        "exit_address": [
-            "94.75.225.81"
-        ],
         "asn": "AS60781"
     },
     {
