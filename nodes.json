@@ -13532,6 +13532,9 @@
     },
     {
         "nickname": "zombidevvps1",
+        "exit_address": [
+            "128.254.206.24"
+        ],
         "asn": "AS216382"
     },
     {
@@ -18357,7 +18360,7 @@
         "asn": "AS56153"
     },
     {
-        "nickname": "TV9483",
+        "nickname": "TV9721",
         "asn": "AS7303"
     },
     {
@@ -20031,7 +20034,7 @@
     },
     {
         "nickname": "Jason",
-        "asn": "AS23969"
+        "asn": "AS17552"
     },
     {
         "nickname": "hnlexit6",
@@ -22831,6 +22834,10 @@
     {
         "nickname": "server8r1",
         "asn": "AS213230"
+    },
+    {
+        "nickname": "level9000",
+        "asn": "AS9009"
     },
     {
         "nickname": "Glarus",
@@ -37842,6 +37849,9 @@
     },
     {
         "nickname": "Zuko6",
+        "exit_address": [
+            "172.234.105.96"
+        ],
         "asn": "AS63949"
     },
     {
@@ -40759,6 +40769,10 @@
     },
     {
         "nickname": "toriesfuckedtheuk",
+        "asn": "AS8560"
+    },
+    {
+        "nickname": "ToRUhU",
         "asn": "AS8560"
     },
     {
