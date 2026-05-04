@@ -1644,7 +1644,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4995",
+        "nickname": "TV4952",
         "asn": "AS22927"
     },
     {
@@ -8107,6 +8107,9 @@
     },
     {
         "nickname": "dark",
+        "exit_address": [
+            "87.121.79.14"
+        ],
         "asn": "AS199428"
     },
     {
@@ -21589,7 +21592,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV1516",
+        "nickname": "TV2171",
         "asn": "AS33915"
     },
     {
@@ -25384,6 +25387,10 @@
             "104.244.76.237"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "ToRUhU",
+        "asn": "AS8560"
     },
     {
         "nickname": "TacticalAtom",
