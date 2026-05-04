@@ -1939,6 +1939,10 @@
         "asn": "AS6315"
     },
     {
+        "nickname": "GodIsOnYourSide",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "bananenmuffin",
         "asn": "AS24940"
     },
@@ -12210,9 +12214,6 @@
     },
     {
         "nickname": "Runaz4",
-        "exit_address": [
-            "185.93.89.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -13522,9 +13523,6 @@
     },
     {
         "nickname": "zombidevvps1",
-        "exit_address": [
-            "128.254.206.24"
-        ],
         "asn": "AS216382"
     },
     {
@@ -19737,6 +19735,9 @@
     },
     {
         "nickname": "dull",
+        "exit_address": [
+            "193.32.162.86"
+        ],
         "asn": "AS47890"
     },
     {
@@ -22448,9 +22449,6 @@
     },
     {
         "nickname": "MK7Ind",
-        "exit_address": [
-            "20.204.209.188"
-        ],
         "asn": "AS8075"
     },
     {
@@ -34001,10 +33999,6 @@
         "asn": "AS199950"
     },
     {
-        "nickname": "TV9102",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "hitmayne",
         "asn": "AS36849"
     },
@@ -40083,7 +40077,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV6974",
+        "nickname": "TV8545",
         "asn": "AS12491"
     },
     {
@@ -48191,9 +48185,6 @@
     },
     {
         "nickname": "kfc",
-        "exit_address": [
-            "176.65.148.133"
-        ],
         "asn": "AS51396"
     },
     {
