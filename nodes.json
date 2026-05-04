@@ -15362,10 +15362,6 @@
         "asn": "AS21336"
     },
     {
-        "nickname": "TorRelayOfMany1122",
-        "asn": "AS6848"
-    },
-    {
         "nickname": "toradmin",
         "asn": "AS5410"
     },
@@ -20591,6 +20587,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "lilninja",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.159.99.54"
@@ -22334,10 +22334,6 @@
     {
         "nickname": "TV4160",
         "asn": "AS8151"
-    },
-    {
-        "nickname": "sFtor4",
-        "asn": "AS24940"
     },
     {
         "nickname": "natora",
@@ -49769,6 +49765,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -53289,6 +53288,9 @@
     },
     {
         "nickname": "xenia",
+        "exit_address": [
+            "121.78.28.166"
+        ],
         "asn": "AS21859"
     },
     {
