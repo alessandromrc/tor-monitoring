@@ -926,9 +926,6 @@
     },
     {
         "nickname": "ultraboy",
-        "exit_address": [
-            "87.121.79.219"
-        ],
         "asn": "AS199428"
     },
     {
@@ -2303,6 +2300,9 @@
     },
     {
         "nickname": "Soyglow",
+        "exit_address": [
+            "103.247.61.20"
+        ],
         "asn": "AS55423"
     },
     {
@@ -13218,9 +13218,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -27848,6 +27845,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS327934"
+    },
+    {
         "nickname": "fviridis",
         "asn": "AS3209"
     },
@@ -37006,6 +37007,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
+    },
+    {
         "nickname": "zgato",
         "asn": "AS214354"
     },
@@ -44665,6 +44670,10 @@
     {
         "nickname": "trapGuardNode",
         "asn": "AS132203"
+    },
+    {
+        "nickname": "drear",
+        "asn": "AS210558"
     },
     {
         "nickname": "zyklon",
