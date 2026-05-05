@@ -3675,7 +3675,7 @@
         "asn": "AS6866"
     },
     {
-        "nickname": "TV5348",
+        "nickname": "TV8017",
         "asn": "AS22927"
     },
     {
@@ -14229,6 +14229,9 @@
     },
     {
         "nickname": "PlainesPaisible",
+        "exit_address": [
+            "95.211.174.137"
+        ],
         "asn": "AS60781"
     },
     {
@@ -24930,10 +24933,6 @@
         "asn": "AS202422"
     },
     {
-        "nickname": "iPunchSharks",
-        "asn": "AS44869"
-    },
-    {
         "nickname": "snailnode",
         "asn": "AS35179"
     },
@@ -25523,10 +25522,6 @@
     {
         "nickname": "djquik",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "ERMA87609cc",
-        "asn": "AS210083"
     },
     {
         "nickname": "ageis",
@@ -37091,10 +37086,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "ZetaRelayAlpha",
-        "asn": "AS20115"
-    },
-    {
         "nickname": "ChuckyHorror",
         "asn": "AS24940"
     },
@@ -38653,10 +38644,6 @@
     {
         "nickname": "fluffypancakes007nl",
         "asn": "AS199654"
-    },
-    {
-        "nickname": "torexploit143",
-        "asn": "AS212238"
     },
     {
         "nickname": "RepublicOfKorea",
@@ -43981,10 +43968,6 @@
     {
         "nickname": "tracerwall",
         "asn": "AS3301"
-    },
-    {
-        "nickname": "ZX81",
-        "asn": "AS12709"
     },
     {
         "nickname": "TORfuExit04",
@@ -49806,10 +49789,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "myotherrelay2",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "schabernaxRelay",
         "asn": "AS197540"
     },
@@ -50545,10 +50524,6 @@
     {
         "nickname": "opencommunity",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "cb1tor",
-        "asn": "AS60404"
     },
     {
         "nickname": "rundmc",
@@ -54006,10 +53981,6 @@
     {
         "nickname": "AbsoluteCinema",
         "asn": "AS3215"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS36352"
     },
     {
         "nickname": "560003101a51",
