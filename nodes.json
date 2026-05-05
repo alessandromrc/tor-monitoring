@@ -2726,7 +2726,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV9966",
+        "nickname": "TV4912",
         "asn": "AS8346"
     },
     {
@@ -7157,6 +7157,9 @@
     },
     {
         "nickname": "zombidevomen",
+        "exit_address": [
+            "80.3.83.182"
+        ],
         "asn": "AS5089"
     },
     {
@@ -16896,6 +16899,10 @@
             "185.129.61.129"
         ],
         "asn": "AS210731"
+    },
+    {
+        "nickname": "jeffsbaum",
+        "asn": "AS3209"
     },
     {
         "nickname": "coldwinter",
