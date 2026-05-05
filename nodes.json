@@ -14228,6 +14228,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "PlainesPaisible",
+        "asn": "AS60781"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -16203,9 +16207,6 @@
     },
     {
         "nickname": "disrupTOR",
-        "exit_address": [
-            "5.104.111.224"
-        ],
         "asn": "AS24961"
     },
     {
@@ -24664,9 +24665,6 @@
     },
     {
         "nickname": "MyExperimentalExit",
-        "exit_address": [
-            "172.238.12.191"
-        ],
         "asn": "AS63949"
     },
     {
@@ -27082,8 +27080,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.137",
-            "198.167.206.156"
+            "198.167.206.137"
         ],
         "asn": "AS39287"
     },
@@ -30641,9 +30638,6 @@
     },
     {
         "nickname": "defecTOR",
-        "exit_address": [
-            "144.217.79.193"
-        ],
         "asn": "AS16276"
     },
     {
@@ -34326,6 +34320,10 @@
             "171.25.193.46"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Tormama",
+        "asn": "AS151660"
     },
     {
         "nickname": "Quetzalcoatl",
