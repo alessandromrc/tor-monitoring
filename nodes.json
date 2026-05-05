@@ -127,6 +127,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "JayCO1",
+        "asn": "AS39287"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS202448"
     },
@@ -16324,7 +16328,7 @@
         "asn": "AS18460"
     },
     {
-        "nickname": "TV1173",
+        "nickname": "TV2336",
         "asn": "AS19429"
     },
     {
@@ -46238,6 +46242,9 @@
     },
     {
         "nickname": "BehemothLTDNL1",
+        "exit_address": [
+            "5.255.123.158"
+        ],
         "asn": "AS60404"
     },
     {
@@ -46561,6 +46568,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "ChatGPThelpedme",
+        "asn": "AS209847"
+    },
+    {
         "nickname": "rhabarber",
         "exit_address": [
             "109.70.100.2"
@@ -46646,10 +46657,6 @@
     {
         "nickname": "s6tor2",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "TV8222",
-        "asn": "AS39869"
     },
     {
         "nickname": "udeserveprivacy",
@@ -47053,10 +47060,6 @@
     {
         "nickname": "mindzero8",
         "asn": "AS47638"
-    },
-    {
-        "nickname": "GLOAydrg87",
-        "asn": "AS210083"
     },
     {
         "nickname": "HNLmid",
