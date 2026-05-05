@@ -858,7 +858,7 @@
     },
     {
         "nickname": "ididnteditheconfig",
-        "asn": "AS61112"
+        "asn": "AS3258"
     },
     {
         "nickname": "RichardFeynman",
@@ -7847,9 +7847,6 @@
     },
     {
         "nickname": "noTORture",
-        "exit_address": [
-            "37.157.254.6"
-        ],
         "asn": "AS24961"
     },
     {
@@ -29290,9 +29287,6 @@
     },
     {
         "nickname": "SecretDropNL",
-        "exit_address": [
-            "45.94.31.57"
-        ],
         "asn": "AS210558"
     },
     {
@@ -35347,6 +35341,9 @@
     },
     {
         "nickname": "LillyCL",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
