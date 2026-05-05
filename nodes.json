@@ -858,7 +858,7 @@
     },
     {
         "nickname": "ididnteditheconfig",
-        "asn": "AS3258"
+        "asn": "AS61112"
     },
     {
         "nickname": "RichardFeynman",
@@ -9363,6 +9363,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.231"
+        ],
         "asn": "AS27284"
     },
     {
@@ -18388,7 +18391,7 @@
         "asn": "AS56153"
     },
     {
-        "nickname": "TV9721",
+        "nickname": "TV8793",
         "asn": "AS7303"
     },
     {
@@ -26863,6 +26866,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.231"
+        ],
         "asn": "AS27284"
     },
     {
@@ -28891,6 +28897,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.231"
+        ],
         "asn": "AS27284"
     },
     {
@@ -31780,9 +31789,6 @@
     },
     {
         "nickname": "mirage",
-        "exit_address": [
-            "91.219.237.39"
-        ],
         "asn": "AS56322"
     },
     {
@@ -33057,6 +33063,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "MyNiceRelay",
+        "asn": "AS8560"
     },
     {
         "nickname": "rendezvousobserver",
@@ -41637,6 +41647,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.25.231"
+        ],
         "asn": "AS27284"
     },
     {
@@ -42105,6 +42118,10 @@
             "192.42.116.113"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "ToRUhU",
+        "asn": "AS8560"
     },
     {
         "nickname": "relayon0151",
@@ -45973,7 +45990,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "Splinter",
