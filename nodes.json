@@ -17469,7 +17469,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "AutistAltruist",
+        "nickname": "AutisticAltruist",
         "asn": "AS8560"
     },
     {
@@ -22745,6 +22745,10 @@
     {
         "nickname": "TorRelay1338",
         "asn": "AS43641"
+    },
+    {
+        "nickname": "thegreatgonzo",
+        "asn": "AS62365"
     },
     {
         "nickname": "7thheaven",
@@ -29309,6 +29313,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "45.94.31.57"
+        ],
         "asn": "AS210558"
     },
     {
