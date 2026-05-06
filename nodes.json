@@ -1641,7 +1641,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV2048",
+        "nickname": "TV3925",
         "asn": "AS22927"
     },
     {
@@ -14232,9 +14232,6 @@
     },
     {
         "nickname": "PlainesPaisible",
-        "exit_address": [
-            "95.211.174.137"
-        ],
         "asn": "AS60781"
     },
     {
@@ -24734,6 +24731,10 @@
         "asn": "AS214677"
     },
     {
+        "nickname": "stefanox",
+        "asn": "AS30722"
+    },
+    {
         "nickname": "StarAppsTrenton",
         "asn": "AS29222"
     },
@@ -33361,10 +33362,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "LiteScriptRelay2",
-        "asn": "AS30600"
-    },
-    {
         "nickname": "CommonCloudRelay",
         "asn": "AS14618"
     },
@@ -41817,10 +41814,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Tor",
-        "asn": "AS397896"
-    },
-    {
         "nickname": "zgato",
         "asn": "AS215960"
     },
@@ -48897,10 +48890,6 @@
     {
         "nickname": "XMR",
         "asn": "AS203003"
-    },
-    {
-        "nickname": "BlueStar",
-        "asn": "AS3320"
     },
     {
         "nickname": "PiRateRelay",
