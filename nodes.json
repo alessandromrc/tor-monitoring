@@ -1641,7 +1641,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV6731",
+        "nickname": "TV9632",
         "asn": "AS22927"
     },
     {
@@ -15186,10 +15186,6 @@
         "asn": "AS47066"
     },
     {
-        "nickname": "adjammy",
-        "asn": "AS402253"
-    },
-    {
         "nickname": "DFRI80",
         "exit_address": [
             "171.25.193.39"
@@ -17786,7 +17782,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "Unnamed",
@@ -18725,10 +18721,6 @@
     {
         "nickname": "SchwarzeLocke5",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "Lidex",
-        "asn": "AS36352"
     },
     {
         "nickname": "ASqUADeo",
@@ -28880,9 +28872,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -31123,6 +31112,9 @@
     },
     {
         "nickname": "theispco",
+        "exit_address": [
+            "23.137.252.225"
+        ],
         "asn": "AS40663"
     },
     {
@@ -41799,6 +41791,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "ArcticFrost",
+        "asn": "AS44925"
+    },
+    {
         "nickname": "t0rnod3v2",
         "asn": "AS63949"
     },
@@ -45680,9 +45676,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -46680,10 +46673,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "DexterMcKormik",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "ForDemocracy7",
         "asn": "AS16276"
     },
@@ -46959,9 +46948,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -51810,10 +51796,6 @@
     {
         "nickname": "Sonicmaster255",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "DexterMcKormik",
-        "asn": "AS197540"
     },
     {
         "nickname": "TorZoner",
