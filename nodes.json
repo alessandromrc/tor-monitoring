@@ -4658,9 +4658,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9334,9 +9331,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -13226,6 +13220,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
@@ -13550,9 +13547,6 @@
     },
     {
         "nickname": "zombidevvps1",
-        "exit_address": [
-            "128.254.206.24"
-        ],
         "asn": "AS216382"
     },
     {
@@ -18274,10 +18268,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS400587"
-    },
-    {
         "nickname": "DontBeLarry",
         "asn": "AS31898"
     },
@@ -20921,6 +20911,10 @@
     {
         "nickname": "UnshakledClaude",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "rasptorpipi2",
+        "asn": "AS21211"
     },
     {
         "nickname": "WorldofMatthew",
@@ -26779,10 +26773,6 @@
         "asn": "AS33984"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS400587"
-    },
-    {
         "nickname": "suitablyanonymous",
         "asn": "AS5378"
     },
@@ -30489,10 +30479,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS400587"
-    },
-    {
         "nickname": "bigbrother23470",
         "asn": "AS12322"
     },
@@ -31405,10 +31391,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS400587"
     },
     {
         "nickname": "Caramelo",
@@ -32372,10 +32354,6 @@
     {
         "nickname": "fastcashboyz",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4713"
     },
     {
         "nickname": "fairhose11",
@@ -36015,9 +35993,6 @@
     },
     {
         "nickname": "torwaresetup",
-        "exit_address": [
-            "82.153.138.143"
-        ],
         "asn": "AS214209"
     },
     {
@@ -38538,6 +38513,10 @@
     {
         "nickname": "AnitaBonghit",
         "asn": "AS46690"
+    },
+    {
+        "nickname": "TV9340",
+        "asn": "AS7303"
     },
     {
         "nickname": "WestonReed",
@@ -43415,6 +43394,10 @@
             "185.165.169.239"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "2fjsaf2ja4da",
+        "asn": "AS197540"
     },
     {
         "nickname": "r0cket10i6",
