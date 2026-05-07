@@ -25390,7 +25390,7 @@
         "asn": "AS142036"
     },
     {
-        "nickname": "TV8313",
+        "nickname": "TV7511",
         "asn": "AS701"
     },
     {
@@ -29240,6 +29240,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "45.94.31.57"
+        ],
         "asn": "AS210558"
     },
     {
@@ -36979,6 +36982,10 @@
     {
         "nickname": "icebergmiami",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "HiddenPath",
+        "asn": "AS62212"
     },
     {
         "nickname": "Timberwolf",
@@ -45889,6 +45896,10 @@
             "171.25.193.37"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "NotTheNSA",
+        "asn": "AS12322"
     },
     {
         "nickname": "MartinoRelay",
