@@ -1648,7 +1648,7 @@
         "asn": "AS22927"
     },
     {
-        "nickname": "TMTime",
+        "nickname": "Chrono",
         "asn": "AS8560"
     },
     {
@@ -4914,10 +4914,6 @@
             "104.244.72.132"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ConnecTorSG",
-        "asn": "AS16509"
     },
     {
         "nickname": "prsv",
@@ -11761,6 +11757,10 @@
     {
         "nickname": "seabreeze",
         "asn": "AS8495"
+    },
+    {
+        "nickname": "fauringer01",
+        "asn": "AS197540"
     },
     {
         "nickname": "rexZAP",
@@ -23565,10 +23565,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "ConnecTorNA",
-        "asn": "AS14618"
-    },
-    {
         "nickname": "as214958tor5",
         "asn": "AS8283"
     },
@@ -25963,8 +25959,8 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "ConnecTorDE",
-        "asn": "AS16509"
+        "nickname": "SecureCoinXMR",
+        "asn": "AS59711"
     },
     {
         "nickname": "Wolf10744",
@@ -26757,9 +26753,6 @@
     },
     {
         "nickname": "oniondaoftw",
-        "exit_address": [
-            "5.255.98.23"
-        ],
         "asn": "AS60404"
     },
     {
@@ -38543,6 +38536,9 @@
     },
     {
         "nickname": "Zuko9",
+        "exit_address": [
+            "172.104.54.129"
+        ],
         "asn": "AS63949"
     },
     {
@@ -39028,6 +39024,9 @@
     },
     {
         "nickname": "Zuko8",
+        "exit_address": [
+            "172.239.18.204"
+        ],
         "asn": "AS63949"
     },
     {
@@ -47385,6 +47384,9 @@
     },
     {
         "nickname": "Zuko10",
+        "exit_address": [
+            "172.105.237.79"
+        ],
         "asn": "AS63949"
     },
     {
