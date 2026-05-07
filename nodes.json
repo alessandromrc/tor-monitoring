@@ -18156,9 +18156,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "144.31.60.240"
-        ],
         "asn": "AS26383"
     },
     {
@@ -40847,6 +40844,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "TorRelayPoland01",
+        "asn": "AS209272"
+    },
+    {
         "nickname": "GL2udrUdaaug",
         "asn": "AS47474"
     },
@@ -49013,6 +49014,9 @@
     },
     {
         "nickname": "zarathustra",
+        "exit_address": [
+            "192.108.48.150"
+        ],
         "asn": "AS680"
     },
     {
