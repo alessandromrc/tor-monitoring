@@ -1347,6 +1347,10 @@
         "asn": "AS200019"
     },
     {
+        "nickname": "CoreRelay005",
+        "asn": "AS47544"
+    },
+    {
         "nickname": "Zensursula",
         "asn": "AS47447"
     },
@@ -8840,6 +8844,9 @@
     },
     {
         "nickname": "intothetylerzone",
+        "exit_address": [
+            "198.58.107.53"
+        ],
         "asn": "AS63949"
     },
     {
@@ -17325,6 +17332,10 @@
     {
         "nickname": "Echo31",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "aieternal07",
+        "asn": "AS197540"
     },
     {
         "nickname": "server4r3",
@@ -33038,10 +33049,6 @@
         "asn": "AS43289"
     },
     {
-        "nickname": "ARKRelay",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "FlashCamel",
         "asn": "AS201670"
     },
@@ -41708,7 +41715,7 @@
         "asn": "AS19148"
     },
     {
-        "nickname": "JFKAIRO24",
+        "nickname": "IFLYHIGH24",
         "asn": "AS32723"
     },
     {
