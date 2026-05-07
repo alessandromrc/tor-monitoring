@@ -12114,6 +12114,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "x3devnet",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS9370"
     },
@@ -49009,9 +49013,6 @@
     },
     {
         "nickname": "zarathustra",
-        "exit_address": [
-            "192.108.48.150"
-        ],
         "asn": "AS680"
     },
     {
@@ -50291,9 +50292,6 @@
     },
     {
         "nickname": "PRICC78634",
-        "exit_address": [
-            "150.40.126.9"
-        ],
         "asn": "AS211619"
     },
     {
