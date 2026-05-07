@@ -5635,10 +5635,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "Vityatan",
-        "asn": "AS17552"
-    },
-    {
         "nickname": "FreeSpeechCH1",
         "asn": "AS6730"
     },
@@ -7640,10 +7636,6 @@
     {
         "nickname": "Gijsje",
         "asn": "AS1103"
-    },
-    {
-        "nickname": "Nirvana",
-        "asn": "AS17552"
     },
     {
         "nickname": "doudoubridge",
@@ -11856,6 +11848,9 @@
     },
     {
         "nickname": "NetzExit01",
+        "exit_address": [
+            "152.53.155.96"
+        ],
         "asn": "AS197540"
     },
     {
@@ -16652,10 +16647,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Rattana",
-        "asn": "AS17552"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.7.144"
@@ -16778,10 +16769,6 @@
             "38.135.24.241"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "Rama",
-        "asn": "AS17552"
     },
     {
         "nickname": "Alishka",
@@ -21502,10 +21489,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Panya",
-        "asn": "AS17552"
     },
     {
         "nickname": "FoldWatchersPupJoe",
@@ -35011,10 +34994,6 @@
         "asn": "AS3215"
     },
     {
-        "nickname": "torrelayholon",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "GayFreedomNode",
         "asn": "AS212238"
     },
@@ -47412,10 +47391,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "Mongkhon",
-        "asn": "AS17552"
-    },
-    {
         "nickname": "piesch",
         "asn": "AS208323"
     },
@@ -50072,10 +50047,6 @@
         "asn": "AS680"
     },
     {
-        "nickname": "Burapha",
-        "asn": "AS17552"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -50120,10 +50091,6 @@
     {
         "nickname": "Kangadily",
         "asn": "AS39798"
-    },
-    {
-        "nickname": "Piriya",
-        "asn": "AS17552"
     },
     {
         "nickname": "lildarkie",
