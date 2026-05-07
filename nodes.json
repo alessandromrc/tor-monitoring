@@ -2325,10 +2325,6 @@
         "asn": "AS43376"
     },
     {
-        "nickname": "vegasayshi",
-        "asn": "AS24806"
-    },
-    {
         "nickname": "InnocenceTube",
         "asn": "AS212477"
     },
@@ -3822,6 +3818,10 @@
     {
         "nickname": "NTH171R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "torry2",
+        "asn": "AS6805"
     },
     {
         "nickname": "KyunTorExitNode",
@@ -22581,10 +22581,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "eclipse02",
-        "asn": "AS30836"
-    },
-    {
         "nickname": "RelayUli",
         "asn": "AS29222"
     },
@@ -34795,10 +34791,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "FreeTheInternetNow",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "MoneroIsGoldBuyNow",
         "asn": "AS26383"
     },
@@ -40853,6 +40845,9 @@
     },
     {
         "nickname": "TorRelayPoland01",
+        "exit_address": [
+            "179.60.149.108"
+        ],
         "asn": "AS209272"
     },
     {
@@ -42906,7 +42901,6 @@
     {
         "nickname": "zombidevro1",
         "exit_address": [
-            "86.124.25.3",
             "86.124.29.237"
         ],
         "asn": "AS8708"
@@ -43161,6 +43155,10 @@
     {
         "nickname": "TheDirtyGauntlet",
         "asn": "AS202302"
+    },
+    {
+        "nickname": "quantumflux",
+        "asn": "AS51852"
     },
     {
         "nickname": "youngma",
@@ -46095,6 +46093,10 @@
     {
         "nickname": "TheShadowRoute18",
         "asn": "AS215288"
+    },
+    {
+        "nickname": "BlackCloud",
+        "asn": "AS63023"
     },
     {
         "nickname": "UnredactedPotter",
@@ -49173,6 +49175,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Zuko7",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.138.16.42"
@@ -50211,10 +50217,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS26383"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.181.61.203"
@@ -50566,7 +50568,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
