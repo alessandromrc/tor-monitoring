@@ -6901,6 +6901,10 @@
         "asn": "AS328364"
     },
     {
+        "nickname": "Mainframe",
+        "asn": "AS199058"
+    },
+    {
         "nickname": "r0cket11i3",
         "exit_address": [
             "45.84.107.128"
@@ -18555,6 +18559,10 @@
     {
         "nickname": "tokischaa",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "LatinAIRelay",
+        "asn": "AS24940"
     },
     {
         "nickname": "theTorDoor",
@@ -31830,6 +31838,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS41745"
+    },
+    {
         "nickname": "ChocolateBit",
         "asn": "AS41745"
     },
@@ -36062,6 +36074,9 @@
     },
     {
         "nickname": "yourexitname",
+        "exit_address": [
+            "186.246.53.43"
+        ],
         "asn": "AS63023"
     },
     {
@@ -39982,9 +39997,6 @@
     },
     {
         "nickname": "forest08",
-        "exit_address": [
-            "176.65.134.8"
-        ],
         "asn": "AS36680"
     },
     {
@@ -43246,6 +43258,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS41745"
     },
     {
         "nickname": "LumaDock",
@@ -53135,6 +53151,10 @@
     {
         "nickname": "DonTheMessenger",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "xnet",
+        "asn": "AS48314"
     },
     {
         "nickname": "thorion",
