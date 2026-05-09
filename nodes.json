@@ -1936,9 +1936,6 @@
     },
     {
         "nickname": "annatesla",
-        "exit_address": [
-            "5.255.101.131"
-        ],
         "asn": "AS60404"
     },
     {
@@ -5446,6 +5443,10 @@
         "asn": "AS9063"
     },
     {
+        "nickname": "4712",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "popofficial",
         "asn": "AS36849"
     },
@@ -5571,10 +5572,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS48753"
-    },
-    {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS214639"
     },
     {
         "nickname": "c0wb0y",
@@ -6478,10 +6475,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS26383"
-    },
-    {
         "nickname": "fenrir",
         "asn": "AS14061"
     },
@@ -7282,9 +7275,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9158,6 +9148,10 @@
     {
         "nickname": "forest40",
         "asn": "AS211507"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS402169"
     },
     {
         "nickname": "cheesehead",
@@ -16325,7 +16319,7 @@
         "asn": "AS18460"
     },
     {
-        "nickname": "TV2697",
+        "nickname": "TV8381",
         "asn": "AS19429"
     },
     {
@@ -30008,6 +30002,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "4711",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "NTH45R6",
         "exit_address": [
             "192.42.116.45"
@@ -34337,6 +34335,10 @@
         "asn": "AS2856"
     },
     {
+        "nickname": "DEBrelay",
+        "asn": "AS803"
+    },
+    {
         "nickname": "DFRI153",
         "exit_address": [
             "171.25.193.46"
@@ -37268,9 +37270,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -38627,6 +38626,10 @@
     {
         "nickname": "Zuko9",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "MyDietPiRelay",
+        "asn": "AS6128"
     },
     {
         "nickname": "peteypablo",
@@ -41152,7 +41155,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV3403",
+        "nickname": "TV1793",
         "asn": "AS37680"
     },
     {
