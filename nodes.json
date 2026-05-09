@@ -1632,7 +1632,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV5708",
+        "nickname": "TV6643",
         "asn": "AS22927"
     },
     {
@@ -3909,10 +3909,6 @@
     {
         "nickname": "cham",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "BorisVanovsky",
-        "asn": "AS212913"
     },
     {
         "nickname": "Benoit",
@@ -20581,6 +20577,9 @@
     },
     {
         "nickname": "SkaffaExit",
+        "exit_address": [
+            "66.78.40.91"
+        ],
         "asn": "AS215659"
     },
     {
@@ -24158,7 +24157,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV4427",
+        "nickname": "TV5843",
         "asn": "AS28573"
     },
     {
@@ -24480,7 +24479,7 @@
         "exit_address": [
             "104.193.135.243"
         ],
-        "asn": "AS394256"
+        "asn": "AS32489"
     },
     {
         "nickname": "eo184",
@@ -36914,6 +36913,10 @@
     {
         "nickname": "Assange008fr",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "movi2",
+        "asn": "AS6739"
     },
     {
         "nickname": "chippygabe",
