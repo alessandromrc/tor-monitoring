@@ -7856,10 +7856,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "DirtJumpOwlSwim",
-        "asn": "AS19901"
-    },
-    {
         "nickname": "RussellHomeRelay",
         "asn": "AS3462"
     },
@@ -8207,6 +8203,10 @@
         "asn": "AS33993"
     },
     {
+        "nickname": "TorTor",
+        "asn": "AS4764"
+    },
+    {
         "nickname": "DonaldTorump",
         "asn": "AS8560"
     },
@@ -8388,6 +8388,9 @@
     },
     {
         "nickname": "Zuko12",
+        "exit_address": [
+            "172.239.15.141"
+        ],
         "asn": "AS63949"
     },
     {
@@ -25033,6 +25036,9 @@
     },
     {
         "nickname": "Zuko13",
+        "exit_address": [
+            "172.239.15.141"
+        ],
         "asn": "AS63949"
     },
     {
@@ -27485,6 +27491,9 @@
     },
     {
         "nickname": "Zuko11",
+        "exit_address": [
+            "172.239.15.141"
+        ],
         "asn": "AS63949"
     },
     {
@@ -52641,6 +52650,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.67"
+        ],
         "asn": "AS210558"
     },
     {
@@ -54285,6 +54297,10 @@
     {
         "nickname": "yunggravy",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "tundratrail",
+        "asn": "AS3320"
     },
     {
         "nickname": "viennaOnTheWalk",
