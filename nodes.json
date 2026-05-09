@@ -8810,10 +8810,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Myrelayds12345",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "CtrlAltEscape",
         "asn": "AS24940"
     },
@@ -15873,6 +15869,9 @@
     },
     {
         "nickname": "dobromanian2",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17010,6 +17009,9 @@
     },
     {
         "nickname": "bronkromanian",
+        "exit_address": [
+            "93.113.25.160"
+        ],
         "asn": "AS214209"
     },
     {
@@ -17980,10 +17982,6 @@
     {
         "nickname": "Gobert",
         "asn": "AS3356"
-    },
-    {
-        "nickname": "FFirewall",
-        "asn": "AS1221"
     },
     {
         "nickname": "DFRI87",
@@ -19123,6 +19121,9 @@
     },
     {
         "nickname": "bronkromanian2",
+        "exit_address": [
+            "93.113.25.160"
+        ],
         "asn": "AS214209"
     },
     {
@@ -22659,6 +22660,9 @@
     },
     {
         "nickname": "dobromanian",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS214209"
     },
     {
@@ -24455,10 +24459,6 @@
             "23.129.64.184"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "mangosteen",
-        "asn": "AS27284"
     },
     {
         "nickname": "Kanellos",
@@ -46161,6 +46161,10 @@
             "45.141.215.114"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "MyMiddle",
+        "asn": "AS8764"
     },
     {
         "nickname": "letsdoitUS",
