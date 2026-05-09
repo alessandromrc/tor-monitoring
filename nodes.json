@@ -11268,10 +11268,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV7094",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "mathewson",
         "exit_address": [
             "23.129.64.163"
@@ -31286,10 +31282,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "BVX2",
-        "asn": "AS396982"
-    },
-    {
         "nickname": "cucumberRick",
         "asn": "AS62005"
     },
@@ -44939,6 +44931,9 @@
     },
     {
         "nickname": "VisionVillage",
+        "exit_address": [
+            "94.75.225.81"
+        ],
         "asn": "AS60781"
     },
     {
