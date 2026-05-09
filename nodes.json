@@ -9912,6 +9912,10 @@
         "asn": "AS401833"
     },
     {
+        "nickname": "myrelay",
+        "asn": "AS44925"
+    },
+    {
         "nickname": "hkrelaytorproject",
         "asn": "AS31898"
     },
@@ -21617,7 +21621,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3833",
+        "nickname": "TV7444",
         "asn": "AS33915"
     },
     {
@@ -29581,10 +29585,6 @@
     {
         "nickname": "LAA",
         "asn": "AS212219"
-    },
-    {
-        "nickname": "racisz",
-        "asn": "AS16276"
     },
     {
         "nickname": "BeoWulftheMighty",
@@ -41203,6 +41203,9 @@
     },
     {
         "nickname": "DicedOnions",
+        "exit_address": [
+            "209.141.51.30"
+        ],
         "asn": "AS53667"
     },
     {
@@ -50627,7 +50630,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -53087,6 +53090,9 @@
     },
     {
         "nickname": "4714",
+        "exit_address": [
+            "107.189.31.33"
+        ],
         "asn": "AS53667"
     },
     {
