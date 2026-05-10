@@ -4649,6 +4649,9 @@
     },
     {
         "nickname": "suportthe1truestate",
+        "exit_address": [
+            "155.94.163.175"
+        ],
         "asn": "AS27176"
     },
     {
@@ -5268,9 +5271,6 @@
     },
     {
         "nickname": "dim",
-        "exit_address": [
-            "45.91.194.198"
-        ],
         "asn": "AS198189"
     },
     {
@@ -5381,6 +5381,10 @@
             "192.76.153.253"
         ],
         "asn": "AS60404"
+    },
+    {
+        "nickname": "FckPtnNRW",
+        "asn": "AS197540"
     },
     {
         "nickname": "nothingtoseehere",
@@ -6712,7 +6716,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS212238"
+        "asn": "AS3257"
     },
     {
         "nickname": "nobuhide",
@@ -9101,10 +9105,6 @@
     {
         "nickname": "MksNode2",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "RussianHackerPi",
-        "asn": "AS7922"
     },
     {
         "nickname": "DefendRojava",
@@ -13998,10 +13998,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "HeyBroM",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "Kperry",
         "asn": "AS42237"
     },
@@ -15845,7 +15841,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -28726,10 +28722,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "sexytiem",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "toradol",
         "asn": "AS11426"
     },
@@ -29038,6 +29030,10 @@
     {
         "nickname": "artikel10buc22",
         "asn": "AS200651"
+    },
+    {
+        "nickname": "TV7184",
+        "asn": "AS22927"
     },
     {
         "nickname": "francelover",
@@ -36509,6 +36505,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
@@ -47410,10 +47407,6 @@
             "103.195.5.178"
         ],
         "asn": "AS64022"
-    },
-    {
-        "nickname": "Dumbledore",
-        "asn": "AS53667"
     },
     {
         "nickname": "Assange007uk",
