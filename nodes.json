@@ -1403,7 +1403,7 @@
         "asn": "AS57269"
     },
     {
-        "nickname": "TV8619",
+        "nickname": "TV4548",
         "asn": "AS27747"
     },
     {
@@ -1498,6 +1498,10 @@
             "23.129.64.154"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "BlooseClues",
+        "asn": "AS263812"
     },
     {
         "nickname": "Oberwallis",
@@ -10847,9 +10851,6 @@
     },
     {
         "nickname": "scruffy",
-        "exit_address": [
-            "84.212.130.191"
-        ],
         "asn": "AS25400"
     },
     {
@@ -16367,10 +16368,6 @@
     {
         "nickname": "NTH157R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "PrivacyIsRight",
-        "asn": "AS32167"
     },
     {
         "nickname": "doraemon",
@@ -24461,7 +24458,8 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "104.193.135.243"
+            "104.193.135.243",
+            "184.75.221.163"
         ],
         "asn": "AS32489"
     },
