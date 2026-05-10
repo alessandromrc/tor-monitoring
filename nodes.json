@@ -1645,9 +1645,6 @@
     },
     {
         "nickname": "PrincessShroob",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -4686,6 +4683,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "Zuko",
+        "asn": "AS64022"
+    },
+    {
         "nickname": "casaholiday",
         "asn": "AS23033"
     },
@@ -6154,6 +6155,10 @@
     {
         "nickname": "bellyof666thebeast",
         "asn": "AS44925"
+    },
+    {
+        "nickname": "PrometheusLS",
+        "asn": "AS3320"
     },
     {
         "nickname": "beteigeuze42",
@@ -9122,6 +9127,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "sioloke",
+        "asn": "AS49592"
+    },
+    {
         "nickname": "slinky20",
         "asn": "AS400175"
     },
@@ -9968,6 +9977,10 @@
             "185.220.101.32"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Zuko",
+        "asn": "AS64022"
     },
     {
         "nickname": "iRelay",
@@ -24440,7 +24453,6 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "104.193.135.243",
             "184.75.221.163"
         ],
         "asn": "AS32489"
@@ -27118,6 +27130,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.50",
             "185.241.208.67"
         ],
         "asn": "AS210558"
@@ -29948,6 +29961,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
@@ -30850,6 +30864,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
@@ -34224,6 +34239,10 @@
             "45.94.31.68"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Zuko",
+        "asn": "AS64022"
     },
     {
         "nickname": "JFKOnionTower",
@@ -39776,10 +39795,6 @@
         "asn": "AS27651"
     },
     {
-        "nickname": "RestoreEU",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "Relay7238",
         "asn": "AS210976"
     },
@@ -41078,9 +41093,6 @@
     },
     {
         "nickname": "PrincessShokora",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -50887,6 +50899,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
+            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
