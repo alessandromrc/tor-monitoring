@@ -2609,10 +2609,6 @@
         "asn": "AS52423"
     },
     {
-        "nickname": "torclipPost11",
-        "asn": "AS14956"
-    },
-    {
         "nickname": "PommespanzerDE8",
         "asn": "AS8560"
     },
@@ -5282,6 +5278,9 @@
     },
     {
         "nickname": "dim",
+        "exit_address": [
+            "45.91.194.198"
+        ],
         "asn": "AS198189"
     },
     {
@@ -7984,6 +7983,9 @@
     },
     {
         "nickname": "ExitZwiebel",
+        "exit_address": [
+            "91.107.230.155"
+        ],
         "asn": "AS24940"
     },
     {
@@ -18218,6 +18220,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "0xdeadbeef",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "TorNode07dot2",
         "asn": "AS8560"
     },
@@ -20730,7 +20736,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
@@ -22477,7 +22483,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "CirithUngol",
@@ -23830,7 +23836,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "Misaka",
@@ -25489,6 +25495,10 @@
     {
         "nickname": "sonnydigital",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "AwsFreeBsd",
+        "asn": "AS16509"
     },
     {
         "nickname": "JohnTheFisherman",
@@ -31044,7 +31054,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "tokirei",
@@ -34395,7 +34405,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "r0cket14i1",
@@ -36515,7 +36525,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "sahil",
@@ -44258,7 +44268,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "raspberry",
@@ -48559,7 +48569,7 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "asn": "AS211619"
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
