@@ -11640,9 +11640,6 @@
     },
     {
         "nickname": "Zuko",
-        "exit_address": [
-            "74.113.232.249"
-        ],
         "asn": "AS36007"
     },
     {
@@ -12219,6 +12216,10 @@
     {
         "nickname": "Xer0mid",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Rybmt",
+        "asn": "AS210874"
     },
     {
         "nickname": "BigDaddy",
@@ -23799,9 +23800,6 @@
     },
     {
         "nickname": "Zuko",
-        "exit_address": [
-            "91.226.72.190"
-        ],
         "asn": "AS44709"
     },
     {
@@ -25417,10 +25415,6 @@
             "104.244.76.237"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ToRUhU",
-        "asn": "AS8560"
     },
     {
         "nickname": "TacticalAtom",
@@ -28418,9 +28412,6 @@
     },
     {
         "nickname": "Zuko",
-        "exit_address": [
-            "113.30.148.44"
-        ],
         "asn": "AS36007"
     },
     {
@@ -40675,10 +40666,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "thingyRelay",
-        "asn": "AS12364"
-    },
-    {
         "nickname": "F3Netze",
         "exit_address": [
             "185.220.100.242"
@@ -51827,6 +51814,10 @@
             "45.141.215.97"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Rynbmt",
+        "asn": "AS210874"
     },
     {
         "nickname": "NTH42R8",
