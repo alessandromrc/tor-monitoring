@@ -2705,7 +2705,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
@@ -3929,9 +3928,6 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
-        "exit_address": [
-            "23.137.253.113"
-        ],
         "asn": "AS40663"
     },
     {
@@ -6460,6 +6456,9 @@
     },
     {
         "nickname": "netanyahu",
+        "exit_address": [
+            "45.137.201.67"
+        ],
         "asn": "AS211507"
     },
     {
@@ -13790,10 +13789,6 @@
             "64.94.85.248"
         ],
         "asn": "AS399629"
-    },
-    {
-        "nickname": "CestPasDLaMerde22",
-        "asn": "AS12322"
     },
     {
         "nickname": "fatamorgana",
@@ -27943,10 +27938,6 @@
         "asn": "AS199950"
     },
     {
-        "nickname": "foucellas",
-        "asn": "AS3352"
-    },
-    {
         "nickname": "Dathomir",
         "asn": "AS197540"
     },
@@ -30889,7 +30880,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "185.241.208.184",
             "185.241.208.93"
         ],
         "asn": "AS210558"
@@ -34188,10 +34178,6 @@
     {
         "nickname": "NetMonNetworksUK2",
         "asn": "AS2856"
-    },
-    {
-        "nickname": "CestPasDLaMerde11",
-        "asn": "AS12322"
     },
     {
         "nickname": "TorMsgqIO",
@@ -39722,10 +39708,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "CestPasDLaMerde33",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "doinks",
         "asn": "AS36352"
     },
@@ -44248,7 +44230,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV731",
+        "nickname": "TV5891",
         "asn": "AS701"
     },
     {
@@ -50631,7 +50613,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
