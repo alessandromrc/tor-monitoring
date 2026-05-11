@@ -1072,10 +1072,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "takei",
         "asn": "AS34702"
     },
@@ -1403,7 +1399,7 @@
         "asn": "AS57269"
     },
     {
-        "nickname": "TV4523",
+        "nickname": "TV8416",
         "asn": "AS27747"
     },
     {
@@ -3154,10 +3150,6 @@
     {
         "nickname": "litserver",
         "asn": "AS60404"
-    },
-    {
-        "nickname": "testnodeams3",
-        "asn": "AS14061"
     },
     {
         "nickname": "mentoreth2",
@@ -6569,10 +6561,6 @@
         "asn": "AS39392"
     },
     {
-        "nickname": "NowMoneroBuyBuy",
-        "asn": "AS215362"
-    },
-    {
         "nickname": "slotor03",
         "asn": "AS16276"
     },
@@ -7043,10 +7031,6 @@
     {
         "nickname": "Karin4713",
         "asn": "AS3301"
-    },
-    {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
     },
     {
         "nickname": "UnredactedDeKort",
@@ -8742,10 +8726,6 @@
             "192.42.116.47"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
     },
     {
         "nickname": "duki",
@@ -16438,10 +16418,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "Tessa",
         "asn": "AS19045"
     },
@@ -17240,9 +17216,6 @@
     },
     {
         "nickname": "FJB3",
-        "exit_address": [
-            "104.168.4.155"
-        ],
         "asn": "AS36352"
     },
     {
@@ -17772,7 +17745,7 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "TV109",
+        "nickname": "TV4840",
         "asn": "AS8151"
     },
     {
@@ -18155,10 +18128,6 @@
             "107.189.3.148"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
     },
     {
         "nickname": "DFRI30",
@@ -20736,6 +20705,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -22442,9 +22414,6 @@
     },
     {
         "nickname": "FJB2",
-        "exit_address": [
-            "107.172.132.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -22483,6 +22452,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -22581,6 +22553,10 @@
             "45.138.16.118"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TV9563",
+        "asn": "AS22773"
     },
     {
         "nickname": "artikel10ber63",
@@ -23836,6 +23812,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -25678,9 +25657,6 @@
     },
     {
         "nickname": "FJB5",
-        "exit_address": [
-            "198.46.168.20"
-        ],
         "asn": "AS36352"
     },
     {
@@ -26767,9 +26743,6 @@
     },
     {
         "nickname": "FJB4",
-        "exit_address": [
-            "172.245.106.222"
-        ],
         "asn": "AS36352"
     },
     {
@@ -28210,10 +28183,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "artikel10ber75",
         "exit_address": [
             "185.220.101.19"
@@ -28897,9 +28866,6 @@
     },
     {
         "nickname": "FJB1",
-        "exit_address": [
-            "192.210.133.13"
-        ],
         "asn": "AS36352"
     },
     {
@@ -31054,6 +31020,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -33721,10 +33690,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "XeriRelay",
         "asn": "AS51167"
     },
@@ -34405,6 +34370,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -35336,6 +35304,10 @@
     {
         "nickname": "honeycomb",
         "asn": "AS51659"
+    },
+    {
+        "nickname": "vanadium",
+        "asn": "AS20055"
     },
     {
         "nickname": "berenstainbears",
@@ -36525,6 +36497,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -44268,6 +44243,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -44704,10 +44682,6 @@
             "45.141.215.28"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
     },
     {
         "nickname": "ZynR02",
@@ -45285,10 +45259,6 @@
     {
         "nickname": "Killix",
         "asn": "AS329325"
-    },
-    {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
     },
     {
         "nickname": "iLoveColonThree",
@@ -47607,10 +47577,6 @@
         "asn": "AS213468"
     },
     {
-        "nickname": "MoneyMaker",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "sixpress",
         "asn": "AS36849"
     },
@@ -48569,6 +48535,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.241.208.50"
+        ],
         "asn": "AS210558"
     },
     {
@@ -50671,7 +50640,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
