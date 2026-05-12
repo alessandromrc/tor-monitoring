@@ -10611,10 +10611,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "middlerelay",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "FEVI02EXIT",
         "exit_address": [
             "23.134.88.61"
@@ -27069,8 +27065,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141",
-            "198.167.206.235"
+            "198.167.206.141"
         ],
         "asn": "AS39287"
     },
@@ -49629,10 +49624,6 @@
             "185.220.101.30"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "FotzenFritzbyUGN",
-        "asn": "AS3320"
     },
     {
         "nickname": "eth0",
