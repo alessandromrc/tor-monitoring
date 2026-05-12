@@ -7810,10 +7810,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "RussellHomeRelay",
-        "asn": "AS3462"
-    },
-    {
         "nickname": "tivasavage",
         "asn": "AS36849"
     },
@@ -13536,10 +13532,6 @@
             "45.84.107.174"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "zombidevvps1",
-        "asn": "AS216382"
     },
     {
         "nickname": "DFRI76",
@@ -24309,6 +24301,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "RadicalPrivacyRelay",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "outatime",
         "asn": "AS8560"
     },
@@ -24766,6 +24762,9 @@
     },
     {
         "nickname": "BackroomExit01",
+        "exit_address": [
+            "121.127.34.40"
+        ],
         "asn": "AS400587"
     },
     {
@@ -44983,7 +44982,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV7096",
+        "nickname": "TV5047",
         "asn": "AS7303"
     },
     {
