@@ -8442,10 +8442,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3816"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "80.94.92.99"
@@ -19034,7 +19030,7 @@
     },
     {
         "nickname": "toronada",
-        "asn": "AS57269"
+        "asn": "AS3352"
     },
     {
         "nickname": "algrothendieck2",
@@ -22373,6 +22369,10 @@
     {
         "nickname": "mendicantbias",
         "asn": "AS3061"
+    },
+    {
+        "nickname": "sFtor4",
+        "asn": "AS24940"
     },
     {
         "nickname": "natora",
@@ -37163,6 +37163,10 @@
     {
         "nickname": "quandorondo",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "ZetaRelayAlpha",
+        "asn": "AS20115"
     },
     {
         "nickname": "ChuckyHorror",
