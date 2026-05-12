@@ -3782,9 +3782,6 @@
     },
     {
         "nickname": "KyunTorExitNode",
-        "exit_address": [
-            "45.137.99.182"
-        ],
         "asn": "AS214209"
     },
     {
@@ -7714,10 +7711,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "acid74middleguard2",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "MateoRelay",
         "asn": "AS3352"
     },
@@ -8878,6 +8871,10 @@
             "124.198.132.13"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS199415"
     },
     {
         "nickname": "fsckinggoogle",
@@ -15841,9 +15838,6 @@
     },
     {
         "nickname": "dobromanian2",
-        "exit_address": [
-            "93.113.25.90"
-        ],
         "asn": "AS214209"
     },
     {
@@ -35665,6 +35659,10 @@
         "asn": "AS211507"
     },
     {
+        "nickname": "ar9tot",
+        "asn": "AS23969"
+    },
+    {
         "nickname": "Weeblelikesanon",
         "asn": "AS43289"
     },
@@ -44980,7 +44978,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV9360",
+        "nickname": "TV6556",
         "asn": "AS7303"
     },
     {
@@ -49993,7 +49991,7 @@
     },
     {
         "nickname": "ar93bb",
-        "asn": "AS23969"
+        "asn": "AS45758"
     },
     {
         "nickname": "ToolHaven692",
