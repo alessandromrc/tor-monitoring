@@ -11962,6 +11962,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.73.43"
+        ],
         "asn": "AS53667"
     },
     {
@@ -12638,10 +12641,6 @@
             "185.244.192.184"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "fraguinha",
-        "asn": "AS12353"
     },
     {
         "nickname": "Bastion",
@@ -24482,6 +24481,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "NSAGoAway",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "hayirseverbiri1337",
         "asn": "AS210538"
     },
@@ -24756,6 +24759,10 @@
     {
         "nickname": "gergernet2",
         "asn": "AS43150"
+    },
+    {
+        "nickname": "BackroomExit01",
+        "asn": "AS400587"
     },
     {
         "nickname": "KevinRelayMidwest",
@@ -27053,7 +27060,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141"
+            "198.167.206.141",
+            "198.167.206.252"
         ],
         "asn": "AS39287"
     },
@@ -30258,6 +30266,10 @@
             "195.80.151.242"
         ],
         "asn": "AS206804"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS26383"
     },
     {
         "nickname": "DFRI126",
@@ -35732,6 +35744,10 @@
         "asn": "AS30893"
     },
     {
+        "nickname": "VPSHSTor01",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "AgentSmith",
         "asn": "AS14061"
     },
@@ -36006,10 +36022,6 @@
             "154.53.58.161"
         ],
         "asn": "AS40021"
-    },
-    {
-        "nickname": "torwaresetup",
-        "asn": "AS214209"
     },
     {
         "nickname": "NerdyBloke",
@@ -37945,6 +37957,10 @@
     {
         "nickname": "ABOBA",
         "asn": "AS214279"
+    },
+    {
+        "nickname": "rathergonaked",
+        "asn": "AS3320"
     },
     {
         "nickname": "x4223001",
@@ -46946,10 +46962,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TorSidney",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "torrelay",
         "asn": "AS63949"
     },
@@ -52408,10 +52420,6 @@
             "185.241.208.115"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "pepinet",
-        "asn": "AS12586"
     },
     {
         "nickname": "menotfound",
