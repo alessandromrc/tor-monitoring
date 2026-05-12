@@ -14205,10 +14205,6 @@
         "asn": "AS52048"
     },
     {
-        "nickname": "PlainesPaisible",
-        "asn": "AS60781"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -20416,6 +20412,9 @@
     },
     {
         "nickname": "suclugumsky",
+        "exit_address": [
+            "85.90.207.185"
+        ],
         "asn": "AS202422"
     },
     {
@@ -46674,6 +46673,10 @@
             "87.118.122.30"
         ],
         "asn": "AS31103"
+    },
+    {
+        "nickname": "AsianBronk",
+        "asn": "AS16276"
     },
     {
         "nickname": "tr31",
