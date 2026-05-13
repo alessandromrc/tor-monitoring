@@ -1344,9 +1344,6 @@
     },
     {
         "nickname": "Zuko2",
-        "exit_address": [
-            "172.234.102.113"
-        ],
         "asn": "AS63949"
     },
     {
@@ -3343,9 +3340,6 @@
     },
     {
         "nickname": "Zuko1",
-        "exit_address": [
-            "172.239.18.89"
-        ],
         "asn": "AS63949"
     },
     {
@@ -7930,6 +7924,10 @@
         "asn": "AS214379"
     },
     {
+        "nickname": "GhostPacket",
+        "asn": "AS33993"
+    },
+    {
         "nickname": "PRQseTORexit3",
         "exit_address": [
             "88.80.26.4"
@@ -8341,9 +8339,6 @@
     },
     {
         "nickname": "Zuko12",
-        "exit_address": [
-            "172.239.15.141"
-        ],
         "asn": "AS63949"
     },
     {
@@ -16108,10 +16103,6 @@
         "asn": "AS209260"
     },
     {
-        "nickname": "MonRelaisTor",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -17370,10 +17361,6 @@
     {
         "nickname": "FireCudaRelay",
         "asn": "AS13030"
-    },
-    {
-        "nickname": "knob56",
-        "asn": "AS197540"
     },
     {
         "nickname": "eth0",
@@ -20278,9 +20265,6 @@
     },
     {
         "nickname": "Zuko14",
-        "exit_address": [
-            "172.239.15.141"
-        ],
         "asn": "AS63949"
     },
     {
@@ -25011,9 +24995,6 @@
     },
     {
         "nickname": "Zuko13",
-        "exit_address": [
-            "172.239.15.141"
-        ],
         "asn": "AS63949"
     },
     {
@@ -27493,9 +27474,6 @@
     },
     {
         "nickname": "Zuko11",
-        "exit_address": [
-            "172.239.15.141"
-        ],
         "asn": "AS63949"
     },
     {
@@ -37985,9 +37963,6 @@
     },
     {
         "nickname": "Zuko6",
-        "exit_address": [
-            "172.234.105.96"
-        ],
         "asn": "AS63949"
     },
     {
@@ -39832,10 +39807,6 @@
     {
         "nickname": "razek",
         "asn": "AS27651"
-    },
-    {
-        "nickname": "Relay7238",
-        "asn": "AS210976"
     },
     {
         "nickname": "zgato",
@@ -43487,6 +43458,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "GhostPacket",
+        "asn": "AS33993"
+    },
+    {
         "nickname": "2fjsaf2ja4da",
         "asn": "AS197540"
     },
@@ -45369,9 +45344,6 @@
     },
     {
         "nickname": "Zuko3",
-        "exit_address": [
-            "172.232.211.226"
-        ],
         "asn": "AS63949"
     },
     {
@@ -45886,6 +45858,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "anonymous",
+        "asn": "AS15435"
     },
     {
         "nickname": "marcuse5",
@@ -47173,9 +47149,6 @@
     },
     {
         "nickname": "Zuko5",
-        "exit_address": [
-            "172.105.27.160"
-        ],
         "asn": "AS63949"
     },
     {
@@ -47485,9 +47458,6 @@
     },
     {
         "nickname": "Zuko10",
-        "exit_address": [
-            "172.105.237.79"
-        ],
         "asn": "AS63949"
     },
     {
@@ -49226,9 +49196,6 @@
     },
     {
         "nickname": "Zuko7",
-        "exit_address": [
-            "104.105.78.83"
-        ],
         "asn": "AS63949"
     },
     {
