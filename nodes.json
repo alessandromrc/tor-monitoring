@@ -2209,6 +2209,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "9g4net8",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "YaCodeDev",
         "asn": "AS43376"
     },
@@ -3578,6 +3582,10 @@
             "45.84.107.182"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "Quetzalcoat",
+        "asn": "AS6697"
     },
     {
         "nickname": "SlugnetExitRelay02",
@@ -5722,6 +5730,10 @@
             "192.42.116.95"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "zitronentee",
+        "asn": "AS3320"
     },
     {
         "nickname": "UnredactedMurray",
@@ -17145,6 +17157,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "HyperNode",
+        "asn": "AS49581"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS45839"
     },
@@ -22256,6 +22272,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Quetzalcoat",
+        "asn": "AS6697"
+    },
+    {
         "nickname": "souRelayNode",
         "asn": "AS2527"
     },
@@ -26096,8 +26116,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.138",
-            "198.167.206.252"
+            "198.167.206.138"
         ],
         "asn": "AS39287"
     },
@@ -41383,10 +41402,6 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "zombidevro1",
-        "asn": "AS8708"
-    },
-    {
         "nickname": "TheShadowRoute13",
         "asn": "AS215288"
     },
@@ -48245,10 +48260,6 @@
     },
     {
         "nickname": "prsv",
-        "asn": "AS16276"
-    },
-    {
-        "nickname": "lqwer",
         "asn": "AS16276"
     },
     {
