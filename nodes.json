@@ -25435,6 +25435,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -49789,10 +49792,6 @@
             "192.42.116.107"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "NightVisonRadar",
-        "asn": "AS14956"
     },
     {
         "nickname": "Polyphemus11",
