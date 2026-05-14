@@ -1673,6 +1673,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "AnonymousZy",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "merc",
         "asn": "AS24940"
     },
@@ -6746,6 +6750,10 @@
         "asn": "AS201838"
     },
     {
+        "nickname": "Shroud",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -7182,10 +7190,6 @@
     {
         "nickname": "ndsrf",
         "asn": "AS3352"
-    },
-    {
-        "nickname": "disrupTOR",
-        "asn": "AS12876"
     },
     {
         "nickname": "NeelTorExit2B",
@@ -17109,7 +17113,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS3257"
+        "asn": "AS212238"
     },
     {
         "nickname": "Unnamed",
@@ -26193,7 +26197,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.138"
+            "198.167.206.138",
+            "198.167.206.188"
         ],
         "asn": "AS39287"
     },
@@ -32046,10 +32051,6 @@
     {
         "nickname": "stratus7",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "torricelli",
-        "asn": "AS8560"
     },
     {
         "nickname": "davidray",
@@ -40129,6 +40130,10 @@
         "asn": "AS5378"
     },
     {
+        "nickname": "TR01",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "eruption",
         "asn": "AS63023"
     },
@@ -42746,9 +42751,6 @@
     },
     {
         "nickname": "BringBackSilkRo",
-        "exit_address": [
-            "141.98.11.62"
-        ],
         "asn": "AS209605"
     },
     {
@@ -43549,7 +43551,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV640",
+        "nickname": "TV9201",
         "asn": "AS7303"
     },
     {
@@ -44575,7 +44577,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -48969,7 +48971,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
