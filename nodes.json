@@ -650,10 +650,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "GermanyRelay",
-        "asn": "AS400992"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.141.215.97"
@@ -6493,7 +6489,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "nobuhide",
@@ -15309,7 +15305,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS212238"
+        "asn": "AS3257"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -26330,6 +26326,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.141.215.95"
+        ],
         "asn": "AS210558"
     },
     {
@@ -26552,7 +26551,7 @@
         "asn": "AS5483"
     },
     {
-        "nickname": "TV7054",
+        "nickname": "TV456",
         "asn": "AS22927"
     },
     {
@@ -29625,10 +29624,6 @@
         "asn": "AS131965"
     },
     {
-        "nickname": "TV7024",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "Furburglur",
         "asn": "AS8560"
     },
@@ -31909,7 +31904,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "EddysRelay",
+        "nickname": "BreathlessRelay",
         "asn": "AS214504"
     },
     {
@@ -33871,6 +33866,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "overcloaked",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "pewpew",
         "asn": "AS8560"
     },
@@ -34197,10 +34196,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "malisa",
-        "asn": "AS45102"
     },
     {
         "nickname": "tor04kryptonit",
@@ -41173,6 +41168,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "45.141.215.110"
+        ],
         "asn": "AS210558"
     },
     {
@@ -44577,7 +44575,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "Splinter",
