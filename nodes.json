@@ -3611,10 +3611,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "torry2",
-        "asn": "AS6805"
-    },
-    {
         "nickname": "KyunTorExitNode",
         "asn": "AS214209"
     },
@@ -11587,6 +11583,9 @@
     },
     {
         "nickname": "ExitGeek04",
+        "exit_address": [
+            "185.121.170.60"
+        ],
         "asn": "AS44570"
     },
     {
@@ -22430,6 +22429,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "FrankyFourFingers",
+        "asn": "AS33915"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -23596,6 +23599,10 @@
             "23.129.64.184"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS215540"
     },
     {
         "nickname": "Kanellos",
@@ -25049,10 +25056,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "tonyRelayHost",
-        "asn": "AS9416"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -27318,6 +27321,9 @@
     },
     {
         "nickname": "ExitGeek01",
+        "exit_address": [
+            "23.134.88.61"
+        ],
         "asn": "AS924"
     },
     {
@@ -30603,6 +30609,9 @@
     },
     {
         "nickname": "ExitGeek02",
+        "exit_address": [
+            "23.134.88.60"
+        ],
         "asn": "AS924"
     },
     {
@@ -38367,6 +38376,9 @@
     },
     {
         "nickname": "ExitGeek03",
+        "exit_address": [
+            "185.121.170.61"
+        ],
         "asn": "AS44570"
     },
     {
@@ -47081,10 +47093,6 @@
     {
         "nickname": "RelayUli",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "MyUmbrelMiddle",
-        "asn": "AS8764"
     },
     {
         "nickname": "Nehalennia",
