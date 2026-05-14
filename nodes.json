@@ -3009,10 +3009,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS49447"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -4875,6 +4871,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
+    },
+    {
+        "nickname": "4546mDom",
+        "asn": "AS29222"
     },
     {
         "nickname": "myLittleRelay",
@@ -7380,10 +7380,6 @@
     {
         "nickname": "Testing",
         "asn": "AS201838"
-    },
-    {
-        "nickname": "FlashShark",
-        "asn": "AS213251"
     },
     {
         "nickname": "thevine",
@@ -19908,6 +19904,10 @@
         "asn": "AS6206"
     },
     {
+        "nickname": "angaRelay",
+        "asn": "AS5410"
+    },
+    {
         "nickname": "artikel10ber17",
         "exit_address": [
             "185.220.101.5"
@@ -31114,10 +31114,6 @@
     {
         "nickname": "supermid",
         "asn": "AS48314"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS5056"
     },
     {
         "nickname": "MyCore2Tor",
