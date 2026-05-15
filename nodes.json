@@ -3922,10 +3922,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS215362"
-    },
-    {
         "nickname": "dxxdxdx00001",
         "asn": "AS48314"
     },
@@ -20526,10 +20522,6 @@
         "asn": "AS33993"
     },
     {
-        "nickname": "SCSRelay",
-        "asn": "AS398924"
-    },
-    {
         "nickname": "katharina",
         "asn": "AS209605"
     },
@@ -24505,6 +24497,9 @@
     },
     {
         "nickname": "nicotine",
+        "exit_address": [
+            "45.9.168.95"
+        ],
         "asn": "AS211619"
     },
     {
@@ -50140,6 +50135,9 @@
     },
     {
         "nickname": "cafeine",
+        "exit_address": [
+            "45.9.168.96"
+        ],
         "asn": "AS211619"
     },
     {
@@ -52446,7 +52444,7 @@
         "asn": "AS1653"
     },
     {
-        "nickname": "TV8881",
+        "nickname": "TV1408",
         "asn": "AS8151"
     },
     {
