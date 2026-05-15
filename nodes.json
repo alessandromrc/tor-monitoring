@@ -1872,10 +1872,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "annatesla",
-        "asn": "AS60404"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -8103,9 +8099,6 @@
     },
     {
         "nickname": "lumenforge",
-        "exit_address": [
-            "185.12.44.163"
-        ],
         "asn": "AS51852"
     },
     {
@@ -8243,7 +8236,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6603",
+        "nickname": "TV8783",
         "asn": "AS12322"
     },
     {
@@ -15566,9 +15559,6 @@
     },
     {
         "nickname": "HCoil",
-        "exit_address": [
-            "212.86.126.239"
-        ],
         "asn": "AS43641"
     },
     {
@@ -23268,6 +23258,10 @@
     {
         "nickname": "nodebyCyper",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "masstornyc",
+        "asn": "AS36352"
     },
     {
         "nickname": "UnredactedWhitrst",
@@ -41770,9 +41764,6 @@
     },
     {
         "nickname": "quantumflux",
-        "exit_address": [
-            "141.255.167.134"
-        ],
         "asn": "AS51852"
     },
     {
@@ -43519,7 +43510,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV5343",
+        "nickname": "TV7255",
         "asn": "AS7303"
     },
     {
