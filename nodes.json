@@ -996,6 +996,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "MoonRelay",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "nmslcnmbsb",
         "asn": "AS60841"
     },
@@ -14307,10 +14311,6 @@
         "asn": "AS6730"
     },
     {
-        "nickname": "whoami",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "IamCORNHOLIO",
         "exit_address": [
             "5.255.115.58"
@@ -23899,10 +23899,6 @@
         "asn": "AS6181"
     },
     {
-        "nickname": "pige0n",
-        "asn": "AS5483"
-    },
-    {
         "nickname": "sabotage",
         "exit_address": [
             "45.66.35.35"
@@ -29039,6 +29035,10 @@
     {
         "nickname": "opencommunity",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "ShadowRelay",
+        "asn": "AS197540"
     },
     {
         "nickname": "UberSucks",
@@ -49197,6 +49197,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Bumin",
+        "asn": "AS43641"
+    },
+    {
         "nickname": "artikel10ber77",
         "exit_address": [
             "185.220.101.20"
@@ -50302,6 +50306,10 @@
             "107.189.29.184"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS209847"
     },
     {
         "nickname": "adler",
