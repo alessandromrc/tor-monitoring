@@ -4466,6 +4466,10 @@
         "asn": "AS64022"
     },
     {
+        "nickname": "newsydfortor",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "casaholiday",
         "asn": "AS23033"
     },
@@ -13733,6 +13737,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.160"
+        ],
         "asn": "AS400226"
     },
     {
@@ -15821,10 +15828,6 @@
         "asn": "AS24961"
     },
     {
-        "nickname": "ShadowMiddleman",
-        "asn": "AS6855"
-    },
-    {
         "nickname": "Hermodr",
         "asn": "AS3303"
     },
@@ -17634,6 +17637,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.162"
+        ],
         "asn": "AS400226"
     },
     {
@@ -24139,6 +24145,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.161"
+        ],
         "asn": "AS400226"
     },
     {
@@ -27043,10 +27052,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "SaL",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "xinchaovit",
         "exit_address": [
             "125.212.241.131"
@@ -27760,6 +27765,9 @@
     },
     {
         "nickname": "dreary",
+        "exit_address": [
+            "45.137.69.9"
+        ],
         "asn": "AS211507"
     },
     {
@@ -34292,9 +34300,6 @@
     },
     {
         "nickname": "NadekoNet",
-        "exit_address": [
-            "38.134.41.34"
-        ],
         "asn": "AS399646"
     },
     {
@@ -45289,6 +45294,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.163"
+        ],
         "asn": "AS400226"
     },
     {
@@ -51131,6 +51139,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.164"
+        ],
         "asn": "AS400226"
     },
     {
@@ -51594,6 +51605,10 @@
     {
         "nickname": "Senftokyo",
         "asn": "AS63473"
+    },
+    {
+        "nickname": "PPSStudios",
+        "asn": "AS7922"
     },
     {
         "nickname": "HeliosReaper",
