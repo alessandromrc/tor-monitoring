@@ -1087,6 +1087,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "gergernet2",
+        "asn": "AS43150"
+    },
+    {
         "nickname": "as214958tor8",
         "asn": "AS8283"
     },
@@ -10254,10 +10258,6 @@
     {
         "nickname": "FuckYouPutin",
         "asn": "AS6871"
-    },
-    {
-        "nickname": "default",
-        "asn": "AS24940"
     },
     {
         "nickname": "FEVI02EXIT",
@@ -49193,6 +49193,9 @@
     },
     {
         "nickname": "Bumin",
+        "exit_address": [
+            "138.226.243.205"
+        ],
         "asn": "AS43641"
     },
     {
