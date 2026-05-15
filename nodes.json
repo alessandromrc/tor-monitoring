@@ -11851,10 +11851,6 @@
         "asn": "AS44382"
     },
     {
-        "nickname": "DFtor01",
-        "asn": "AS2856"
-    },
-    {
         "nickname": "immortal",
         "asn": "AS36849"
     },
@@ -15156,6 +15152,10 @@
     {
         "nickname": "SilentOrbit",
         "asn": "AS398256"
+    },
+    {
+        "nickname": "SteveJobless",
+        "asn": "AS47583"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -32703,6 +32703,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "SixSeven",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "NTH64R7",
         "exit_address": [
             "192.42.116.64"
@@ -34928,10 +34932,6 @@
     {
         "nickname": "Echidna4",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "BWV639",
-        "asn": "AS63949"
     },
     {
         "nickname": "denzelzel",
@@ -37409,10 +37409,6 @@
         "asn": "AS395354"
     },
     {
-        "nickname": "Zuko9",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "MyDietPiRelay",
         "asn": "AS6128"
     },
@@ -38800,6 +38796,10 @@
     },
     {
         "nickname": "defconrelay12",
+        "asn": "AS7922"
+    },
+    {
+        "nickname": "SopwithCamelG",
         "asn": "AS7922"
     },
     {
@@ -43125,6 +43125,10 @@
             "185.220.101.1"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Birdie",
+        "asn": "AS13308"
     },
     {
         "nickname": "Laputa",
@@ -48984,7 +48988,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
