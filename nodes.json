@@ -3509,10 +3509,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "MyRelay9127",
-        "asn": "AS6866"
-    },
-    {
         "nickname": "nomen",
         "asn": "AS9009"
     },
@@ -8165,6 +8161,10 @@
         "asn": "AS42675"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS59878"
+    },
+    {
         "nickname": "catpain",
         "asn": "AS30633"
     },
@@ -8241,7 +8241,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6361",
+        "nickname": "TV7190",
         "asn": "AS12322"
     },
     {
@@ -16184,6 +16184,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "itarelay",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "SSDNodesNLexit2",
         "exit_address": [
             "185.246.190.136"
@@ -17289,6 +17293,10 @@
     {
         "nickname": "Gobert",
         "asn": "AS3356"
+    },
+    {
+        "nickname": "FFirewall",
+        "asn": "AS1221"
     },
     {
         "nickname": "DFRI87",
@@ -43137,6 +43145,10 @@
             "89.147.110.82"
         ],
         "asn": "AS44925"
+    },
+    {
+        "nickname": "hotpuppiesnearme",
+        "asn": "AS44486"
     },
     {
         "nickname": "FEVI08",
