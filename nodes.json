@@ -23237,6 +23237,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "Sud1Guard",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "ymmv1",
         "asn": "AS51396"
     },
@@ -25535,9 +25539,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -31309,10 +31310,6 @@
             "86.54.28.49"
         ],
         "asn": "AS12989"
-    },
-    {
-        "nickname": "TV468",
-        "asn": "AS4007"
     },
     {
         "nickname": "joynerlucas",
@@ -40113,7 +40110,7 @@
         "asn": "AS5378"
     },
     {
-        "nickname": "TRS01",
+        "nickname": "TR01",
         "asn": "AS3320"
     },
     {
