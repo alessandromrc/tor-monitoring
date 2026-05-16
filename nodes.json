@@ -5038,9 +5038,6 @@
     },
     {
         "nickname": "dim",
-        "exit_address": [
-            "45.91.194.198"
-        ],
         "asn": "AS198189"
     },
     {
@@ -5898,6 +5895,10 @@
     {
         "nickname": "bellyof666thebeast",
         "asn": "AS44925"
+    },
+    {
+        "nickname": "TV7001",
+        "asn": "AS8151"
     },
     {
         "nickname": "PrometheusLS",
@@ -14085,10 +14086,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "UltraVPS",
-        "asn": "AS53340"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -14624,6 +14621,10 @@
     {
         "nickname": "updater",
         "asn": "AS394380"
+    },
+    {
+        "nickname": "TorRelay27",
+        "asn": "AS7018"
     },
     {
         "nickname": "Unnamed",
@@ -25539,6 +25540,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -27366,10 +27370,6 @@
             "23.191.200.99"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "cdbrelay01",
-        "asn": "AS20473"
     },
     {
         "nickname": "NTH101R5",
