@@ -6334,10 +6334,6 @@
         "asn": "AS207992"
     },
     {
-        "nickname": "tspxrc1",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "XMRisGoldCrypto",
         "asn": "AS26383"
     },
@@ -30752,6 +30748,9 @@
     },
     {
         "nickname": "mirage",
+        "exit_address": [
+            "91.219.237.39"
+        ],
         "asn": "AS56322"
     },
     {
