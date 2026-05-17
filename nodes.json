@@ -1587,7 +1587,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV4564",
+        "nickname": "TV2573",
         "asn": "AS22927"
     },
     {
@@ -6262,6 +6262,10 @@
         "asn": "AS59491"
     },
     {
+        "nickname": "Yevgeni",
+        "asn": "AS214504"
+    },
+    {
         "nickname": "RuiNetworkUS",
         "exit_address": [
             "209.141.55.88"
@@ -6660,6 +6664,10 @@
     {
         "nickname": "eth0",
         "asn": "AS204601"
+    },
+    {
+        "nickname": "yikesmoe",
+        "asn": "AS16276"
     },
     {
         "nickname": "ilovemakonnen",
@@ -26536,7 +26544,7 @@
         "asn": "AS5483"
     },
     {
-        "nickname": "TV8786",
+        "nickname": "TV8837",
         "asn": "AS22927"
     },
     {
@@ -40781,9 +40789,6 @@
     },
     {
         "nickname": "UnredactedAssange",
-        "exit_address": [
-            "23.191.200.4"
-        ],
         "asn": "AS401401"
     },
     {
@@ -48562,8 +48567,7 @@
     {
         "nickname": "NeelTorExit1A",
         "exit_address": [
-            "147.90.234.30",
-            "38.135.24.30"
+            "147.90.234.30"
         ],
         "asn": "AS27284"
     },
@@ -51357,8 +51361,7 @@
     {
         "nickname": "NeelTorExit2A",
         "exit_address": [
-            "147.90.234.63",
-            "38.135.24.31"
+            "147.90.234.63"
         ],
         "asn": "AS27284"
     },
