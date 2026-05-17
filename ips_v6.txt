@@ -795,6 +795,7 @@
 2001:8a0:7eec:f303::3
 2a0b:f4c2:1::152
 2a02:168:83d4:7777:48b6:8fff:feb0:bb1e
+2a00:c020:40fe:1f13::6969
 2a09:be40:28ff:50:be24:11ff:fe14:a14d
 2a03:b0c0:2:d0::f43:5001
 2a0b:f4c2::17
@@ -1963,7 +1964,6 @@
 2001:1600:13:101::ea6
 2a07:e03:3:173::1
 2a01:4f9:c010:84bd::1
-2607:f2c0:f200:b02:7db9:c64f:2a6a:7bff
 2a01:4f8:10b:ee8::2
 2a03:94e0:ffff:185:125:171:0:72
 2400:6180:100:d0:0:1:3657:d001
@@ -3341,6 +3341,7 @@ fd9f:2e19:3bcf::1d:0447
 fd9f:2e19:3bcf::94:253b
 fd9f:2e19:3bcf::12:ded7
 fd9f:2e19:3bcf::b7:a351
+fd9f:2e19:3bcf::c6:6464
 fd9f:2e19:3bcf::51:2989
 fd9f:2e19:3bcf::eb:60c7
 fd9f:2e19:3bcf::e7:16a0
@@ -3858,7 +3859,6 @@ fd9f:2e19:3bcf::97:e125
 fd9f:2e19:3bcf::64:6d7e
 fd9f:2e19:3bcf::70:83fe
 fd9f:2e19:3bcf::8a:aae4
-fd9f:2e19:3bcf::87:853e
 fd9f:2e19:3bcf::5d:f5aa
 fd9f:2e19:3bcf::ba:5780
 fd9f:2e19:3bcf::04:7c9e
@@ -3939,7 +3939,6 @@ fd9f:2e19:3bcf::5f:55f5
 fd9f:2e19:3bcf::de:0022
 fd9f:2e19:3bcf::92:6206
 fd9f:2e19:3bcf::23:427c
-fd9f:2e19:3bcf::a9:3d57
 fd9f:2e19:3bcf::2f:6454
 fd9f:2e19:3bcf::46:fe12
 fd9f:2e19:3bcf::48:4d0b
@@ -4346,7 +4345,6 @@ fd9f:2e19:3bcf::b9:a64a
 fd9f:2e19:3bcf::08:e158
 fd9f:2e19:3bcf::f2:0f45
 fd9f:2e19:3bcf::94:97b2
-fd9f:2e19:3bcf::c3:5428
 fd9f:2e19:3bcf::eb:d2a4
 fd9f:2e19:3bcf::e6:b007
 fd9f:2e19:3bcf::03:3f47
@@ -4545,7 +4543,6 @@ fd9f:2e19:3bcf::9c:5625
 fd9f:2e19:3bcf::bd:4d68
 fd9f:2e19:3bcf::51:a9d8
 fd9f:2e19:3bcf::f5:c1e8
-fd9f:2e19:3bcf::1d:74f4
 fd9f:2e19:3bcf::4e:a403
 fd9f:2e19:3bcf::99:4c2b
 fd9f:2e19:3bcf::0c:ee8e
@@ -4558,7 +4555,7 @@ fd9f:2e19:3bcf::f8:a9cb
 fd9f:2e19:3bcf::74:7f2f
 fd9f:2e19:3bcf::ec:7db8
 fd9f:2e19:3bcf::e3:3ea0
-fd9f:2e19:3bcf::01:d4a8
+fd9f:2e19:3bcf::b6:8bfc
 fd9f:2e19:3bcf::ef:f7d7
 fd9f:2e19:3bcf::23:5213
 fd9f:2e19:3bcf::82:acb9
