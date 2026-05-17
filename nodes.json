@@ -1066,6 +1066,10 @@
         "asn": "AS214996"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS50053"
+    },
+    {
         "nickname": "Angelica",
         "asn": "AS35592"
     },
@@ -2824,9 +2828,6 @@
     },
     {
         "nickname": "TheMadHackerBison",
-        "exit_address": [
-            "45.38.20.153"
-        ],
         "asn": "AS215659"
     },
     {
@@ -6453,7 +6454,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "nobuhide",
@@ -8758,6 +8759,10 @@
     {
         "nickname": "MksNode2",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "Sixshot",
+        "asn": "AS58087"
     },
     {
         "nickname": "DefendRojava",
@@ -15276,7 +15281,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS212238"
+        "asn": "AS3257"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -30994,10 +30999,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS214472"
-    },
-    {
         "nickname": "atoratvm",
         "asn": "AS47172"
     },
@@ -41972,6 +41973,9 @@
     },
     {
         "nickname": "Alejandria",
+        "exit_address": [
+            "158.220.112.15"
+        ],
         "asn": "AS51167"
     },
     {
@@ -48866,9 +48870,6 @@
     },
     {
         "nickname": "SpokaneBronk",
-        "exit_address": [
-            "65.87.7.53"
-        ],
         "asn": "AS215659"
     },
     {
