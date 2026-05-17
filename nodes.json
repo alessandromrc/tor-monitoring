@@ -5388,6 +5388,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "hogRelay",
+        "asn": "AS5645"
+    },
+    {
         "nickname": "NTH156R1",
         "asn": "AS215125"
     },
@@ -14866,10 +14870,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Adamastor",
-        "asn": "AS2860"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "5.45.102.93"
@@ -17097,10 +17097,6 @@
             "139.99.172.11"
         ],
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS3209"
     },
     {
         "nickname": "stamppot",
@@ -26197,7 +26193,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.185",
             "198.167.206.246"
         ],
         "asn": "AS39287"
@@ -35308,6 +35303,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "torrage",
+        "asn": "AS6181"
+    },
+    {
         "nickname": "neuronMail",
         "asn": "AS63949"
     },
@@ -43591,10 +43590,6 @@
         "asn": "AS42487"
     },
     {
-        "nickname": "OnioZZoinO",
-        "asn": "AS24971"
-    },
-    {
         "nickname": "NCLS349",
         "asn": "AS11776"
     },
@@ -46745,6 +46740,10 @@
     {
         "nickname": "TheMadHackerLives",
         "asn": "AS216063"
+    },
+    {
+        "nickname": "CrystalSkyRelay",
+        "asn": "AS3320"
     },
     {
         "nickname": "ElToro",
