@@ -3190,10 +3190,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "rasmus",
-        "asn": "AS15557"
-    },
-    {
         "nickname": "billwoods",
         "asn": "AS36849"
     },
@@ -20489,6 +20485,9 @@
     },
     {
         "nickname": "SAEGW",
+        "exit_address": [
+            "102.206.117.134"
+        ],
         "asn": "AS328723"
     },
     {
@@ -26569,7 +26568,7 @@
         "asn": "AS5483"
     },
     {
-        "nickname": "TV4993",
+        "nickname": "TV3395",
         "asn": "AS22927"
     },
     {
@@ -41952,6 +41951,7 @@
     {
         "nickname": "NeelTorExit8B",
         "exit_address": [
+            "147.90.234.118",
             "38.135.25.144"
         ],
         "asn": "AS0"
