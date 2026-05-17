@@ -1587,7 +1587,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV1087",
+        "nickname": "TV1052",
         "asn": "AS22927"
     },
     {
@@ -2626,10 +2626,6 @@
             "185.241.208.93"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "Elbfischer",
-        "asn": "AS3320"
     },
     {
         "nickname": "marlonbrando",
@@ -5046,6 +5042,9 @@
     },
     {
         "nickname": "dim",
+        "exit_address": [
+            "176.65.142.198"
+        ],
         "asn": "AS0"
     },
     {
@@ -13601,7 +13600,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV99",
+        "nickname": "TV3066",
         "asn": "AS6057"
     },
     {
@@ -21933,10 +21932,6 @@
         "asn": "AS27176"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS206996"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -23264,10 +23259,6 @@
     {
         "nickname": "sipechunk1",
         "asn": "AS214481"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS48574"
     },
     {
         "nickname": "FragiGrenade",
@@ -25834,7 +25825,7 @@
         "asn": "AS400175"
     },
     {
-        "nickname": "vidi",
+        "nickname": "vini",
         "asn": "AS63473"
     },
     {
@@ -26572,7 +26563,7 @@
         "asn": "AS5483"
     },
     {
-        "nickname": "TV1930",
+        "nickname": "TV5672",
         "asn": "AS22927"
     },
     {
@@ -26773,10 +26764,6 @@
             "45.66.35.20"
         ],
         "asn": "AS61125"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS206996"
     },
     {
         "nickname": "twothree",
@@ -29363,10 +29350,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS206996"
-    },
-    {
         "nickname": "r0cket13i0",
         "exit_address": [
             "45.84.107.97"
@@ -31269,10 +31252,6 @@
     {
         "nickname": "ogmaco",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV993",
-        "asn": "AS28573"
     },
     {
         "nickname": "rtj",
@@ -40214,7 +40193,7 @@
         "asn": "AS5378"
     },
     {
-        "nickname": "TR01",
+        "nickname": "TRS01",
         "asn": "AS3320"
     },
     {
@@ -47513,6 +47492,10 @@
         "asn": "AS203003"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "PiRateRelay",
         "asn": "AS13037"
     },
@@ -47717,10 +47700,6 @@
     {
         "nickname": "MinchiTorNode",
         "asn": "AS577"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS206996"
     },
     {
         "nickname": "NTH44R2",
