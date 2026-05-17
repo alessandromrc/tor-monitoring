@@ -7175,9 +7175,10 @@
     {
         "nickname": "NeelTorExit2B",
         "exit_address": [
+            "147.90.234.63",
             "38.135.24.31"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "georgetor",
@@ -17732,9 +17733,10 @@
     {
         "nickname": "NeelTorExit6A",
         "exit_address": [
+            "147.90.234.116",
             "38.135.25.142"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "Apollo",
@@ -18567,6 +18569,7 @@
     {
         "nickname": "NeelTorExit1B",
         "exit_address": [
+            "147.90.234.30",
             "38.135.24.30"
         ],
         "asn": "AS0"
@@ -23365,7 +23368,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV6467",
+        "nickname": "TV5134",
         "asn": "AS28573"
     },
     {
@@ -27863,9 +27866,10 @@
     {
         "nickname": "NeelTorExit7A",
         "exit_address": [
+            "147.90.234.117",
             "38.135.25.143"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "prsv",
@@ -29795,6 +29799,7 @@
     {
         "nickname": "NeelTorExit7B",
         "exit_address": [
+            "147.90.234.117",
             "38.135.25.143"
         ],
         "asn": "AS27284"
@@ -37279,6 +37284,10 @@
         "asn": "AS1205"
     },
     {
+        "nickname": "panther",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.79.61"
@@ -39850,9 +39859,10 @@
     {
         "nickname": "NeelTorExit4A",
         "exit_address": [
+            "147.90.234.88",
             "38.135.24.33"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "PrincessShokora",
@@ -40089,9 +40099,10 @@
     {
         "nickname": "NeelTorExit8A",
         "exit_address": [
+            "147.90.234.118",
             "38.135.25.144"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "XMRStableCrypto",
@@ -41943,7 +41954,7 @@
         "exit_address": [
             "38.135.25.144"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "mykafrederic",
@@ -44202,9 +44213,10 @@
     {
         "nickname": "NeelTorExit4B",
         "exit_address": [
+            "147.90.234.88",
             "38.135.24.33"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "claire",
@@ -45921,6 +45933,10 @@
         "asn": "AS205100"
     },
     {
+        "nickname": "Meowrelay",
+        "asn": "AS43529"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "45.154.98.19"
@@ -46153,9 +46169,10 @@
     {
         "nickname": "NeelTorExit3A",
         "exit_address": [
+            "147.90.234.43",
             "38.135.24.32"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "MoneroBestPrice",
@@ -46855,9 +46872,10 @@
     {
         "nickname": "NeelTorExit3B",
         "exit_address": [
+            "147.90.234.43",
             "38.135.24.32"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "thecornersporerelay",
@@ -48883,9 +48901,10 @@
     {
         "nickname": "NeelTorExit6B",
         "exit_address": [
+            "147.90.234.116",
             "38.135.25.142"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "HappyToServeYou31",
@@ -49060,7 +49079,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -50008,9 +50027,10 @@
     {
         "nickname": "NeelTorExit5B",
         "exit_address": [
+            "147.90.234.115",
             "38.135.25.141"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "torNodeDelta",
@@ -50508,9 +50528,10 @@
     {
         "nickname": "NeelTorExit5A",
         "exit_address": [
+            "147.90.234.115",
             "38.135.25.141"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "theprivacyhaven",
@@ -51404,9 +51425,10 @@
     {
         "nickname": "NeelTorExit2A",
         "exit_address": [
+            "147.90.234.63",
             "38.135.24.31"
         ],
-        "asn": "AS27284"
+        "asn": "AS0"
     },
     {
         "nickname": "Quetzalcoatl",
