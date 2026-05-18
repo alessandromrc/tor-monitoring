@@ -3705,9 +3705,6 @@
     },
     {
         "nickname": "UnredactedDrake",
-        "exit_address": [
-            "23.191.200.6"
-        ],
         "asn": "AS401401"
     },
     {
@@ -30668,6 +30665,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "PhotonenRelay",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "babysmoove",
         "asn": "AS36849"
     },
@@ -46767,10 +46768,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "h2techtor",
-        "asn": "AS17290"
-    },
-    {
         "nickname": "SpiritBomb",
         "asn": "AS51167"
     },
@@ -47342,6 +47339,10 @@
     {
         "nickname": "Tyrion",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "imprezahostis01",
+        "asn": "AS200651"
     },
     {
         "nickname": "MyMiddleRelay",
