@@ -10463,6 +10463,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.130.191"
+        ],
         "asn": "AS25400"
     },
     {
@@ -11902,6 +11905,9 @@
     },
     {
         "nickname": "ididnteditheconfig",
+        "exit_address": [
+            "45.142.141.134"
+        ],
         "asn": "AS39287"
     },
     {
@@ -21782,10 +21788,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV9563",
-        "asn": "AS22773"
-    },
-    {
         "nickname": "artikel10ber63",
         "exit_address": [
             "185.220.101.16"
@@ -25420,6 +25422,9 @@
     },
     {
         "nickname": "tordeep123E",
+        "exit_address": [
+            "80.78.24.192"
+        ],
         "asn": "AS39287"
     },
     {
@@ -32318,7 +32323,7 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "TV4707",
+        "nickname": "TV3122",
         "asn": "AS7303"
     },
     {
