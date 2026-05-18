@@ -7588,7 +7588,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV6334",
+        "nickname": "TV9908",
         "asn": "AS27747"
     },
     {
@@ -8685,6 +8685,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
+    },
+    {
+        "nickname": "haruto",
+        "asn": "AS215659"
     },
     {
         "nickname": "AnotherTorNode1202",
@@ -16342,6 +16346,10 @@
         "asn": "AS44133"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
+    },
+    {
         "nickname": "9g4net5",
         "asn": "AS8560"
     },
@@ -19166,6 +19174,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.73.193"
+        ],
         "asn": "AS53667"
     },
     {
@@ -26195,9 +26206,6 @@
     },
     {
         "nickname": "europeantgah",
-        "exit_address": [
-            "198.167.206.246"
-        ],
         "asn": "AS39287"
     },
     {
@@ -38866,6 +38874,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "NLOscillator1",
+        "asn": "AS43350"
+    },
+    {
         "nickname": "chilli",
         "exit_address": [
             "109.70.100.2"
@@ -39924,10 +39936,6 @@
     {
         "nickname": "TheLightSpecter",
         "asn": "AS9009"
-    },
-    {
-        "nickname": "atlCho",
-        "asn": "AS20473"
     },
     {
         "nickname": "lachrymator",
@@ -41087,10 +41095,6 @@
     {
         "nickname": "masstorams",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "Nbomb",
-        "asn": "AS20473"
     },
     {
         "nickname": "eth0",
@@ -42639,6 +42643,9 @@
     },
     {
         "nickname": "ForPrivacyNET",
+        "exit_address": [
+            "104.244.77.208"
+        ],
         "asn": "AS53667"
     },
     {
@@ -43994,10 +44001,6 @@
     {
         "nickname": "Orpheus",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "TV3993",
-        "asn": "AS37577"
     },
     {
         "nickname": "NTH112R6",
@@ -47093,7 +47096,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "MP1G",
+        "nickname": "destiny",
         "exit_address": [
             "104.244.76.121"
         ],
@@ -50372,7 +50375,7 @@
         "asn": "AS30722"
     },
     {
-        "nickname": "TV594",
+        "nickname": "TV4320",
         "asn": "AS9506"
     },
     {
