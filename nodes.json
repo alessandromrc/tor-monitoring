@@ -3713,6 +3713,9 @@
     },
     {
         "nickname": "UnredactedDrake",
+        "exit_address": [
+            "23.191.200.6"
+        ],
         "asn": "AS401401"
     },
     {
@@ -22264,7 +22267,7 @@
         "asn": "AS9299"
     },
     {
-        "nickname": "TV7162",
+        "nickname": "TV2397",
         "asn": "AS22927"
     },
     {
@@ -24227,6 +24230,9 @@
     },
     {
         "nickname": "UnredactedManning",
+        "exit_address": [
+            "23.191.200.3"
+        ],
         "asn": "AS401401"
     },
     {
@@ -27155,6 +27161,9 @@
     },
     {
         "nickname": "oblivion",
+        "exit_address": [
+            "45.67.138.241"
+        ],
         "asn": "AS211507"
     },
     {
@@ -28467,10 +28476,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS5645"
-    },
-    {
-        "nickname": "ooooFUCKoPUTINoooo",
-        "asn": "AS3320"
     },
     {
         "nickname": "Unnamed",
@@ -34436,6 +34441,9 @@
     },
     {
         "nickname": "UnredactedEllsberg",
+        "exit_address": [
+            "23.191.200.5"
+        ],
         "asn": "AS401401"
     },
     {
@@ -40750,6 +40758,9 @@
     },
     {
         "nickname": "UnredactedAssange",
+        "exit_address": [
+            "23.191.200.4"
+        ],
         "asn": "AS401401"
     },
     {
@@ -49981,6 +49992,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
