@@ -15377,10 +15377,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "MyRelayPositivity",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "m4rs",
         "asn": "AS24940"
     },
@@ -38501,6 +38497,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "flabata",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.62"
@@ -48028,9 +48028,6 @@
     },
     {
         "nickname": "FurNet",
-        "exit_address": [
-            "206.245.166.8"
-        ],
         "asn": "AS201392"
     },
     {
