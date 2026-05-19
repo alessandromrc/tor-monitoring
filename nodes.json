@@ -1318,10 +1318,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Zuko2",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "morchel",
         "exit_address": [
             "109.70.100.5"
@@ -3220,10 +3216,6 @@
         "asn": "AS51852"
     },
     {
-        "nickname": "Zuko1",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Anaconda1",
         "asn": "AS49601"
     },
@@ -3870,10 +3862,6 @@
     {
         "nickname": "necron44",
         "asn": "AS203758"
-    },
-    {
-        "nickname": "Zuko4",
-        "asn": "AS63949"
     },
     {
         "nickname": "hyelix",
@@ -5886,10 +5874,6 @@
     {
         "nickname": "TV241",
         "asn": "AS8151"
-    },
-    {
-        "nickname": "PrometheusLS",
-        "asn": "AS3320"
     },
     {
         "nickname": "beteigeuze42",
@@ -8046,10 +8030,6 @@
             "82.221.139.190"
         ],
         "asn": "AS50613"
-    },
-    {
-        "nickname": "Zuko12",
-        "asn": "AS63949"
     },
     {
         "nickname": "philotes",
@@ -12631,6 +12611,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "SubNautico",
+        "asn": "AS51852"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS43641"
     },
@@ -14551,6 +14535,9 @@
     },
     {
         "nickname": "mingles",
+        "exit_address": [
+            "23.236.122.193"
+        ],
         "asn": "AS21859"
     },
     {
@@ -15050,6 +15037,10 @@
     {
         "nickname": "DonateMoneroCoin",
         "asn": "AS203003"
+    },
+    {
+        "nickname": "salman67",
+        "asn": "AS28753"
     },
     {
         "nickname": "HellGuard",
@@ -19586,10 +19577,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "Zuko14",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "dreary",
         "asn": "AS51765"
     },
@@ -22268,7 +22255,7 @@
         "asn": "AS9299"
     },
     {
-        "nickname": "TV9918",
+        "nickname": "TV3499",
         "asn": "AS22927"
     },
     {
@@ -24204,10 +24191,6 @@
     {
         "nickname": "HelloEarth",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Zuko13",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -26580,10 +26563,6 @@
     {
         "nickname": "Turik",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "Zuko11",
-        "asn": "AS63949"
     },
     {
         "nickname": "Digitalcourage4ip4b",
@@ -29606,10 +29585,6 @@
             "31.133.0.210"
         ],
         "asn": "AS51290"
-    },
-    {
-        "nickname": "byggarebob",
-        "asn": "AS3301"
     },
     {
         "nickname": "HadalyTorRelay",
@@ -35951,6 +35926,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "SubNautico",
+        "asn": "AS51852"
+    },
+    {
         "nickname": "quandorondo",
         "asn": "AS36849"
     },
@@ -36765,10 +36744,6 @@
     {
         "nickname": "x4223001",
         "asn": "AS141995"
-    },
-    {
-        "nickname": "Zuko6",
-        "asn": "AS63949"
     },
     {
         "nickname": "MksNode3",
@@ -37880,10 +37855,6 @@
     {
         "nickname": "critic4ly",
         "asn": "AS263812"
-    },
-    {
-        "nickname": "Zuko8",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -43933,10 +43904,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Zuko3",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "INSRelay41at5443",
         "asn": "AS1205"
     },
@@ -45705,10 +45672,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "Zuko5",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "NTH61R2",
         "exit_address": [
             "192.42.116.61"
@@ -45997,10 +45960,6 @@
     {
         "nickname": "BrightWowRelay",
         "asn": "AS197019"
-    },
-    {
-        "nickname": "Zuko10",
-        "asn": "AS63949"
     },
     {
         "nickname": "YeehawEdSnowden",
@@ -47681,10 +47640,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Zuko7",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS210558"
     },
@@ -47699,10 +47654,6 @@
     {
         "nickname": "tomskeemask",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "natsuko",
-        "asn": "AS6696"
     },
     {
         "nickname": "gozdata",
