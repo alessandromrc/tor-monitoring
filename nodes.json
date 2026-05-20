@@ -230,6 +230,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Cardboard",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -2536,6 +2540,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "HighPitched",
+        "asn": "AS59711"
+    },
+    {
         "nickname": "StormyCloud",
         "asn": "AS400226"
     },
@@ -3654,10 +3662,6 @@
     {
         "nickname": "gGDHjdcC6zAlM8k08lX",
         "asn": "AS214996"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS52284"
     },
     {
         "nickname": "Herobrine01",
@@ -22685,7 +22689,8 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.221.163"
+            "184.75.221.163",
+            "184.75.223.219"
         ],
         "asn": "AS32489"
     },
@@ -22974,10 +22979,6 @@
     {
         "nickname": "AmirTaaki4President",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "GOLDcryptoXMR",
-        "asn": "AS215362"
     },
     {
         "nickname": "gergernet2",
@@ -34219,7 +34220,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "delay",
+        "nickname": "dismal",
         "exit_address": [
             "185.205.194.148"
         ],
