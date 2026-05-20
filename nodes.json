@@ -13516,10 +13516,6 @@
         "asn": "AS214366"
     },
     {
-        "nickname": "Loop1403",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -18604,10 +18600,6 @@
             "185.220.101.23"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "DonateSimpleXChat",
-        "asn": "AS215362"
     },
     {
         "nickname": "bauruine",
@@ -33554,9 +33546,6 @@
     },
     {
         "nickname": "yourexitname",
-        "exit_address": [
-            "186.246.53.43"
-        ],
         "asn": "AS63023"
     },
     {
@@ -43170,6 +43159,9 @@
     },
     {
         "nickname": "PeoplesOfTheNorth",
+        "exit_address": [
+            "24.203.156.90"
+        ],
         "asn": "AS5769"
     },
     {
@@ -47180,9 +47172,6 @@
     },
     {
         "nickname": "Bumin",
-        "exit_address": [
-            "138.226.243.205"
-        ],
         "asn": "AS43641"
     },
     {
