@@ -231,6 +231,9 @@
     },
     {
         "nickname": "Cardboard",
+        "exit_address": [
+            "157.180.0.31"
+        ],
         "asn": "AS24940"
     },
     {
@@ -4266,6 +4269,10 @@
     {
         "nickname": "NullBastion",
         "asn": "AS20115"
+    },
+    {
+        "nickname": "Cap",
+        "asn": "AS56655"
     },
     {
         "nickname": "TorNode07dot3",
@@ -20917,7 +20924,7 @@
     },
     {
         "nickname": "Magma0s0Highway3",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "sirmichaelrocks",
@@ -21010,6 +21017,10 @@
     {
         "nickname": "bauruine",
         "asn": "AS56655"
+    },
+    {
+        "nickname": "dobromanian",
+        "asn": "AS214209"
     },
     {
         "nickname": "unk",
