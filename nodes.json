@@ -181,6 +181,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "Serenityc87fdd03",
+        "asn": "AS701"
+    },
+    {
         "nickname": "evequefou8",
         "asn": "AS6181"
     },
@@ -9318,6 +9322,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "apollomiddle1",
+        "asn": "AS5650"
+    },
+    {
         "nickname": "articolo15",
         "asn": "AS16276"
     },
@@ -11543,10 +11551,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "shhovh",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -12842,10 +12846,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ei8fdb",
-        "asn": "AS197540"
     },
     {
         "nickname": "UnredactedFelt",
@@ -18119,6 +18119,10 @@
         "asn": "AS2119"
     },
     {
+        "nickname": "firelay12",
+        "asn": "AS20001"
+    },
+    {
         "nickname": "NTH62R1",
         "asn": "AS215125"
     },
@@ -22749,7 +22753,6 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "184.75.221.163",
             "184.75.223.219"
         ],
         "asn": "AS32489"
@@ -46109,6 +46112,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
