@@ -12675,10 +12675,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "YorkHost",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "spongeybob",
         "asn": "AS16509"
     },
@@ -24891,6 +24887,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.159.99.38"
+        ],
         "asn": "AS210558"
     },
     {
@@ -26740,7 +26739,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4203",
+        "nickname": "TV5452",
         "asn": "AS7303"
     },
     {
@@ -26787,6 +26786,9 @@
     },
     {
         "nickname": "sexytiem",
+        "exit_address": [
+            "95.216.107.148"
+        ],
         "asn": "AS24940"
     },
     {
@@ -32013,6 +32015,10 @@
         "asn": "AS2856"
     },
     {
+        "nickname": "TV1574",
+        "asn": "AS28573"
+    },
+    {
         "nickname": "DFRI153",
         "exit_address": [
             "171.25.193.46"
@@ -33861,9 +33867,6 @@
     },
     {
         "nickname": "sartre2",
-        "exit_address": [
-            "185.246.191.53"
-        ],
         "asn": "AS200651"
     },
     {
@@ -34062,10 +34065,6 @@
     {
         "nickname": "sahil",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "BoulderRelay",
-        "asn": "AS7922"
     },
     {
         "nickname": "mindstab",
@@ -35368,6 +35367,10 @@
     {
         "nickname": "AnonymousZy",
         "asn": "AS29222"
+    },
+    {
+        "nickname": "toradmin",
+        "asn": "AS7922"
     },
     {
         "nickname": "mmacedo",
@@ -41650,10 +41653,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "nasir",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "SteelServers",
         "asn": "AS23655"
     },
@@ -43886,10 +43885,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "nasir",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "vps171f7d1e",
         "asn": "AS16276"
     },
@@ -43989,10 +43984,6 @@
             "192.42.116.94"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "viennaOnTheRunnn",
-        "asn": "AS6724"
     },
     {
         "nickname": "lukechilds",
@@ -47198,7 +47189,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "PIANoLogs",
