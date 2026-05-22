@@ -2547,7 +2547,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV1019",
+        "nickname": "TV6517",
         "asn": "AS8346"
     },
     {
@@ -14781,6 +14781,9 @@
     },
     {
         "nickname": "dobromanian2",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS214209"
     },
     {
@@ -19861,6 +19864,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "ash9",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "PorcoRosso",
         "asn": "AS31898"
     },
@@ -21116,6 +21123,9 @@
     },
     {
         "nickname": "dobromanian",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS214209"
     },
     {
@@ -26749,7 +26759,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV5452",
+        "nickname": "TV5006",
         "asn": "AS7303"
     },
     {
@@ -33289,10 +33299,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "taxevader",
-        "asn": "AS211507"
     },
     {
         "nickname": "ar9tot",
@@ -49619,6 +49625,10 @@
     {
         "nickname": "vulpes",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "Vesper",
+        "asn": "AS51167"
     },
     {
         "nickname": "relay3tpnxxvHX1",
