@@ -8252,6 +8252,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "CasjaysDevRelay",
+        "asn": "AS54290"
+    },
+    {
         "nickname": "milkywayz",
         "asn": "AS3209"
     },
@@ -21226,6 +21230,9 @@
     },
     {
         "nickname": "naodehuan",
+        "exit_address": [
+            "64.69.40.75"
+        ],
         "asn": "AS35916"
     },
     {
@@ -33302,6 +33309,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "CasjaysDevExit",
+        "asn": "AS54290"
+    },
+    {
         "nickname": "doboz",
         "asn": "AS1257"
     },
@@ -44976,6 +44987,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "MaybeOne",
+        "asn": "AS39912"
+    },
+    {
         "nickname": "torrelay",
         "asn": "AS14061"
     },
@@ -47189,7 +47204,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "PIANoLogs",
@@ -48827,10 +48842,6 @@
     {
         "nickname": "anincarnatingradius",
         "asn": "AS7684"
-    },
-    {
-        "nickname": "tomatorouter",
-        "asn": "AS2516"
     },
     {
         "nickname": "ForPrivacyNET",
