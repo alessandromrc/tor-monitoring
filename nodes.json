@@ -1784,10 +1784,6 @@
         "asn": "AS19504"
     },
     {
-        "nickname": "YorkHost",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "iDIDedittheconfig",
         "asn": "AS215730"
     },
@@ -9215,6 +9211,10 @@
         "asn": "AS60781"
     },
     {
+        "nickname": "405tor7",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "SunGod",
         "asn": "AS7377"
     },
@@ -10096,9 +10096,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.213"
-        ],
         "asn": "AS27284"
     },
     {
@@ -20849,9 +20846,6 @@
     },
     {
         "nickname": "NLTorNiceVPSnet",
-        "exit_address": [
-            "45.9.148.50"
-        ],
         "asn": "AS49447"
     },
     {
@@ -31483,7 +31477,7 @@
         "asn": "AS12322"
     },
     {
-        "nickname": "TV6313",
+        "nickname": "TV872",
         "asn": "AS6167"
     },
     {
@@ -37013,6 +37007,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "405tor5",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "onionmatic",
         "asn": "AS63018"
     },
@@ -41837,6 +41835,10 @@
         "asn": "AS6939"
     },
     {
+        "nickname": "405tor6",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "Fondue",
         "asn": "AS29222"
     },
@@ -42131,10 +42133,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "middlerobot",
-        "asn": "AS14061"
     },
     {
         "nickname": "TannhauserGate",
@@ -46111,6 +46109,10 @@
     {
         "nickname": "zgato",
         "asn": "AS214379"
+    },
+    {
+        "nickname": "405tor8",
+        "asn": "AS7018"
     },
     {
         "nickname": "NTH62R4",
