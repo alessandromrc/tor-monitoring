@@ -5499,6 +5499,10 @@
         "asn": "AS3352"
     },
     {
+        "nickname": "405tor3",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "DXV7520",
         "exit_address": [
             "31.133.0.235"
@@ -21192,6 +21196,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "405tor4",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "Tartarus7",
         "asn": "AS399647"
     },
@@ -33891,10 +33899,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "SaL",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "tonyTOR",
         "asn": "AS9009"
     },
@@ -39301,9 +39305,6 @@
     },
     {
         "nickname": "UnredactedAssange",
-        "exit_address": [
-            "23.191.200.4"
-        ],
         "asn": "AS401401"
     },
     {
@@ -41993,7 +41994,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV253",
+        "nickname": "TV552",
         "asn": "AS7303"
     },
     {
