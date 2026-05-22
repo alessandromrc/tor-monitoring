@@ -2543,6 +2543,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "TV1019",
+        "asn": "AS8346"
+    },
+    {
         "nickname": "lancelot",
         "asn": "AS24940"
     },
@@ -8365,6 +8369,10 @@
     {
         "nickname": "swisshead",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "405tor2",
+        "asn": "AS7018"
     },
     {
         "nickname": "marsmellow2",
@@ -23656,6 +23664,10 @@
         "asn": "AS142036"
     },
     {
+        "nickname": "TV7725",
+        "asn": "AS701"
+    },
+    {
         "nickname": "Lamia2",
         "asn": "AS16276"
     },
@@ -26448,6 +26460,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS35592"
+    },
+    {
         "nickname": "NTH107R2",
         "exit_address": [
             "192.42.116.107"
@@ -27483,10 +27499,6 @@
     {
         "nickname": "rpo140flow",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "MoscoviaMustBurn",
-        "asn": "AS43067"
     },
     {
         "nickname": "Ravencrow",
@@ -33066,6 +33078,9 @@
     },
     {
         "nickname": "NadekoNet",
+        "exit_address": [
+            "38.134.41.34"
+        ],
         "asn": "AS399646"
     },
     {
@@ -34422,6 +34437,9 @@
     },
     {
         "nickname": "Bundlebeen1",
+        "exit_address": [
+            "207.246.110.27"
+        ],
         "asn": "AS20473"
     },
     {
@@ -38533,6 +38551,10 @@
         "asn": "AS1136"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS9186"
+    },
+    {
         "nickname": "pataky",
         "asn": "AS13213"
     },
@@ -39365,6 +39387,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.159.99.38"
+        ],
         "asn": "AS210558"
     },
     {
@@ -42426,6 +42451,10 @@
     {
         "nickname": "DELIGHT",
         "asn": "AS59711"
+    },
+    {
+        "nickname": "405tor1",
+        "asn": "AS7018"
     },
     {
         "nickname": "Shieldmaster238",
@@ -48268,6 +48297,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "sux2succ1guess",
+        "asn": "AS1136"
+    },
+    {
         "nickname": "clubaura",
         "asn": "AS134351"
     },
@@ -48449,7 +48482,7 @@
         "asn": "AS27823"
     },
     {
-        "nickname": "TV9829",
+        "nickname": "TV9796",
         "asn": "AS7303"
     },
     {
