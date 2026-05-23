@@ -7709,6 +7709,10 @@
         "asn": "AS3399"
     },
     {
+        "nickname": "ratatoskr4",
+        "asn": "AS210546"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "38.135.24.213"
@@ -17809,6 +17813,10 @@
     {
         "nickname": "Prometheus",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "ratatoskr3",
+        "asn": "AS206134"
     },
     {
         "nickname": "mwittig1",
@@ -34815,10 +34823,6 @@
             "45.92.1.136"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "TV6774",
-        "asn": "AS22047"
     },
     {
         "nickname": "PommespanzerDE2",
