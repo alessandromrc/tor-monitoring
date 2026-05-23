@@ -12380,10 +12380,6 @@
         "asn": "AS42675"
     },
     {
-        "nickname": "alexf",
-        "asn": "AS58212"
-    },
-    {
         "nickname": "liltecca",
         "asn": "AS36849"
     },
@@ -14046,6 +14042,9 @@
     },
     {
         "nickname": "mingles",
+        "exit_address": [
+            "23.236.122.193"
+        ],
         "asn": "AS21859"
     },
     {
@@ -28102,10 +28101,6 @@
         "asn": "AS4764"
     },
     {
-        "nickname": "GoGoHoldXMR",
-        "asn": "AS215362"
-    },
-    {
         "nickname": "zubrowka",
         "asn": "AS20473"
     },
@@ -41527,10 +41522,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Birdie",
-        "asn": "AS13308"
-    },
-    {
         "nickname": "Laputa",
         "asn": "AS12322"
     },
@@ -41932,7 +41923,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV2271",
+        "nickname": "TV2790",
         "asn": "AS7303"
     },
     {
@@ -44786,6 +44777,10 @@
     {
         "nickname": "obersee",
         "asn": "AS29066"
+    },
+    {
+        "nickname": "WIRelay1",
+        "asn": "AS812"
     },
     {
         "nickname": "TV519",
