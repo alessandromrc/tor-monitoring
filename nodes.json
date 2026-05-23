@@ -1270,10 +1270,6 @@
         "asn": "AS3301"
     },
     {
-        "nickname": "MyWatchBegins",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "london1",
         "asn": "AS31898"
     },
@@ -4995,10 +4991,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS9063"
-    },
-    {
-        "nickname": "4712",
-        "asn": "AS8560"
     },
     {
         "nickname": "popofficial",
@@ -31022,6 +31014,10 @@
         "asn": "AS206238"
     },
     {
+        "nickname": "breadcan",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "firstor2",
         "asn": "AS197922"
     },
@@ -43103,6 +43099,9 @@
     },
     {
         "nickname": "noTORture",
+        "exit_address": [
+            "195.154.170.135"
+        ],
         "asn": "AS12876"
     },
     {
