@@ -12550,6 +12550,10 @@
         "asn": "AS200303"
     },
     {
+        "nickname": "estor",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "MeinDebianRelay",
         "asn": "AS51167"
     },
@@ -12827,10 +12831,6 @@
     {
         "nickname": "elektrobier3",
         "asn": "AS28753"
-    },
-    {
-        "nickname": "unnamed",
-        "asn": "AS24940"
     },
     {
         "nickname": "INSRelay43at5443",
@@ -28021,10 +28021,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "4711",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "NTH45R6",
         "exit_address": [
             "192.42.116.45"
@@ -40025,6 +40021,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "r3Relay573",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "schafgarbe",
         "exit_address": [
             "109.70.100.15"
@@ -48703,7 +48703,7 @@
     },
     {
         "nickname": "myNiceRelay",
-        "asn": "AS35916"
+        "asn": "AS54290"
     },
     {
         "nickname": "NTH104R8",
