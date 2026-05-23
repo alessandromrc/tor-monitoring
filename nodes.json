@@ -7672,6 +7672,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Ratatoskr",
+        "asn": "AS207569"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "2.58.56.92"
@@ -7709,7 +7713,7 @@
         "asn": "AS3399"
     },
     {
-        "nickname": "ratatoskr4",
+        "nickname": "Ratatoskr",
         "asn": "AS210546"
     },
     {
@@ -17815,7 +17819,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "ratatoskr3",
+        "nickname": "Ratatoskr",
         "asn": "AS206134"
     },
     {
@@ -28117,10 +28121,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "kanto",
-        "asn": "AS13170"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -29470,6 +29470,10 @@
     {
         "nickname": "anion",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Ratatoskr",
+        "asn": "AS206134"
     },
     {
         "nickname": "lilkeke",
@@ -47214,7 +47218,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "PIANoLogs",
