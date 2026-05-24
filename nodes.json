@@ -14747,7 +14747,7 @@
     },
     {
         "nickname": "Magma0s0Highway",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "artikel10ber94",
@@ -24735,6 +24735,10 @@
         "asn": "AS63806"
     },
     {
+        "nickname": "lkvRelay",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "UnredactedWinner",
         "exit_address": [
             "23.191.200.55"
@@ -25185,7 +25189,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.138"
+            "198.167.206.138",
+            "198.167.206.178"
         ],
         "asn": "AS39287"
     },
@@ -34357,9 +34362,6 @@
     },
     {
         "nickname": "Bundlebeen1",
-        "exit_address": [
-            "207.246.110.27"
-        ],
         "asn": "AS20473"
     },
     {
@@ -36737,6 +36739,9 @@
     },
     {
         "nickname": "IceCreamzHatah3",
+        "exit_address": [
+            "217.28.130.96"
+        ],
         "asn": "AS56322"
     },
     {
@@ -38218,6 +38223,10 @@
             "192.159.99.74"
         ],
         "asn": "AS210558"
+    },
+    {
+        "nickname": "TstrokeRelay",
+        "asn": "AS3243"
     },
     {
         "nickname": "relayon0172",
@@ -43313,10 +43322,6 @@
     {
         "nickname": "nuttyLake",
         "asn": "AS200651"
-    },
-    {
-        "nickname": "Noddy",
-        "asn": "AS12353"
     },
     {
         "nickname": "Shallan",
