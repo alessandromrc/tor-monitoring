@@ -2657,10 +2657,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "mgvx",
-        "asn": "AS8708"
-    },
-    {
         "nickname": "hlab17relay03",
         "asn": "AS401833"
     },
@@ -11092,10 +11088,6 @@
             "45.84.107.172"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "EverybodysTor",
-        "asn": "AS3303"
     },
     {
         "nickname": "Unnamed",
@@ -24600,10 +24592,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Mojyo",
-        "asn": "AS20766"
-    },
-    {
         "nickname": "Sachya",
         "asn": "AS8560"
     },
@@ -25202,8 +25190,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.138",
-            "198.167.206.210"
+            "198.167.206.138"
         ],
         "asn": "AS39287"
     },
@@ -36988,10 +36975,6 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "Ambrosia",
-        "asn": "AS25274"
-    },
-    {
         "nickname": "Conomette",
         "asn": "AS26832"
     },
@@ -46468,9 +46451,6 @@
     },
     {
         "nickname": "InvisibleInternet",
-        "exit_address": [
-            "92.118.206.161"
-        ],
         "asn": "AS58087"
     },
     {
