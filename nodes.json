@@ -10998,6 +10998,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "TV2823",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "NetzExit01",
         "asn": "AS197540"
     },
@@ -27333,9 +27337,6 @@
     },
     {
         "nickname": "SecretDropNL",
-        "exit_address": [
-            "45.94.31.57"
-        ],
         "asn": "AS210558"
     },
     {
@@ -39159,10 +39160,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "Winterferien",
-        "asn": "AS4766"
-    },
-    {
         "nickname": "ElectricThing",
         "asn": "AS64289"
     },
@@ -47832,6 +47829,10 @@
             "45.84.107.17"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "Jason19",
+        "asn": "AS20473"
     },
     {
         "nickname": "masstorire",
