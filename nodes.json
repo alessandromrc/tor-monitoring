@@ -1574,9 +1574,6 @@
     },
     {
         "nickname": "PrincessShroob",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -1652,6 +1649,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -2956,7 +2956,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV7648",
+        "nickname": "TV2833",
         "asn": "AS7303"
     },
     {
@@ -3196,6 +3196,10 @@
     {
         "nickname": "pilvi",
         "asn": "AS16086"
+    },
+    {
+        "nickname": "suitablyanonymous",
+        "asn": "AS5378"
     },
     {
         "nickname": "frisbeereborn",
@@ -6925,6 +6929,9 @@
     },
     {
         "nickname": "georgetor",
+        "exit_address": [
+            "152.89.39.187"
+        ],
         "asn": "AS42807"
     },
     {
@@ -9725,6 +9732,9 @@
     },
     {
         "nickname": "MyFirstRelay",
+        "exit_address": [
+            "167.172.108.109"
+        ],
         "asn": "AS14061"
     },
     {
@@ -14216,9 +14226,6 @@
     },
     {
         "nickname": "PrincessDaisy",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -22200,6 +22207,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.159"
+        ],
         "asn": "AS27284"
     },
     {
@@ -31327,6 +31337,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.159"
+        ],
         "asn": "AS27284"
     },
     {
@@ -32350,10 +32363,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "WorldGate",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "mentoreth1",
         "exit_address": [
             "192.76.153.253"
@@ -32601,6 +32610,10 @@
             "192.42.116.59"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Ecology6533",
+        "asn": "AS197540"
     },
     {
         "nickname": "HSRelay",
@@ -39372,9 +39385,6 @@
     },
     {
         "nickname": "PrincessLipid",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -47916,10 +47926,6 @@
         "asn": "AS8767"
     },
     {
-        "nickname": "thankssnowden0",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "loekatig",
         "asn": "AS8473"
     },
@@ -50520,10 +50526,6 @@
     {
         "nickname": "GreenOnion",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SuceMonIndex01",
-        "asn": "AS5769"
     },
     {
         "nickname": "plan9leia",
