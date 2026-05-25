@@ -1498,6 +1498,9 @@
     },
     {
         "nickname": "yoann",
+        "exit_address": [
+            "185.249.198.156"
+        ],
         "asn": "AS206996"
     },
     {
@@ -3222,6 +3225,10 @@
     {
         "nickname": "thundercat",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "relay48",
+        "asn": "AS3320"
     },
     {
         "nickname": "ywaifir",
@@ -24857,6 +24864,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "morpheus",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "logic301",
         "asn": "AS36849"
     },
@@ -29727,6 +29738,10 @@
     {
         "nickname": "detch232",
         "asn": "AS63150"
+    },
+    {
+        "nickname": "yoann",
+        "asn": "AS206996"
     },
     {
         "nickname": "KllxTest",
