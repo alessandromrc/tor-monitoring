@@ -1568,10 +1568,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "TV7075",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "Chrono",
         "asn": "AS8560"
     },
@@ -2997,10 +2993,6 @@
             "23.191.200.56"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS24961"
     },
     {
         "nickname": "FuckTheCommies",
@@ -8752,9 +8744,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.120"
-        ],
         "asn": "AS27284"
     },
     {
@@ -19884,10 +19873,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Lison",
-        "asn": "AS210644"
-    },
-    {
         "nickname": "kohl",
         "exit_address": [
             "109.70.100.1"
@@ -24663,10 +24648,6 @@
     {
         "nickname": "estor",
         "asn": "AS200651"
-    },
-    {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS24961"
     },
     {
         "nickname": "icanhazfunk",
@@ -29737,6 +29718,9 @@
     },
     {
         "nickname": "yoann",
+        "exit_address": [
+            "194.156.89.134"
+        ],
         "asn": "AS206996"
     },
     {
@@ -41734,10 +41718,6 @@
         "asn": "AS207187"
     },
     {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS24961"
-    },
-    {
         "nickname": "RuneByteNET",
         "exit_address": [
             "185.181.61.201"
@@ -42274,9 +42254,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.120"
-        ],
         "asn": "AS27284"
     },
     {
@@ -44433,6 +44410,10 @@
         "asn": "AS20115"
     },
     {
+        "nickname": "qwerty12345",
+        "asn": "AS206238"
+    },
+    {
         "nickname": "ieditedtheconfig",
         "asn": "AS24940"
     },
@@ -45611,6 +45592,10 @@
         "asn": "AS1205"
     },
     {
+        "nickname": "XenuAms",
+        "asn": "AS33915"
+    },
+    {
         "nickname": "wintrymix",
         "asn": "AS16509"
     },
@@ -46083,10 +46068,6 @@
     {
         "nickname": "NTH301R1",
         "asn": "AS206238"
-    },
-    {
-        "nickname": "closedsource",
-        "asn": "AS7922"
     },
     {
         "nickname": "NTH95R8",
@@ -47218,7 +47199,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "PIANoLogs",
@@ -50570,9 +50551,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.120"
-        ],
         "asn": "AS27284"
     },
     {
