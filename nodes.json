@@ -15003,10 +15003,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "private",
-        "asn": "AS209260"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -29179,6 +29175,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.228"
+        ],
         "asn": "AS27284"
     },
     {
@@ -30795,10 +30794,6 @@
     {
         "nickname": "MyNiceRelay",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "RussellHomeRelay",
-        "asn": "AS3462"
     },
     {
         "nickname": "4mnesia",
@@ -33034,6 +33029,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.228"
+        ],
         "asn": "AS27284"
     },
     {
@@ -35801,10 +35799,6 @@
     {
         "nickname": "blovee",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "simpletorrelay",
-        "asn": "AS6805"
     },
     {
         "nickname": "haystakwhitetrash",
@@ -42573,6 +42567,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.228"
+        ],
         "asn": "AS27284"
     },
     {
@@ -45848,6 +45845,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.228"
+        ],
         "asn": "AS27284"
     },
     {
@@ -47129,6 +47129,9 @@
     },
     {
         "nickname": "SecretDropUS",
+        "exit_address": [
+            "192.159.99.241"
+        ],
         "asn": "AS210558"
     },
     {
