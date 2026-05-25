@@ -3637,9 +3637,6 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
-        "exit_address": [
-            "23.137.253.113"
-        ],
         "asn": "AS40663"
     },
     {
@@ -4170,9 +4167,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.137.69.13"
-        ],
         "asn": "AS211507"
     },
     {
@@ -5653,10 +5647,6 @@
     {
         "nickname": "bellyof666thebeast",
         "asn": "AS44925"
-    },
-    {
-        "nickname": "TV241",
-        "asn": "AS8151"
     },
     {
         "nickname": "beteigeuze42",
@@ -9173,10 +9163,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "redacted",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "aanetuk",
         "asn": "AS20712"
     },
@@ -10082,6 +10068,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "38.135.24.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -20495,6 +20484,10 @@
     {
         "nickname": "abnormalbonus",
         "asn": "AS39798"
+    },
+    {
+        "nickname": "Popo",
+        "asn": "AS20473"
     },
     {
         "nickname": "prsv",
@@ -31326,6 +31319,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "yoann",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -32744,6 +32741,10 @@
     {
         "nickname": "TheOneRelay",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "TV3722",
+        "asn": "AS28573"
     },
     {
         "nickname": "freeforall",
@@ -41890,7 +41891,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV1032",
+        "nickname": "TV6545",
         "asn": "AS7303"
     },
     {
@@ -46193,10 +46194,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "FurNet",
-        "asn": "AS201392"
-    },
-    {
         "nickname": "SuperGoldIsXMR",
         "asn": "AS26383"
     },
@@ -46508,9 +46505,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -47219,6 +47213,9 @@
     },
     {
         "nickname": "apophenia",
+        "exit_address": [
+            "82.221.131.86"
+        ],
         "asn": "AS50613"
     },
     {
@@ -47526,10 +47523,6 @@
             "171.25.193.46"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS57043"
     },
     {
         "nickname": "9g4net7",
