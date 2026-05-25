@@ -6223,7 +6223,7 @@
     },
     {
         "nickname": "Magma0s0Highway1",
-        "asn": "AS174"
+        "asn": "AS212238"
     },
     {
         "nickname": "nobuhide",
@@ -14225,6 +14225,9 @@
     },
     {
         "nickname": "PrincessDaisy",
+        "exit_address": [
+            "178.85.139.57"
+        ],
         "asn": "AS33915"
     },
     {
@@ -16475,7 +16478,7 @@
     },
     {
         "nickname": "Magma0s0Highway2",
-        "asn": "AS212238"
+        "asn": "AS174"
     },
     {
         "nickname": "Unnamed",
@@ -24243,6 +24246,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -25214,6 +25220,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.170",
             "198.167.206.178"
         ],
         "asn": "AS39287"
@@ -29968,6 +29975,10 @@
     {
         "nickname": "NTH134R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "incognetALNTWNPA",
+        "asn": "AS40663"
     },
     {
         "nickname": "prsv",
@@ -37234,10 +37245,6 @@
     {
         "nickname": "Moonlight",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "NebulaCactus",
-        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
