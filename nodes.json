@@ -1094,10 +1094,6 @@
         "asn": "AS15943"
     },
     {
-        "nickname": "stamparhaugen",
-        "asn": "AS29695"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS49981"
     },
@@ -7627,6 +7623,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -10666,6 +10665,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -25113,6 +25115,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.159"
+        ],
         "asn": "AS27284"
     },
     {
@@ -26127,6 +26132,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -31122,10 +31130,6 @@
             "185.220.100.243"
         ],
         "asn": "AS205100"
-    },
-    {
-        "nickname": "TV3122",
-        "asn": "AS7303"
     },
     {
         "nickname": "AsianaOnionApple",
@@ -42548,6 +42552,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.159"
+        ],
         "asn": "AS27284"
     },
     {
@@ -47154,7 +47161,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "PIANoLogs",
