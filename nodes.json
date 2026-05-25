@@ -7951,10 +7951,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3780",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "wintermute",
         "asn": "AS14061"
     },
@@ -14746,10 +14742,6 @@
     {
         "nickname": "Robotor3200",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "IAmDaniel",
-        "asn": "AS13036"
     },
     {
         "nickname": "Magma0s0Highway",
@@ -29194,6 +29186,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "lordinfamous",
         "asn": "AS36849"
     },
@@ -33045,6 +33041,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "robbe",
         "exit_address": [
             "109.70.100.13"
@@ -36092,6 +36092,9 @@
     },
     {
         "nickname": "HungarianBronkExit",
+        "exit_address": [
+            "45.9.168.106"
+        ],
         "asn": "AS211619"
     },
     {
@@ -42320,9 +42323,6 @@
     },
     {
         "nickname": "fourwinds02",
-        "exit_address": [
-            "5.255.98.151"
-        ],
         "asn": "AS60404"
     },
     {
@@ -42582,6 +42582,10 @@
     {
         "nickname": "arbitraryKenzie1",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "UnredactedWatkins",
@@ -45855,6 +45859,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "artikel5ev42",
         "exit_address": [
             "188.68.36.28"
@@ -47132,8 +47140,8 @@
         "asn": "AS62000"
     },
     {
-        "nickname": "SecretDropMD",
-        "asn": "AS200019"
+        "nickname": "SecretDropUS",
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
