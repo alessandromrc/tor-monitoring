@@ -1574,6 +1574,9 @@
     },
     {
         "nickname": "PrincessShroob",
+        "exit_address": [
+            "178.85.139.57"
+        ],
         "asn": "AS33915"
     },
     {
@@ -4271,10 +4274,6 @@
         "asn": "AS49367"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3816"
-    },
-    {
         "nickname": "Oracle",
         "asn": "AS52048"
     },
@@ -5133,6 +5132,10 @@
     {
         "nickname": "FreeSpeechCH1",
         "asn": "AS6730"
+    },
+    {
+        "nickname": "GlobalEntry",
+        "asn": "AS394195"
     },
     {
         "nickname": "DalRelay",
@@ -8369,6 +8372,10 @@
             "103.146.203.14"
         ],
         "asn": "AS136052"
+    },
+    {
+        "nickname": "Heliodor",
+        "asn": "AS51167"
     },
     {
         "nickname": "haruto",
@@ -12185,6 +12192,10 @@
         "asn": "AS214366"
     },
     {
+        "nickname": "YorkHost",
+        "asn": "AS0"
+    },
+    {
         "nickname": "TrinityXMR",
         "asn": "AS210558"
     },
@@ -13891,10 +13902,6 @@
     {
         "nickname": "YourNodeName",
         "asn": "AS50606"
-    },
-    {
-        "nickname": "Havssnigel",
-        "asn": "AS206804"
     },
     {
         "nickname": "pnfsn1tor001",
@@ -20896,6 +20903,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "MK7Ind",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "mango",
         "asn": "AS197540"
     },
@@ -22411,10 +22422,6 @@
     {
         "nickname": "nodebyCyper",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "masstornyc",
-        "asn": "AS36352"
     },
     {
         "nickname": "UnredactedWhitrst",
@@ -24241,9 +24248,6 @@
     },
     {
         "nickname": "WYSWYG",
-        "exit_address": [
-            "109.228.160.190"
-        ],
         "asn": "AS8473"
     },
     {
@@ -26250,6 +26254,10 @@
     {
         "nickname": "StratRelay",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "RTSRelay",
+        "asn": "AS6181"
     },
     {
         "nickname": "AtariFanclub",
@@ -30863,6 +30871,10 @@
     {
         "nickname": "l1ber12",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "YorkHost",
+        "asn": "AS0"
     },
     {
         "nickname": "stratus7",
@@ -36014,6 +36026,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "anonse9ego",
+        "asn": "AS62005"
+    },
+    {
         "nickname": "opencommunity",
         "asn": "AS36352"
     },
@@ -38382,6 +38398,10 @@
     {
         "nickname": "Khashoggi",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "TV9116",
+        "asn": "AS37680"
     },
     {
         "nickname": "sza",
@@ -42516,6 +42536,10 @@
             "192.42.116.99"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "nasir",
+        "asn": "AS0"
     },
     {
         "nickname": "2778626253393027",
@@ -48366,6 +48390,10 @@
     {
         "nickname": "Islay",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "nasir",
+        "asn": "AS0"
     },
     {
         "nickname": "Nidwalden",
