@@ -23740,10 +23740,6 @@
         "asn": "AS215747"
     },
     {
-        "nickname": "WorldGate",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "veespLV",
         "asn": "AS42532"
     },
@@ -25219,7 +25215,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.138",
             "198.167.206.178"
         ],
         "asn": "AS39287"
@@ -26076,6 +26071,10 @@
             "195.47.238.50"
         ],
         "asn": "AS30893"
+    },
+    {
+        "nickname": "BASEL",
+        "asn": "AS51852"
     },
     {
         "nickname": "bonethugs",
@@ -36408,6 +36407,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "bagelblackwidow",
+        "asn": "AS200482"
+    },
+    {
         "nickname": "NTH20R2",
         "exit_address": [
             "192.42.116.20"
@@ -41945,7 +41948,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV6545",
+        "nickname": "TV9951",
         "asn": "AS7303"
     },
     {
