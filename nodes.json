@@ -16058,10 +16058,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TKMOBFS4",
-        "asn": "AS215439"
-    },
-    {
         "nickname": "johnsnow",
         "asn": "AS206134"
     },
@@ -19926,6 +19922,10 @@
         "asn": "AS553"
     },
     {
+        "nickname": "MstormRelay",
+        "asn": "AS211750"
+    },
+    {
         "nickname": "yvrtorpi4",
         "asn": "AS852"
     },
@@ -20044,7 +20044,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8847",
+        "nickname": "TV8544",
         "asn": "AS33915"
     },
     {
@@ -39414,6 +39414,9 @@
     },
     {
         "nickname": "PrincessLipid",
+        "exit_address": [
+            "178.85.139.57"
+        ],
         "asn": "AS33915"
     },
     {
@@ -45427,9 +45430,6 @@
     },
     {
         "nickname": "pangea06",
-        "exit_address": [
-            "77.48.28.239"
-        ],
         "asn": "AS16019"
     },
     {
