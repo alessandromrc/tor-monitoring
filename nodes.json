@@ -7442,6 +7442,10 @@
         "asn": "AS3"
     },
     {
+        "nickname": "yoann",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.36"
@@ -13983,9 +13987,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.245"
-        ],
         "asn": "AS27284"
     },
     {
@@ -17517,10 +17518,6 @@
             "23.129.64.152"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "londonboy",
-        "asn": "AS206134"
     },
     {
         "nickname": "INSRelay28at8443",
@@ -26732,7 +26729,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4891",
+        "nickname": "TV3698",
         "asn": "AS7303"
     },
     {
@@ -28642,6 +28639,9 @@
     },
     {
         "nickname": "marylou2",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -32153,10 +32153,6 @@
     {
         "nickname": "Sylvia",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "torzpi222",
-        "asn": "AS8866"
     },
     {
         "nickname": "hamilton",
