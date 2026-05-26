@@ -908,6 +908,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "unnamed",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "SmolNode1",
         "asn": "AS197540"
     },
@@ -21376,10 +21380,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "unfriendTelus",
-        "asn": "AS852"
-    },
-    {
         "nickname": "momlookimrelaying",
         "asn": "AS33915"
     },
@@ -28085,6 +28085,9 @@
     },
     {
         "nickname": "gfguihgrudifhguih",
+        "exit_address": [
+            "185.11.139.198"
+        ],
         "asn": "AS48823"
     },
     {
@@ -31828,10 +31831,6 @@
     {
         "nickname": "FigureItOut",
         "asn": "AS29802"
-    },
-    {
-        "nickname": "YourNekoWaifuRelay",
-        "asn": "AS4764"
     },
     {
         "nickname": "Unnamed",
