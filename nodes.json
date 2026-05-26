@@ -2949,7 +2949,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TV4533",
+        "nickname": "TV498",
         "asn": "AS7303"
     },
     {
@@ -13090,6 +13090,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "ClubKornelius",
+        "asn": "AS6739"
+    },
+    {
         "nickname": "Serenity060874e7",
         "asn": "AS29802"
     },
@@ -13689,10 +13693,6 @@
     {
         "nickname": "gmebirdman",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "asaltbattery",
-        "asn": "AS58061"
     },
     {
         "nickname": "gepg",
@@ -17065,6 +17065,10 @@
     {
         "nickname": "Silentspirit",
         "asn": "AS16086"
+    },
+    {
+        "nickname": "ConnecTorJP",
+        "asn": "AS16509"
     },
     {
         "nickname": "tsutorac",
@@ -25243,8 +25247,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.170",
-            "198.167.206.178"
+            "198.167.206.170"
         ],
         "asn": "AS39287"
     },
@@ -29265,10 +29268,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "cucumberRick",
-        "asn": "AS62005"
-    },
-    {
         "nickname": "NTH13R4",
         "exit_address": [
             "192.42.116.13"
@@ -30193,6 +30192,10 @@
             "45.95.169.104"
         ],
         "asn": "AS211619"
+    },
+    {
+        "nickname": "finc",
+        "asn": "AS16276"
     },
     {
         "nickname": "TOKAREV",
@@ -35733,6 +35736,10 @@
         "asn": "AS136258"
     },
     {
+        "nickname": "aieternal07",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "dreamwriter",
         "asn": "AS24940"
     },
@@ -37513,10 +37520,6 @@
     {
         "nickname": "NLOscillator1",
         "asn": "AS43350"
-    },
-    {
-        "nickname": "okeanosrelay1",
-        "asn": "AS5408"
     },
     {
         "nickname": "chilli",
@@ -40160,10 +40163,6 @@
     {
         "nickname": "TotallyNotABTCMixer",
         "asn": "AS174"
-    },
-    {
-        "nickname": "torit",
-        "asn": "AS51167"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -47281,7 +47280,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "PIANoLogs",
@@ -48618,10 +48617,6 @@
     {
         "nickname": "GuilelNode",
         "asn": "AS30722"
-    },
-    {
-        "nickname": "TV4320",
-        "asn": "AS9506"
     },
     {
         "nickname": "flokinet2n1",
