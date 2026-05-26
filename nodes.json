@@ -3359,6 +3359,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -33842,10 +33845,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "zorroRanch",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "HeadInTheClouds",
         "asn": "AS50266"
     },
@@ -40758,6 +40757,10 @@
         "asn": "AS63473"
     },
     {
+        "nickname": "pv3middle1",
+        "asn": "AS12083"
+    },
+    {
         "nickname": "Charlotte",
         "asn": "AS8151"
     },
@@ -42974,7 +42977,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "Splinter",
@@ -47245,7 +47248,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "PIANoLogs",
