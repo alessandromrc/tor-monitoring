@@ -3363,6 +3363,10 @@
         "asn": "AS34222"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "retort",
         "asn": "AS31898"
     },
@@ -12189,7 +12193,7 @@
     },
     {
         "nickname": "YorkHost",
-        "asn": "AS0"
+        "asn": "AS33993"
     },
     {
         "nickname": "TrinityXMR",
@@ -13814,6 +13818,10 @@
     {
         "nickname": "sometorrelay0",
         "asn": "AS6730"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "IamCORNHOLIO",
@@ -21633,9 +21641,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.91"
-        ],
         "asn": "AS27284"
     },
     {
@@ -23232,9 +23237,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.91"
-        ],
         "asn": "AS27284"
     },
     {
@@ -24587,9 +24589,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -25812,10 +25811,6 @@
         "asn": "AS202425"
     },
     {
-        "nickname": "4PrivacyInTheEu",
-        "asn": "AS8881"
-    },
-    {
         "nickname": "GentooLibre",
         "asn": "AS4764"
     },
@@ -26168,9 +26163,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.91"
-        ],
         "asn": "AS27284"
     },
     {
@@ -30893,7 +30885,7 @@
     },
     {
         "nickname": "YorkHost",
-        "asn": "AS0"
+        "asn": "AS33993"
     },
     {
         "nickname": "stratus7",
@@ -35755,9 +35747,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "38.135.24.91"
-        ],
         "asn": "AS27284"
     },
     {
@@ -42554,7 +42543,7 @@
     },
     {
         "nickname": "nasir",
-        "asn": "AS0"
+        "asn": "AS33993"
     },
     {
         "nickname": "2778626253393027",
@@ -47104,10 +47093,6 @@
         "asn": "AS6799"
     },
     {
-        "nickname": "lsjH72",
-        "asn": "AS203446"
-    },
-    {
         "nickname": "NTH92R2",
         "exit_address": [
             "192.42.116.92"
@@ -47313,6 +47298,10 @@
             "23.129.64.220"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "beastmode",
@@ -48405,7 +48394,7 @@
     },
     {
         "nickname": "nasir",
-        "asn": "AS0"
+        "asn": "AS33993"
     },
     {
         "nickname": "Nidwalden",
@@ -49538,6 +49527,10 @@
             "23.191.200.105"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS27284"
     },
     {
         "nickname": "4726",
