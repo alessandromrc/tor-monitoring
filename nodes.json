@@ -4294,10 +4294,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "NullBastion",
-        "asn": "AS20115"
-    },
-    {
         "nickname": "Cap",
         "asn": "AS56655"
     },
@@ -6754,6 +6750,10 @@
     {
         "nickname": "allTheSaints",
         "asn": "AS5089"
+    },
+    {
+        "nickname": "Publius",
+        "asn": "AS6167"
     },
     {
         "nickname": "prsv",
@@ -15970,10 +15970,6 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "TV3848",
-        "asn": "AS6703"
-    },
-    {
         "nickname": "die",
         "exit_address": [
             "45.141.119.80"
@@ -18021,10 +18017,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV9221",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "privatecloud",
         "asn": "AS24940"
     },
@@ -19843,6 +19835,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.15"
+        ],
         "asn": "AS27284"
     },
     {
@@ -23751,6 +23746,7 @@
     {
         "nickname": "NEWFOUND9846",
         "exit_address": [
+            "203.12.31.101",
             "62.192.174.40"
         ],
         "asn": "AS210083"
@@ -26282,6 +26278,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
@@ -41308,10 +41307,6 @@
         "asn": "AS1133"
     },
     {
-        "nickname": "Morloch",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "spruce",
         "asn": "AS394380"
     },
@@ -43453,6 +43448,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
@@ -49658,6 +49656,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -49696,10 +49697,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "TV3515",
-        "asn": "AS27747"
     },
     {
         "nickname": "UnseenWoo",
