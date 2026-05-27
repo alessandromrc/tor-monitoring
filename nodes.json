@@ -15170,6 +15170,10 @@
         "asn": "AS13030"
     },
     {
+        "nickname": "UltraDarkNode",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "Assange008fr3",
         "asn": "AS12876"
     },
@@ -26244,6 +26248,9 @@
     },
     {
         "nickname": "TORKeFFORG29",
+        "exit_address": [
+            "193.189.100.196"
+        ],
         "asn": "AS41281"
     },
     {
@@ -32450,10 +32457,6 @@
     {
         "nickname": "SiroxNetworkRelay",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "112233445566",
-        "asn": "AS50266"
     },
     {
         "nickname": "boxoffice208",
@@ -47212,7 +47215,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "PIANoLogs",
