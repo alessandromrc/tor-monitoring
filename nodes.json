@@ -37285,6 +37285,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "myrelay1",
+        "asn": "AS51765"
+    },
+    {
         "nickname": "TV4454",
         "asn": "AS28573"
     },
@@ -49565,9 +49569,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.213"
-        ],
         "asn": "AS27284"
     },
     {
