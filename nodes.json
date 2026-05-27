@@ -29318,6 +29318,9 @@
     },
     {
         "nickname": "obscurazrh01",
+        "exit_address": [
+            "45.141.119.26"
+        ],
         "asn": "AS211507"
     },
     {
@@ -41288,10 +41291,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV1291",
-        "asn": "AS701"
-    },
-    {
         "nickname": "ZackMorris",
         "exit_address": [
             "178.218.144.96"
@@ -41973,7 +41972,7 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "TV9317",
+        "nickname": "TV3130",
         "asn": "AS7303"
     },
     {
@@ -41982,9 +41981,6 @@
     },
     {
         "nickname": "VisionVillage",
-        "exit_address": [
-            "94.75.225.81"
-        ],
         "asn": "AS60781"
     },
     {
