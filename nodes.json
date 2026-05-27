@@ -235,9 +235,6 @@
     },
     {
         "nickname": "Cardboard",
-        "exit_address": [
-            "157.180.0.31"
-        ],
         "asn": "AS24940"
     },
     {
@@ -6356,7 +6353,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV871",
+        "nickname": "TV9465",
         "asn": "AS22927"
     },
     {
@@ -11043,10 +11040,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "SV01",
-        "asn": "AS54600"
-    },
-    {
         "nickname": "relayon0139",
         "exit_address": [
             "185.220.101.139"
@@ -15171,6 +15164,9 @@
     },
     {
         "nickname": "UltraDarkNode",
+        "exit_address": [
+            "45.88.186.215"
+        ],
         "asn": "AS210558"
     },
     {
@@ -16836,6 +16832,13 @@
         "asn": "AS4764"
     },
     {
+        "nickname": "Unnamed",
+        "exit_address": [
+            "102.31.238.55"
+        ],
+        "asn": "AS327934"
+    },
+    {
         "nickname": "3ZH7jRQ",
         "asn": "AS49372"
     },
@@ -18352,6 +18355,10 @@
     {
         "nickname": "ShohinGuard",
         "asn": "AS11776"
+    },
+    {
+        "nickname": "Gabriel0GGR",
+        "asn": "AS26599"
     },
     {
         "nickname": "anduinExit01",
@@ -25476,6 +25483,9 @@
     },
     {
         "nickname": "XMROneLove",
+        "exit_address": [
+            "185.241.208.54"
+        ],
         "asn": "AS210558"
     },
     {
@@ -27238,6 +27248,10 @@
         "asn": "AS30893"
     },
     {
+        "nickname": "gp2112",
+        "asn": "AS26599"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.5.121"
@@ -28813,6 +28827,9 @@
     },
     {
         "nickname": "marylou3",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -34391,7 +34408,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "dismal",
+        "nickname": "Exit",
         "exit_address": [
             "185.205.194.148"
         ],
@@ -36738,6 +36755,10 @@
             "107.148.225.242"
         ],
         "asn": "AS54600"
+    },
+    {
+        "nickname": "TV6081",
+        "asn": "AS7303"
     },
     {
         "nickname": "DFRI114",
