@@ -3649,6 +3649,9 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
+        "exit_address": [
+            "23.137.253.113"
+        ],
         "asn": "AS40663"
     },
     {
@@ -20813,10 +20816,6 @@
     {
         "nickname": "Kheldell",
         "asn": "AS44925"
-    },
-    {
-        "nickname": "NLTorNiceVPSnet",
-        "asn": "AS49447"
     },
     {
         "nickname": "TakTor02",
@@ -45239,6 +45238,10 @@
     {
         "nickname": "jtmoneypoison",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "PrebenBits",
+        "asn": "AS203953"
     },
     {
         "nickname": "lilkeen",
