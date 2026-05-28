@@ -13973,10 +13973,6 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "noKings",
-        "asn": "AS209"
-    },
-    {
         "nickname": "bankrollpj",
         "asn": "AS36849"
     },
@@ -17840,6 +17836,9 @@
     },
     {
         "nickname": "NEWFOUND9855",
+        "exit_address": [
+            "203.12.31.101"
+        ],
         "asn": "AS210083"
     },
     {
@@ -49389,6 +49388,10 @@
             "23.191.200.115"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "RelayMRDS46110",
+        "asn": "AS12322"
     },
     {
         "nickname": "hbmRelayMondovi",
