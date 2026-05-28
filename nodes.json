@@ -975,10 +975,6 @@
         "asn": "AS33915"
     },
     {
-        "nickname": "ajourmag",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -4623,10 +4619,6 @@
     {
         "nickname": "hhInhibitorsDE",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "batsoupxyz",
-        "asn": "AS35470"
     },
     {
         "nickname": "marcuse10",
@@ -13776,6 +13768,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -20066,7 +20061,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6038",
+        "nickname": "TV1498",
         "asn": "AS33915"
     },
     {
@@ -22934,6 +22929,10 @@
         "asn": "AS4713"
     },
     {
+        "nickname": "QWERTY",
+        "asn": "AS58087"
+    },
+    {
         "nickname": "peterwurz",
         "exit_address": [
             "109.70.100.14"
@@ -24666,7 +24665,7 @@
         "asn": "AS45839"
     },
     {
-        "nickname": "TV494",
+        "nickname": "TV1840",
         "asn": "AS2860"
     },
     {
@@ -36798,7 +36797,7 @@
         "asn": "AS54600"
     },
     {
-        "nickname": "TV2020",
+        "nickname": "TV7282",
         "asn": "AS7303"
     },
     {
@@ -37693,6 +37692,10 @@
     {
         "nickname": "gjaninfo",
         "asn": "AS16509"
+    },
+    {
+        "nickname": "getrelayedon01",
+        "asn": "AS31898"
     },
     {
         "nickname": "twoseven",
@@ -47291,7 +47294,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -47722,10 +47725,6 @@
     {
         "nickname": "bumbum",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "vm242tornode",
-        "asn": "AS24940"
     },
     {
         "nickname": "NTH145R8",
@@ -49068,6 +49067,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "aieternal07",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "NTH13R3",
         "exit_address": [
             "192.42.116.13"
@@ -49329,6 +49332,10 @@
     {
         "nickname": "desolate",
         "asn": "AS198189"
+    },
+    {
+        "nickname": "QWERTY",
+        "asn": "AS58087"
     },
     {
         "nickname": "Freebird31",
