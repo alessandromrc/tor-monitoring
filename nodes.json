@@ -2958,9 +2958,6 @@
     },
     {
         "nickname": "trapExitNode",
-        "exit_address": [
-            "43.159.138.176"
-        ],
         "asn": "AS132203"
     },
     {
@@ -10927,7 +10924,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV6085",
+        "nickname": "TV2957",
         "asn": "AS22927"
     },
     {
@@ -14210,10 +14207,6 @@
         "asn": "AS21336"
     },
     {
-        "nickname": "TorRelayOfMany1122",
-        "asn": "AS6848"
-    },
-    {
         "nickname": "TV2236",
         "asn": "AS7303"
     },
@@ -17248,10 +17241,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "HappyToServeYou01",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "transilvanianrealm",
         "asn": "AS46015"
     },
@@ -19341,6 +19330,9 @@
     },
     {
         "nickname": "TheBestServer",
+        "exit_address": [
+            "85.17.118.127"
+        ],
         "asn": "AS60781"
     },
     {
@@ -20571,6 +20563,10 @@
     {
         "nickname": "goldlink",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "jailbreakuriphone",
+        "asn": "AS20473"
     },
     {
         "nickname": "TORKeFFORG2",
@@ -23463,9 +23459,6 @@
     },
     {
         "nickname": "nicotine",
-        "exit_address": [
-            "45.9.168.95"
-        ],
         "asn": "AS211619"
     },
     {
@@ -23655,20 +23648,12 @@
         "asn": "AS59253"
     },
     {
-        "nickname": "4istheloneliestnum",
-        "asn": "AS215747"
-    },
-    {
         "nickname": "veespLV",
         "asn": "AS42532"
     },
     {
         "nickname": "l1ber10",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "Peanutbottle",
-        "asn": "AS3320"
     },
     {
         "nickname": "bauruine",
@@ -34261,10 +34246,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "RainingTor",
         "asn": "AS36352"
     },
@@ -42141,10 +42122,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "chappycris",
-        "asn": "AS51659"
-    },
-    {
         "nickname": "perlman",
         "exit_address": [
             "23.129.64.159"
@@ -48162,9 +48139,6 @@
     },
     {
         "nickname": "cafeine",
-        "exit_address": [
-            "45.9.168.96"
-        ],
         "asn": "AS211619"
     },
     {
