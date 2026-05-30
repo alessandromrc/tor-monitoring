@@ -681,7 +681,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV2144",
+        "nickname": "TV3285",
         "asn": "AS22927"
     },
     {
@@ -1791,9 +1791,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.153"
-        ],
         "asn": "AS210558"
     },
     {
@@ -2109,9 +2106,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -4155,6 +4149,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "commufa",
+        "asn": "AS18126"
+    },
+    {
         "nickname": "freeasf",
         "exit_address": [
             "179.43.182.232"
@@ -4193,9 +4191,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -4668,9 +4663,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "2.58.56.92"
-        ],
         "asn": "AS210558"
     },
     {
@@ -7621,9 +7613,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -9493,9 +9482,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -17083,9 +17069,6 @@
     },
     {
         "nickname": "artikel10buc15",
-        "exit_address": [
-            "185.100.85.24"
-        ],
         "asn": "AS200651"
     },
     {
@@ -19462,6 +19445,10 @@
     {
         "nickname": "TorRelayPoland",
         "asn": "AS59711"
+    },
+    {
+        "nickname": "vonnegut",
+        "asn": "AS14061"
     },
     {
         "nickname": "TORKeFFORG10",
@@ -26647,9 +26634,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "2.58.56.92"
-        ],
         "asn": "AS210558"
     },
     {
@@ -26734,9 +26718,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -26929,10 +26910,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SickB0y",
-        "asn": "AS24940"
     },
     {
         "nickname": "theTorDoor",
@@ -27233,16 +27210,10 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.153"
-        ],
         "asn": "AS210558"
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -28010,9 +27981,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -30811,6 +30779,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Death",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "JohnFilch123",
         "asn": "AS202422"
     },
@@ -31607,9 +31579,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "2.58.56.92"
-        ],
         "asn": "AS210558"
     },
     {
@@ -32388,9 +32357,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.153"
-        ],
         "asn": "AS210558"
     },
     {
@@ -34392,9 +34358,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.92.1.136"
-        ],
         "asn": "AS210558"
     },
     {
@@ -34546,9 +34509,6 @@
     },
     {
         "nickname": "artikel10buc14",
-        "exit_address": [
-            "185.100.85.24"
-        ],
         "asn": "AS200651"
     },
     {
@@ -34924,9 +34884,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.160"
-        ],
         "asn": "AS210558"
     },
     {
@@ -35167,9 +35124,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.160"
-        ],
         "asn": "AS210558"
     },
     {
@@ -39372,9 +39326,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.153"
-        ],
         "asn": "AS210558"
     },
     {
@@ -42144,9 +42095,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.94.31.244"
-        ],
         "asn": "AS210558"
     },
     {
@@ -43695,9 +43643,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.19"
-        ],
         "asn": "AS210558"
     },
     {
@@ -44084,9 +44029,6 @@
     },
     {
         "nickname": "artikel10buc18",
-        "exit_address": [
-            "185.100.85.24"
-        ],
         "asn": "AS200651"
     },
     {
@@ -44684,9 +44626,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.19"
-        ],
         "asn": "AS210558"
     },
     {
@@ -45056,9 +44995,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.19"
-        ],
         "asn": "AS210558"
     },
     {
@@ -47123,6 +47059,10 @@
     {
         "nickname": "richthekid",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "RelayMRDS46150",
+        "asn": "AS12322"
     },
     {
         "nickname": "sipesolidvps",
@@ -49417,9 +49357,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.19"
-        ],
         "asn": "AS210558"
     },
     {
@@ -49773,9 +49710,6 @@
     },
     {
         "nickname": "artikel10buc17",
-        "exit_address": [
-            "185.100.85.24"
-        ],
         "asn": "AS200651"
     },
     {
