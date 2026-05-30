@@ -1828,9 +1828,6 @@
     },
     {
         "nickname": "ANExitNode",
-        "exit_address": [
-            "84.252.123.117"
-        ],
         "asn": "AS208208"
     },
     {
@@ -3029,9 +3026,6 @@
     },
     {
         "nickname": "ANExitNode",
-        "exit_address": [
-            "84.252.123.26"
-        ],
         "asn": "AS208208"
     },
     {
@@ -6898,10 +6892,6 @@
     {
         "nickname": "RelayUli",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "imprezahostru01",
-        "asn": "AS216334"
     },
     {
         "nickname": "NTH47R4",
@@ -25576,6 +25566,9 @@
     },
     {
         "nickname": "chimuelo",
+        "exit_address": [
+            "37.48.70.156"
+        ],
         "asn": "AS60781"
     },
     {
@@ -44489,10 +44482,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "MaybeOne",
-        "asn": "AS39912"
-    },
-    {
         "nickname": "torrelay",
         "asn": "AS14061"
     },
@@ -46044,10 +46033,6 @@
     {
         "nickname": "SweetRelay",
         "asn": "AS1221"
-    },
-    {
-        "nickname": "mammoth",
-        "asn": "AS7922"
     },
     {
         "nickname": "RuneByteNET",
