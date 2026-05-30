@@ -10886,6 +10886,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "RelayMRDS46150",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "relayon0139",
         "exit_address": [
             "185.220.101.139"
@@ -29539,6 +29543,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "RelayMRDS46150",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "tor02",
         "asn": "AS8560"
     },
@@ -31926,6 +31934,10 @@
     {
         "nickname": "ShinobiShishi",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "RelayMRDS46150",
+        "asn": "AS12322"
     },
     {
         "nickname": "lupe",
@@ -38033,6 +38045,10 @@
             "192.42.116.111"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "RelayMRDS46150",
+        "asn": "AS12322"
     },
     {
         "nickname": "prsv",
