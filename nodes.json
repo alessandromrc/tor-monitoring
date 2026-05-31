@@ -1638,6 +1638,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "BlackWhatever",
+        "asn": "AS5769"
+    },
+    {
         "nickname": "NTH116R6",
         "exit_address": [
             "192.42.116.116"
@@ -15713,9 +15717,6 @@
     },
     {
         "nickname": "NEWFOUND7408",
-        "exit_address": [
-            "203.12.31.101"
-        ],
         "asn": "AS210083"
     },
     {
@@ -49189,10 +49190,6 @@
     {
         "nickname": "MidEngine",
         "asn": "AS33993"
-    },
-    {
-        "nickname": "BizarreWorkerKA08",
-        "asn": "AS197540"
     },
     {
         "nickname": "obzgs5tbmn4q",
