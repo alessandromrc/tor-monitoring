@@ -11492,6 +11492,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS2516"
+    },
+    {
         "nickname": "foolio",
         "asn": "AS36849"
     },
@@ -26371,6 +26375,10 @@
         "asn": "AS210558"
     },
     {
+        "nickname": "NadekoNet",
+        "asn": "AS207590"
+    },
+    {
         "nickname": "Ticino",
         "asn": "AS29222"
     },
@@ -36836,10 +36844,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS215047"
-    },
-    {
         "nickname": "Aargau",
         "asn": "AS29222"
     },
@@ -43135,9 +43139,6 @@
     },
     {
         "nickname": "m3moryl3ak",
-        "exit_address": [
-            "138.226.236.65"
-        ],
         "asn": "AS205775"
     },
     {
@@ -47713,6 +47714,9 @@
     },
     {
         "nickname": "cafeine",
+        "exit_address": [
+            "45.9.168.96"
+        ],
         "asn": "AS211619"
     },
     {
