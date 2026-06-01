@@ -3506,6 +3506,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "sh97CA101R",
+        "asn": "AS1002"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -4886,10 +4890,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "FckPtnNRW",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "nothingtoseehere",
         "asn": "AS200019"
     },
@@ -5504,9 +5504,6 @@
     },
     {
         "nickname": "Tribulation",
-        "exit_address": [
-            "74.50.118.26"
-        ],
         "asn": "AS29802"
     },
     {
@@ -7296,6 +7293,10 @@
             "88.80.26.4"
         ],
         "asn": "AS33837"
+    },
+    {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
     },
     {
         "nickname": "HuskyMiddleRelay",
@@ -9910,6 +9911,10 @@
             "46.250.243.29"
         ],
         "asn": "AS141995"
+    },
+    {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
     },
     {
         "nickname": "epimetheus",
@@ -14991,6 +14996,10 @@
         "asn": "AS18460"
     },
     {
+        "nickname": "TV4112",
+        "asn": "AS19429"
+    },
+    {
         "nickname": "vastcloud",
         "asn": "AS8075"
     },
@@ -19611,6 +19620,10 @@
         "asn": "AS398924"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "katharina",
         "asn": "AS209605"
     },
@@ -23998,6 +24011,10 @@
         "asn": "AS59711"
     },
     {
+        "nickname": "JohnFilch123",
+        "asn": "AS398493"
+    },
+    {
         "nickname": "lag",
         "asn": "AS210644"
     },
@@ -24349,7 +24366,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9617",
+        "nickname": "TV9763",
         "asn": "AS37577"
     },
     {
@@ -24956,6 +24973,10 @@
     {
         "nickname": "SygnetUSWest1",
         "asn": "AS212317"
+    },
+    {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
     },
     {
         "nickname": "Altometer",
@@ -33681,6 +33702,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "judoka",
         "exit_address": [
             "62.182.84.146"
@@ -34133,6 +34158,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "61.220.100.193"
+        ],
         "asn": "AS3462"
     },
     {
@@ -46882,7 +46910,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -47162,6 +47190,10 @@
     {
         "nickname": "TorHSC",
         "asn": "AS33255"
+    },
+    {
+        "nickname": "TV3993",
+        "asn": "AS22927"
     },
     {
         "nickname": "mevolz2",
@@ -50127,10 +50159,6 @@
     {
         "nickname": "AbsoluteCinema",
         "asn": "AS3215"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS36352"
     },
     {
         "nickname": "560003101a51",
