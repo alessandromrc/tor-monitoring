@@ -4711,6 +4711,10 @@
         "asn": "AS11232"
     },
     {
+        "nickname": "anon0ig8u0x4f7ob",
+        "asn": "AS60117"
+    },
+    {
         "nickname": "4ebrv4v",
         "asn": "AS1136"
     },
@@ -7296,6 +7300,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.167"
+        ],
         "asn": "AS400226"
     },
     {
@@ -9914,6 +9921,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.168"
+        ],
         "asn": "AS400226"
     },
     {
@@ -19621,6 +19631,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.165"
+        ],
         "asn": "AS400226"
     },
     {
@@ -19944,7 +19957,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6969",
+        "nickname": "TV4782",
         "asn": "AS33915"
     },
     {
@@ -24976,6 +24989,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.166"
+        ],
         "asn": "AS400226"
     },
     {
