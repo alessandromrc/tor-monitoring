@@ -1107,6 +1107,10 @@
         "asn": "AS201409"
     },
     {
+        "nickname": "torrelay00100",
+        "asn": "AS701"
+    },
+    {
         "nickname": "marcuse2",
         "exit_address": [
             "178.20.55.16"
@@ -5621,7 +5625,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV8357",
+        "nickname": "TV8192",
         "asn": "AS8151"
     },
     {
@@ -20272,10 +20276,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "milkrelay1",
-        "asn": "AS33588"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.32"
@@ -31543,9 +31543,6 @@
     },
     {
         "nickname": "unbeatable",
-        "exit_address": [
-            "81.181.104.22"
-        ],
         "asn": "AS9009"
     },
     {
@@ -33719,6 +33716,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.169"
+        ],
         "asn": "AS400226"
     },
     {
@@ -34267,7 +34267,7 @@
     },
     {
         "nickname": "ABOBA2",
-        "asn": "AS36352"
+        "asn": "AS214677"
     },
     {
         "nickname": "Exit",
