@@ -6032,6 +6032,10 @@
         "asn": "AS207992"
     },
     {
+        "nickname": "tspxrc1",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "XMRisGoldCrypto",
         "asn": "AS26383"
     },
@@ -15923,10 +15927,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "DFRI24",
         "exit_address": [
             "171.25.193.25"
@@ -17034,6 +17034,9 @@
     },
     {
         "nickname": "marylou1",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -28461,6 +28464,9 @@
     },
     {
         "nickname": "marylou2",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -37370,10 +37376,6 @@
         "asn": "AS215288"
     },
     {
-        "nickname": "AkamaroRelay",
-        "asn": "AS2527"
-    },
-    {
         "nickname": "TheShadowRoute04",
         "asn": "AS215288"
     },
@@ -38914,10 +38916,6 @@
     {
         "nickname": "Brotfisch",
         "asn": "AS13030"
-    },
-    {
-        "nickname": "ElectricThing",
-        "asn": "AS64289"
     },
     {
         "nickname": "TheShadowRoute11",
@@ -42707,6 +42705,10 @@
     {
         "nickname": "JohnthePhisherman",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "vRelay",
+        "asn": "AS212655"
     },
     {
         "nickname": "letsdoitUS",
@@ -47222,6 +47224,10 @@
     {
         "nickname": "UFOAlien1",
         "asn": "AS62005"
+    },
+    {
+        "nickname": "CyberPanda",
+        "asn": "AS1267"
     },
     {
         "nickname": "2249922515513594",
