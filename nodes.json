@@ -7601,6 +7601,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.170"
+        ],
         "asn": "AS400226"
     },
     {
@@ -9431,6 +9434,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.172"
+        ],
         "asn": "AS400226"
     },
     {
@@ -9760,6 +9766,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -10691,6 +10700,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -23180,6 +23192,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -29510,9 +29525,6 @@
     },
     {
         "nickname": "mirage",
-        "exit_address": [
-            "91.219.237.39"
-        ],
         "asn": "AS56322"
     },
     {
@@ -34306,6 +34318,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -34825,6 +34840,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -34941,6 +34959,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.173"
+        ],
         "asn": "AS400226"
     },
     {
@@ -35157,6 +35178,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -36367,6 +36391,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.174"
+        ],
         "asn": "AS400226"
     },
     {
@@ -40047,6 +40074,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.171"
+        ],
         "asn": "AS400226"
     },
     {
@@ -40926,6 +40956,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "kachow",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Belgique",
         "asn": "AS5432"
     },
@@ -41736,10 +41770,6 @@
     {
         "nickname": "XMRBuyNow",
         "asn": "AS215540"
-    },
-    {
-        "nickname": "VisionVillage",
-        "asn": "AS60781"
     },
     {
         "nickname": "lilzayosama",
@@ -47137,6 +47167,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.234.141"
+        ],
         "asn": "AS36352"
     },
     {
