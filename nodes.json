@@ -2131,10 +2131,6 @@
         "asn": "AS206238"
     },
     {
-        "nickname": "Soyglow",
-        "asn": "AS55423"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -5600,9 +5596,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "194.26.192.186"
-        ],
         "asn": "AS210558"
     },
     {
@@ -5610,7 +5603,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV9603",
+        "nickname": "TV4140",
         "asn": "AS8151"
     },
     {
@@ -10867,7 +10860,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV8524",
+        "nickname": "TV4780",
         "asn": "AS22927"
     },
     {
@@ -25688,10 +25681,6 @@
         "asn": "AS4764"
     },
     {
-        "nickname": "omertaArbor",
-        "asn": "AS209"
-    },
-    {
         "nickname": "Dentist2",
         "asn": "AS13036"
     },
@@ -29041,9 +29030,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.154.98.42"
-        ],
         "asn": "AS210558"
     },
     {
@@ -33529,6 +33515,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "BWV639",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "denzelzel",
         "asn": "AS36849"
     },
@@ -37300,6 +37290,10 @@
             "109.70.100.2"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "Notchka",
+        "asn": "AS3215"
     },
     {
         "nickname": "malcolminthemiddle",
@@ -45176,6 +45170,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "pangea06",
+        "asn": "AS16019"
+    },
+    {
         "nickname": "NTH63R5",
         "exit_address": [
             "192.42.116.63"
@@ -46688,6 +46686,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "7h0rD3rZw13b31n",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "relayon1134",
         "asn": "AS60729"
     },
@@ -46852,7 +46854,7 @@
         "asn": "AS203003"
     },
     {
-        "nickname": "Oymyakon",
+        "nickname": "oymyakon",
         "asn": "AS24940"
     },
     {
@@ -47735,10 +47737,6 @@
             "185.181.61.201"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "Winogrady",
-        "asn": "AS197227"
     },
     {
         "nickname": "takeoff",
