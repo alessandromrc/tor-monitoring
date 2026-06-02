@@ -4553,6 +4553,10 @@
         "asn": "AS200303"
     },
     {
+        "nickname": "hhInhibitorsDE",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "marcuse10",
         "exit_address": [
             "178.20.55.182"
@@ -5599,7 +5603,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV3027",
+        "nickname": "TV6336",
         "asn": "AS8151"
     },
     {
@@ -7696,9 +7700,6 @@
     },
     {
         "nickname": "xks",
-        "exit_address": [
-            "176.65.149.96"
-        ],
         "asn": "AS51396"
     },
     {
@@ -9502,7 +9503,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV4689",
+        "nickname": "TV4798",
         "asn": "AS22927"
     },
     {
@@ -20691,6 +20692,9 @@
     },
     {
         "nickname": "NLTorNiceVPSnet",
+        "exit_address": [
+            "45.9.148.50"
+        ],
         "asn": "AS49447"
     },
     {
@@ -25219,6 +25223,9 @@
     },
     {
         "nickname": "torflow3",
+        "exit_address": [
+            "46.246.96.121"
+        ],
         "asn": "AS42708"
     },
     {
@@ -31579,6 +31586,10 @@
     {
         "nickname": "Collateral",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "ducknoodlez",
+        "asn": "AS58087"
     },
     {
         "nickname": "artikel10ber35",
@@ -42231,6 +42242,9 @@
     },
     {
         "nickname": "torflow2",
+        "exit_address": [
+            "46.246.98.47"
+        ],
         "asn": "AS42708"
     },
     {
@@ -43150,6 +43164,10 @@
     {
         "nickname": "luhtyler",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TumblerOne",
+        "asn": "AS3320"
     },
     {
         "nickname": "Schmutzig",
@@ -44590,6 +44608,10 @@
     {
         "nickname": "NvorDarkdrop",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Onionforge01",
+        "asn": "AS49447"
     },
     {
         "nickname": "sinilaukka",
@@ -46669,6 +46691,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "CuteAnimeGirlName",
+        "asn": "AS10796"
+    },
+    {
         "nickname": "ransom",
         "asn": "AS36849"
     },
@@ -46981,7 +47007,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
