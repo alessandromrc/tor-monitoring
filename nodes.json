@@ -5993,9 +5993,6 @@
     },
     {
         "nickname": "Zela",
-        "exit_address": [
-            "88.86.116.138"
-        ],
         "asn": "AS39392"
     },
     {
@@ -48128,6 +48125,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "myNiceRelay",
+        "asn": "AS28343"
+    },
+    {
         "nickname": "0x1ea7deadbeef",
         "asn": "AS197540"
     },
@@ -48692,7 +48693,7 @@
         "asn": "AS48314"
     },
     {
-        "nickname": "leihuidiout",
+        "nickname": "VegasNoonExit",
         "exit_address": [
             "209.141.50.78"
         ],
