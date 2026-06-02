@@ -227,10 +227,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Cardboard",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -416,10 +412,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "SpenzPiRelay",
-        "asn": "AS852"
-    },
-    {
         "nickname": "forest37",
         "asn": "AS36352"
     },
@@ -507,10 +499,6 @@
     {
         "nickname": "c0der",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "RedHeberg",
-        "asn": "AS209847"
     },
     {
         "nickname": "FreedomPhoenix",
@@ -1516,10 +1504,6 @@
     {
         "nickname": "koolKiwi69420",
         "asn": "AS9500"
-    },
-    {
-        "nickname": "RedHeberg",
-        "asn": "AS209847"
     },
     {
         "nickname": "chrisrivers",
@@ -11251,10 +11235,6 @@
         "asn": "AS203003"
     },
     {
-        "nickname": "forest06",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "Xer0mid",
         "asn": "AS14061"
     },
@@ -12640,10 +12620,6 @@
             "192.42.116.47"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS30860"
     },
     {
         "nickname": "theTorDoor",
@@ -17417,6 +17393,10 @@
     {
         "nickname": "Kanellos",
         "asn": "AS24961"
+    },
+    {
+        "nickname": "brrbigchungus",
+        "asn": "AS48314"
     },
     {
         "nickname": "mimira14",
@@ -28454,9 +28434,6 @@
     },
     {
         "nickname": "MariePierre",
-        "exit_address": [
-            "31.133.0.210"
-        ],
         "asn": "AS51290"
     },
     {
@@ -29468,10 +29445,6 @@
     {
         "nickname": "mustardonthebeat",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TorIFNSS",
-        "asn": "AS63949"
     },
     {
         "nickname": "NTH14R1",
@@ -32803,6 +32776,9 @@
     },
     {
         "nickname": "dark",
+        "exit_address": [
+            "45.9.168.102"
+        ],
         "asn": "AS211619"
     },
     {
@@ -34778,10 +34754,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "torRelay",
-        "asn": "AS208208"
     },
     {
         "nickname": "prsv",
@@ -48757,6 +48729,10 @@
     {
         "nickname": "GermanCraft8",
         "asn": "AS48314"
+    },
+    {
+        "nickname": "leihuidiout",
+        "asn": "AS53667"
     },
     {
         "nickname": "QuintexAirVPN1",
