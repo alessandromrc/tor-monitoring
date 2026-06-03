@@ -7155,6 +7155,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "dim",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "tivasavage",
         "asn": "AS36849"
     },
@@ -26618,7 +26622,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4197",
+        "nickname": "TV5950",
         "asn": "AS7303"
     },
     {
@@ -42642,10 +42646,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "andrethemacTor2",
-        "asn": "AS6848"
-    },
-    {
         "nickname": "erikb",
         "asn": "AS36849"
     },
@@ -44611,6 +44611,9 @@
     },
     {
         "nickname": "Onionforge01",
+        "exit_address": [
+            "45.9.149.34"
+        ],
         "asn": "AS49447"
     },
     {
@@ -47007,7 +47010,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
