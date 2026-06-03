@@ -3107,10 +3107,6 @@
         "asn": "AS16086"
     },
     {
-        "nickname": "suitablyanonymous",
-        "asn": "AS5378"
-    },
-    {
         "nickname": "frisbeereborn",
         "asn": "AS24940"
     },
@@ -4407,10 +4403,6 @@
     {
         "nickname": "Death",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS27284"
     },
     {
         "nickname": "fishnarc",
@@ -5783,10 +5775,6 @@
     {
         "nickname": "horgabost",
         "asn": "AS396507"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS27284"
     },
     {
         "nickname": "lunar11",
@@ -12728,6 +12716,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "RaspberryPi4b4e",
+        "asn": "AS3215"
+    },
+    {
         "nickname": "eo195",
         "asn": "AS396507"
     },
@@ -12918,7 +12910,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV2940",
+        "nickname": "TV1245",
         "asn": "AS6057"
     },
     {
@@ -14583,9 +14575,6 @@
     },
     {
         "nickname": "amersufi01",
-        "exit_address": [
-            "5.196.95.34"
-        ],
         "asn": "AS16276"
     },
     {
@@ -20940,6 +20929,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "curiousfacts",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "azkr01",
         "asn": "AS8075"
     },
@@ -22664,6 +22657,10 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "NebulaNode",
+        "asn": "AS24940"
     },
     {
         "nickname": "bigflo",
@@ -25623,10 +25620,6 @@
     {
         "nickname": "stranger",
         "asn": "AS63023"
-    },
-    {
-        "nickname": "kilroywashere",
-        "asn": "AS60404"
     },
     {
         "nickname": "Totoro4220",
@@ -28591,10 +28584,6 @@
         "asn": "AS174"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS27284"
-    },
-    {
         "nickname": "flyinglotus",
         "asn": "AS36849"
     },
@@ -29226,6 +29215,10 @@
     {
         "nickname": "mustardonthebeat",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TorIFNSS",
+        "asn": "AS63949"
     },
     {
         "nickname": "NTH14R1",
@@ -35754,10 +35747,6 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS27284"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS14061"
     },
@@ -36151,10 +36140,6 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
-    },
-    {
-        "nickname": "darkness",
-        "asn": "AS210558"
     },
     {
         "nickname": "as215296torrelay01",
@@ -44679,6 +44664,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "groypstein",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "Juno",
         "asn": "AS14061"
     },
@@ -46977,8 +46966,8 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV9167",
-        "asn": "AS22927"
+        "nickname": "TV3498",
+        "asn": "AS27747"
     },
     {
         "nickname": "mevolz2",
@@ -48626,6 +48615,10 @@
             "192.42.116.93"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "LangesRelay",
+        "asn": "AS31898"
     },
     {
         "nickname": "SupportSeaWatch",
