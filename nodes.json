@@ -5500,7 +5500,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV6401",
+        "nickname": "TV9240",
         "asn": "AS8151"
     },
     {
@@ -8090,7 +8090,7 @@
         "asn": "AS136052"
     },
     {
-        "nickname": "Heliodor",
+        "nickname": "relay01",
         "asn": "AS51167"
     },
     {
@@ -11153,9 +11153,6 @@
     },
     {
         "nickname": "YourDataMyProblem",
-        "exit_address": [
-            "45.131.64.118"
-        ],
         "asn": "AS58087"
     },
     {
@@ -14036,6 +14033,10 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "NotAHoneypot",
+        "asn": "AS31898"
     },
     {
         "nickname": "ThanasRelay1",
@@ -19386,6 +19387,10 @@
     {
         "nickname": "it2potts",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "artemisRelay",
+        "asn": "AS8560"
     },
     {
         "nickname": "zgato",
@@ -32425,7 +32430,7 @@
         "asn": "AS62005"
     },
     {
-        "nickname": "Northstar",
+        "nickname": "NorthStar",
         "asn": "AS16276"
     },
     {
@@ -32508,6 +32513,10 @@
     {
         "nickname": "jugendhackerassange",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "TV798",
+        "asn": "AS8151"
     },
     {
         "nickname": "kmdd",
@@ -47508,7 +47517,7 @@
         "asn": "AS1759"
     },
     {
-        "nickname": "TV7038",
+        "nickname": "TV1127",
         "asn": "AS22927"
     },
     {
