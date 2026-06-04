@@ -12838,7 +12838,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV1245",
+        "nickname": "TV5414",
         "asn": "AS6057"
     },
     {
@@ -14128,6 +14128,9 @@
     },
     {
         "nickname": "XileranExit1",
+        "exit_address": [
+            "5.230.229.28"
+        ],
         "asn": "AS12586"
     },
     {
@@ -14845,9 +14848,6 @@
     },
     {
         "nickname": "UltraDarkNode",
-        "exit_address": [
-            "45.88.186.215"
-        ],
         "asn": "AS210558"
     },
     {
@@ -17256,9 +17256,6 @@
     },
     {
         "nickname": "OnionsAreBeautiful",
-        "exit_address": [
-            "194.26.192.22"
-        ],
         "asn": "AS210558"
     },
     {
@@ -29482,9 +29479,6 @@
     },
     {
         "nickname": "Exit",
-        "exit_address": [
-            "203.159.90.15"
-        ],
         "asn": "AS210558"
     },
     {
@@ -30536,6 +30530,9 @@
     },
     {
         "nickname": "XileranExit2",
+        "exit_address": [
+            "5.230.229.28"
+        ],
         "asn": "AS12586"
     },
     {
@@ -37595,6 +37592,10 @@
         "asn": "AS208226"
     },
     {
+        "nickname": "BlueGene",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "TstrokeRelay",
         "asn": "AS3243"
     },
@@ -40490,9 +40491,6 @@
     },
     {
         "nickname": "Window",
-        "exit_address": [
-            "45.88.186.199"
-        ],
         "asn": "AS210558"
     },
     {
@@ -43776,6 +43774,9 @@
     },
     {
         "nickname": "XileranExit4",
+        "exit_address": [
+            "5.230.229.28"
+        ],
         "asn": "AS12586"
     },
     {
@@ -49265,9 +49266,6 @@
     },
     {
         "nickname": "r0cket05i5",
-        "exit_address": [
-            "45.84.107.222"
-        ],
         "asn": "AS214503"
     },
     {
