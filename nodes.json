@@ -8118,6 +8118,10 @@
         "asn": "AS200918"
     },
     {
+        "nickname": "test",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "mrTrololol",
         "asn": "AS212531"
     },
@@ -15144,10 +15148,6 @@
     {
         "nickname": "fuchs3",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "relayQueerPride",
-        "asn": "AS7018"
     },
     {
         "nickname": "MyTorExitNode",
@@ -22460,6 +22460,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "GnavenRelay2",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "mypersonalnickname",
         "asn": "AS63949"
     },
@@ -23350,6 +23354,10 @@
             "193.200.229.243"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "dismal",
+        "asn": "AS209373"
     },
     {
         "nickname": "opencommunity",
@@ -27274,6 +27282,10 @@
     {
         "nickname": "gperico",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Verox",
+        "asn": "AS5432"
     },
     {
         "nickname": "MeuServidorOracle",
@@ -47504,6 +47516,10 @@
         "asn": "AS198967"
     },
     {
+        "nickname": "GnavenRelay1",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.234.34"
@@ -48203,10 +48219,6 @@
             "23.191.200.115"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "RelayMRDS46110",
-        "asn": "AS12322"
     },
     {
         "nickname": "hbmRelayMondovi",
