@@ -5377,10 +5377,6 @@
         "asn": "AS29691"
     },
     {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "Tribulation",
         "asn": "AS29802"
     },
@@ -6780,6 +6776,9 @@
     },
     {
         "nickname": "HaelSturm",
+        "exit_address": [
+            "50.116.60.12"
+        ],
         "asn": "AS63949"
     },
     {
@@ -9074,6 +9073,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "TV9457",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS201409"
     },
@@ -9677,10 +9680,6 @@
     {
         "nickname": "Cypherpunk",
         "asn": "AS52048"
-    },
-    {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
     },
     {
         "nickname": "grafh",
@@ -17569,10 +17568,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "c0de",
         "asn": "AS22439"
     },
@@ -18012,9 +18007,6 @@
     },
     {
         "nickname": "ForPrivacyNET",
-        "exit_address": [
-            "104.244.73.193"
-        ],
         "asn": "AS53667"
     },
     {
@@ -20390,10 +20382,6 @@
     {
         "nickname": "eo180",
         "asn": "AS396507"
-    },
-    {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
     },
     {
         "nickname": "sh97IE101R",
@@ -26120,6 +26108,10 @@
         "asn": "AS211507"
     },
     {
+        "nickname": "blacklist3d",
+        "asn": "AS215703"
+    },
+    {
         "nickname": "guano",
         "asn": "AS16276"
     },
@@ -27711,10 +27703,6 @@
     {
         "nickname": "4309mGrandCombin",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
     },
     {
         "nickname": "shawtylod4l",
@@ -37947,10 +37935,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "PrincessPeach",
-        "asn": "AS33915"
-    },
-    {
         "nickname": "MassiveStealTime",
         "asn": "AS49683"
     },
@@ -39284,10 +39268,6 @@
     {
         "nickname": "TorBSD",
         "asn": "AS7018"
-    },
-    {
-        "nickname": "privatecloud",
-        "asn": "AS24940"
     },
     {
         "nickname": "renrpo26",
