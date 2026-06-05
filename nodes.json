@@ -16027,7 +16027,7 @@
     },
     {
         "nickname": "VanGogh",
-        "asn": "AS55293"
+        "asn": "AS209341"
     },
     {
         "nickname": "TorNode02",
@@ -28295,6 +28295,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "46.105.20.238"
+        ],
         "asn": "AS16276"
     },
     {
@@ -31571,6 +31574,10 @@
     {
         "nickname": "TV9981",
         "asn": "AS29571"
+    },
+    {
+        "nickname": "toradmin",
+        "asn": "AS7922"
     },
     {
         "nickname": "RoteServer",
@@ -38547,6 +38554,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "JellyRelay",
+        "asn": "AS11426"
+    },
+    {
         "nickname": "spinat",
         "exit_address": [
             "109.70.100.5"
@@ -40518,7 +40529,7 @@
     },
     {
         "nickname": "Kashmooter",
-        "asn": "AS47147"
+        "asn": "AS197540"
     },
     {
         "nickname": "prsv",
