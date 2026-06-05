@@ -6070,6 +6070,9 @@
     },
     {
         "nickname": "r0cket15i5",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -7006,10 +7009,6 @@
     {
         "nickname": "eclipse30",
         "asn": "AS16019"
-    },
-    {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
     },
     {
         "nickname": "rockericy",
@@ -8138,7 +8137,7 @@
         "asn": "AS136052"
     },
     {
-        "nickname": "relay01",
+        "nickname": "Unnamed",
         "asn": "AS51167"
     },
     {
@@ -10684,7 +10683,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV3335",
+        "nickname": "TV245",
         "asn": "AS22927"
     },
     {
@@ -30790,6 +30789,9 @@
     },
     {
         "nickname": "r0cket03i1",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -49022,10 +49024,6 @@
     {
         "nickname": "birchbark",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "TV5015",
-        "asn": "AS5384"
     },
     {
         "nickname": "GhostNetKennel",
