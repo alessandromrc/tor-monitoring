@@ -100,6 +100,9 @@
     },
     {
         "nickname": "r0cket11i7",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -1350,6 +1353,9 @@
     },
     {
         "nickname": "r0cket07i0",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -2189,6 +2195,9 @@
     },
     {
         "nickname": "r0cket10i3",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -2785,6 +2794,9 @@
     },
     {
         "nickname": "r0cket05i0",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -2839,6 +2851,10 @@
             "23.191.200.56"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "ForPrivacyNET",
+        "asn": "AS24961"
     },
     {
         "nickname": "FuckTheCommies",
@@ -2915,6 +2931,9 @@
     },
     {
         "nickname": "r0cket14i5",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -3116,6 +3135,9 @@
     },
     {
         "nickname": "r0cket07i3",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -3313,6 +3335,9 @@
     },
     {
         "nickname": "r0cket02i0",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -4147,6 +4172,9 @@
     },
     {
         "nickname": "r0cket14i6",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -5256,6 +5284,9 @@
     },
     {
         "nickname": "r0cket11i4",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -5651,6 +5682,9 @@
     },
     {
         "nickname": "r0cket07i7",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -6091,6 +6125,9 @@
     },
     {
         "nickname": "r0cket05i4",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -6123,6 +6160,9 @@
     },
     {
         "nickname": "r0cket08i1",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -6150,6 +6190,9 @@
     },
     {
         "nickname": "r0cket11i3",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -6326,6 +6369,9 @@
     },
     {
         "nickname": "r0cket13i1",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -6810,6 +6856,9 @@
     },
     {
         "nickname": "r0cket04i5",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -7221,6 +7270,9 @@
     },
     {
         "nickname": "r0cket01i5",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -7345,6 +7397,9 @@
     },
     {
         "nickname": "r0cket15i4",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -7879,6 +7934,9 @@
     },
     {
         "nickname": "r0cket10i5",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -8627,6 +8685,9 @@
     },
     {
         "nickname": "r0cket05i3",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -8780,6 +8841,9 @@
     },
     {
         "nickname": "r0cket15i3",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -9405,9 +9469,6 @@
     },
     {
         "nickname": "MyFirstRelay",
-        "exit_address": [
-            "167.172.108.109"
-        ],
         "asn": "AS14061"
     },
     {
@@ -9655,6 +9716,9 @@
     },
     {
         "nickname": "r0cket04i1",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -9748,6 +9812,9 @@
     },
     {
         "nickname": "r0cket09i5",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -10205,10 +10272,16 @@
     },
     {
         "nickname": "r0cket09i3",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
         "nickname": "r0cket06i3",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -10381,6 +10454,9 @@
     },
     {
         "nickname": "r0cket01i0",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -10493,6 +10569,9 @@
     },
     {
         "nickname": "r0cket11i6",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -10600,7 +10679,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV8163",
+        "nickname": "TV3335",
         "asn": "AS22927"
     },
     {
@@ -10719,6 +10798,9 @@
     },
     {
         "nickname": "r0cket08i3",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -11432,6 +11514,10 @@
         "asn": "AS202422"
     },
     {
+        "nickname": "rpSD03hsd38",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "lumipGoesOnion2",
         "asn": "AS197540"
     },
@@ -11464,6 +11550,9 @@
     },
     {
         "nickname": "r0cket07i5",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -11574,6 +11663,9 @@
     },
     {
         "nickname": "r0cket13i5",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -12234,6 +12326,9 @@
     },
     {
         "nickname": "r0cket15i1",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -12321,6 +12416,9 @@
     },
     {
         "nickname": "r0cket15i2",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -12668,6 +12766,9 @@
     },
     {
         "nickname": "r0cket08i4",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -12886,6 +12987,9 @@
     },
     {
         "nickname": "r0cket11i2",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -13067,6 +13171,9 @@
     },
     {
         "nickname": "r0cket06i0",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -13294,6 +13401,9 @@
     },
     {
         "nickname": "r0cket14i7",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -15353,6 +15463,9 @@
     },
     {
         "nickname": "r0cket07i6",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -16844,10 +16957,6 @@
         "asn": "AS22773"
     },
     {
-        "nickname": "artikel10buc15",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "diddy",
         "asn": "AS56655"
     },
@@ -18212,6 +18321,9 @@
     },
     {
         "nickname": "r0cket01i4",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -18326,6 +18438,9 @@
     },
     {
         "nickname": "r0cket08i0",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -18456,6 +18571,9 @@
     },
     {
         "nickname": "r0cket10i0",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -18649,6 +18767,9 @@
     },
     {
         "nickname": "r0cket12i2",
+        "exit_address": [
+            "45.84.107.17"
+        ],
         "asn": "AS214503"
     },
     {
@@ -18908,6 +19029,9 @@
     },
     {
         "nickname": "r0cket06i4",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -20462,6 +20586,9 @@
     },
     {
         "nickname": "r0cket03i6",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -20757,6 +20884,9 @@
     },
     {
         "nickname": "r0cket05i6",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -21021,6 +21151,9 @@
     },
     {
         "nickname": "r0cket12i7",
+        "exit_address": [
+            "45.84.107.17"
+        ],
         "asn": "AS214503"
     },
     {
@@ -21467,6 +21600,9 @@
     },
     {
         "nickname": "r0cket02i1",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -22951,6 +23087,9 @@
     },
     {
         "nickname": "r0cket13i2",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -23269,6 +23408,9 @@
     },
     {
         "nickname": "r0cket14i3",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -23710,6 +23852,9 @@
     },
     {
         "nickname": "r0cket06i7",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -24198,6 +24343,9 @@
     },
     {
         "nickname": "r0cket04i4",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -24936,6 +25084,9 @@
     },
     {
         "nickname": "r0cket01i1",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -25008,6 +25159,9 @@
     },
     {
         "nickname": "r0cket10i4",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -25448,6 +25602,9 @@
     },
     {
         "nickname": "r0cket06i5",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -25648,6 +25805,9 @@
     },
     {
         "nickname": "r0cket11i0",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -25809,6 +25969,9 @@
     },
     {
         "nickname": "r0cket14i2",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -25929,6 +26092,9 @@
     },
     {
         "nickname": "r0cket07i2",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -26089,7 +26255,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV5950",
+        "nickname": "TV4176",
         "asn": "AS7303"
     },
     {
@@ -26844,6 +27010,9 @@
     },
     {
         "nickname": "r0cket13i4",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -27238,6 +27407,9 @@
     },
     {
         "nickname": "r0cket04i7",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -27570,6 +27742,9 @@
     },
     {
         "nickname": "r0cket13i0",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -27821,6 +27996,9 @@
     },
     {
         "nickname": "r0cket03i5",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -29586,10 +29764,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "artikel10buc16",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "DFRI54",
         "exit_address": [
             "171.25.193.36"
@@ -30193,6 +30367,9 @@
     },
     {
         "nickname": "r0cket04i2",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -31253,6 +31430,9 @@
     },
     {
         "nickname": "r0cket13i6",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -31286,6 +31466,9 @@
     },
     {
         "nickname": "r0cket14i1",
+        "exit_address": [
+            "45.84.107.54"
+        ],
         "asn": "AS214503"
     },
     {
@@ -31766,6 +31949,9 @@
     },
     {
         "nickname": "r0cket12i3",
+        "exit_address": [
+            "45.84.107.17"
+        ],
         "asn": "AS214503"
     },
     {
@@ -32011,6 +32197,9 @@
     },
     {
         "nickname": "r0cket15i7",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -32451,6 +32640,9 @@
     },
     {
         "nickname": "r0cket01i6",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -32908,6 +33100,9 @@
     },
     {
         "nickname": "r0cket11i1",
+        "exit_address": [
+            "45.84.107.128"
+        ],
         "asn": "AS214503"
     },
     {
@@ -33292,6 +33487,9 @@
     },
     {
         "nickname": "r0cket08i5",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -33338,10 +33536,6 @@
     {
         "nickname": "millemille",
         "asn": "AS42730"
-    },
-    {
-        "nickname": "artikel10buc13",
-        "asn": "AS200651"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -34098,10 +34292,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "artikel10buc14",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "Killix",
         "asn": "AS56655"
     },
@@ -34762,6 +34952,9 @@
     },
     {
         "nickname": "r0cket07i1",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -35071,6 +35264,9 @@
     },
     {
         "nickname": "r0cket07i4",
+        "exit_address": [
+            "45.84.107.74"
+        ],
         "asn": "AS214503"
     },
     {
@@ -35488,6 +35684,9 @@
     },
     {
         "nickname": "r0cket09i6",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -35556,6 +35755,9 @@
     },
     {
         "nickname": "r0cket02i3",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -36078,6 +36280,9 @@
     },
     {
         "nickname": "r0cket02i4",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -36953,6 +37158,9 @@
     },
     {
         "nickname": "r0cket03i2",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -37026,6 +37234,9 @@
     },
     {
         "nickname": "r0cket05i7",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -37218,6 +37429,9 @@
     },
     {
         "nickname": "r0cket05i1",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -37591,6 +37805,9 @@
     },
     {
         "nickname": "r0cket04i6",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -37743,6 +37960,9 @@
     },
     {
         "nickname": "r0cket13i3",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -37864,6 +38084,9 @@
     },
     {
         "nickname": "r0cket08i2",
+        "exit_address": [
+            "45.84.107.172"
+        ],
         "asn": "AS214503"
     },
     {
@@ -38420,6 +38643,9 @@
     },
     {
         "nickname": "r0cket03i4",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -38431,6 +38657,9 @@
     },
     {
         "nickname": "r0cket01i2",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -38481,6 +38710,9 @@
     },
     {
         "nickname": "r0cket06i2",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -38772,6 +39004,9 @@
     },
     {
         "nickname": "r0cket04i3",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -38788,6 +39023,9 @@
     },
     {
         "nickname": "r0cket06i6",
+        "exit_address": [
+            "45.84.107.55"
+        ],
         "asn": "AS214503"
     },
     {
@@ -39238,6 +39476,9 @@
     },
     {
         "nickname": "r0cket10i2",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -39581,6 +39822,9 @@
     },
     {
         "nickname": "r0cket10i6",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
@@ -39831,6 +40075,9 @@
     },
     {
         "nickname": "r0cket03i3",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -39984,6 +40231,9 @@
     },
     {
         "nickname": "r0cket09i0",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -40011,6 +40261,9 @@
     },
     {
         "nickname": "r0cket02i7",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -40856,6 +41109,9 @@
     },
     {
         "nickname": "r0cket09i7",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -41943,6 +42199,9 @@
     },
     {
         "nickname": "r0cket02i5",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -43235,6 +43494,9 @@
     },
     {
         "nickname": "r0cket09i4",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -43266,6 +43528,9 @@
     },
     {
         "nickname": "r0cket04i0",
+        "exit_address": [
+            "45.84.107.101"
+        ],
         "asn": "AS214503"
     },
     {
@@ -43425,10 +43690,6 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "artikel10buc18",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "legoman",
         "asn": "AS200052"
     },
@@ -43550,6 +43811,9 @@
     },
     {
         "nickname": "r0cket02i6",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -44309,6 +44573,9 @@
     },
     {
         "nickname": "r0cket13i7",
+        "exit_address": [
+            "45.84.107.97"
+        ],
         "asn": "AS214503"
     },
     {
@@ -44705,6 +44972,9 @@
     },
     {
         "nickname": "r0cket03i7",
+        "exit_address": [
+            "45.84.107.76"
+        ],
         "asn": "AS214503"
     },
     {
@@ -45046,10 +45316,6 @@
     {
         "nickname": "sfd0m1337",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "libreonion1",
-        "asn": "AS20857"
     },
     {
         "nickname": "prsv",
@@ -45425,6 +45691,9 @@
     },
     {
         "nickname": "r0cket12i0",
+        "exit_address": [
+            "45.84.107.17"
+        ],
         "asn": "AS214503"
     },
     {
@@ -45452,9 +45721,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -45821,6 +46087,9 @@
     },
     {
         "nickname": "r0cket01i7",
+        "exit_address": [
+            "45.84.107.198"
+        ],
         "asn": "AS214503"
     },
     {
@@ -46735,6 +47004,9 @@
     },
     {
         "nickname": "r0cket12i5",
+        "exit_address": [
+            "45.84.107.17"
+        ],
         "asn": "AS214503"
     },
     {
@@ -47554,7 +47826,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "smc",
+        "nickname": "SMC",
         "asn": "AS3320"
     },
     {
@@ -48259,6 +48531,9 @@
     },
     {
         "nickname": "r0cket15i0",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -48513,6 +48788,9 @@
     },
     {
         "nickname": "r0cket02i2",
+        "exit_address": [
+            "45.84.107.182"
+        ],
         "asn": "AS214503"
     },
     {
@@ -48939,6 +49217,9 @@
     },
     {
         "nickname": "r0cket05i5",
+        "exit_address": [
+            "45.84.107.222"
+        ],
         "asn": "AS214503"
     },
     {
@@ -49075,6 +49356,9 @@
     },
     {
         "nickname": "r0cket09i1",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -49119,10 +49403,6 @@
     {
         "nickname": "x2lans",
         "asn": "AS61323"
-    },
-    {
-        "nickname": "artikel10buc17",
-        "asn": "AS200651"
     },
     {
         "nickname": "artikel10ber97",
@@ -49243,6 +49523,9 @@
     },
     {
         "nickname": "r0cket10i7",
+        "exit_address": [
+            "45.84.107.47"
+        ],
         "asn": "AS214503"
     },
     {
