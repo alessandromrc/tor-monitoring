@@ -1451,10 +1451,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "yoann",
-        "asn": "AS206996"
-    },
-    {
         "nickname": "artikel10buc02",
         "exit_address": [
             "185.100.87.250"
@@ -4103,6 +4099,9 @@
     },
     {
         "nickname": "poitras",
+        "exit_address": [
+            "23.129.64.146"
+        ],
         "asn": "AS396507"
     },
     {
@@ -5964,6 +5963,9 @@
     },
     {
         "nickname": "eo217",
+        "exit_address": [
+            "23.129.64.217"
+        ],
         "asn": "AS396507"
     },
     {
@@ -39730,6 +39732,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "fodchairlymeltone",
+        "asn": "AS8339"
+    },
+    {
         "nickname": "TheDirtyGauntlet",
         "asn": "AS202302"
     },
@@ -45908,6 +45914,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.223.84.84"
+        ],
         "asn": "AS36352"
     },
     {
