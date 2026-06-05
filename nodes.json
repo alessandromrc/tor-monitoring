@@ -23362,6 +23362,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "217.60.195.54"
+        ],
         "asn": "AS209373"
     },
     {
@@ -29383,6 +29386,9 @@
     },
     {
         "nickname": "ClubPhantom",
+        "exit_address": [
+            "84.239.46.144"
+        ],
         "asn": "AS201308"
     },
     {
@@ -30511,6 +30517,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Ispewond",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "arsonaldarebel",
         "asn": "AS36849"
     },
@@ -30929,10 +30939,6 @@
     {
         "nickname": "GermanCraft19",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "BlueGene",
-        "asn": "AS3292"
     },
     {
         "nickname": "LesPatriotes77",
@@ -32362,6 +32368,10 @@
     {
         "nickname": "alxu2",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "TV972",
+        "asn": "AS7303"
     },
     {
         "nickname": "frumentumzeus",
