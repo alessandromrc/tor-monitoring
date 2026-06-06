@@ -10697,7 +10697,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV7699",
+        "nickname": "TV3400",
         "asn": "AS22927"
     },
     {
@@ -11135,9 +11135,6 @@
     },
     {
         "nickname": "Runaz4",
-        "exit_address": [
-            "185.93.89.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -18066,9 +18063,6 @@
     },
     {
         "nickname": "heefer",
-        "exit_address": [
-            "162.19.7.11"
-        ],
         "asn": "AS16276"
     },
     {
@@ -36103,10 +36097,6 @@
         "asn": "AS11403"
     },
     {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "Stiefelgeiss",
         "asn": "AS4685"
     },
@@ -38257,6 +38247,10 @@
     {
         "nickname": "PrincessPeach",
         "asn": "AS33915"
+    },
+    {
+        "nickname": "DefCon",
+        "asn": "AS3320"
     },
     {
         "nickname": "MassiveStealTime",
