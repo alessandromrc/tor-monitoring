@@ -4828,6 +4828,10 @@
         "asn": "AS9063"
     },
     {
+        "nickname": "4712",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "popofficial",
         "asn": "AS36849"
     },
@@ -6728,10 +6732,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "georgetor",
-        "asn": "AS42807"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -8358,10 +8358,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TrustMeBroGarantee",
-        "asn": "AS16591"
-    },
-    {
         "nickname": "LuoDingo",
         "asn": "AS8560"
     },
@@ -9145,7 +9141,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV9193",
+        "nickname": "TV9214",
         "asn": "AS8151"
     },
     {
@@ -18902,9 +18898,6 @@
     },
     {
         "nickname": "nulltempNode",
-        "exit_address": [
-            "23.95.214.128"
-        ],
         "asn": "AS36352"
     },
     {
@@ -33935,10 +33928,6 @@
             "185.220.101.35"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "RainingTor",
-        "asn": "AS36352"
     },
     {
         "nickname": "Assange008fr",
