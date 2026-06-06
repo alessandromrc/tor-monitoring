@@ -5510,7 +5510,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV7922",
+        "nickname": "TV2636",
         "asn": "AS8151"
     },
     {
@@ -7113,10 +7113,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV6684",
-        "asn": "AS27747"
-    },
-    {
         "nickname": "DonationFromHERMES",
         "asn": "AS212477"
     },
@@ -8001,7 +7997,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV7966",
+        "nickname": "TV8833",
         "asn": "AS8151"
     },
     {
@@ -22140,6 +22136,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "TV9517",
+        "asn": "AS28573"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "5.104.84.183"
@@ -22744,6 +22744,9 @@
     },
     {
         "nickname": "BackroomExit01",
+        "exit_address": [
+            "121.127.34.40"
+        ],
         "asn": "AS400587"
     },
     {
@@ -42289,7 +42292,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -46143,10 +46146,6 @@
     {
         "nickname": "zgato",
         "asn": "AS12479"
-    },
-    {
-        "nickname": "w00naningansAMS1",
-        "asn": "AS46844"
     },
     {
         "nickname": "hetzman",
