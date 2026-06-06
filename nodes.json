@@ -12132,10 +12132,6 @@
         "asn": "AS12741"
     },
     {
-        "nickname": "TWrelay01",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "rbran0server0tor",
         "asn": "AS263108"
     },
@@ -12188,10 +12184,6 @@
     {
         "nickname": "NYCBUG1",
         "asn": "AS11403"
-    },
-    {
-        "nickname": "TWrelay02",
-        "asn": "AS197540"
     },
     {
         "nickname": "ymmv2",
@@ -23591,8 +23583,7 @@
     {
         "nickname": "KARLO7634",
         "exit_address": [
-            "202.181.177.215",
-            "203.12.31.101"
+            "202.181.177.215"
         ],
         "asn": "AS210083"
     },
@@ -35226,10 +35217,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "commufa",
-        "asn": "AS18126"
-    },
-    {
         "nickname": "Fenrir",
         "asn": "AS56655"
     },
@@ -36834,7 +36821,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "RedBaronX7",
+        "nickname": "RedBaron",
         "asn": "AS3215"
     },
     {
@@ -37915,10 +37902,6 @@
     {
         "nickname": "lachrymator",
         "asn": "AS7018"
-    },
-    {
-        "nickname": "fuckthefreeworld",
-        "asn": "AS24940"
     },
     {
         "nickname": "relayon1130",
@@ -41700,10 +41683,6 @@
             "192.42.116.112"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
     },
     {
         "nickname": "theTorDoor",
@@ -46465,7 +46444,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
