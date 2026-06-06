@@ -16233,6 +16233,10 @@
         "asn": "AS151873"
     },
     {
+        "nickname": "MyTorExit",
+        "asn": "AS210457"
+    },
+    {
         "nickname": "Death",
         "asn": "AS197540"
     },
@@ -17630,10 +17634,6 @@
     {
         "nickname": "Phantom717",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "LauchRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "fabledview",
@@ -32733,7 +32733,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV487",
+        "nickname": "TV5356",
         "asn": "AS8151"
     },
     {
@@ -35668,7 +35668,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -37740,10 +37739,6 @@
     {
         "nickname": "Khashoggi",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "TV3920",
-        "asn": "AS37680"
     },
     {
         "nickname": "sza",
@@ -46674,7 +46669,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV9172",
+        "nickname": "TV3096",
         "asn": "AS27747"
     },
     {
