@@ -2552,10 +2552,6 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "hlab17relay03",
-        "asn": "AS401833"
-    },
-    {
         "nickname": "knuckledragger",
         "exit_address": [
             "107.189.3.11"
@@ -2661,10 +2657,6 @@
     {
         "nickname": "Bern",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "hlab17relay04",
-        "asn": "AS401833"
     },
     {
         "nickname": "ZionMonero",
@@ -5507,7 +5499,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV2615",
+        "nickname": "TV7740",
         "asn": "AS8151"
     },
     {
@@ -8171,6 +8163,10 @@
     {
         "nickname": "CzRelayFuckPutin",
         "asn": "AS200918"
+    },
+    {
+        "nickname": "carlos1001",
+        "asn": "AS7018"
     },
     {
         "nickname": "test",
@@ -12249,10 +12245,6 @@
             "150.40.126.168"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "hlab17relay02",
-        "asn": "AS401833"
     },
     {
         "nickname": "Isitor2",
@@ -23519,6 +23511,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "JonHostingRelay",
+        "asn": "AS43809"
+    },
+    {
         "nickname": "r0cket08i6",
         "exit_address": [
             "45.84.107.172"
@@ -27835,10 +27831,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "commufa",
-        "asn": "AS18126"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -32111,10 +32103,6 @@
         "asn": "AS400587"
     },
     {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "magic848relay",
         "asn": "AS16276"
     },
@@ -33501,6 +33489,10 @@
             "23.191.200.53"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "TV8720",
+        "asn": "AS2856"
     },
     {
         "nickname": "torrage",
@@ -34976,10 +34968,6 @@
     {
         "nickname": "HappyToServeYou10",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
     },
     {
         "nickname": "idontknowjeffery",
@@ -45743,6 +45731,10 @@
     {
         "nickname": "SweetRelay",
         "asn": "AS1221"
+    },
+    {
+        "nickname": "mammoth",
+        "asn": "AS7922"
     },
     {
         "nickname": "RuneByteNET",
