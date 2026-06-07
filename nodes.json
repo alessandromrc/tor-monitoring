@@ -1657,6 +1657,9 @@
     },
     {
         "nickname": "KarsLovesJudaism",
+        "exit_address": [
+            "5.44.252.164"
+        ],
         "asn": "AS3236"
     },
     {
@@ -2451,6 +2454,10 @@
     {
         "nickname": "BourbonKid",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "TV6022",
+        "asn": "AS8346"
     },
     {
         "nickname": "lancelot",
@@ -5504,7 +5511,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV5262",
+        "nickname": "TV3696",
         "asn": "AS8151"
     },
     {
@@ -7625,7 +7632,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "TV1893",
+        "nickname": "TV6755",
         "asn": "AS23201"
     },
     {
@@ -13081,7 +13088,7 @@
         "asn": "AS329325"
     },
     {
-        "nickname": "TV1366",
+        "nickname": "TV7815",
         "asn": "AS22927"
     },
     {
@@ -26474,7 +26481,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4188",
+        "nickname": "TV4295",
         "asn": "AS7303"
     },
     {
@@ -29994,10 +30001,6 @@
     {
         "nickname": "chonkycat",
         "asn": "AS7018"
-    },
-    {
-        "nickname": "freenetchad",
-        "asn": "AS30600"
     },
     {
         "nickname": "NTH102R2",
@@ -49511,10 +49514,6 @@
             "23.94.148.16"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "PowerR01",
-        "asn": "AS8560"
     },
     {
         "nickname": "Ferou3",
