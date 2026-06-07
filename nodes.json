@@ -5495,7 +5495,7 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "TV8151",
+        "nickname": "TV5769",
         "asn": "AS8151"
     },
     {
@@ -6717,6 +6717,9 @@
     },
     {
         "nickname": "georgetor",
+        "exit_address": [
+            "152.89.39.187"
+        ],
         "asn": "AS42807"
     },
     {
@@ -7593,6 +7596,10 @@
             "185.220.101.4"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TV1893",
+        "asn": "AS23201"
     },
     {
         "nickname": "SkibidiCrackhead",
@@ -9132,7 +9139,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV8440",
+        "nickname": "TV9606",
         "asn": "AS8151"
     },
     {
@@ -11776,10 +11783,6 @@
         "asn": "AS30083"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "UrbanTor",
         "asn": "AS701"
     },
@@ -11850,6 +11853,10 @@
     {
         "nickname": "Gohan",
         "asn": "AS214639"
+    },
+    {
+        "nickname": "podmantorrelay",
+        "asn": "AS31898"
     },
     {
         "nickname": "Unshakled004",
@@ -13708,10 +13715,6 @@
             "23.236.122.193"
         ],
         "asn": "AS21859"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS63949"
     },
     {
         "nickname": "anarchy99",
@@ -26074,6 +26077,10 @@
     {
         "nickname": "methodman",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Asgard",
+        "asn": "AS137409"
     },
     {
         "nickname": "prsv",
@@ -38886,10 +38893,6 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Assange003ru",
         "asn": "AS43317"
     },
@@ -39436,6 +39439,10 @@
     {
         "nickname": "eth0",
         "asn": "AS204601"
+    },
+    {
+        "nickname": "VampireFunWorld",
+        "asn": "AS60781"
     },
     {
         "nickname": "prsv",
@@ -41252,6 +41259,10 @@
     {
         "nickname": "XMRBuyNow",
         "asn": "AS215540"
+    },
+    {
+        "nickname": "VisionVillage",
+        "asn": "AS60781"
     },
     {
         "nickname": "lilzayosama",
@@ -43945,10 +43956,6 @@
             "147.90.235.20"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS63949"
     },
     {
         "nickname": "marleybone7a",
@@ -47841,7 +47848,7 @@
         "asn": "AS1759"
     },
     {
-        "nickname": "TV1127",
+        "nickname": "TV1293",
         "asn": "AS22927"
     },
     {
@@ -48239,7 +48246,7 @@
         "asn": "AS8860"
     },
     {
-        "nickname": "TV9237",
+        "nickname": "TV9047",
         "asn": "AS28051"
     },
     {
@@ -48444,6 +48451,10 @@
     {
         "nickname": "desolate",
         "asn": "AS198189"
+    },
+    {
+        "nickname": "MasterChiefIsCool",
+        "asn": "AS16276"
     },
     {
         "nickname": "Freebird31",
