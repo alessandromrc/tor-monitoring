@@ -1818,6 +1818,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "DogeRelay4",
+        "asn": "AS701"
+    },
+    {
         "nickname": "TorRelay2b",
         "asn": "AS197540"
     },
@@ -4226,7 +4230,8 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
-            "84.52.42.33"
+            "84.52.42.33",
+            "84.52.44.229"
         ],
         "asn": "AS8728"
     },
@@ -5025,7 +5030,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -6950,7 +6954,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -23660,6 +23663,10 @@
         "asn": "AS43641"
     },
     {
+        "nickname": "TV3393",
+        "asn": "AS7122"
+    },
+    {
         "nickname": "vogerlsalat",
         "exit_address": [
             "109.70.100.2"
@@ -31428,7 +31435,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -34321,7 +34327,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -37253,7 +37258,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -39035,7 +39039,6 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "104.168.5.4",
             "67.215.237.232"
         ],
         "asn": "AS36352"
@@ -46404,6 +46407,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "92.119.164.131"
+        ],
         "asn": "AS211507"
     },
     {
@@ -49207,6 +49213,10 @@
     {
         "nickname": "prsv",
         "asn": "AS201409"
+    },
+    {
+        "nickname": "Cyberpain",
+        "asn": "AS41436"
     },
     {
         "nickname": "Mikoshi3",
