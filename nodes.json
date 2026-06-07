@@ -6295,6 +6295,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "muthur6000",
+        "asn": "AS10242"
+    },
+    {
         "nickname": "NorthLondonRelay",
         "asn": "AS201838"
     },
@@ -8303,6 +8307,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Kompromat",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "sioloke",
         "asn": "AS49592"
     },
@@ -9016,6 +9024,10 @@
     {
         "nickname": "VoxBox",
         "asn": "AS6661"
+    },
+    {
+        "nickname": "artemisRelay2",
+        "asn": "AS8560"
     },
     {
         "nickname": "myrelay",
@@ -19475,9 +19487,6 @@
     },
     {
         "nickname": "SCSRelay",
-        "exit_address": [
-            "78.141.219.102"
-        ],
         "asn": "AS398924"
     },
     {
