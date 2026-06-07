@@ -2282,6 +2282,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Cyberpain",
+        "asn": "AS36007"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "89.58.41.156"
@@ -12036,6 +12040,9 @@
     },
     {
         "nickname": "LINKANATOR",
+        "exit_address": [
+            "209.141.56.103"
+        ],
         "asn": "AS53667"
     },
     {
@@ -18790,9 +18797,6 @@
     },
     {
         "nickname": "SkaffaExit",
-        "exit_address": [
-            "66.78.40.91"
-        ],
         "asn": "AS215659"
     },
     {
@@ -38263,6 +38267,10 @@
         "asn": "AS201838"
     },
     {
+        "nickname": "Cyberpain",
+        "asn": "AS0"
+    },
+    {
         "nickname": "TRS01",
         "asn": "AS3320"
     },
@@ -40844,6 +40852,10 @@
     {
         "nickname": "Andromeda",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "TV8982",
+        "asn": "AS701"
     },
     {
         "nickname": "ZackMorris",
@@ -45765,10 +45777,6 @@
     {
         "nickname": "enjutoMojamuto7",
         "asn": "AS12430"
-    },
-    {
-        "nickname": "commufa",
-        "asn": "AS18126"
     },
     {
         "nickname": "jaemillzyoungmoney",
