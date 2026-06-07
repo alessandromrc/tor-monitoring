@@ -12031,6 +12031,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "LINKANATOR",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "neopistea",
         "asn": "AS36849"
     },
@@ -36667,6 +36671,9 @@
     },
     {
         "nickname": "Ferou2",
+        "exit_address": [
+            "192.53.121.57"
+        ],
         "asn": "AS63949"
     },
     {
@@ -43010,6 +43017,9 @@
     },
     {
         "nickname": "Ferou1",
+        "exit_address": [
+            "172.237.62.201"
+        ],
         "asn": "AS63949"
     },
     {
@@ -46730,6 +46740,10 @@
     {
         "nickname": "zgato",
         "asn": "AS206996"
+    },
+    {
+        "nickname": "u58bboyjudoka",
+        "asn": "AS14956"
     },
     {
         "nickname": "TORtelliniExit01",
