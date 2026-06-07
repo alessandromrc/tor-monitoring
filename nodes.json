@@ -650,7 +650,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV6330",
+        "nickname": "TV2719",
         "asn": "AS22927"
     },
     {
@@ -2456,7 +2456,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV4935",
+        "nickname": "TV730",
         "asn": "AS8346"
     },
     {
@@ -2944,6 +2944,10 @@
     {
         "nickname": "stormbeard10",
         "asn": "AS209"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS212477"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -4536,6 +4540,10 @@
     },
     {
         "nickname": "myLittleRelay",
+        "asn": "AS212477"
+    },
+    {
+        "nickname": "Unnamed",
         "asn": "AS212477"
     },
     {
@@ -8402,10 +8410,6 @@
         "asn": "AS16591"
     },
     {
-        "nickname": "LuoDingo",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "phyno",
         "asn": "AS36849"
     },
@@ -9836,6 +9840,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "WeldimRelay",
         "asn": "AS31615"
     },
@@ -10869,6 +10877,10 @@
     {
         "nickname": "dragonfruit",
         "asn": "AS5650"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS212477"
     },
     {
         "nickname": "ALiteralBird",
@@ -19893,6 +19905,10 @@
         "asn": "AS5650"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "RelayGeek03",
         "asn": "AS924"
     },
@@ -20472,6 +20488,9 @@
     },
     {
         "nickname": "corewars",
+        "exit_address": [
+            "148.135.75.210"
+        ],
         "asn": "AS35916"
     },
     {
