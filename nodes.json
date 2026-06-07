@@ -1593,10 +1593,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "BlackWhatever",
-        "asn": "AS5769"
-    },
-    {
         "nickname": "NTH116R6",
         "exit_address": [
             "192.42.116.116"
@@ -4254,7 +4250,6 @@
         "nickname": "Unnamed",
         "exit_address": [
             "84.52.38.46",
-            "84.52.42.33",
             "84.52.44.229"
         ],
         "asn": "AS8728"
@@ -5413,6 +5408,9 @@
     },
     {
         "nickname": "Tribulation",
+        "exit_address": [
+            "74.50.118.26"
+        ],
         "asn": "AS29802"
     },
     {
@@ -46720,7 +46718,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47011,7 +47009,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV3096",
+        "nickname": "TV1856",
         "asn": "AS27747"
     },
     {
