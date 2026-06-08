@@ -12666,10 +12666,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "PiholeRelay",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "NTH76R1",
         "asn": "AS215125"
     },
@@ -14048,9 +14044,6 @@
     },
     {
         "nickname": "exit",
-        "exit_address": [
-            "202.181.177.206"
-        ],
         "asn": "AS210083"
     },
     {
@@ -19867,7 +19860,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7407",
+        "nickname": "TV5592",
         "asn": "AS33915"
     },
     {
@@ -27231,9 +27224,6 @@
     },
     {
         "nickname": "Exit",
-        "exit_address": [
-            "203.12.31.87"
-        ],
         "asn": "AS210083"
     },
     {
@@ -33407,10 +33397,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS9031"
-    },
-    {
         "nickname": "Killix",
         "asn": "AS214677"
     },
@@ -35727,6 +35713,10 @@
     {
         "nickname": "friedman",
         "asn": "AS208323"
+    },
+    {
+        "nickname": "TorGuard",
+        "asn": "AS24560"
     },
     {
         "nickname": "opencommunity",
@@ -40914,6 +40904,10 @@
         "asn": "AS394380"
     },
     {
+        "nickname": "denkenaconsulting",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "thelastvampire",
         "asn": "AS206264"
     },
@@ -42968,10 +42962,6 @@
             "45.13.237.121"
         ],
         "asn": "AS58087"
-    },
-    {
-        "nickname": "lagaustia",
-        "asn": "AS210644"
     },
     {
         "nickname": "conceitedwildnout",
