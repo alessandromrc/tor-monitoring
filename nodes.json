@@ -718,10 +718,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "anon5458",
-        "asn": "AS209"
-    },
-    {
         "nickname": "TLCOnion",
         "asn": "AS7922"
     },
@@ -1021,6 +1017,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -2908,6 +2907,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -6080,10 +6082,6 @@
         "asn": "AS3462"
     },
     {
-        "nickname": "0x255dotdev",
-        "asn": "AS5378"
-    },
-    {
         "nickname": "4222246869172484",
         "exit_address": [
             "185.132.53.46"
@@ -7262,10 +7260,6 @@
     {
         "nickname": "Scrubsss",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "PawfulDE",
-        "asn": "AS206996"
     },
     {
         "nickname": "bastet",
@@ -13888,6 +13882,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -14708,6 +14705,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -19508,6 +19508,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -19828,10 +19831,6 @@
     {
         "nickname": "Charybdis5",
         "asn": "AS21499"
-    },
-    {
-        "nickname": "justbits",
-        "asn": "AS36352"
     },
     {
         "nickname": "RelayGeek07",
@@ -34531,6 +34530,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -39602,6 +39604,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -46773,7 +46778,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
