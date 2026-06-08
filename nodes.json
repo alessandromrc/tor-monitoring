@@ -646,7 +646,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV2164",
+        "nickname": "TV9415",
         "asn": "AS22927"
     },
     {
@@ -2536,6 +2536,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "67.215.237.232"
+        ],
         "asn": "AS36352"
     },
     {
@@ -3439,6 +3442,10 @@
             "192.42.116.116"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "libertyroad",
+        "asn": "AS14956"
     },
     {
         "nickname": "TV8179",
@@ -10775,7 +10782,7 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "TV8136",
+        "nickname": "TV4198",
         "asn": "AS22927"
     },
     {
@@ -11920,6 +11927,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "rogemedic",
+        "asn": "AS30600"
+    },
+    {
         "nickname": "lilpeep",
         "asn": "AS36849"
     },
@@ -12322,6 +12333,10 @@
     {
         "nickname": "MeinDebianRelay",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "Loop1403",
+        "asn": "AS216188"
     },
     {
         "nickname": "tor102",
@@ -18924,6 +18939,10 @@
         "asn": "AS200462"
     },
     {
+        "nickname": "r3d",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "Limassol",
         "asn": "AS12876"
     },
@@ -20461,10 +20480,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "MyRelay",
-        "asn": "AS36925"
-    },
-    {
         "nickname": "TORKeFFORG2",
         "exit_address": [
             "193.189.100.195"
@@ -21315,10 +21330,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "hostingswiftc7bf546",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "Caramelo",
         "asn": "AS136258"
     },
@@ -21678,6 +21689,10 @@
     {
         "nickname": "whatconfig",
         "asn": "AS48927"
+    },
+    {
+        "nickname": "Meme67",
+        "asn": "AS28753"
     },
     {
         "nickname": "BushyBoysNode",
@@ -28280,10 +28295,6 @@
     {
         "nickname": "eyeBrRrea7",
         "asn": "AS34779"
-    },
-    {
-        "nickname": "MariePierre",
-        "asn": "AS51290"
     },
     {
         "nickname": "HadalyTorRelay",
@@ -39591,7 +39602,7 @@
         "asn": "AS206264"
     },
     {
-        "nickname": "TV7476",
+        "nickname": "TV2150",
         "asn": "AS7303"
     },
     {
@@ -46180,6 +46191,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
