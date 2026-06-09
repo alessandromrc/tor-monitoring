@@ -366,6 +366,9 @@
     },
     {
         "nickname": "Torista",
+        "exit_address": [
+            "185.12.44.174"
+        ],
         "asn": "AS51852"
     },
     {
@@ -646,7 +649,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV5440",
+        "nickname": "TV4194",
         "asn": "AS22927"
     },
     {
@@ -8063,6 +8066,10 @@
             "23.191.200.65"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "ASTorRelay",
+        "asn": "AS5378"
     },
     {
         "nickname": "torre",
@@ -19648,7 +19655,7 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "artemisRelay",
+        "nickname": "artemisRelay1",
         "asn": "AS8560"
     },
     {
@@ -35502,6 +35509,10 @@
         "asn": "AS19318"
     },
     {
+        "nickname": "KansasExit3124",
+        "asn": "AS56971"
+    },
+    {
         "nickname": "INSRelay18at5443",
         "asn": "AS1205"
     },
@@ -38019,7 +38030,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV6454",
+        "nickname": "TV9379",
         "asn": "AS37680"
     },
     {
@@ -39417,6 +39428,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
