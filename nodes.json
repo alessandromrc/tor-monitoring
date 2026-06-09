@@ -4285,7 +4285,8 @@
         "nickname": "Unnamed",
         "exit_address": [
             "84.52.2.13",
-            "84.52.40.239"
+            "84.52.40.239",
+            "84.52.58.213"
         ],
         "asn": "AS8728"
     },
@@ -6172,10 +6173,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Perlman",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "nexwoof",
         "asn": "AS152992"
     },
@@ -6773,9 +6770,6 @@
     },
     {
         "nickname": "georgetor",
-        "exit_address": [
-            "152.89.39.187"
-        ],
         "asn": "AS42807"
     },
     {
@@ -13552,6 +13546,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "MadToshTorRelay9001",
+        "asn": "AS22612"
+    },
+    {
         "nickname": "Perseverance",
         "asn": "AS35592"
     },
@@ -14177,10 +14175,6 @@
     {
         "nickname": "myN0de1",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "torvantor",
-        "asn": "AS12312"
     },
     {
         "nickname": "cashkidd",
@@ -19861,7 +19855,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV5592",
+        "nickname": "TV1675",
         "asn": "AS33915"
     },
     {
@@ -22868,10 +22862,6 @@
     {
         "nickname": "StarAppsTrenton",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "Shrek",
-        "asn": "AS16276"
     },
     {
         "nickname": "elc5",
@@ -29021,9 +29011,6 @@
     },
     {
         "nickname": "TRONTO346",
-        "exit_address": [
-            "203.12.31.99"
-        ],
         "asn": "AS210083"
     },
     {
@@ -39596,7 +39583,7 @@
         "asn": "AS206264"
     },
     {
-        "nickname": "TV4094",
+        "nickname": "TV6712",
         "asn": "AS7303"
     },
     {
@@ -42136,6 +42123,10 @@
     {
         "nickname": "magalien",
         "asn": "AS701"
+    },
+    {
+        "nickname": "enjutoMojamuto5",
+        "asn": "AS12430"
     },
     {
         "nickname": "NeelTorExit4B",
@@ -46752,7 +46743,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
