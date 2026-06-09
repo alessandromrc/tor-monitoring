@@ -6000,6 +6000,10 @@
         "asn": "AS35366"
     },
     {
+        "nickname": "fluppi",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "masstorNY3",
         "asn": "AS36352"
     },
@@ -22901,6 +22905,10 @@
         "asn": "AS35366"
     },
     {
+        "nickname": "TV907",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "tpain",
         "asn": "AS36849"
     },
@@ -31110,6 +31118,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "policeisspyingyou",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Torr4Tor",
         "asn": "AS174"
     },
@@ -33772,6 +33784,10 @@
     {
         "nickname": "sahil",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "BoulderRelay",
+        "asn": "AS7922"
     },
     {
         "nickname": "mindstab",
@@ -49877,6 +49893,9 @@
     },
     {
         "nickname": "toodenwablesrelay",
+        "exit_address": [
+            "69.163.77.166"
+        ],
         "asn": "AS36103"
     },
     {
