@@ -18139,6 +18139,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "TV4409",
+        "asn": "AS22927"
+    },
+    {
         "nickname": "TheShadowRoute17",
         "asn": "AS215288"
     },
@@ -19849,7 +19853,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV1675",
+        "nickname": "TV3246",
         "asn": "AS33915"
     },
     {
@@ -22986,6 +22990,9 @@
     },
     {
         "nickname": "relayita",
+        "exit_address": [
+            "178.18.242.84"
+        ],
         "asn": "AS51167"
     },
     {
@@ -25558,6 +25565,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "FreeExitNode",
+        "asn": "AS214915"
+    },
+    {
         "nickname": "idideditheconfig",
         "asn": "AS134143"
     },
@@ -26417,6 +26428,10 @@
             "216.73.159.75"
         ],
         "asn": "AS61138"
+    },
+    {
+        "nickname": "fumo",
+        "asn": "AS211507"
     },
     {
         "nickname": "GermanCraft18",
@@ -32718,6 +32733,10 @@
     {
         "nickname": "FoolsGoals",
         "asn": "AS14956"
+    },
+    {
+        "nickname": "FirstDirectorate",
+        "asn": "AS19318"
     },
     {
         "nickname": "mentoreth3",
@@ -44226,10 +44245,6 @@
         "asn": "AS59729"
     },
     {
-        "nickname": "OVH",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "myNiceRelay",
         "asn": "AS263998"
     },
@@ -45392,7 +45407,7 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "TV8347",
+        "nickname": "TV2308",
         "asn": "AS7303"
     },
     {
