@@ -5093,8 +5093,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "192.227.183.149",
-            "67.215.237.232"
+            "192.227.183.149"
         ],
         "asn": "AS36352"
     },
@@ -15845,8 +15844,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "192.227.183.149",
-            "67.215.237.232"
+            "192.227.183.149"
         ],
         "asn": "AS36352"
     },
@@ -23472,6 +23470,10 @@
             "171.25.193.131"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "TV9274",
+        "asn": "AS701"
     },
     {
         "nickname": "Lamia2",
@@ -33131,6 +33133,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "livinvicta",
+        "asn": "AS2860"
+    },
+    {
         "nickname": "neowutran",
         "asn": "AS12322"
     },
@@ -35987,8 +35993,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "192.227.183.149",
-            "67.215.237.232"
+            "192.227.183.149"
         ],
         "asn": "AS36352"
     },
@@ -37576,8 +37581,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "192.227.183.149",
-            "67.215.237.232"
+            "192.227.183.149"
         ],
         "asn": "AS36352"
     },
@@ -38354,7 +38358,7 @@
     },
     {
         "nickname": "Cyberpain",
-        "asn": "AS0"
+        "asn": "AS204548"
     },
     {
         "nickname": "TRS01",
