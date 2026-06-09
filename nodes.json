@@ -7019,8 +7019,7 @@
     {
         "nickname": "Quetzalcoatl",
         "exit_address": [
-            "192.227.183.149",
-            "67.215.237.232"
+            "192.227.183.149"
         ],
         "asn": "AS36352"
     },
@@ -17788,6 +17787,10 @@
     {
         "nickname": "Phantom717",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "LauchRelay",
+        "asn": "AS24940"
     },
     {
         "nickname": "fabledview",
