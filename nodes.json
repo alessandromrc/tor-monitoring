@@ -19832,6 +19832,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "RelayGeek07",
         "asn": "AS924"
     },
@@ -23765,7 +23769,8 @@
     {
         "nickname": "KARLO7634",
         "exit_address": [
-            "202.181.177.215"
+            "202.181.177.215",
+            "203.12.31.101"
         ],
         "asn": "AS210083"
     },
@@ -27648,10 +27653,6 @@
     {
         "nickname": "hitboy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "1089047568373774",
-        "asn": "AS60404"
     },
     {
         "nickname": "foolio",
@@ -46757,7 +46758,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
