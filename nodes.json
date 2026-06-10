@@ -458,6 +458,10 @@
         "asn": "AS398242"
     },
     {
+        "nickname": "daemons",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Lamia11",
         "asn": "AS16276"
     },
@@ -3291,10 +3295,6 @@
             "109.70.100.12"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "nexusprime",
-        "asn": "AS8560"
     },
     {
         "nickname": "PoochySloochy",
@@ -13830,9 +13830,6 @@
     },
     {
         "nickname": "mingles",
-        "exit_address": [
-            "23.236.122.193"
-        ],
         "asn": "AS21859"
     },
     {
@@ -14094,10 +14091,6 @@
     {
         "nickname": "richboy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "derbs",
-        "asn": "AS24961"
     },
     {
         "nickname": "GermanCraft15",
@@ -19643,7 +19636,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV5278",
+        "nickname": "TV685",
         "asn": "AS8452"
     },
     {
@@ -21781,6 +21774,10 @@
     {
         "nickname": "wale",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Saen",
+        "asn": "AS51852"
     },
     {
         "nickname": "FreeExit",
@@ -25547,7 +25544,7 @@
         "asn": "AS61125"
     },
     {
-        "nickname": "FreeExitNode",
+        "nickname": "JonisExitNode",
         "exit_address": [
             "5.175.225.43"
         ],
@@ -28953,10 +28950,6 @@
     {
         "nickname": "lordinfamous",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "BVX2",
-        "asn": "AS396982"
     },
     {
         "nickname": "NTH13R4",
@@ -34611,10 +34604,6 @@
     {
         "nickname": "vidi",
         "asn": "AS63473"
-    },
-    {
-        "nickname": "TorExiDova",
-        "asn": "AS43289"
     },
     {
         "nickname": "shark",
@@ -44252,10 +44241,6 @@
         "exit_address": [
             "107.189.7.141"
         ],
-        "asn": "AS53667"
-    },
-    {
-        "nickname": "Leslie",
         "asn": "AS53667"
     },
     {
