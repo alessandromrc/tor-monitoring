@@ -657,7 +657,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV7121",
+        "nickname": "TV4544",
         "asn": "AS22927"
     },
     {
@@ -5981,6 +5981,10 @@
         "asn": "AS26383"
     },
     {
+        "nickname": "67",
+        "asn": "AS29485"
+    },
+    {
         "nickname": "NTH49R6",
         "exit_address": [
             "192.42.116.49"
@@ -7784,10 +7788,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "sindne0",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS5089"
     },
@@ -8402,6 +8402,9 @@
     },
     {
         "nickname": "geistslowy",
+        "exit_address": [
+            "37.252.189.216"
+        ],
         "asn": "AS44133"
     },
     {
@@ -12168,10 +12171,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "k0",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "Tuco1",
         "asn": "AS42675"
     },
@@ -14558,6 +14557,9 @@
     },
     {
         "nickname": "dobromanian2",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS215659"
     },
     {
@@ -19623,7 +19625,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV685",
+        "nickname": "TV8619",
         "asn": "AS8452"
     },
     {
@@ -20897,6 +20899,9 @@
     },
     {
         "nickname": "dobromanian",
+        "exit_address": [
+            "93.113.25.90"
+        ],
         "asn": "AS215659"
     },
     {
@@ -26988,7 +26993,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "DamoMiddleRelay",
+        "nickname": "DemonFoxRelay",
         "asn": "AS56329"
     },
     {
@@ -35942,6 +35947,9 @@
     },
     {
         "nickname": "esta0lilja",
+        "exit_address": [
+            "104.219.236.100"
+        ],
         "asn": "AS27176"
     },
     {
@@ -37082,10 +37090,6 @@
     {
         "nickname": "lowhanger",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "PankyTR1",
-        "asn": "AS59895"
     },
     {
         "nickname": "percy",
@@ -46593,6 +46597,9 @@
     },
     {
         "nickname": "SpokaneBronk",
+        "exit_address": [
+            "65.87.7.53"
+        ],
         "asn": "AS215659"
     },
     {
@@ -46730,7 +46737,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
