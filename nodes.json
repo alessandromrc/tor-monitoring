@@ -649,7 +649,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV591",
+        "nickname": "TV5085",
         "asn": "AS22927"
     },
     {
@@ -4295,6 +4295,7 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
+            "84.52.48.254",
             "84.52.58.213"
         ],
         "asn": "AS8728"
@@ -21609,10 +21610,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TORFFLL",
-        "asn": "AS49289"
-    },
-    {
         "nickname": "myNiceRelay",
         "asn": "AS63949"
     },
@@ -29165,6 +29162,10 @@
     {
         "nickname": "rappername",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "daemons",
+        "asn": "AS24940"
     },
     {
         "nickname": "StopGazaGenocide",
@@ -42922,6 +42923,9 @@
     },
     {
         "nickname": "olMcdonaldhatafarm",
+        "exit_address": [
+            "94.23.204.164"
+        ],
         "asn": "AS16276"
     },
     {
