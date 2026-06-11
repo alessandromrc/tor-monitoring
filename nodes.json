@@ -9573,10 +9573,6 @@
         "asn": "AS43641"
     },
     {
-        "nickname": "MyFirstRelay",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "NTH107R8",
         "exit_address": [
             "192.42.116.107"
@@ -36703,6 +36699,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "ellen2",
+        "asn": "AS823"
+    },
+    {
         "nickname": "wombat",
         "exit_address": [
             "109.70.100.11"
@@ -38153,6 +38153,10 @@
     {
         "nickname": "lachrymator",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "fuckthefreeworld",
+        "asn": "AS24940"
     },
     {
         "nickname": "relayon1130",
@@ -44104,7 +44108,7 @@
         "asn": "AS6718"
     },
     {
-        "nickname": "LINKANATOR1",
+        "nickname": "LINKANATOR",
         "asn": "AS202422"
     },
     {
@@ -44382,6 +44386,10 @@
     {
         "nickname": "stormyz",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "FreePalestine",
+        "asn": "AS8560"
     },
     {
         "nickname": "DFRI84",
