@@ -7569,10 +7569,6 @@
         "asn": "AS3399"
     },
     {
-        "nickname": "Ratatoskr",
-        "asn": "AS210546"
-    },
-    {
         "nickname": "AvocadoTortillas",
         "asn": "AS20473"
     },
@@ -9262,7 +9258,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV9601",
+        "nickname": "TV9990",
         "asn": "AS8151"
     },
     {
@@ -18146,7 +18142,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV4562",
+        "nickname": "TV517",
         "asn": "AS22927"
     },
     {
@@ -26924,10 +26920,6 @@
         "asn": "AS855"
     },
     {
-        "nickname": "GetMoneroOrg",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "Aramis",
         "exit_address": [
             "45.83.104.137"
@@ -32402,6 +32394,9 @@
     },
     {
         "nickname": "ebatsukasofskaya",
+        "exit_address": [
+            "180.149.44.109"
+        ],
         "asn": "AS202422"
     },
     {
@@ -40790,6 +40785,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "theking2",
+        "asn": "AS6730"
+    },
+    {
         "nickname": "UnredactedKiriakou",
         "exit_address": [
             "23.191.200.51"
@@ -43222,10 +43221,6 @@
             "185.220.101.27"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "ChatGPThelpedme",
-        "asn": "AS209847"
     },
     {
         "nickname": "rhabarber",
