@@ -2446,10 +2446,6 @@
         "asn": "AS41745"
     },
     {
-        "nickname": "Mamaliga",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "ocdp",
         "asn": "AS36849"
     },
@@ -3524,6 +3520,9 @@
     },
     {
         "nickname": "sartre1",
+        "exit_address": [
+            "185.246.191.53"
+        ],
         "asn": "AS200651"
     },
     {
@@ -5717,6 +5716,10 @@
             "192.42.116.17"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
     },
     {
         "nickname": "basilikum",
@@ -8740,7 +8743,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "sars",
+        "nickname": "SARS",
         "asn": "AS34781"
     },
     {
@@ -14987,6 +14990,10 @@
     {
         "nickname": "boxoffice206",
         "asn": "AS18460"
+    },
+    {
+        "nickname": "yescal",
+        "asn": "AS8075"
     },
     {
         "nickname": "vastcloud",
@@ -26620,7 +26627,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4548",
+        "nickname": "TV4895",
         "asn": "AS7303"
     },
     {
@@ -29461,6 +29468,10 @@
         "asn": "AS4540"
     },
     {
+        "nickname": "detch232",
+        "asn": "AS63150"
+    },
+    {
         "nickname": "yoann",
         "exit_address": [
             "194.156.89.134"
@@ -31506,7 +31517,7 @@
         "asn": "AS270013"
     },
     {
-        "nickname": "TV8634",
+        "nickname": "TV8012",
         "asn": "AS7303"
     },
     {
@@ -31805,7 +31816,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV8205",
+        "nickname": "TV28",
         "asn": "AS28573"
     },
     {
@@ -33642,6 +33653,9 @@
     },
     {
         "nickname": "sartre2",
+        "exit_address": [
+            "185.246.191.53"
+        ],
         "asn": "AS200651"
     },
     {
@@ -34348,6 +34362,10 @@
     {
         "nickname": "sinkrlogin",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "TV3716",
+        "asn": "AS7303"
     },
     {
         "nickname": "zgato",
@@ -37369,10 +37387,6 @@
     {
         "nickname": "TheShadowRoute04",
         "asn": "AS215288"
-    },
-    {
-        "nickname": "JustObey",
-        "asn": "AS49791"
     },
     {
         "nickname": "TheShadowRoute10",
