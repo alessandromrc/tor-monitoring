@@ -6201,6 +6201,10 @@
         "asn": "AS199654"
     },
     {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "KingPommes",
         "asn": "AS8560"
     },
@@ -8106,10 +8110,6 @@
     {
         "nickname": "eclipse29",
         "asn": "AS16019"
-    },
-    {
-        "nickname": "TV3736",
-        "asn": "AS8151"
     },
     {
         "nickname": "blrfortormd",
@@ -17388,10 +17388,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "dustybox",
-        "asn": "AS9318"
-    },
-    {
         "nickname": "aether",
         "asn": "AS36352"
     },
@@ -19058,10 +19054,6 @@
     {
         "nickname": "beastzone",
         "asn": "AS40994"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS6206"
     },
     {
         "nickname": "angaRelay",
@@ -20803,7 +20795,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "MK7Ind",
+        "nickname": "MK7Ind1",
         "exit_address": [
             "168.144.112.115"
         ],
@@ -30332,6 +30324,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "2MPrelay",
+        "asn": "AS58087"
+    },
+    {
         "nickname": "Vevelonel",
         "asn": "AS26832"
     },
@@ -30691,10 +30687,6 @@
     {
         "nickname": "stratus7",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "torricelli",
-        "asn": "AS8560"
     },
     {
         "nickname": "davidray",
@@ -31550,7 +31542,7 @@
         "asn": "AS270013"
     },
     {
-        "nickname": "TV8012",
+        "nickname": "TV6970",
         "asn": "AS7303"
     },
     {
@@ -41069,7 +41061,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV8982",
+        "nickname": "TV9157",
         "asn": "AS701"
     },
     {
@@ -43087,9 +43079,6 @@
     },
     {
         "nickname": "DATATESTLIX",
-        "exit_address": [
-            "45.13.237.121"
-        ],
         "asn": "AS58087"
     },
     {
