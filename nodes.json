@@ -1127,6 +1127,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "aphroditeRelay4",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "relayon0142",
         "exit_address": [
             "185.220.101.142"
@@ -5869,6 +5873,10 @@
             "193.189.100.197"
         ],
         "asn": "AS41281"
+    },
+    {
+        "nickname": "aphroditeRelay5",
+        "asn": "AS8560"
     },
     {
         "nickname": "boxendotspace",
@@ -10674,6 +10682,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "aphroditeRelay7",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "NostromoRelay",
         "asn": "AS4764"
     },
@@ -11684,6 +11696,10 @@
     {
         "nickname": "21savage",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "redrelay01",
+        "asn": "AS63473"
     },
     {
         "nickname": "BeTheChange",
@@ -14537,6 +14553,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "aphroditeRelay2",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "Totoro4219",
         "asn": "AS197540"
     },
@@ -16450,6 +16470,10 @@
         "asn": "AS12586"
     },
     {
+        "nickname": "aphroditeRelay6",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS51852"
     },
@@ -17687,6 +17711,10 @@
     {
         "nickname": "CebolaServer",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "aphroditeRelay3",
+        "asn": "AS8560"
     },
     {
         "nickname": "melon",
@@ -32091,6 +32119,10 @@
         "asn": "AS56380"
     },
     {
+        "nickname": "aphroditeRelay1",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "AntonPann8",
         "asn": "AS40663"
     },
@@ -36181,6 +36213,10 @@
             "192.42.116.54"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "aphroditeRelay8",
+        "asn": "AS8560"
     },
     {
         "nickname": "r0cket02i3",
@@ -43527,9 +43563,6 @@
     },
     {
         "nickname": "lametite2025",
-        "exit_address": [
-            "64.190.113.106"
-        ],
         "asn": "AS399629"
     },
     {
@@ -46976,6 +47009,10 @@
             "45.13.225.69"
         ],
         "asn": "AS58087"
+    },
+    {
+        "nickname": "relaytor9",
+        "asn": "AS3215"
     },
     {
         "nickname": "azadisrvbasic2",
