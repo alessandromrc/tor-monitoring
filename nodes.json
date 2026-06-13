@@ -696,10 +696,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Izanami",
-        "asn": "AS209847"
-    },
-    {
         "nickname": "TORKeFFORG9",
         "exit_address": [
             "193.189.100.202"
@@ -6341,6 +6337,9 @@
     },
     {
         "nickname": "GAYLORDSRELAY",
+        "exit_address": [
+            "116.202.158.119"
+        ],
         "asn": "AS24940"
     },
     {
@@ -26905,10 +26904,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TheMadHackerNet",
-        "asn": "AS210558"
-    },
-    {
         "nickname": "frolix8",
         "asn": "AS7684"
     },
@@ -30850,10 +30845,6 @@
     {
         "nickname": "wizardfumes",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "JanFugeMK",
-        "asn": "AS209847"
     },
     {
         "nickname": "OurHost2",
@@ -38175,7 +38166,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV4237",
+        "nickname": "TV6704",
         "asn": "AS37680"
     },
     {
@@ -50334,6 +50325,10 @@
     {
         "nickname": "GreenOnion",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "SuceMonIndex01",
+        "asn": "AS5769"
     },
     {
         "nickname": "plan9leia",
