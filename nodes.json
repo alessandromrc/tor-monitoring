@@ -3454,9 +3454,6 @@
     },
     {
         "nickname": "SBR",
-        "exit_address": [
-            "95.169.191.186"
-        ],
         "asn": "AS31103"
     },
     {
@@ -20717,9 +20714,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -21989,9 +21983,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -28657,9 +28648,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -29041,6 +29029,9 @@
     },
     {
         "nickname": "finrelay",
+        "exit_address": [
+            "64.188.93.178"
+        ],
         "asn": "AS213877"
     },
     {
@@ -31770,9 +31761,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -32824,10 +32812,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS203446"
-    },
-    {
         "nickname": "robbe",
         "exit_address": [
             "109.70.100.13"
@@ -33776,9 +33760,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -38728,10 +38709,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS215960"
-    },
-    {
         "nickname": "syndicateguys",
         "exit_address": [
             "205.185.113.8"
@@ -40930,9 +40907,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -44790,9 +44764,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -47576,6 +47547,10 @@
     {
         "nickname": "Dentist",
         "asn": "AS13036"
+    },
+    {
+        "nickname": "Vrikster",
+        "asn": "AS152565"
     },
     {
         "nickname": "daddycool",
