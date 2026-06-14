@@ -11158,6 +11158,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "LazyLama",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "camron",
         "asn": "AS36849"
     },
@@ -30527,10 +30531,6 @@
         "asn": "AS12322"
     },
     {
-        "nickname": "Pivo",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -32645,6 +32645,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "51.38.225.46"
+        ],
         "asn": "AS16276"
     },
     {
@@ -34297,7 +34300,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV3716",
+        "nickname": "TV428",
         "asn": "AS7303"
     },
     {
@@ -37578,6 +37581,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "Zwiebel",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.227.183.149"
@@ -38510,10 +38517,6 @@
     {
         "nickname": "PrincessPeach",
         "asn": "AS33915"
-    },
-    {
-        "nickname": "DefCon",
-        "asn": "AS3320"
     },
     {
         "nickname": "MassiveStealTime",
@@ -40978,10 +40981,6 @@
             "109.70.100.11"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "freedomnode1776",
-        "asn": "AS10796"
     },
     {
         "nickname": "OROGOM",
@@ -47971,6 +47970,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "untesst",
+        "asn": "AS211301"
+    },
+    {
         "nickname": "cafeine",
         "exit_address": [
             "45.9.168.96"
@@ -49534,6 +49537,10 @@
     {
         "nickname": "CorbasLukom",
         "asn": "AS200698"
+    },
+    {
+        "nickname": "PiRelay",
+        "asn": "AS37611"
     },
     {
         "nickname": "4713",
