@@ -4311,6 +4311,7 @@
     {
         "nickname": "Unnamed",
         "exit_address": [
+            "84.52.19.43",
             "84.52.43.49"
         ],
         "asn": "AS8728"
@@ -43747,6 +43748,10 @@
             "185.220.100.251"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "Meowrelay",
+        "asn": "AS43529"
     },
     {
         "nickname": "babylon",
