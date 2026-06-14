@@ -1061,6 +1061,10 @@
         "asn": "AS15943"
     },
     {
+        "nickname": "stamparhaugen",
+        "asn": "AS29695"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS49981"
     },
@@ -10256,6 +10260,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "cosmincoco",
+        "asn": "AS8708"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.73.190"
@@ -11219,10 +11227,6 @@
     {
         "nickname": "BehemothLTDFI3",
         "asn": "AS203003"
-    },
-    {
-        "nickname": "Xer0mid",
-        "asn": "AS14061"
     },
     {
         "nickname": "BigDaddy",
@@ -25836,10 +25840,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "MyLinuxRelay",
-        "asn": "AS1136"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.74.51"
@@ -36454,9 +36454,6 @@
     },
     {
         "nickname": "IceCreamzHatah3",
-        "exit_address": [
-            "217.28.130.96"
-        ],
         "asn": "AS56322"
     },
     {
@@ -41071,6 +41068,9 @@
     },
     {
         "nickname": "RestoreEU",
+        "exit_address": [
+            "107.189.6.232"
+        ],
         "asn": "AS53667"
     },
     {
@@ -41483,10 +41483,6 @@
     {
         "nickname": "HappyToServeYou04",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "commufa",
-        "asn": "AS18126"
     },
     {
         "nickname": "myNiceRelay",
