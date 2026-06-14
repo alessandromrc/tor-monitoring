@@ -19026,9 +19026,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.210.214.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -29041,6 +29038,10 @@
     {
         "nickname": "KhanKrumCloud2",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "finrelay",
+        "asn": "AS213877"
     },
     {
         "nickname": "bigbrother23470",
@@ -46761,7 +46762,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
