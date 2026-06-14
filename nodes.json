@@ -3468,10 +3468,6 @@
         "asn": "AS14956"
     },
     {
-        "nickname": "TV8179",
-        "asn": "AS24556"
-    },
-    {
         "nickname": "FOSSonly",
         "asn": "AS5483"
     },
@@ -20888,9 +20884,6 @@
     },
     {
         "nickname": "Ferou4",
-        "exit_address": [
-            "172.236.0.73"
-        ],
         "asn": "AS63949"
     },
     {
@@ -45863,9 +45856,6 @@
     },
     {
         "nickname": "WerewolfFunWorld",
-        "exit_address": [
-            "5.79.66.19"
-        ],
         "asn": "AS60781"
     },
     {
@@ -48790,6 +48780,10 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
+    },
+    {
+        "nickname": "talkoftheculdesac",
+        "asn": "AS202282"
     },
     {
         "nickname": "NTH112R3",
