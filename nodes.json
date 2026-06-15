@@ -15822,6 +15822,10 @@
         "asn": "AS31863"
     },
     {
+        "nickname": "minator",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "NTH119R1",
         "asn": "AS215125"
     },
@@ -28650,9 +28654,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "46.105.20.238"
-        ],
         "asn": "AS16276"
     },
     {
@@ -28917,6 +28918,9 @@
     },
     {
         "nickname": "TRONTO346",
+        "exit_address": [
+            "203.12.31.99"
+        ],
         "asn": "AS210083"
     },
     {
@@ -31995,10 +31999,6 @@
     {
         "nickname": "tournament",
         "asn": "AS399122"
-    },
-    {
-        "nickname": "munin",
-        "asn": "AS24940"
     },
     {
         "nickname": "meowdy",
@@ -36525,6 +36525,9 @@
     },
     {
         "nickname": "Bacon8ter",
+        "exit_address": [
+            "217.156.49.33"
+        ],
         "asn": "AS9009"
     },
     {
@@ -46418,10 +46421,6 @@
     {
         "nickname": "S4NT0S",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "hugin",
-        "asn": "AS24940"
     },
     {
         "nickname": "toptor1",
