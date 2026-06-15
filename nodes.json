@@ -6663,10 +6663,6 @@
         "asn": "AS5089"
     },
     {
-        "nickname": "psrDOTtf",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "Publius",
         "asn": "AS6167"
     },
@@ -9143,6 +9139,10 @@
             "45.66.35.28"
         ],
         "asn": "AS61125"
+    },
+    {
+        "nickname": "cosmos",
+        "asn": "AS8151"
     },
     {
         "nickname": "AppleSucks",
@@ -11947,10 +11947,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "rogemedic",
-        "asn": "AS30600"
-    },
-    {
         "nickname": "lilpeep",
         "asn": "AS36849"
     },
@@ -14365,10 +14361,6 @@
     {
         "nickname": "tonyd1",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "avast",
-        "asn": "AS136258"
     },
     {
         "nickname": "ColinCogleEU",
@@ -19416,6 +19408,10 @@
     {
         "nickname": "pRelay1",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TV7395",
+        "asn": "AS50581"
     },
     {
         "nickname": "rema",
@@ -26399,9 +26395,6 @@
     },
     {
         "nickname": "fumo",
-        "exit_address": [
-            "45.133.73.7"
-        ],
         "asn": "AS211507"
     },
     {
@@ -29726,6 +29719,10 @@
             "104.223.84.84"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "mbserver",
+        "asn": "AS200019"
     },
     {
         "nickname": "MegaOfHouseBitus",
