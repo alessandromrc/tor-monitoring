@@ -808,6 +808,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "A12IAD03",
+        "asn": "AS14618"
+    },
+    {
         "nickname": "tr24",
         "asn": "AS200303"
     },
@@ -4569,6 +4573,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "zgato",
+        "asn": "AS48753"
+    },
+    {
         "nickname": "vistrelay",
         "asn": "AS14061"
     },
@@ -6008,10 +6016,6 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
-    },
-    {
-        "nickname": "tspxrc1",
-        "asn": "AS9009"
     },
     {
         "nickname": "XMRisGoldCrypto",
@@ -7728,10 +7732,6 @@
             "185.220.101.4"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV6755",
-        "asn": "AS23201"
     },
     {
         "nickname": "SkibidiCrackhead",
@@ -12988,10 +12988,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV9781",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "TV8855",
         "asn": "AS6057"
     },
@@ -13202,10 +13198,6 @@
             "102.211.56.112"
         ],
         "asn": "AS329325"
-    },
-    {
-        "nickname": "TV8585",
-        "asn": "AS22927"
     },
     {
         "nickname": "f292b82fd6f083b6",
@@ -19921,10 +19913,6 @@
             "192.42.116.56"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TV3246",
-        "asn": "AS33915"
     },
     {
         "nickname": "Fastnet03",
@@ -27279,6 +27267,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.165"
+        ],
         "asn": "AS400226"
     },
     {
@@ -31707,6 +31698,10 @@
         "asn": "AS58087"
     },
     {
+        "nickname": "A12DE02",
+        "asn": "AS16509"
+    },
+    {
         "nickname": "mnylera",
         "asn": "AS16276"
     },
@@ -32134,6 +32129,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TV4821",
+        "asn": "AS22927"
     },
     {
         "nickname": "bauruine",
@@ -33059,10 +33058,6 @@
     {
         "nickname": "NoOnionES01",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "jugendhackerassange",
-        "asn": "AS197540"
     },
     {
         "nickname": "TV680",
@@ -39656,10 +39651,6 @@
             "103.109.101.105"
         ],
         "asn": "AS206264"
-    },
-    {
-        "nickname": "TV1393",
-        "asn": "AS7303"
     },
     {
         "nickname": "Nexus95811",
@@ -48624,9 +48615,6 @@
     },
     {
         "nickname": "QuintexAirVPN1",
-        "exit_address": [
-            "204.8.96.120"
-        ],
         "asn": "AS62744"
     },
     {
@@ -48834,10 +48822,6 @@
             "192.42.116.93"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "LangesRelay",
-        "asn": "AS31898"
     },
     {
         "nickname": "SupportSeaWatch",
@@ -49110,6 +49094,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Sevront01",
+        "asn": "AS62904"
     },
     {
         "nickname": "TV7803",
