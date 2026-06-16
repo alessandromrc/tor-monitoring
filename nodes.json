@@ -6034,10 +6034,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "servidordomal",
-        "asn": "AS47583"
-    },
-    {
         "nickname": "spotemgottemjax",
         "asn": "AS36849"
     },
@@ -7464,10 +7460,6 @@
     {
         "nickname": "willcarey",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "westerncipher",
-        "asn": "AS64236"
     },
     {
         "nickname": "reis",
@@ -18070,10 +18062,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "a50passos",
-        "asn": "AS12353"
-    },
-    {
         "nickname": "eo178",
         "exit_address": [
             "23.129.64.178"
@@ -19227,6 +19215,10 @@
     {
         "nickname": "anuelaa",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "schreech",
+        "asn": "AS212508"
     },
     {
         "nickname": "NTH13R5",
@@ -28821,7 +28813,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8894",
+        "nickname": "TV5404",
         "asn": "AS7303"
     },
     {
@@ -29307,6 +29299,9 @@
     },
     {
         "nickname": "mirage",
+        "exit_address": [
+            "91.219.237.39"
+        ],
         "asn": "AS56322"
     },
     {
@@ -34987,6 +34982,9 @@
     },
     {
         "nickname": "Pjotrek",
+        "exit_address": [
+            "45.137.70.158"
+        ],
         "asn": "AS203446"
     },
     {
@@ -36982,6 +36980,9 @@
     },
     {
         "nickname": "TORKeFFORG23",
+        "exit_address": [
+            "193.189.100.203"
+        ],
         "asn": "AS41281"
     },
     {
@@ -42948,9 +42949,6 @@
     },
     {
         "nickname": "PeoplesOfTheNorth",
-        "exit_address": [
-            "24.203.156.90"
-        ],
         "asn": "AS5769"
     },
     {
@@ -48437,6 +48435,9 @@
     },
     {
         "nickname": "Bogdan",
+        "exit_address": [
+            "5.253.247.27"
+        ],
         "asn": "AS58087"
     },
     {
@@ -48580,7 +48581,7 @@
         "asn": "AS8860"
     },
     {
-        "nickname": "TV9061",
+        "nickname": "TV9917",
         "asn": "AS28051"
     },
     {
