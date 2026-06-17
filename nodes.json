@@ -1644,6 +1644,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Lulu",
+        "asn": "AS8648"
+    },
+    {
         "nickname": "TV6013",
         "asn": "AS8151"
     },
@@ -5508,6 +5512,10 @@
             "74.50.118.26"
         ],
         "asn": "AS29802"
+    },
+    {
+        "nickname": "noneMiddleRelay05",
+        "asn": "AS3209"
     },
     {
         "nickname": "Pumkor",
@@ -11227,6 +11235,9 @@
     },
     {
         "nickname": "Runaz4",
+        "exit_address": [
+            "185.93.89.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -18172,7 +18183,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV9494",
+        "nickname": "TV8654",
         "asn": "AS22927"
     },
     {
@@ -18919,6 +18930,10 @@
     {
         "nickname": "arcanum",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "Lulu",
+        "asn": "AS8648"
     },
     {
         "nickname": "fckkier9002",
@@ -25823,6 +25838,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "Lulu",
+        "asn": "AS8648"
+    },
+    {
         "nickname": "MajorCadenceRelay2",
         "asn": "AS16276"
     },
@@ -28903,7 +28922,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5527",
+        "nickname": "TV8523",
         "asn": "AS7303"
     },
     {
@@ -32367,6 +32386,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "TehRelayV3",
+        "asn": "AS5617"
+    },
+    {
         "nickname": "Sidewinder",
         "asn": "AS24940"
     },
@@ -34351,7 +34374,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV7260",
+        "nickname": "TV934",
         "asn": "AS7303"
     },
     {
@@ -47891,10 +47914,6 @@
         "asn": "AS3301"
     },
     {
-        "nickname": "FUGlowies",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "Echidna1",
         "asn": "AS16276"
     },
@@ -49345,6 +49364,9 @@
     },
     {
         "nickname": "PROXIMA778",
+        "exit_address": [
+            "150.40.127.160"
+        ],
         "asn": "AS211619"
     },
     {
