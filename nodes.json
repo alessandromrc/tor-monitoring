@@ -13164,6 +13164,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -15899,6 +15902,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "demise",
+        "asn": "AS213250"
+    },
+    {
         "nickname": "syndicateguys",
         "exit_address": [
             "93.95.228.125"
@@ -18182,7 +18189,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV1339",
+        "nickname": "TV2879",
         "asn": "AS22927"
     },
     {
@@ -18917,6 +18924,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -21670,6 +21680,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -24982,7 +24995,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "JFKAirPort4",
+        "nickname": "JFKOnionTower",
         "asn": "AS32723"
     },
     {
@@ -28960,6 +28973,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -35361,6 +35377,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS57269"
+    },
+    {
         "nickname": "PoptartRelay",
         "asn": "AS5483"
     },
@@ -38597,6 +38617,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -43689,6 +43712,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
@@ -47262,10 +47288,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "RelayMRDS46150",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "sipesolidvps",
         "asn": "AS399275"
     },
@@ -47330,6 +47352,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.183.149"
+        ],
         "asn": "AS36352"
     },
     {
