@@ -5025,6 +5025,10 @@
         "asn": "AS12430"
     },
     {
+        "nickname": "Shallot",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "NTH94R4",
         "exit_address": [
             "192.42.116.94"
@@ -13244,10 +13248,6 @@
             "185.129.61.6"
         ],
         "asn": "AS210731"
-    },
-    {
-        "nickname": "TV4176",
-        "asn": "AS803"
     },
     {
         "nickname": "NTH19R4",
@@ -26679,6 +26679,9 @@
     },
     {
         "nickname": "Sinus1709",
+        "exit_address": [
+            "121.127.33.165"
+        ],
         "asn": "AS210083"
     },
     {
@@ -34347,7 +34350,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV290",
+        "nickname": "TV233",
         "asn": "AS7303"
     },
     {
@@ -35788,6 +35791,9 @@
     },
     {
         "nickname": "Karlo7636",
+        "exit_address": [
+            "203.12.31.101"
+        ],
         "asn": "AS210083"
     },
     {
@@ -39622,6 +39628,10 @@
     {
         "nickname": "Regenwurm",
         "asn": "AS44133"
+    },
+    {
+        "nickname": "iOSSucksSoMuch",
+        "asn": "AS15895"
     },
     {
         "nickname": "CarterParadox",
@@ -48681,6 +48691,10 @@
     {
         "nickname": "Rapid9855",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Hermes9001",
+        "asn": "AS13388"
     },
     {
         "nickname": "ferrariferrell",
