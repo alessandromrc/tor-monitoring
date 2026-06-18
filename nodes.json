@@ -6897,6 +6897,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "imprezahostru01",
+        "asn": "AS216334"
+    },
+    {
         "nickname": "NTH47R4",
         "exit_address": [
             "192.42.116.47"
@@ -7620,6 +7624,10 @@
     {
         "nickname": "zgato",
         "asn": "AS214677"
+    },
+    {
+        "nickname": "fr33domNod3",
+        "asn": "AS135600"
     },
     {
         "nickname": "TV676",
@@ -10329,10 +10337,6 @@
             "67.215.236.114"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "NordicRelay42",
-        "asn": "AS24940"
     },
     {
         "nickname": "forest13",
@@ -15338,6 +15342,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "artikel10buc23",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "MyRockyRelay",
         "asn": "AS7018"
     },
@@ -17118,6 +17126,10 @@
         "asn": "AS22773"
     },
     {
+        "nickname": "artikel10buc15",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "diddy",
         "asn": "AS56655"
     },
@@ -18133,7 +18145,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV7203",
+        "nickname": "TV9894",
         "asn": "AS22927"
     },
     {
@@ -26047,6 +26059,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "artikel10buc19",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "RTSRelay",
         "asn": "AS6181"
     },
@@ -26580,10 +26596,6 @@
         "asn": "AS24961"
     },
     {
-        "nickname": "BuyHodlMonero",
-        "asn": "AS59253"
-    },
-    {
         "nickname": "RightToInformation",
         "asn": "AS6724"
     },
@@ -26849,6 +26861,10 @@
             "192.42.116.66"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "artikel10buc22",
+        "asn": "AS200651"
     },
     {
         "nickname": "francelover",
@@ -28825,7 +28841,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV3392",
+        "nickname": "TV9850",
         "asn": "AS7303"
     },
     {
@@ -33841,6 +33857,10 @@
         "asn": "AS42730"
     },
     {
+        "nickname": "artikel10buc13",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -34618,6 +34638,10 @@
             "23.129.64.201"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "artikel10buc14",
+        "asn": "AS200651"
     },
     {
         "nickname": "Killix",
@@ -38680,6 +38704,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "artikel10buc24",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "DFRI65",
         "exit_address": [
             "171.25.193.37"
@@ -39162,7 +39190,7 @@
         "asn": "AS214576"
     },
     {
-        "nickname": "TV6729",
+        "nickname": "TV3149",
         "asn": "AS8151"
     },
     {
@@ -49190,7 +49218,8 @@
     {
         "nickname": "PROXIMA778",
         "exit_address": [
-            "150.40.127.160"
+            "150.40.127.160",
+            "202.181.177.215"
         ],
         "asn": "AS211619"
     },
