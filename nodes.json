@@ -1653,7 +1653,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8272",
+        "nickname": "TV2362",
         "asn": "AS19429"
     },
     {
@@ -3061,6 +3061,10 @@
     {
         "nickname": "rinderwahnRelayEE",
         "asn": "AS202759"
+    },
+    {
+        "nickname": "WolfLoneNode",
+        "asn": "AS204339"
     },
     {
         "nickname": "Polyphemus5",
@@ -9265,7 +9269,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV9301",
+        "nickname": "TV9620",
         "asn": "AS8151"
     },
     {
@@ -11297,10 +11301,6 @@
     {
         "nickname": "Badger",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "KakashiNasralnato",
-        "asn": "AS42189"
     },
     {
         "nickname": "AntonPann5",
@@ -25066,7 +25066,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.130"
+            "198.167.206.130",
+            "198.167.206.228"
         ],
         "asn": "AS39287"
     },
@@ -28868,7 +28869,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1693",
+        "nickname": "TV4311",
         "asn": "AS7303"
     },
     {
@@ -32882,6 +32883,10 @@
         "asn": "AS216107"
     },
     {
+        "nickname": "blackbucket",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "eo198",
         "exit_address": [
             "23.129.64.198"
@@ -33818,10 +33823,6 @@
     {
         "nickname": "BoulderRelay",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "mindstab",
-        "asn": "AS24940"
     },
     {
         "nickname": "otr1de",
@@ -39238,7 +39239,7 @@
         "asn": "AS214576"
     },
     {
-        "nickname": "TV6941",
+        "nickname": "TV5135",
         "asn": "AS8151"
     },
     {
@@ -49162,6 +49163,10 @@
     {
         "nickname": "tor26",
         "asn": "AS5404"
+    },
+    {
+        "nickname": "BaumiMiddleRelay07",
+        "asn": "AS3209"
     },
     {
         "nickname": "UnredactedTurner",
