@@ -14461,6 +14461,9 @@
     },
     {
         "nickname": "artikel10buc21",
+        "exit_address": [
+            "185.100.85.25"
+        ],
         "asn": "AS200651"
     },
     {
@@ -26794,6 +26797,10 @@
         "asn": "AS12479"
     },
     {
+        "nickname": "MyMiddleNode",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "NTH50R2",
         "exit_address": [
             "192.42.116.50"
@@ -28854,7 +28861,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV9850",
+        "nickname": "TV4206",
         "asn": "AS7303"
     },
     {
@@ -31210,7 +31217,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8426",
+        "nickname": "TV7915",
         "asn": "AS12479"
     },
     {
@@ -31255,10 +31262,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "ContaboRelayNode",
-        "asn": "AS51167"
     },
     {
         "nickname": "elucid",
@@ -39228,7 +39231,7 @@
         "asn": "AS214576"
     },
     {
-        "nickname": "TV7680",
+        "nickname": "TV4581",
         "asn": "AS8151"
     },
     {
@@ -46466,10 +46469,6 @@
     {
         "nickname": "RisHar",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "7h0rD3rZw13b31n",
-        "asn": "AS3209"
     },
     {
         "nickname": "relayon1134",
