@@ -37830,10 +37830,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "azbycx",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "NTH174R1",
         "asn": "AS215125"
     },
@@ -41058,6 +41054,9 @@
     },
     {
         "nickname": "FreeExit",
+        "exit_address": [
+            "179.43.159.202"
+        ],
         "asn": "AS51852"
     },
     {
