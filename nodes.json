@@ -16126,6 +16126,10 @@
         "asn": "AS24961"
     },
     {
+        "nickname": "forest31",
+        "asn": "AS44382"
+    },
+    {
         "nickname": "merkle",
         "exit_address": [
             "23.129.64.156"
@@ -19707,7 +19711,7 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "artemisRelay1",
+        "nickname": "artemisRelay",
         "asn": "AS8560"
     },
     {
@@ -21622,6 +21626,10 @@
     {
         "nickname": "torrelay583481",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "CloudyNode",
+        "asn": "AS1136"
     },
     {
         "nickname": "Minotaur2",
@@ -33047,7 +33055,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV680",
+        "nickname": "TV3781",
         "asn": "AS8151"
     },
     {
@@ -34330,7 +34338,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8173",
+        "nickname": "TV4129",
         "asn": "AS37705"
     },
     {
@@ -40123,6 +40131,10 @@
             "23.129.64.203"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "RIPsfr",
+        "asn": "AS3215"
     },
     {
         "nickname": "TorDownUnder",
