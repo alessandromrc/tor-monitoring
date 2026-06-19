@@ -81,7 +81,7 @@
     },
     {
         "nickname": "GTA69",
-        "asn": "AS36352"
+        "asn": "AS207083"
     },
     {
         "nickname": "NTH43R5",
@@ -7080,6 +7080,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "FIFA6",
+        "asn": "AS201670"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.47"
@@ -9293,7 +9297,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV6736",
+        "nickname": "TV9378",
         "asn": "AS8151"
     },
     {
@@ -14726,6 +14730,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.137.201.100"
+        ],
         "asn": "AS211507"
     },
     {
@@ -22636,7 +22643,8 @@
     {
         "nickname": "HeliosTor",
         "exit_address": [
-            "104.254.90.203"
+            "104.254.90.203",
+            "184.75.221.107"
         ],
         "asn": "AS32489"
     },
@@ -25084,6 +25092,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.158",
             "198.167.206.228"
         ],
         "asn": "AS39287"
@@ -28889,7 +28898,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5137",
+        "nickname": "TV6301",
         "asn": "AS7303"
     },
     {
@@ -44795,10 +44804,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "thingyRelay",
-        "asn": "AS12364"
-    },
-    {
         "nickname": "yrl5tjdevde",
         "asn": "AS197540"
     },
@@ -45262,10 +45267,6 @@
     {
         "nickname": "thurmeeboy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "EpicTorNode",
-        "asn": "AS5089"
     },
     {
         "nickname": "LilPump",
