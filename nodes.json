@@ -28452,6 +28452,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "strunt",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "mac68",
         "asn": "AS210893"
     },
@@ -40357,6 +40361,10 @@
         "asn": "AS208674"
     },
     {
+        "nickname": "KenPiRelay",
+        "asn": "AS23969"
+    },
+    {
         "nickname": "percebimientos1",
         "asn": "AS8560"
     },
@@ -42699,10 +42707,6 @@
         "asn": "AS141995"
     },
     {
-        "nickname": "TV2841",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "noTORture",
         "exit_address": [
             "195.154.170.135"
@@ -44546,6 +44550,10 @@
     {
         "nickname": "ElToro",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "torly4relay",
+        "asn": "AS42730"
     },
     {
         "nickname": "torrelay",
