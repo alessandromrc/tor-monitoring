@@ -22196,6 +22196,10 @@
         "asn": "AS7922"
     },
     {
+        "nickname": "Kujata",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "UnredactedSilkwood",
         "exit_address": [
             "23.191.200.34"
@@ -24435,10 +24439,6 @@
             "185.220.101.176"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "NadekoNet",
-        "asn": "AS214677"
     },
     {
         "nickname": "pratyHorseRelay",
@@ -28472,10 +28472,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "strunt",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "mac68",
         "asn": "AS210893"
     },
@@ -28886,7 +28882,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV6301",
+        "nickname": "TV8332",
         "asn": "AS7303"
     },
     {
@@ -36611,9 +36607,6 @@
     },
     {
         "nickname": "MoreBulgaria",
-        "exit_address": [
-            "45.9.156.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -37778,10 +37771,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV5314",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "TaageHemmingAgner",
         "asn": "AS203953"
     },
@@ -38305,10 +38294,6 @@
             "80.67.167.81"
         ],
         "asn": "AS2027"
-    },
-    {
-        "nickname": "sipedelux",
-        "asn": "AS214677"
     },
     {
         "nickname": "swordsman",
@@ -42633,9 +42618,6 @@
     },
     {
         "nickname": "BulgarianBronkA1",
-        "exit_address": [
-            "45.9.156.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -45041,10 +45023,6 @@
             "192.42.116.63"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "GigaTorOfHell2",
-        "asn": "AS12322"
     },
     {
         "nickname": "hello",
