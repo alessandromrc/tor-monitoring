@@ -1249,6 +1249,10 @@
         "asn": "AS50266"
     },
     {
+        "nickname": "Nackedammen",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "MyWatchBegins",
         "asn": "AS8560"
     },
@@ -1664,7 +1668,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8322",
+        "nickname": "TV4095",
         "asn": "AS19429"
     },
     {
@@ -6217,10 +6221,6 @@
     {
         "nickname": "fluffypancakes006nl",
         "asn": "AS199654"
-    },
-    {
-        "nickname": "LastDragonRelay",
-        "asn": "AS8151"
     },
     {
         "nickname": "KingPommes",
@@ -11425,6 +11425,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS44925"
+    },
+    {
         "nickname": "schaf",
         "exit_address": [
             "109.70.100.15"
@@ -14187,10 +14191,6 @@
     {
         "nickname": "myN0de1",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "torvantor",
-        "asn": "AS12312"
     },
     {
         "nickname": "cashkidd",
@@ -18150,7 +18150,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV9088",
+        "nickname": "TV874",
         "asn": "AS22927"
     },
     {
@@ -24399,6 +24399,9 @@
     },
     {
         "nickname": "NadekoNet",
+        "exit_address": [
+            "95.135.208.24"
+        ],
         "asn": "AS214677"
     },
     {
@@ -25041,7 +25044,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.158"
+            "198.167.206.158",
+            "198.167.206.184"
         ],
         "asn": "AS39287"
     },
@@ -32707,10 +32711,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "trailerparkgirls",
-        "asn": "AS5645"
-    },
-    {
         "nickname": "NTH112R8",
         "exit_address": [
             "192.42.116.112"
@@ -36120,10 +36120,6 @@
     {
         "nickname": "bitplane",
         "asn": "AS1403"
-    },
-    {
-        "nickname": "SuceMonIndex01",
-        "asn": "AS5769"
     },
     {
         "nickname": "NTH54R7",
@@ -42549,7 +42545,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "Splinter",
@@ -50161,10 +50157,6 @@
     {
         "nickname": "GreenOnion",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SuceMonIndex01",
-        "asn": "AS5769"
     },
     {
         "nickname": "plan9leia",
