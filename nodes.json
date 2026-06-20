@@ -3467,10 +3467,6 @@
         "asn": "AS40021"
     },
     {
-        "nickname": "SBR",
-        "asn": "AS31103"
-    },
-    {
         "nickname": "NTH116R7",
         "exit_address": [
             "192.42.116.116"
@@ -15840,7 +15836,7 @@
         "asn": "AS32181"
     },
     {
-        "nickname": "TV3208",
+        "nickname": "TV4150",
         "asn": "AS7303"
     },
     {
@@ -25060,8 +25056,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.158",
-            "198.167.206.228"
+            "198.167.206.158"
         ],
         "asn": "AS39287"
     },
@@ -26776,6 +26771,10 @@
     },
     {
         "nickname": "FreeHackCom",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "zgato",
         "asn": "AS16276"
     },
     {
@@ -28866,7 +28865,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV6396",
+        "nickname": "TV6762",
         "asn": "AS7303"
     },
     {
