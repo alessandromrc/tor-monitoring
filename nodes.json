@@ -2873,6 +2873,13 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "PerplexedExit011",
+        "exit_address": [
+            "109.237.27.11"
+        ],
+        "asn": "AS63949"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -4531,10 +4538,6 @@
     {
         "nickname": "RealityNews13",
         "asn": "AS13285"
-    },
-    {
-        "nickname": "LastDragonRelay",
-        "asn": "AS8151"
     },
     {
         "nickname": "Mempo",
@@ -28753,7 +28756,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1667",
+        "nickname": "TV7513",
         "asn": "AS7303"
     },
     {
@@ -33185,6 +33188,13 @@
     {
         "nickname": "openbased",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "ToringAround",
+        "exit_address": [
+            "139.162.208.30"
+        ],
+        "asn": "AS63949"
     },
     {
         "nickname": "JohnFilch123",
@@ -38930,6 +38940,10 @@
             "178.85.139.57"
         ],
         "asn": "AS33915"
+    },
+    {
+        "nickname": "forest19",
+        "asn": "AS26383"
     },
     {
         "nickname": "ChickenNuggets",
@@ -46868,7 +46882,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV9233",
+        "nickname": "TV7806",
         "asn": "AS27747"
     },
     {
@@ -48456,7 +48470,7 @@
         "asn": "AS8860"
     },
     {
-        "nickname": "TV9078",
+        "nickname": "TV9890",
         "asn": "AS28051"
     },
     {
