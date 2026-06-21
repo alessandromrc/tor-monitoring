@@ -3610,10 +3610,6 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "mekansm",
-        "asn": "AS50436"
-    },
-    {
         "nickname": "bojaRelay1",
         "asn": "AS29695"
     },
@@ -28723,7 +28719,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV3981",
+        "nickname": "TV1003",
         "asn": "AS7303"
     },
     {
@@ -29044,6 +29040,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
@@ -43523,6 +43522,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "MyRelay01",
+        "asn": "AS9534"
+    },
+    {
         "nickname": "Zer0n",
         "asn": "AS200088"
     },
@@ -45053,6 +45056,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
