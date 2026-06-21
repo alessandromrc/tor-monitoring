@@ -3444,6 +3444,9 @@
     },
     {
         "nickname": "KyunTorExitNode",
+        "exit_address": [
+            "45.137.99.182"
+        ],
         "asn": "AS215659"
     },
     {
@@ -25907,6 +25910,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
@@ -28717,7 +28723,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV2810",
+        "nickname": "TV3981",
         "asn": "AS7303"
     },
     {
