@@ -3757,6 +3757,10 @@
         "asn": "AS19437"
     },
     {
+        "nickname": "NURVTestRelay",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "mdfnet1",
         "asn": "AS1653"
     },
@@ -6687,10 +6691,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "zeroday",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "TorRelay3a",
         "asn": "AS197540"
     },
@@ -9271,7 +9271,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV9222",
+        "nickname": "TV9344",
         "asn": "AS8151"
     },
     {
@@ -24934,7 +24934,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.184"
+            "198.167.206.184",
+            "198.167.206.212"
         ],
         "asn": "AS39287"
     },
@@ -28719,7 +28720,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1003",
+        "nickname": "TV2184",
         "asn": "AS7303"
     },
     {
