@@ -8792,10 +8792,6 @@
         "asn": "AS395662"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3303"
-    },
-    {
         "nickname": "UnredactedJames",
         "exit_address": [
             "23.191.200.94"
@@ -24085,10 +24081,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Pecco",
-        "asn": "AS33915"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "asn": "AS211619"
     },
@@ -28713,7 +28705,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV5625",
+        "nickname": "TV8573",
         "asn": "AS7303"
     },
     {
@@ -46338,6 +46330,9 @@
     },
     {
         "nickname": "SSDNodesROexit",
+        "exit_address": [
+            "185.247.224.89"
+        ],
         "asn": "AS200651"
     },
     {
@@ -49856,10 +49851,6 @@
     {
         "nickname": "archivalrelay1",
         "asn": "AS56655"
-    },
-    {
-        "nickname": "Cicada3301",
-        "asn": "AS33915"
     },
     {
         "nickname": "loewenzahn",
