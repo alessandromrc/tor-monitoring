@@ -16344,10 +16344,6 @@
         "asn": "AS151873"
     },
     {
-        "nickname": "MyTorExit",
-        "asn": "AS210457"
-    },
-    {
         "nickname": "hell0world",
         "asn": "AS9617"
     },
@@ -18083,7 +18079,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "TV3691",
+        "nickname": "TV7531",
         "asn": "AS22927"
     },
     {
@@ -21680,10 +21676,6 @@
     {
         "nickname": "wale",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Saen",
-        "asn": "AS51852"
     },
     {
         "nickname": "FreeExit",
@@ -27579,6 +27571,10 @@
         "asn": "AS13188"
     },
     {
+        "nickname": "vianullorumunorumq",
+        "asn": "AS29141"
+    },
+    {
         "nickname": "gperico",
         "asn": "AS36849"
     },
@@ -28697,7 +28693,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV8825",
+        "nickname": "TV2564",
         "asn": "AS7303"
     },
     {
@@ -35942,6 +35938,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "anonymous",
+        "asn": "AS15435"
+    },
+    {
         "nickname": "nep",
         "asn": "AS14061"
     },
@@ -40184,6 +40184,9 @@
     },
     {
         "nickname": "cyunexit0",
+        "exit_address": [
+            "66.78.40.35"
+        ],
         "asn": "AS215659"
     },
     {
@@ -42382,7 +42385,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -46861,7 +46864,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV9788",
+        "nickname": "TV9183",
         "asn": "AS27747"
     },
     {
@@ -47380,10 +47383,6 @@
     {
         "nickname": "Dentist",
         "asn": "AS13036"
-    },
-    {
-        "nickname": "Vrikster",
-        "asn": "AS152565"
     },
     {
         "nickname": "NTH42R5",
