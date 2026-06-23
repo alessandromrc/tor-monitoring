@@ -381,10 +381,6 @@
         "asn": "AS329325"
     },
     {
-        "nickname": "GermanCraft29",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "Bigdaddy",
         "asn": "AS200052"
     },
@@ -476,10 +472,6 @@
             "171.25.193.78"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "RS1Lselectel",
-        "asn": "AS49505"
     },
     {
         "nickname": "NTH21R4",
@@ -4735,8 +4727,7 @@
     {
         "nickname": "desolate",
         "exit_address": [
-            "176.65.142.198",
-            "217.60.78.198"
+            "176.65.142.198"
         ],
         "asn": "AS198189"
     },
@@ -15602,10 +15593,6 @@
         "asn": "AS12322"
     },
     {
-        "nickname": "torlyv6",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "jellybeanblue",
         "asn": "AS197540"
     },
@@ -21124,6 +21111,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "R4tzRelay",
+        "asn": "AS3269"
+    },
+    {
         "nickname": "UnredactedWilson",
         "exit_address": [
             "23.191.200.113"
@@ -22677,7 +22668,7 @@
         "asn": "AS3292"
     },
     {
-        "nickname": "TV5968",
+        "nickname": "TV142",
         "asn": "AS19429"
     },
     {
@@ -24193,10 +24184,6 @@
             "171.25.193.45"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "billyjoarmst",
-        "asn": "AS40994"
     },
     {
         "nickname": "Faustino50",
@@ -42779,10 +42766,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "magic848relay",
-        "asn": "AS29222"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -47465,10 +47448,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "trecool",
-        "asn": "AS40994"
-    },
-    {
         "nickname": "gurke",
         "exit_address": [
             "109.70.100.3"
@@ -49660,10 +49639,6 @@
     {
         "nickname": "NTH64R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "flappers",
-        "asn": "AS40994"
     },
     {
         "nickname": "toodenwablesrelay",
