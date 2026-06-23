@@ -6129,10 +6129,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "torlyv7",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "r0cket15i5",
         "exit_address": [
             "45.84.107.174"
@@ -9476,10 +9472,6 @@
         "asn": "AS134677"
     },
     {
-        "nickname": "torlyv7",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "Ebert",
         "asn": "AS48314"
     },
@@ -10903,6 +10895,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "ForPrivacyNET",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "blaquebeatz",
         "asn": "AS36849"
     },
@@ -12106,6 +12102,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
@@ -22672,7 +22671,7 @@
         "asn": "AS3292"
     },
     {
-        "nickname": "TV2805",
+        "nickname": "TV4810",
         "asn": "AS19429"
     },
     {
@@ -24846,8 +24845,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.185",
-            "198.167.206.212"
+            "198.167.206.185"
         ],
         "asn": "AS39287"
     },
@@ -28620,7 +28618,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV1321",
+        "nickname": "TV4636",
         "asn": "AS7303"
     },
     {
@@ -33009,7 +33007,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV932",
+        "nickname": "TV2170",
         "asn": "AS13489"
     },
     {
@@ -33595,10 +33593,6 @@
     {
         "nickname": "AllegatorAlley1123",
         "asn": "AS399804"
-    },
-    {
-        "nickname": "torlyv7",
-        "asn": "AS3209"
     },
     {
         "nickname": "wishbone",
@@ -40478,6 +40472,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "ForPrivacyNET",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "theking2",
         "asn": "AS6730"
     },
@@ -46469,7 +46467,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
