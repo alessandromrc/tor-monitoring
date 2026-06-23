@@ -22676,7 +22676,7 @@
         "asn": "AS3292"
     },
     {
-        "nickname": "TV299",
+        "nickname": "TV955",
         "asn": "AS19429"
     },
     {
@@ -28766,10 +28766,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TRONTO346",
-        "asn": "AS210083"
     },
     {
         "nickname": "cryptonion",
@@ -35205,10 +35201,6 @@
     {
         "nickname": "NTH101R2",
         "asn": "AS8283"
-    },
-    {
-        "nickname": "vnoloke",
-        "asn": "AS152992"
     },
     {
         "nickname": "ParadiseTorRelay7",
@@ -42440,9 +42432,6 @@
     },
     {
         "nickname": "noTORture",
-        "exit_address": [
-            "195.154.170.135"
-        ],
         "asn": "AS12876"
     },
     {
@@ -45621,6 +45610,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
@@ -46489,7 +46481,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
