@@ -8225,6 +8225,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "TV4788",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "myMiddleRelay",
         "asn": "AS197540"
     },
@@ -22680,7 +22684,7 @@
         "asn": "AS3292"
     },
     {
-        "nickname": "TV856",
+        "nickname": "TV713",
         "asn": "AS19429"
     },
     {
@@ -46898,7 +46902,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8735",
+        "nickname": "TV2096",
         "asn": "AS22927"
     },
     {
@@ -48250,10 +48254,6 @@
             "209.141.50.78"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "QuintexAirVPN1",
-        "asn": "AS62744"
     },
     {
         "nickname": "slavaukraini",
@@ -49645,6 +49645,9 @@
     },
     {
         "nickname": "ExitIsland",
+        "exit_address": [
+            "89.125.153.39"
+        ],
         "asn": "AS219486"
     },
     {
