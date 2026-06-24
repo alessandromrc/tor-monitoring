@@ -5580,9 +5580,6 @@
     },
     {
         "nickname": "TORKeFFORG39",
-        "exit_address": [
-            "193.189.100.206"
-        ],
         "asn": "AS41281"
     },
     {
@@ -9229,6 +9226,10 @@
     {
         "nickname": "lilmosey",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS7018"
     },
     {
         "nickname": "middleman",
@@ -25520,10 +25521,6 @@
     {
         "nickname": "pizzadough",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "itsamazing",
-        "asn": "AS24940"
     },
     {
         "nickname": "eclipse27",
