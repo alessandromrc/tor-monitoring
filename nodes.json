@@ -428,10 +428,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "kamala",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "NaClO",
         "asn": "AS16276"
     },
@@ -14583,6 +14579,9 @@
     },
     {
         "nickname": "Dopamine",
+        "exit_address": [
+            "5.255.127.222"
+        ],
         "asn": "AS60404"
     },
     {
@@ -16153,6 +16152,10 @@
             "109.70.100.3"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "gotg",
+        "asn": "AS58087"
     },
     {
         "nickname": "Superfly",
@@ -19651,10 +19654,6 @@
         "asn": "AS553"
     },
     {
-        "nickname": "MstormRelay",
-        "asn": "AS211750"
-    },
-    {
         "nickname": "yvrtorpi4",
         "asn": "AS852"
     },
@@ -21050,6 +21049,10 @@
     {
         "nickname": "bugi8282relay",
         "asn": "AS1680"
+    },
+    {
+        "nickname": "M0N3R0",
+        "asn": "AS207713"
     },
     {
         "nickname": "BigOnion",
@@ -24976,7 +24979,7 @@
         "asn": "AS199950"
     },
     {
-        "nickname": "gotocontact",
+        "nickname": "gotgincontacts",
         "asn": "AS58087"
     },
     {
@@ -28655,7 +28658,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4636",
+        "nickname": "TV8473",
         "asn": "AS7303"
     },
     {
@@ -32927,10 +32930,6 @@
     {
         "nickname": "Yggdrasil",
         "asn": "AS12322"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS5483"
     },
     {
         "nickname": "UnredactedBirknfld",
@@ -49638,6 +49637,10 @@
     {
         "nickname": "badc4ded",
         "asn": "AS38195"
+    },
+    {
+        "nickname": "gotginbio",
+        "asn": "AS58087"
     },
     {
         "nickname": "UnredactedBenArtzi",
