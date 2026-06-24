@@ -3655,10 +3655,6 @@
         "asn": "AS51765"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "NTH61R4",
         "exit_address": [
             "192.42.116.61"
@@ -6264,10 +6260,6 @@
     {
         "nickname": "ZhiliTORNode",
         "asn": "AS62005"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "yikesmoe",
@@ -14191,10 +14183,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "DFRI120",
         "exit_address": [
             "171.25.193.80"
@@ -15924,10 +15912,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "Digitalcourage4ipaa",
         "exit_address": [
             "185.220.101.96"
@@ -16046,10 +16030,6 @@
     {
         "nickname": "lilfatmemphis",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "feinler",
@@ -19286,6 +19266,9 @@
     },
     {
         "nickname": "FoxExitRelay",
+        "exit_address": [
+            "5.175.169.81"
+        ],
         "asn": "AS208476"
     },
     {
@@ -25497,10 +25480,6 @@
         "asn": "AS214798"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "r0cket11i5",
         "exit_address": [
             "45.84.107.128"
@@ -31060,10 +31039,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "Holocoaster",
         "asn": "AS8473"
     },
@@ -32190,10 +32165,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "xirymen7",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "Trurangers2",
         "asn": "AS57494"
     },
@@ -33312,10 +33283,6 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "0x012",
@@ -38943,10 +38910,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "sarabonmidrelay",
         "asn": "AS21334"
     },
@@ -39458,10 +39421,6 @@
     {
         "nickname": "skibble",
         "asn": "AS29802"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "VampireFunWorld",
@@ -45535,10 +45494,6 @@
             "185.220.101.30"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "batate",
