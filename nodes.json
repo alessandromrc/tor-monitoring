@@ -4878,10 +4878,6 @@
         "asn": "AS197170"
     },
     {
-        "nickname": "ObnoxiousRelay",
-        "asn": "AS852"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS9063"
     },
@@ -46219,6 +46215,9 @@
     },
     {
         "nickname": "NCExit01",
+        "exit_address": [
+            "147.90.234.167"
+        ],
         "asn": "AS27284"
     },
     {
@@ -46435,7 +46434,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
