@@ -36141,10 +36141,6 @@
         "asn": "AS15600"
     },
     {
-        "nickname": "laqingdan",
-        "asn": "AS54600"
-    },
-    {
         "nickname": "DFRI114",
         "exit_address": [
             "171.25.193.79"
@@ -37250,6 +37246,9 @@
     },
     {
         "nickname": "Chief",
+        "exit_address": [
+            "45.131.64.238"
+        ],
         "asn": "AS58087"
     },
     {
@@ -41310,6 +41309,9 @@
     },
     {
         "nickname": "keef",
+        "exit_address": [
+            "45.131.64.237"
+        ],
         "asn": "AS58087"
     },
     {
@@ -46447,7 +46449,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -48931,10 +48933,6 @@
     {
         "nickname": "Znueni",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "Fortune",
-        "asn": "AS62005"
     },
     {
         "nickname": "bishoplamont",
