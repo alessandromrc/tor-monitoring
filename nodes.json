@@ -1189,6 +1189,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "frodo",
+        "asn": "AS203953"
+    },
+    {
         "nickname": "meltdown262",
         "asn": "AS5378"
     },
@@ -28693,10 +28697,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "flussi",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "UnredactedRitter",
         "exit_address": [
             "23.191.200.114"
@@ -31019,10 +31019,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "SpicySushiRoll",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "power",
         "asn": "AS16276"
     },
@@ -32879,6 +32875,10 @@
     {
         "nickname": "Yggdrasil",
         "asn": "AS12322"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS5483"
     },
     {
         "nickname": "UnredactedBirknfld",
@@ -42586,6 +42586,9 @@
     },
     {
         "nickname": "torbaconrelay",
+        "exit_address": [
+            "159.195.137.114"
+        ],
         "asn": "AS197540"
     },
     {
