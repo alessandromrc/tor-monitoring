@@ -4720,7 +4720,8 @@
     {
         "nickname": "desolate",
         "exit_address": [
-            "176.65.142.198"
+            "176.65.142.198",
+            "217.60.78.198"
         ],
         "asn": "AS198189"
     },
@@ -42220,6 +42221,10 @@
     {
         "nickname": "TorRelayTor",
         "asn": "AS6848"
+    },
+    {
+        "nickname": "Tardis",
+        "asn": "AS57169"
     },
     {
         "nickname": "RobotDevil",
