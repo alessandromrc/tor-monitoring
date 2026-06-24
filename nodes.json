@@ -3523,10 +3523,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "chimbosonic",
-        "asn": "AS20712"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.42"
@@ -18055,10 +18051,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "imprezahostlt02",
-        "asn": "AS61272"
-    },
-    {
         "nickname": "death",
         "exit_address": [
             "193.32.162.86"
@@ -24837,6 +24829,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.168",
             "198.167.206.222"
         ],
         "asn": "AS39287"
@@ -26409,6 +26402,10 @@
     {
         "nickname": "toradol",
         "asn": "AS11426"
+    },
+    {
+        "nickname": "WolfgangAndDagmar",
+        "asn": "AS3320"
     },
     {
         "nickname": "ParisNight",
@@ -28615,7 +28612,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV4796",
+        "nickname": "TV2397",
         "asn": "AS7303"
     },
     {
@@ -31462,6 +31459,9 @@
     },
     {
         "nickname": "leopold1809",
+        "exit_address": [
+            "103.146.203.120"
+        ],
         "asn": "AS136052"
     },
     {
@@ -39123,9 +39123,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -40451,6 +40448,9 @@
     },
     {
         "nickname": "clover1888",
+        "exit_address": [
+            "103.193.179.22"
+        ],
         "asn": "AS136052"
     },
     {
@@ -43368,6 +43368,9 @@
     },
     {
         "nickname": "jarvis1892",
+        "exit_address": [
+            "103.193.179.213"
+        ],
         "asn": "AS136052"
     },
     {
@@ -44386,6 +44389,10 @@
     {
         "nickname": "jtmoneypoison",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "PrebenBits",
+        "asn": "AS203953"
     },
     {
         "nickname": "lilkeen",
