@@ -587,6 +587,9 @@
     },
     {
         "nickname": "onionDAOrel0aded1",
+        "exit_address": [
+            "5.2.79.190"
+        ],
         "asn": "AS60404"
     },
     {
@@ -3367,6 +3370,10 @@
             "45.84.107.182"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "Quetzalcoat",
+        "asn": "AS6697"
     },
     {
         "nickname": "SlugnetExitRelay02",
@@ -21143,6 +21150,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Quetzalcoat",
+        "asn": "AS6697"
+    },
+    {
         "nickname": "souRelayNode",
         "asn": "AS2527"
     },
@@ -23155,10 +23166,6 @@
     {
         "nickname": "TorHet",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "ChonTenCuaBan",
-        "asn": "AS14061"
     },
     {
         "nickname": "carbonic",
