@@ -9016,10 +9016,6 @@
         "asn": "AS215311"
     },
     {
-        "nickname": "Snuifhond",
-        "asn": "AS329184"
-    },
-    {
         "nickname": "zro",
         "asn": "AS36849"
     },
@@ -10158,10 +10154,6 @@
             "104.244.73.190"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "MyWindowsRelay",
-        "asn": "AS9534"
     },
     {
         "nickname": "l1ber3",
@@ -21571,10 +21563,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "6RkeOldafyGq2up1mXh",
-        "asn": "AS3462"
-    },
-    {
         "nickname": "stoertetor02",
         "asn": "AS24940"
     },
@@ -28126,10 +28114,6 @@
         "asn": "AS34779"
     },
     {
-        "nickname": "HadalyTorRelay",
-        "asn": "AS131965"
-    },
-    {
         "nickname": "Furburglur",
         "asn": "AS8560"
     },
@@ -30423,6 +30407,9 @@
     },
     {
         "nickname": "pentestdotidotng",
+        "exit_address": [
+            "45.83.107.4"
+        ],
         "asn": "AS197540"
     },
     {
