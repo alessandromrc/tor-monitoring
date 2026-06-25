@@ -5974,10 +5974,6 @@
         "asn": "AS35366"
     },
     {
-        "nickname": "fluppi",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "masstorNY3",
         "asn": "AS36352"
     },
@@ -6820,10 +6816,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "imprezahostru01",
-        "asn": "AS216334"
-    },
-    {
         "nickname": "NTH47R4",
         "exit_address": [
             "192.42.116.47"
@@ -7556,10 +7548,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS16276"
     },
     {
         "nickname": "zgato",
@@ -9347,6 +9335,9 @@
     },
     {
         "nickname": "wippvannwinkle",
+        "exit_address": [
+            "194.53.137.102"
+        ],
         "asn": "AS9009"
     },
     {
@@ -10225,6 +10216,10 @@
             "185.243.218.232"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "number9large",
+        "asn": "AS211895"
     },
     {
         "nickname": "Mischmaschine",
@@ -12252,10 +12247,6 @@
         "asn": "AS200303"
     },
     {
-        "nickname": "estor",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "MeinDebianRelay",
         "asn": "AS51167"
     },
@@ -14206,10 +14197,6 @@
         "asn": "AS40994"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "StuRav",
         "asn": "AS24940"
     },
@@ -14417,10 +14404,6 @@
     {
         "nickname": "netzwerkspaB",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "aphroditeRelay2",
-        "asn": "AS8560"
     },
     {
         "nickname": "Totoro4219",
@@ -20971,10 +20954,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "LostSahara",
-        "asn": "AS49791"
-    },
-    {
         "nickname": "r0cket05i6",
         "exit_address": [
             "45.84.107.222"
@@ -23614,10 +23593,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "KARLO7634",
-        "asn": "AS210083"
-    },
-    {
         "nickname": "cryzrelay03",
         "asn": "AS29551"
     },
@@ -24365,10 +24340,6 @@
     {
         "nickname": "AggressiveGremlin",
         "asn": "AS29802"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS16276"
     },
     {
         "nickname": "ARCNetWork",
@@ -28642,7 +28613,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "TV797",
+        "nickname": "TV3729",
         "asn": "AS7303"
     },
     {
@@ -31745,10 +31716,6 @@
     {
         "nickname": "BuyStrongBuyMonero",
         "asn": "AS56380"
-    },
-    {
-        "nickname": "aphroditeRelay1",
-        "asn": "AS8560"
     },
     {
         "nickname": "AntonPann8",
@@ -37783,10 +37750,6 @@
         "asn": "AS397031"
     },
     {
-        "nickname": "LostSahara",
-        "asn": "AS49791"
-    },
-    {
         "nickname": "eo200",
         "exit_address": [
             "23.129.64.200"
@@ -39814,10 +39777,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "relayoneltab",
         "exit_address": [
             "185.220.100.249"
@@ -41479,10 +41438,6 @@
         "asn": "AS50613"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -42285,7 +42240,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "Splinter",
@@ -42475,10 +42430,6 @@
     {
         "nickname": "extrabits",
         "asn": "AS33915"
-    },
-    {
-        "nickname": "fairfood",
-        "asn": "AS41075"
     },
     {
         "nickname": "idefix",
@@ -46799,10 +46750,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "gloriamundi",
-        "asn": "AS35042"
-    },
-    {
         "nickname": "Anarchism21",
         "asn": "AS28753"
     },
@@ -48025,10 +47972,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Fugathetoy",
-        "asn": "AS18126"
-    },
-    {
         "nickname": "eo206",
         "exit_address": [
             "23.129.64.206"
@@ -48270,10 +48213,6 @@
     {
         "nickname": "resistnow",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS16276"
     },
     {
         "nickname": "NTH13R3",
@@ -48584,10 +48523,6 @@
             "192.42.116.44"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS16276"
     },
     {
         "nickname": "mrtorpedin",
