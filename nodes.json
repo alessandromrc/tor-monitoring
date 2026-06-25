@@ -13217,10 +13217,6 @@
         "asn": "AS52053"
     },
     {
-        "nickname": "ExitSrv2",
-        "asn": "AS58061"
-    },
-    {
         "nickname": "liltwist",
         "asn": "AS36849"
     },
@@ -15039,6 +15035,10 @@
     {
         "nickname": "zgato",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "MUMBAG",
+        "asn": "AS8708"
     },
     {
         "nickname": "pulpisdeportes",
@@ -33119,10 +33119,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "aphroditeRelay2",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "DediZoneRelay",
         "asn": "AS32097"
     },
@@ -39131,6 +39127,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -42240,7 +42239,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
