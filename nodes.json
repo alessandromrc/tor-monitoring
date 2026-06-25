@@ -4747,7 +4747,6 @@
     {
         "nickname": "desolate",
         "exit_address": [
-            "176.65.142.198",
             "217.60.78.12",
             "217.60.78.198"
         ],
@@ -14335,10 +14334,6 @@
     {
         "nickname": "youngbleed",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TacoSandwiches",
-        "asn": "AS14061"
     },
     {
         "nickname": "travisscott",
@@ -24849,7 +24844,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.168"
+            "198.167.206.168",
+            "198.167.206.184"
         ],
         "asn": "AS39287"
     },
@@ -27657,6 +27653,10 @@
     {
         "nickname": "swizzbeatz",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "BunkTorRelay",
+        "asn": "AS60781"
     },
     {
         "nickname": "flachmon",
@@ -44911,10 +44911,6 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
-    },
-    {
-        "nickname": "ByteHackr",
-        "asn": "AS24560"
     },
     {
         "nickname": "server18r1",
