@@ -330,6 +330,9 @@
     },
     {
         "nickname": "ChickenShawarma",
+        "exit_address": [
+            "90.255.234.132"
+        ],
         "asn": "AS5378"
     },
     {
@@ -7484,6 +7487,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "PandaHideout",
+        "asn": "AS213605"
     },
     {
         "nickname": "WMrelay1",
@@ -16478,6 +16485,10 @@
     {
         "nickname": "tornode55557",
         "asn": "AS6848"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS31898"
     },
     {
         "nickname": "westsidegunn",
@@ -26525,10 +26536,6 @@
     {
         "nickname": "delfininterior",
         "asn": "AS12479"
-    },
-    {
-        "nickname": "MyMiddleNode",
-        "asn": "AS14061"
     },
     {
         "nickname": "NTH50R2",
@@ -47514,6 +47521,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "artikel10ber65",
         "exit_address": [
             "185.220.101.17"
@@ -48862,6 +48873,10 @@
     {
         "nickname": "bishoplamont",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS31898"
     },
     {
         "nickname": "relayon0191",
