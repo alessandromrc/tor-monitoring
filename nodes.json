@@ -3692,9 +3692,6 @@
     },
     {
         "nickname": "Fluffy3",
-        "exit_address": [
-            "5.255.102.26"
-        ],
         "asn": "AS60404"
     },
     {
@@ -5445,10 +5442,6 @@
             "94.230.208.148"
         ],
         "asn": "AS29691"
-    },
-    {
-        "nickname": "Tribulation",
-        "asn": "AS29802"
     },
     {
         "nickname": "BaumiMiddleRelay05",
@@ -23290,6 +23283,10 @@
             "171.25.193.131"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "TV5164",
+        "asn": "AS701"
     },
     {
         "nickname": "Lamia2",
