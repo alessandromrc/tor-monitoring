@@ -24370,6 +24370,10 @@
         "asn": "AS29802"
     },
     {
+        "nickname": "TestMITMExit",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "ARCNetWork",
         "asn": "AS197540"
     },
@@ -28692,9 +28696,6 @@
     },
     {
         "nickname": "LillyCL",
-        "exit_address": [
-            "94.16.115.121"
-        ],
         "asn": "AS197540"
     },
     {
@@ -28877,9 +28878,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "37.187.5.192"
-        ],
         "asn": "AS16276"
     },
     {
@@ -36604,9 +36602,6 @@
     },
     {
         "nickname": "2mpe4c",
-        "exit_address": [
-            "107.189.5.249"
-        ],
         "asn": "AS53667"
     },
     {
