@@ -9173,7 +9173,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV9583",
+        "nickname": "TV2485",
         "asn": "AS8151"
     },
     {
@@ -12673,6 +12673,10 @@
         "asn": "AS34224"
     },
     {
+        "nickname": "Lagerfeuer",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "NTH58R5",
         "exit_address": [
             "192.42.116.58"
@@ -15178,6 +15182,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "fucktrump2026",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "w000000h000004",
         "exit_address": [
             "185.246.84.179"
@@ -15490,9 +15498,6 @@
     },
     {
         "nickname": "bronkromanian",
-        "exit_address": [
-            "93.113.25.160"
-        ],
         "asn": "AS215659"
     },
     {
@@ -17423,9 +17428,6 @@
     },
     {
         "nickname": "bronkromanian2",
-        "exit_address": [
-            "93.113.25.160"
-        ],
         "asn": "AS215659"
     },
     {
@@ -21510,6 +21512,10 @@
     {
         "nickname": "strtor02",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "6RkeOldafyGq2up1mXh",
+        "asn": "AS3462"
     },
     {
         "nickname": "stoertetor02",
@@ -29615,9 +29621,6 @@
     },
     {
         "nickname": "OMICRON",
-        "exit_address": [
-            "86.54.28.49"
-        ],
         "asn": "AS12989"
     },
     {
@@ -30430,10 +30433,6 @@
             "195.176.3.23"
         ],
         "asn": "AS559"
-    },
-    {
-        "nickname": "GranumSinapis",
-        "asn": "AS12479"
     },
     {
         "nickname": "Valhalla",
@@ -34408,10 +34407,6 @@
     {
         "nickname": "rx5mjmjv4n7yebhv",
         "asn": "AS138915"
-    },
-    {
-        "nickname": "Maciak22",
-        "asn": "AS20473"
     },
     {
         "nickname": "TARDIS42",
@@ -43132,10 +43127,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "creepzone",
-        "asn": "AS212508"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.223.84.121"
@@ -46613,6 +46604,10 @@
             "152.53.210.165"
         ],
         "asn": "AS214996"
+    },
+    {
+        "nickname": "hallotor",
+        "asn": "AS24940"
     },
     {
         "nickname": "mrdelchristiancrunk",
