@@ -21095,6 +21095,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS61272"
+    },
+    {
         "nickname": "TorminatorFL",
         "asn": "AS3320"
     },
@@ -24837,6 +24841,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.133",
             "198.167.206.184"
         ],
         "asn": "AS39287"
@@ -32281,9 +32286,6 @@
     },
     {
         "nickname": "GreatKing100",
-        "exit_address": [
-            "45.32.68.84"
-        ],
         "asn": "AS20473"
     },
     {
@@ -39856,10 +39858,6 @@
     {
         "nickname": "KhanKrumCloud3",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "Assange003ru2",
-        "asn": "AS43317"
     },
     {
         "nickname": "AllieRoscoe",
