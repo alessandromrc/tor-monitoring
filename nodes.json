@@ -19520,7 +19520,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV7532",
+        "nickname": "TV2472",
         "asn": "AS8452"
     },
     {
@@ -24848,7 +24848,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.133"
+            "198.167.206.133",
+            "198.167.206.188"
         ],
         "asn": "AS39287"
     },
@@ -41011,6 +41012,10 @@
         "asn": "AS22296"
     },
     {
+        "nickname": "MyTorRelay",
+        "asn": "AS7552"
+    },
+    {
         "nickname": "ZynR02",
         "asn": "AS197540"
     },
@@ -41313,9 +41318,6 @@
     },
     {
         "nickname": "Amphinobi",
-        "exit_address": [
-            "185.173.200.73"
-        ],
         "asn": "AS42487"
     },
     {
