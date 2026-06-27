@@ -18832,6 +18832,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "TorRelayAtVecses",
+        "asn": "AS20845"
+    },
+    {
         "nickname": "surveyor",
         "asn": "AS58299"
     },
@@ -25006,6 +25010,10 @@
     {
         "nickname": "cochise",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "LoveTor14",
+        "asn": "AS210457"
     },
     {
         "nickname": "swaelee",
@@ -33975,9 +33983,6 @@
     },
     {
         "nickname": "eo221",
-        "exit_address": [
-            "23.129.64.221"
-        ],
         "asn": "AS396507"
     },
     {
@@ -34067,7 +34072,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV9143",
+        "nickname": "TV9409",
         "asn": "AS37705"
     },
     {
@@ -49235,6 +49240,10 @@
     {
         "nickname": "prsv",
         "asn": "AS201409"
+    },
+    {
+        "nickname": "KeyInWater",
+        "asn": "AS24940"
     },
     {
         "nickname": "Mikoshi3",
