@@ -24466,6 +24466,9 @@
     },
     {
         "nickname": "BronkBG2",
+        "exit_address": [
+            "45.9.156.106"
+        ],
         "asn": "AS211619"
     },
     {
@@ -34396,7 +34399,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "tortempbacon",
+        "nickname": "TorTempBacon",
         "asn": "AS29066"
     },
     {
@@ -34640,6 +34643,9 @@
     },
     {
         "nickname": "BronkBG1",
+        "exit_address": [
+            "45.9.156.106"
+        ],
         "asn": "AS211619"
     },
     {
@@ -42611,7 +42617,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "torbaconrelay",
+        "nickname": "TorBaconRelay",
         "exit_address": [
             "159.195.137.114"
         ],
