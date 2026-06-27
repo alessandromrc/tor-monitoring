@@ -9712,9 +9712,6 @@
     },
     {
         "nickname": "8271283613687556",
-        "exit_address": [
-            "185.132.53.47"
-        ],
         "asn": "AS211507"
     },
     {
@@ -19732,6 +19729,9 @@
     },
     {
         "nickname": "silvstor",
+        "exit_address": [
+            "36.224.32.133"
+        ],
         "asn": "AS3462"
     },
     {
@@ -20780,6 +20780,10 @@
     {
         "nickname": "bauruine",
         "asn": "AS56655"
+    },
+    {
+        "nickname": "BHNAuroraEU1",
+        "asn": "AS24940"
     },
     {
         "nickname": "dobromanian",
@@ -24197,9 +24201,6 @@
     },
     {
         "nickname": "eo186",
-        "exit_address": [
-            "23.129.64.186"
-        ],
         "asn": "AS396507"
     },
     {
@@ -31240,9 +31241,6 @@
     },
     {
         "nickname": "DarmokAndJalad1684",
-        "exit_address": [
-            "107.189.14.43"
-        ],
         "asn": "AS53667"
     },
     {
@@ -39106,10 +39104,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "refan4",
-        "asn": "AS212477"
-    },
-    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.166"
@@ -39928,10 +39922,6 @@
     {
         "nickname": "GhostPacket",
         "asn": "AS33993"
-    },
-    {
-        "nickname": "2fjsaf2ja4da",
-        "asn": "AS197540"
     },
     {
         "nickname": "r0cket10i6",
@@ -46473,7 +46463,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
