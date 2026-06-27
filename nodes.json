@@ -8049,6 +8049,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "milkywayz",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "hetzman",
         "asn": "AS24940"
     },
@@ -22184,6 +22188,10 @@
         "asn": "AS9123"
     },
     {
+        "nickname": "HetznerStrongRelay",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Headband1370",
         "asn": "AS29695"
     },
@@ -24867,8 +24875,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.133",
-            "198.167.206.184"
+            "198.167.206.133"
         ],
         "asn": "AS39287"
     },
@@ -28882,6 +28889,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "37.187.5.192"
+        ],
         "asn": "AS16276"
     },
     {
