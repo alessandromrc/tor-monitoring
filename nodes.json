@@ -3084,6 +3084,10 @@
         "asn": "AS15600"
     },
     {
+        "nickname": "fassbanause",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "SrsTubesRelay",
         "asn": "AS50066"
     },
@@ -12766,10 +12770,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "ConnecTorIE",
-        "asn": "AS16509"
-    },
-    {
         "nickname": "RunningOnFumes2",
         "exit_address": [
             "217.12.221.131"
@@ -16760,10 +16760,6 @@
         "asn": "AS16086"
     },
     {
-        "nickname": "ConnecTorJP",
-        "asn": "AS16509"
-    },
-    {
         "nickname": "tsutorac",
         "asn": "AS3320"
     },
@@ -17690,10 +17686,6 @@
     {
         "nickname": "estgee",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "ConnecTorNA",
-        "asn": "AS14618"
     },
     {
         "nickname": "Polyphemus9",
@@ -22054,10 +22046,6 @@
     {
         "nickname": "FragiGrenade",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "ConnecTorZA",
-        "asn": "AS16509"
     },
     {
         "nickname": "loudandproud",
@@ -29160,10 +29148,6 @@
         "asn": "AS924"
     },
     {
-        "nickname": "cattienode",
-        "asn": "AS12735"
-    },
-    {
         "nickname": "Hella",
         "asn": "AS14061"
     },
@@ -30763,10 +30747,6 @@
     {
         "nickname": "Relay",
         "asn": "AS213449"
-    },
-    {
-        "nickname": "ConnecTorSG",
-        "asn": "AS16509"
     },
     {
         "nickname": "dotsrcExit5",
@@ -32406,10 +32386,6 @@
     {
         "nickname": "FarleyHD",
         "asn": "AS328364"
-    },
-    {
-        "nickname": "ConnecTorDE",
-        "asn": "AS16509"
     },
     {
         "nickname": "0xdeadbeef",
@@ -42188,6 +42164,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "aRC0C7",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "Peabody",
         "asn": "AS24940"
     },
@@ -46180,9 +46160,6 @@
     },
     {
         "nickname": "eo214",
-        "exit_address": [
-            "23.129.64.214"
-        ],
         "asn": "AS396507"
     },
     {
