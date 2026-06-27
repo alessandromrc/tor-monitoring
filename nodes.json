@@ -1643,7 +1643,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV3772",
+        "nickname": "TV2957",
         "asn": "AS19429"
     },
     {
@@ -14353,6 +14353,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "Cryptobot7",
         "asn": "AS44901"
     },
@@ -24367,6 +24371,9 @@
     },
     {
         "nickname": "TestMITMExit",
+        "exit_address": [
+            "95.179.240.107"
+        ],
         "asn": "AS20473"
     },
     {
@@ -44746,10 +44753,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "hEwcb7YV9hT",
-        "asn": "AS58955"
-    },
-    {
         "nickname": "NTH100R1",
         "asn": "AS8283"
     },
@@ -48140,9 +48143,6 @@
     },
     {
         "nickname": "1483262357122671",
-        "exit_address": [
-            "185.132.53.37"
-        ],
         "asn": "AS211507"
     },
     {
