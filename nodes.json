@@ -28868,6 +28868,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "LoveTor14",
+        "asn": "AS210457"
+    },
+    {
         "nickname": "NTH57R8",
         "exit_address": [
             "192.42.116.57"
@@ -41062,9 +41066,6 @@
     },
     {
         "nickname": "SiFiveHiFive",
-        "exit_address": [
-            "23.129.64.99"
-        ],
         "asn": "AS396507"
     },
     {
@@ -41448,9 +41449,6 @@
     },
     {
         "nickname": "eo192",
-        "exit_address": [
-            "23.129.64.192"
-        ],
         "asn": "AS396507"
     },
     {
