@@ -11968,9 +11968,6 @@
     },
     {
         "nickname": "eo216",
-        "exit_address": [
-            "23.129.64.216"
-        ],
         "asn": "AS396507"
     },
     {
@@ -24177,6 +24174,9 @@
     },
     {
         "nickname": "NadekoNet",
+        "exit_address": [
+            "95.135.208.24"
+        ],
         "asn": "AS214677"
     },
     {
@@ -44168,6 +44168,10 @@
         "asn": "AS17290"
     },
     {
+        "nickname": "rika",
+        "asn": "AS9050"
+    },
+    {
         "nickname": "SpiritBomb",
         "asn": "AS51167"
     },
@@ -49678,6 +49682,10 @@
     {
         "nickname": "anarchosyndical7",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TV6803",
+        "asn": "AS27747"
     },
     {
         "nickname": "yunggravy",
