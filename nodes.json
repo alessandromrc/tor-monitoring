@@ -1069,10 +1069,6 @@
         "asn": "AS212238"
     },
     {
-        "nickname": "torlyv5",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS17676"
     },
@@ -3896,10 +3892,6 @@
     {
         "nickname": "tormount",
         "asn": "AS215730"
-    },
-    {
-        "nickname": "MojNode",
-        "asn": "AS8400"
     },
     {
         "nickname": "greasymiami",
@@ -13177,6 +13169,10 @@
             "45.84.107.55"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "leosiasty",
+        "asn": "AS12912"
     },
     {
         "nickname": "mcjLinodeRelay",
@@ -24284,10 +24280,6 @@
         "asn": "AS214354"
     },
     {
-        "nickname": "torlyv7",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "taykiethbeats",
         "asn": "AS36849"
     },
@@ -28915,6 +28907,10 @@
         "asn": "AS10961"
     },
     {
+        "nickname": "RELoad",
+        "asn": "AS12302"
+    },
+    {
         "nickname": "NTH111R7",
         "exit_address": [
             "192.42.116.111"
@@ -30729,10 +30725,6 @@
     {
         "nickname": "arsonaldarebel",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "torlyv8",
-        "asn": "AS3209"
     },
     {
         "nickname": "Relay",
@@ -35002,10 +34994,6 @@
     {
         "nickname": "bigyavo",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "HappyToServeYou10",
-        "asn": "AS36352"
     },
     {
         "nickname": "idontknowjeffery",
@@ -42537,7 +42525,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TorBaconRelay",
+        "nickname": "TorBaconExit",
         "exit_address": [
             "159.195.137.114"
         ],
@@ -45909,10 +45897,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "torlyv6",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "dennylaflare",
         "asn": "AS36849"
     },
@@ -46619,9 +46603,6 @@
     },
     {
         "nickname": "PLUTEX",
-        "exit_address": [
-            "109.69.67.17"
-        ],
         "asn": "AS49855"
     },
     {
