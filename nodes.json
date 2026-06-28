@@ -1644,7 +1644,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV8666",
+        "nickname": "TV5644",
         "asn": "AS19429"
     },
     {
@@ -3022,9 +3022,6 @@
     },
     {
         "nickname": "eo187",
-        "exit_address": [
-            "23.129.64.187"
-        ],
         "asn": "AS396507"
     },
     {
@@ -3484,6 +3481,10 @@
             "185.227.68.78"
         ],
         "asn": "AS206804"
+    },
+    {
+        "nickname": "tormetormetoryou",
+        "asn": "AS5089"
     },
     {
         "nickname": "Nethergrog",
@@ -6729,7 +6730,8 @@
     {
         "nickname": "CSTLLNODE3",
         "exit_address": [
-            "23.137.253.125"
+            "23.137.253.125",
+            "23.151.8.10"
         ],
         "asn": "AS264617"
     },
@@ -10010,9 +10012,6 @@
     },
     {
         "nickname": "TORKeFFORG11",
-        "exit_address": [
-            "193.189.100.204"
-        ],
         "asn": "AS41281"
     },
     {
@@ -16403,6 +16402,10 @@
             "109.71.252.88"
         ],
         "asn": "AS58087"
+    },
+    {
+        "nickname": "chatsworth577",
+        "asn": "AS5378"
     },
     {
         "nickname": "NTH97R5",
@@ -29946,6 +29949,10 @@
     {
         "nickname": "FedoraMiddle01",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "CutieCutieNyaa",
+        "asn": "AS215733"
     },
     {
         "nickname": "NTH81R1",
@@ -46313,7 +46320,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
