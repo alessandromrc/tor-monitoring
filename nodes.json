@@ -1706,6 +1706,9 @@
     },
     {
         "nickname": "pengy",
+        "exit_address": [
+            "185.56.171.94"
+        ],
         "asn": "AS3242"
     },
     {
@@ -24823,6 +24826,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.162",
             "198.167.206.188"
         ],
         "asn": "AS39287"
@@ -32709,7 +32713,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV8311",
+        "nickname": "TV8393",
         "asn": "AS8151"
     },
     {
