@@ -12186,6 +12186,9 @@
     },
     {
         "nickname": "MyTorExitNode",
+        "exit_address": [
+            "165.227.163.170"
+        ],
         "asn": "AS14061"
     },
     {
@@ -14308,6 +14311,10 @@
     {
         "nickname": "Aarsdale",
         "asn": "AS24800"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS6871"
     },
     {
         "nickname": "artikel10buc21",
@@ -26115,6 +26122,10 @@
     {
         "nickname": "methodman",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Asgard",
+        "asn": "AS137409"
     },
     {
         "nickname": "prsv",
@@ -42835,10 +42846,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "omarmercado8",
-        "asn": "AS11878"
-    },
-    {
         "nickname": "NTH64R4",
         "exit_address": [
             "192.42.116.64"
@@ -45893,10 +45900,6 @@
         "asn": "AS39798"
     },
     {
-        "nickname": "TV6285",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "lildarkie",
         "asn": "AS36849"
     },
@@ -46602,7 +46605,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV4800",
+        "nickname": "TV9872",
         "asn": "AS27747"
     },
     {
