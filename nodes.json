@@ -2517,6 +2517,10 @@
         "asn": "AS38074"
     },
     {
+        "nickname": "electronicCashXMR",
+        "asn": "AS201579"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS22773"
     },
@@ -4089,6 +4093,10 @@
     {
         "nickname": "Minotaur3",
         "asn": "AS398101"
+    },
+    {
+        "nickname": "TV986",
+        "asn": "AS7418"
     },
     {
         "nickname": "ROnion",
@@ -17982,6 +17990,10 @@
         "asn": "AS31242"
     },
     {
+        "nickname": "confidentialMonero",
+        "asn": "AS201579"
+    },
+    {
         "nickname": "polizeierziehung",
         "asn": "AS60781"
     },
@@ -24813,6 +24825,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.158",
             "198.167.206.162"
         ],
         "asn": "AS39287"
@@ -36958,10 +36971,6 @@
         "asn": "AS16509"
     },
     {
-        "nickname": "getrelayedon01",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "twoseven",
         "asn": "AS3320"
     },
@@ -38841,10 +38850,6 @@
     {
         "nickname": "peacenowarturreta",
         "asn": "AS214576"
-    },
-    {
-        "nickname": "TV8856",
-        "asn": "AS8151"
     },
     {
         "nickname": "Unnamed",
@@ -46602,7 +46607,7 @@
         "asn": "AS33255"
     },
     {
-        "nickname": "TV6219",
+        "nickname": "TV7061",
         "asn": "AS27747"
     },
     {
