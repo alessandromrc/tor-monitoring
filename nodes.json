@@ -1349,6 +1349,9 @@
     },
     {
         "nickname": "TORKeFFORG37",
+        "exit_address": [
+            "193.189.100.204"
+        ],
         "asn": "AS41281"
     },
     {
@@ -7563,7 +7566,8 @@
     {
         "nickname": "SecretDropCH",
         "exit_address": [
-            "92.119.165.18"
+            "92.119.165.18",
+            "92.119.165.34"
         ],
         "asn": "AS211507"
     },
@@ -10005,6 +10009,9 @@
     },
     {
         "nickname": "TORKeFFORG11",
+        "exit_address": [
+            "193.189.100.204"
+        ],
         "asn": "AS41281"
     },
     {
