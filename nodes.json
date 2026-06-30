@@ -4193,6 +4193,10 @@
         "asn": "AS49367"
     },
     {
+        "nickname": "MixingExRelay",
+        "asn": "AS51202"
+    },
+    {
         "nickname": "Oracle",
         "asn": "AS52048"
     },
@@ -5374,10 +5378,6 @@
     {
         "nickname": "mountaneer",
         "asn": "AS3352"
-    },
-    {
-        "nickname": "405tor3",
-        "asn": "AS7018"
     },
     {
         "nickname": "DXV7520",
@@ -8963,10 +8963,6 @@
     {
         "nickname": "yessirski",
         "asn": "AS60781"
-    },
-    {
-        "nickname": "405tor7",
-        "asn": "AS7018"
     },
     {
         "nickname": "SunGod",
@@ -17363,10 +17359,6 @@
         "asn": "AS20766"
     },
     {
-        "nickname": "redrum",
-        "asn": "AS8075"
-    },
-    {
         "nickname": "Cassanova",
         "exit_address": [
             "162.220.14.54"
@@ -20831,10 +20823,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "405tor4",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "MoriartyGhost",
         "asn": "AS24961"
     },
@@ -23901,6 +23889,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -36293,10 +36284,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "405tor5",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "Bacon8ter",
         "exit_address": [
             "217.156.49.33"
@@ -41058,10 +41045,6 @@
         "asn": "AS6939"
     },
     {
-        "nickname": "405tor6",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "Fondue",
         "asn": "AS29222"
     },
@@ -41617,10 +41600,6 @@
     {
         "nickname": "DELIGHT",
         "asn": "AS59711"
-    },
-    {
-        "nickname": "405tor1",
-        "asn": "AS7018"
     },
     {
         "nickname": "Shieldmaster238",
@@ -45215,10 +45194,6 @@
     {
         "nickname": "zgato",
         "asn": "AS214379"
-    },
-    {
-        "nickname": "405tor8",
-        "asn": "AS7018"
     },
     {
         "nickname": "NTH62R4",
