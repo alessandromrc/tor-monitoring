@@ -6175,6 +6175,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "Perlman",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "nexwoof",
         "asn": "AS152992"
     },
@@ -12288,10 +12292,6 @@
     {
         "nickname": "2d14wq132",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "MyWin10Relay",
-        "asn": "AS29518"
     },
     {
         "nickname": "ddgmoonwalking",
@@ -19497,7 +19497,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV8571",
+        "nickname": "TV210",
         "asn": "AS8452"
     },
     {
@@ -20693,10 +20693,6 @@
     {
         "nickname": "asapferg",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Free",
-        "asn": "AS211273"
     },
     {
         "nickname": "refan3",
@@ -24422,9 +24418,6 @@
     },
     {
         "nickname": "BronkBG2",
-        "exit_address": [
-            "45.9.156.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -25976,10 +25969,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "FreeNode",
-        "asn": "AS211273"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.4.12"
@@ -26380,9 +26369,6 @@
     },
     {
         "nickname": "sexytiem",
-        "exit_address": [
-            "95.216.107.148"
-        ],
         "asn": "AS24940"
     },
     {
@@ -33280,10 +33266,6 @@
             "23.128.248.169"
         ],
         "asn": "AS400226"
-    },
-    {
-        "nickname": "sartre2",
-        "asn": "AS200651"
     },
     {
         "nickname": "judoka",
@@ -47859,10 +47841,6 @@
             "193.189.100.200"
         ],
         "asn": "AS41281"
-    },
-    {
-        "nickname": "binaery",
-        "asn": "AS24940"
     },
     {
         "nickname": "NTH104R2",
