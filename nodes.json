@@ -4728,6 +4728,9 @@
     },
     {
         "nickname": "desolate",
+        "exit_address": [
+            "217.60.78.198"
+        ],
         "asn": "AS198189"
     },
     {
@@ -5579,6 +5582,9 @@
     },
     {
         "nickname": "TORKeFFORG39",
+        "exit_address": [
+            "193.189.100.206"
+        ],
         "asn": "AS41281"
     },
     {
@@ -8111,10 +8117,6 @@
             "31.133.0.235"
         ],
         "asn": "AS51290"
-    },
-    {
-        "nickname": "BallingBowl",
-        "asn": "AS14061"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -36843,7 +36845,7 @@
     },
     {
         "nickname": "forest32",
-        "asn": "AS213900"
+        "asn": "AS215228"
     },
     {
         "nickname": "ScheunenTor",
@@ -46300,7 +46302,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
