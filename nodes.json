@@ -12889,6 +12889,10 @@
         "asn": "AS197648"
     },
     {
+        "nickname": "WelcomeHomeStranger",
+        "asn": "AS8412"
+    },
+    {
         "nickname": "slugatm",
         "asn": "AS36849"
     },
@@ -15394,10 +15398,6 @@
             "185.129.61.129"
         ],
         "asn": "AS210731"
-    },
-    {
-        "nickname": "jeffsbaum",
-        "asn": "AS3209"
     },
     {
         "nickname": "ForDemocracy4",
@@ -24173,9 +24173,6 @@
     },
     {
         "nickname": "NadekoNet",
-        "exit_address": [
-            "95.135.208.24"
-        ],
         "asn": "AS214677"
     },
     {
@@ -26401,6 +26398,9 @@
     },
     {
         "nickname": "Sinus1709",
+        "exit_address": [
+            "121.127.33.165"
+        ],
         "asn": "AS210083"
     },
     {
