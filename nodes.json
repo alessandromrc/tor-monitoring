@@ -1640,7 +1640,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV5290",
+        "nickname": "TV2784",
         "asn": "AS19429"
     },
     {
@@ -7265,7 +7265,6 @@
     {
         "nickname": "dismal",
         "exit_address": [
-            "192.109.200.33",
             "45.156.87.130"
         ],
         "asn": "AS197170"
@@ -8169,10 +8168,6 @@
     {
         "nickname": "QbiXDE1",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "TV9201",
-        "asn": "AS7303"
     },
     {
         "nickname": "myMiddleRelay",
@@ -21035,10 +21030,6 @@
         "asn": "AS1680"
     },
     {
-        "nickname": "M0N3R0",
-        "asn": "AS207713"
-    },
-    {
         "nickname": "BigOnion",
         "asn": "AS197540"
     },
@@ -22754,10 +22745,6 @@
         "asn": "AS42730"
     },
     {
-        "nickname": "gotg",
-        "asn": "AS58087"
-    },
-    {
         "nickname": "dozer",
         "asn": "AS197540"
     },
@@ -23448,6 +23435,10 @@
     {
         "nickname": "citygirls",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TV8894",
+        "asn": "AS22927"
     },
     {
         "nickname": "INSRelay29at5443",
@@ -24927,10 +24918,6 @@
     {
         "nickname": "HjelmEnterprises01",
         "asn": "AS199950"
-    },
-    {
-        "nickname": "gotgincontacts",
-        "asn": "AS58087"
     },
     {
         "nickname": "deadbabecafe",
@@ -32491,9 +32478,6 @@
     },
     {
         "nickname": "NadekoNet",
-        "exit_address": [
-            "38.134.41.34"
-        ],
         "asn": "AS399646"
     },
     {
@@ -32531,6 +32515,10 @@
             "109.70.100.13"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "theispco",
+        "asn": "AS40663"
     },
     {
         "nickname": "alxu2",
