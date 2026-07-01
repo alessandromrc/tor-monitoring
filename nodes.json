@@ -1592,10 +1592,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Bharatayuddha",
-        "asn": "AS16086"
-    },
-    {
         "nickname": "NTH142R8",
         "exit_address": [
             "192.42.116.142"
@@ -4132,10 +4128,6 @@
         "asn": "AS51852"
     },
     {
-        "nickname": "PathConnectK8s03",
-        "asn": "AS47536"
-    },
-    {
         "nickname": "rexZAP2",
         "asn": "AS206996"
     },
@@ -4974,10 +4966,6 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
-    },
-    {
-        "nickname": "PathConnectK8s02",
-        "asn": "AS47536"
     },
     {
         "nickname": "nosferatu",
@@ -5954,6 +5942,10 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
+    },
+    {
+        "nickname": "tspxrc1",
+        "asn": "AS9009"
     },
     {
         "nickname": "XMRisGoldCrypto",
@@ -7938,6 +7930,10 @@
         "asn": "AS62240"
     },
     {
+        "nickname": "BulkyRelay1",
+        "asn": "AS6128"
+    },
+    {
         "nickname": "fuckedopspain",
         "asn": "AS8560"
     },
@@ -9042,6 +9038,10 @@
     {
         "nickname": "AppleSucks",
         "asn": "AS214503"
+    },
+    {
+        "nickname": "BlueGene",
+        "asn": "AS3292"
     },
     {
         "nickname": "criticalcat",
@@ -25846,6 +25846,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "coolcouchpampers",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "PrivacyFreedomRelay",
         "asn": "AS12496"
     },
@@ -34004,10 +34008,6 @@
         "asn": "AS211882"
     },
     {
-        "nickname": "PathConnectK8s01",
-        "asn": "AS47536"
-    },
-    {
         "nickname": "severancecheck",
         "asn": "AS12876"
     },
@@ -36365,9 +36365,6 @@
     },
     {
         "nickname": "plebelet",
-        "exit_address": [
-            "107.189.27.145"
-        ],
         "asn": "AS14956"
     },
     {
@@ -49694,6 +49691,10 @@
     {
         "nickname": "plan9kaos",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "PrivacyComDeR5",
+        "asn": "AS15943"
     },
     {
         "nickname": "lilyoungin",
