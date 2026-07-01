@@ -3451,6 +3451,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "sh97CA101R",
+        "asn": "AS1002"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -22160,6 +22164,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.172.125.210"
+        ],
         "asn": "AS36352"
     },
     {
@@ -46428,7 +46435,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
