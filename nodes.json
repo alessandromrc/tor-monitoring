@@ -3567,6 +3567,9 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
+        "exit_address": [
+            "23.137.253.113"
+        ],
         "asn": "AS40663"
     },
     {
@@ -13225,7 +13228,7 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "TV3978",
+        "nickname": "TV9625",
         "asn": "AS36884"
     },
     {
@@ -31615,6 +31618,10 @@
     {
         "nickname": "undercut",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "iuaudia6tdi",
+        "asn": "AS3320"
     },
     {
         "nickname": "tor04",
