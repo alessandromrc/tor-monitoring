@@ -3676,10 +3676,6 @@
         "asn": "AS51765"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "NTH61R4",
         "exit_address": [
             "192.42.116.61"
@@ -14794,6 +14790,10 @@
         "asn": "AS214996"
     },
     {
+        "nickname": "r3d",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "TheShadowRoute03",
         "asn": "AS215288"
     },
@@ -15753,7 +15753,7 @@
         "asn": "AS32181"
     },
     {
-        "nickname": "TV5562",
+        "nickname": "TV6207",
         "asn": "AS7303"
     },
     {
@@ -18189,10 +18189,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS20115"
-    },
-    {
         "nickname": "nsaciabrb",
         "asn": "AS701"
     },
@@ -19586,7 +19582,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV210",
+        "nickname": "TV7108",
         "asn": "AS8452"
     },
     {
@@ -25542,10 +25538,6 @@
     {
         "nickname": "profi",
         "asn": "AS214798"
-    },
-    {
-        "nickname": "eth0",
-        "asn": "AS204601"
     },
     {
         "nickname": "r0cket11i5",
@@ -33392,10 +33384,6 @@
         "asn": "AS207992"
     },
     {
-        "nickname": "eth0",
-        "asn": "AS204601"
-    },
-    {
         "nickname": "0x012",
         "asn": "AS8560"
     },
@@ -34460,6 +34448,10 @@
     {
         "nickname": "TorTempBacon",
         "asn": "AS29066"
+    },
+    {
+        "nickname": "ShinobiKaede",
+        "asn": "AS26832"
     },
     {
         "nickname": "NTH14R7",
@@ -36562,7 +36554,7 @@
     },
     {
         "nickname": "fuckwar",
-        "asn": "AS14061"
+        "asn": "AS216071"
     },
     {
         "nickname": "flabata",
@@ -40615,10 +40607,6 @@
             "141.98.11.62"
         ],
         "asn": "AS209605"
-    },
-    {
-        "nickname": "myRoRelay",
-        "asn": "AS12302"
     },
     {
         "nickname": "NTH57R4",
