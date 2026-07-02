@@ -18590,10 +18590,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "DonateSimpleXChat",
-        "asn": "AS215362"
-    },
-    {
         "nickname": "ch41n",
         "exit_address": [
             "209.141.40.68"
@@ -29896,7 +29892,7 @@
         "asn": "AS200019"
     },
     {
-        "nickname": "TV9923",
+        "nickname": "TV6841",
         "asn": "AS2586"
     },
     {
@@ -30802,6 +30798,9 @@
     },
     {
         "nickname": "Quintex95",
+        "exit_address": [
+            "204.8.96.184"
+        ],
         "asn": "AS62744"
     },
     {
@@ -31681,10 +31680,6 @@
     {
         "nickname": "eupepe",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "TorNodeSofia",
-        "asn": "AS59729"
     },
     {
         "nickname": "theTorDoor",
@@ -42408,9 +42403,6 @@
     },
     {
         "nickname": "dwork",
-        "exit_address": [
-            "23.129.64.160"
-        ],
         "asn": "AS396507"
     },
     {
@@ -47325,6 +47317,10 @@
         "asn": "AS42675"
     },
     {
+        "nickname": "Cicada3301",
+        "asn": "AS33915"
+    },
+    {
         "nickname": "JAJTorBits3",
         "asn": "AS7922"
     },
@@ -48518,6 +48514,10 @@
     {
         "nickname": "LoveInXMR",
         "asn": "AS51659"
+    },
+    {
+        "nickname": "Trone7634",
+        "asn": "AS210083"
     },
     {
         "nickname": "tudPsRelay",
