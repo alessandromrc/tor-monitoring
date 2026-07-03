@@ -16769,6 +16769,9 @@
     },
     {
         "nickname": "eo188",
+        "exit_address": [
+            "23.129.64.188"
+        ],
         "asn": "AS396507"
     },
     {
@@ -29499,10 +29502,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "OrionNebula",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "Haxalicious",
         "asn": "AS10242"
     },
@@ -41234,6 +41233,10 @@
         "asn": "AS45102"
     },
     {
+        "nickname": "TV3199",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "f292b82fd6f083b6",
         "asn": "AS3215"
     },
@@ -41608,6 +41611,10 @@
     {
         "nickname": "BorkNodeBR",
         "asn": "AS268581"
+    },
+    {
+        "nickname": "UploadRip",
+        "asn": "AS60781"
     },
     {
         "nickname": "UnredactedPierpont",
@@ -43868,6 +43875,9 @@
     },
     {
         "nickname": "dwork",
+        "exit_address": [
+            "23.129.64.160"
+        ],
         "asn": "AS396507"
     },
     {
