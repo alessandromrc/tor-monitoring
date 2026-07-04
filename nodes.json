@@ -5278,6 +5278,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "MyExitNode",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "NTH95R7",
         "exit_address": [
             "192.42.116.95"
@@ -16695,6 +16699,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "184.107.161.55"
+        ],
         "asn": "AS32613"
     },
     {
@@ -21033,6 +21040,10 @@
     {
         "nickname": "ymmv7",
         "asn": "AS197170"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS207560"
     },
     {
         "nickname": "SeekAndDestroy",
@@ -30334,6 +30345,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "default",
+        "asn": "AS58224"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS53667"
     },
@@ -31415,6 +31430,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "CutieCutieNyaa",
         "asn": "AS215733"
     },
@@ -32042,6 +32061,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "MyExitNode",
+        "asn": "AS27176"
+    },
+    {
         "nickname": "datboit",
         "asn": "AS36849"
     },
@@ -32193,6 +32216,10 @@
     {
         "nickname": "strawberryCake",
         "asn": "AS5617"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS24961"
     },
     {
         "nickname": "philotes2",
@@ -34827,11 +34854,15 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS6698"
+    },
+    {
         "nickname": "parlaed4l",
         "asn": "AS36849"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "179.43.134.175"
         ],
@@ -38640,10 +38671,6 @@
     {
         "nickname": "UNamurCS01",
         "asn": "AS2611"
-    },
-    {
-        "nickname": "mcdonald",
-        "asn": "AS51396"
     },
     {
         "nickname": "NTH31R1",
@@ -44956,6 +44983,10 @@
         "asn": "AS199918"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS202425"
+    },
+    {
         "nickname": "yaeji",
         "asn": "AS36849"
     },
@@ -45685,6 +45716,10 @@
     {
         "nickname": "duat4",
         "asn": "AS20115"
+    },
+    {
+        "nickname": "MyExitNode",
+        "asn": "AS63023"
     },
     {
         "nickname": "qwerty12345",
@@ -46582,7 +46617,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "141.255.166.156"
         ],
@@ -48712,7 +48747,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
