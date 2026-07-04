@@ -10714,10 +10714,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "snake",
-        "asn": "AS198930"
-    },
-    {
         "nickname": "Daydream",
         "asn": "AS8560"
     },
@@ -15880,7 +15876,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "5.255.105.182"
         ],
@@ -16696,6 +16692,10 @@
             "204.8.96.117"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS32613"
     },
     {
         "nickname": "DFRI14",
@@ -19221,10 +19221,6 @@
         "asn": "AS23969"
     },
     {
-        "nickname": "EtaIsNext",
-        "asn": "AS8455"
-    },
-    {
         "nickname": "kanishkbakshi",
         "asn": "AS18229"
     },
@@ -21039,7 +21035,7 @@
         "asn": "AS197170"
     },
     {
-        "nickname": "ColdWindsWhisperWar",
+        "nickname": "SeekAndDestroy",
         "asn": "AS16276"
     },
     {
@@ -26092,7 +26088,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.168"
+            "198.167.206.168",
+            "198.167.206.202"
         ],
         "asn": "AS39287"
     },
@@ -26641,7 +26638,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "136.243.175.107"
         ],
@@ -27473,6 +27470,10 @@
     {
         "nickname": "bus567",
         "asn": "AS214209"
+    },
+    {
+        "nickname": "yaoiIsPeak",
+        "asn": "AS577"
     },
     {
         "nickname": "darksource",
@@ -29835,10 +29836,6 @@
         "asn": "AS52048"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS48574"
-    },
-    {
         "nickname": "vanzetti",
         "exit_address": [
             "185.39.207.83"
@@ -31609,7 +31606,7 @@
         "asn": "AS205090"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "65.108.206.147"
         ],
@@ -38066,6 +38063,9 @@
     },
     {
         "nickname": "relayon0128",
+        "exit_address": [
+            "185.220.101.128"
+        ],
         "asn": "AS60729"
     },
     {
@@ -40540,7 +40540,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "DiceyExitNode",
+        "nickname": "spongyorchid",
         "exit_address": [
             "194.26.192.203"
         ],
@@ -46797,7 +46797,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "185.117.74.72"
         ],
@@ -50994,10 +50994,6 @@
             "192.42.116.68"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS16276"
     },
     {
         "nickname": "MyExitNode",
