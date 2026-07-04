@@ -360,6 +360,9 @@
     },
     {
         "nickname": "ChickenShawarma",
+        "exit_address": [
+            "90.255.234.132"
+        ],
         "asn": "AS5378"
     },
     {
@@ -3913,9 +3916,6 @@
     },
     {
         "nickname": "RuneByteNET",
-        "exit_address": [
-            "185.181.61.201"
-        ],
         "asn": "AS56655"
     },
     {
@@ -12990,6 +12990,10 @@
     {
         "nickname": "ForDemocracy9",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "relayon1128",
+        "asn": "AS60729"
     },
     {
         "nickname": "wuwei",
@@ -38064,6 +38068,10 @@
         "asn": "AS62336"
     },
     {
+        "nickname": "relayon0128",
+        "asn": "AS60729"
+    },
+    {
         "nickname": "rafsnicesrelay",
         "asn": "AS197540"
     },
@@ -43006,9 +43014,6 @@
     },
     {
         "nickname": "RuneByteNET",
-        "exit_address": [
-            "185.181.61.201"
-        ],
         "asn": "AS56655"
     },
     {
@@ -43267,10 +43272,6 @@
             "192.42.116.107"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Amphinobi",
-        "asn": "AS42487"
     },
     {
         "nickname": "NCLS349",
@@ -48717,7 +48718,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
