@@ -5271,7 +5271,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "192.159.99.180"
         ],
@@ -21983,6 +21983,9 @@
     },
     {
         "nickname": "level9000",
+        "exit_address": [
+            "194.53.137.156"
+        ],
         "asn": "AS9009"
     },
     {
@@ -23864,10 +23867,6 @@
     {
         "nickname": "dozer",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "TV8020",
-        "asn": "AS7303"
     },
     {
         "nickname": "wavechapelle",
@@ -31996,7 +31995,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "104.219.232.218"
         ],
@@ -45657,7 +45656,7 @@
         "asn": "AS20115"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "185.240.161.101"
         ],
@@ -48541,7 +48540,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV2965",
+        "nickname": "TV965",
         "asn": "AS37705"
     },
     {
@@ -48687,6 +48686,10 @@
     {
         "nickname": "archandnixbtw",
         "asn": "AS6810"
+    },
+    {
+        "nickname": "myTorRelay",
+        "asn": "AS3320"
     },
     {
         "nickname": "opencommunity",
@@ -50074,7 +50077,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "103.109.100.148"
         ],
@@ -50978,7 +50981,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MyExitNode",
+        "nickname": "Unnamed",
         "exit_address": [
             "108.181.115.201"
         ],
