@@ -2762,6 +2762,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "AbsolutRemove",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "kohlrabi",
         "exit_address": [
             "109.70.100.4"
@@ -5562,6 +5566,10 @@
             "94.72.104.135"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "LoveTor",
+        "asn": "AS210457"
     },
     {
         "nickname": "bradburn",
@@ -16499,7 +16507,7 @@
         "asn": "AS32181"
     },
     {
-        "nickname": "TV2762",
+        "nickname": "TV5904",
         "asn": "AS7303"
     },
     {
@@ -26110,7 +26118,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.202"
+            "198.167.206.202",
+            "198.167.206.247"
         ],
         "asn": "AS39287"
     },
@@ -26713,6 +26722,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "4PrivacyInTheEu",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "GentooLibre",
         "asn": "AS4764"
     },
@@ -27166,6 +27179,10 @@
             "88.80.20.86"
         ],
         "asn": "AS33837"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "Piratenpartei02",
@@ -29737,6 +29754,10 @@
             "192.42.116.12"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Bootlicker",
+        "asn": "AS44869"
     },
     {
         "nickname": "marylou3",
@@ -34380,10 +34401,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV8393",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "CasjaysDevExit",
         "exit_address": [
             "23.238.70.236"
@@ -37787,6 +37804,10 @@
     {
         "nickname": "INSRelay39at5443",
         "asn": "AS1205"
+    },
+    {
+        "nickname": "hmm",
+        "asn": "AS36947"
     },
     {
         "nickname": "NTH59R7",
@@ -48812,7 +48833,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "myTorRelay",
