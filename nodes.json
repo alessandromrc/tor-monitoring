@@ -24144,6 +24144,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.161"
+        ],
         "asn": "AS400226"
     },
     {
@@ -28087,10 +28090,6 @@
     {
         "nickname": "bauruine",
         "asn": "AS201814"
-    },
-    {
-        "nickname": "discworld",
-        "asn": "AS10796"
     },
     {
         "nickname": "DFRI163",
@@ -34511,10 +34510,6 @@
         "asn": "AS12322"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS5483"
-    },
-    {
         "nickname": "UnredactedBirknfld",
         "exit_address": [
             "23.191.200.60"
@@ -35034,6 +35029,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.169"
+        ],
         "asn": "AS400226"
     },
     {
@@ -37060,7 +37058,7 @@
         "asn": "AS5483"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS211507"
     },
     {
@@ -48667,7 +48665,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV9629",
+        "nickname": "TV2397",
         "asn": "AS37705"
     },
     {
