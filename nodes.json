@@ -3600,9 +3600,6 @@
     },
     {
         "nickname": "KyunTorExitNode",
-        "exit_address": [
-            "45.137.99.182"
-        ],
         "asn": "AS215659"
     },
     {
@@ -18297,6 +18294,9 @@
     },
     {
         "nickname": "eagerrose",
+        "exit_address": [
+            "185.225.69.232"
+        ],
         "asn": "AS30836"
     },
     {
@@ -20186,6 +20186,10 @@
     {
         "nickname": "ekanu",
         "asn": "AS44133"
+    },
+    {
+        "nickname": "NextServRelay02",
+        "asn": "AS204464"
     },
     {
         "nickname": "frayserboy",
@@ -23741,6 +23745,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.117.88.34"
+        ],
         "asn": "AS59711"
     },
     {
@@ -30118,6 +30125,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "sum1z",
+        "asn": "AS64073"
+    },
+    {
         "nickname": "NTH13R4",
         "exit_address": [
             "192.42.116.13"
@@ -30253,10 +30264,6 @@
             "37.187.5.192"
         ],
         "asn": "AS16276"
-    },
-    {
-        "nickname": "LoveTor14",
-        "asn": "AS210457"
     },
     {
         "nickname": "NTH57R8",
@@ -32199,6 +32206,9 @@
     },
     {
         "nickname": "BeattheHeat",
+        "exit_address": [
+            "185.225.69.187"
+        ],
         "asn": "AS30836"
     },
     {
@@ -35727,7 +35737,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8583",
+        "nickname": "TV6896",
         "asn": "AS37705"
     },
     {
@@ -41149,6 +41159,9 @@
     },
     {
         "nickname": "happypaws",
+        "exit_address": [
+            "185.225.69.225"
+        ],
         "asn": "AS30836"
     },
     {
@@ -48040,9 +48053,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -50466,10 +50476,6 @@
             "171.25.193.37"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "byron1",
-        "asn": "AS2856"
     },
     {
         "nickname": "dhitechnical",
