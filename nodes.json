@@ -442,6 +442,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "PingmeRelay02",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "PyotrTorpotkinTwo",
         "asn": "AS16276"
     },
@@ -17866,6 +17870,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "NextServRelay01",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "mevolz2",
         "asn": "AS24940"
     },
@@ -19154,6 +19162,10 @@
             "192.42.116.92"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "NTH301R3",
+        "asn": "AS206238"
     },
     {
         "nickname": "TimsRelay01",
@@ -23726,6 +23738,10 @@
     {
         "nickname": "Caramelo",
         "asn": "AS136258"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS59711"
     },
     {
         "nickname": "halotrelayone",
@@ -31075,7 +31091,7 @@
         "asn": "AS133210"
     },
     {
-        "nickname": "TV3009",
+        "nickname": "TV1642",
         "asn": "AS22927"
     },
     {
@@ -41712,6 +41728,9 @@
     },
     {
         "nickname": "arecoque1",
+        "exit_address": [
+            "80.67.167.81"
+        ],
         "asn": "AS2027"
     },
     {
@@ -42484,6 +42503,10 @@
             "141.98.11.62"
         ],
         "asn": "AS209605"
+    },
+    {
+        "nickname": "myRoRelay",
+        "asn": "AS12302"
     },
     {
         "nickname": "NTH57R4",
@@ -45448,9 +45471,6 @@
     },
     {
         "nickname": "steamedhams",
-        "exit_address": [
-            "144.6.236.131"
-        ],
         "asn": "AS4764"
     },
     {
@@ -48697,7 +48717,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "myTorRelay",
