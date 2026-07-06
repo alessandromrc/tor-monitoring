@@ -2634,10 +2634,6 @@
         "asn": "AS38074"
     },
     {
-        "nickname": "electronicCashXMR",
-        "asn": "AS201579"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS22773"
     },
@@ -5088,7 +5084,7 @@
         "asn": "AS200019"
     },
     {
-        "nickname": "yttrandefrihetFTW",
+        "nickname": "sanningsministeriet",
         "asn": "AS8473"
     },
     {
@@ -7408,7 +7404,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9201",
+        "nickname": "TV612",
         "asn": "AS22927"
     },
     {
@@ -10273,10 +10269,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS212477"
-    },
-    {
-        "nickname": "WeldimRelay",
-        "asn": "AS31615"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -14100,10 +14092,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MPNRelay1A",
-        "asn": "AS12271"
-    },
-    {
         "nickname": "cryonoxnet",
         "asn": "AS63949"
     },
@@ -15610,10 +15598,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "Relay9001A",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "PotaTor",
         "asn": "AS6697"
     },
@@ -15820,10 +15804,6 @@
     {
         "nickname": "nobbs",
         "asn": "AS24961"
-    },
-    {
-        "nickname": "ShadowMiddleman",
-        "asn": "AS6855"
     },
     {
         "nickname": "Hermodr",
@@ -18965,10 +18945,6 @@
         "asn": "AS31242"
     },
     {
-        "nickname": "confidentialMonero",
-        "asn": "AS201579"
-    },
-    {
         "nickname": "polizeierziehung",
         "asn": "AS60781"
     },
@@ -20273,10 +20249,6 @@
     {
         "nickname": "zwewwlUA1",
         "asn": "AS15626"
-    },
-    {
-        "nickname": "FoxExitRelay",
-        "asn": "AS208476"
     },
     {
         "nickname": "ekanu",
@@ -23923,6 +23895,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "alxrelay02",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "longclaw",
         "asn": "AS7765"
     },
@@ -27491,6 +27467,10 @@
     {
         "nickname": "uovobw",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "gomer",
+        "asn": "AS9009"
     },
     {
         "nickname": "BaumiMiddleRelay04",
@@ -35303,7 +35283,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV3469",
+        "nickname": "TV5934",
         "asn": "AS2856"
     },
     {
@@ -37388,6 +37368,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "springonion",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "friedman",
         "asn": "AS208323"
     },
@@ -39229,6 +39213,9 @@
     },
     {
         "nickname": "Chief",
+        "exit_address": [
+            "45.131.64.238"
+        ],
         "asn": "AS58087"
     },
     {
@@ -41326,10 +41313,6 @@
     {
         "nickname": "magic848relay",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "BlueGene",
-        "asn": "AS3292"
     },
     {
         "nickname": "NTH57R6",
@@ -43716,10 +43699,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Pljeskavica",
-        "asn": "AS200698"
-    },
-    {
         "nickname": "VALinuxRelay",
         "asn": "AS36352"
     },
@@ -45515,6 +45494,10 @@
             "130.193.15.79"
         ],
         "asn": "AS8648"
+    },
+    {
+        "nickname": "Yujiri",
+        "asn": "AS63949"
     },
     {
         "nickname": "homik2",
@@ -48885,7 +48868,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "myTorRelay",
