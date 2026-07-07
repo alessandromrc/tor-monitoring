@@ -481,6 +481,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ShinobiMidori",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "ThanasRelay0",
         "asn": "AS16276"
     },
@@ -2186,6 +2190,9 @@
     },
     {
         "nickname": "Soyglow",
+        "exit_address": [
+            "103.247.61.20"
+        ],
         "asn": "AS55423"
     },
     {
@@ -8666,10 +8673,6 @@
         "asn": "AS5089"
     },
     {
-        "nickname": "RussianHackerPi",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "4206mAlphubel",
         "asn": "AS29222"
     },
@@ -11357,6 +11360,10 @@
             "192.42.116.58"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TV6518",
+        "asn": "AS42961"
     },
     {
         "nickname": "ymmv3",
@@ -14782,6 +14789,10 @@
             "192.42.116.144"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "B4maderdGeschoss",
+        "asn": "AS3209"
     },
     {
         "nickname": "TheShadowRoute02",
@@ -19594,6 +19605,10 @@
     {
         "nickname": "CowGL",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS61272"
     },
     {
         "nickname": "skewed",
@@ -25699,10 +25714,6 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "VaticanRelay",
-        "asn": "AS4181"
-    },
-    {
         "nickname": "schildkroete",
         "exit_address": [
             "109.70.100.7"
@@ -30621,9 +30632,6 @@
     },
     {
         "nickname": "yoann",
-        "exit_address": [
-            "194.156.89.134"
-        ],
         "asn": "AS206996"
     },
     {
@@ -34487,6 +34495,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.255.201.6"
+        ],
         "asn": "AS36352"
     },
     {
@@ -41755,9 +41766,6 @@
     },
     {
         "nickname": "arecoque1",
-        "exit_address": [
-            "80.67.167.81"
-        ],
         "asn": "AS2027"
     },
     {
@@ -43668,6 +43676,10 @@
     {
         "nickname": "drogo",
         "asn": "AS213934"
+    },
+    {
+        "nickname": "chimbosonic",
+        "asn": "AS20712"
     },
     {
         "nickname": "Orpheus",
@@ -46365,9 +46377,6 @@
     },
     {
         "nickname": "h2techtor",
-        "exit_address": [
-            "23.190.216.25"
-        ],
         "asn": "AS17290"
     },
     {
@@ -48739,7 +48748,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "myTorRelay",
