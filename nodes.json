@@ -485,6 +485,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS205406"
+    },
+    {
         "nickname": "ShinobiMidori",
         "asn": "AS20473"
     },
@@ -1908,10 +1912,6 @@
             "185.220.101.18"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "2kxRelay",
-        "asn": "AS3209"
     },
     {
         "nickname": "krypton",
@@ -4716,6 +4716,10 @@
     {
         "nickname": "AZY",
         "asn": "AS62000"
+    },
+    {
+        "nickname": "TV2594",
+        "asn": "AS39927"
     },
     {
         "nickname": "UnredactedLibra",
@@ -7991,10 +7995,6 @@
             "87.118.116.103"
         ],
         "asn": "AS31103"
-    },
-    {
-        "nickname": "fourier",
-        "asn": "AS209"
     },
     {
         "nickname": "NTH52R7",
@@ -26880,7 +26880,7 @@
         "asn": "AS24482"
     },
     {
-        "nickname": "TV8564",
+        "nickname": "TV4592",
         "asn": "AS22927"
     },
     {
@@ -31493,6 +31493,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "TV4520",
+        "asn": "AS27747"
+    },
+    {
         "nickname": "zackdelarocha",
         "asn": "AS36849"
     },
@@ -35218,10 +35222,6 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "torrage",
-        "asn": "AS6181"
-    },
-    {
         "nickname": "neuronMail",
         "asn": "AS63949"
     },
@@ -35844,6 +35844,10 @@
     {
         "nickname": "icebergmiami",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "mirage",
+        "asn": "AS203020"
     },
     {
         "nickname": "HiddenPath",
@@ -45503,6 +45507,9 @@
     },
     {
         "nickname": "steamedhams",
+        "exit_address": [
+            "144.6.236.131"
+        ],
         "asn": "AS4764"
     },
     {
