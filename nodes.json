@@ -5287,6 +5287,10 @@
         "asn": "AS7922"
     },
     {
+        "nickname": "AuthDE",
+        "asn": "AS16509"
+    },
+    {
         "nickname": "FreeSpeechCH1",
         "asn": "AS6730"
     },
@@ -7408,7 +7412,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV5173",
+        "nickname": "TV5455",
         "asn": "AS22927"
     },
     {
@@ -26101,7 +26105,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.151",
             "198.167.206.166"
         ],
         "asn": "AS39287"
@@ -26879,7 +26882,7 @@
         "asn": "AS24482"
     },
     {
-        "nickname": "TV2198",
+        "nickname": "TV808",
         "asn": "AS22927"
     },
     {
@@ -30113,6 +30116,10 @@
         "asn": "AS205100"
     },
     {
+        "nickname": "AuthVA",
+        "asn": "AS14618"
+    },
+    {
         "nickname": "NTH68R2",
         "exit_address": [
             "192.42.116.68"
@@ -31305,10 +31312,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "dobronk",
-        "asn": "AS20857"
-    },
-    {
         "nickname": "NTH102R2",
         "exit_address": [
             "192.42.116.102"
@@ -31488,7 +31491,7 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV4520",
+        "nickname": "TV9990",
         "asn": "AS27747"
     },
     {
@@ -34122,10 +34125,6 @@
     {
         "nickname": "BuggerThisNoise",
         "asn": "AS855"
-    },
-    {
-        "nickname": "DONNYxRELAY",
-        "asn": "AS3320"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -45736,9 +45735,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.240.161.101"
-        ],
         "asn": "AS63023"
     },
     {
@@ -50145,6 +50141,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "103.109.100.148"
+        ],
         "asn": "AS206264"
     },
     {
@@ -52085,6 +52084,10 @@
     {
         "nickname": "NTH64R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "AuthIE",
+        "asn": "AS16509"
     },
     {
         "nickname": "toodenwablesrelay",
