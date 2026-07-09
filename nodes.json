@@ -4894,6 +4894,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "hlrelay",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "pushypebble",
         "asn": "AS27176"
     },
@@ -7467,7 +7471,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7624",
+        "nickname": "TV9034",
         "asn": "AS22927"
     },
     {
@@ -8477,6 +8481,10 @@
     {
         "nickname": "francelover",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "layziebone",
+        "asn": "AS36849"
     },
     {
         "nickname": "eclipse29",
@@ -9505,6 +9513,10 @@
     {
         "nickname": "just1small4relay",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "torexitams08",
+        "asn": "AS61125"
     },
     {
         "nickname": "cosmos",
@@ -22252,6 +22264,10 @@
         "asn": "AS4764"
     },
     {
+        "nickname": "czechmate",
+        "asn": "AS60781"
+    },
+    {
         "nickname": "NTH66R6",
         "exit_address": [
             "192.42.116.66"
@@ -26202,6 +26218,10 @@
         "asn": "AS5650"
     },
     {
+        "nickname": "FirstNode",
+        "asn": "AS56655"
+    },
+    {
         "nickname": "eo183",
         "exit_address": [
             "23.129.64.183"
@@ -27049,7 +27069,7 @@
         "asn": "AS24482"
     },
     {
-        "nickname": "TV6703",
+        "nickname": "TV724",
         "asn": "AS22927"
     },
     {
@@ -28434,6 +28454,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "45.94.31.57"
+        ],
         "asn": "AS210558"
     },
     {
@@ -35461,7 +35484,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV5123",
+        "nickname": "TV8445",
         "asn": "AS2856"
     },
     {
@@ -36184,10 +36207,6 @@
             "185.191.204.254"
         ],
         "asn": "AS35758"
-    },
-    {
-        "nickname": "torlyv1",
-        "asn": "AS3209"
     },
     {
         "nickname": "Quintex97",
@@ -38993,10 +39012,6 @@
     {
         "nickname": "lowhanger",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "PankyTR1",
-        "asn": "AS59895"
     },
     {
         "nickname": "mdfnet5",
@@ -44095,10 +44110,6 @@
     {
         "nickname": "atrelay",
         "asn": "AS35369"
-    },
-    {
-        "nickname": "CWWKboss",
-        "asn": "AS5650"
     },
     {
         "nickname": "slarty2",
