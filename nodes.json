@@ -2780,9 +2780,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -4141,6 +4138,10 @@
         "asn": "AS215730"
     },
     {
+        "nickname": "MojNode",
+        "asn": "AS8400"
+    },
+    {
         "nickname": "greasymiami",
         "asn": "AS36849"
     },
@@ -4216,10 +4217,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "Nefertiti",
-        "asn": "AS33915"
     },
     {
         "nickname": "Switch",
@@ -4489,9 +4486,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -6350,6 +6344,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "IlTuoNodo",
+        "asn": "AS30722"
+    },
+    {
         "nickname": "masstorNY3",
         "asn": "AS36352"
     },
@@ -6553,7 +6551,7 @@
         "asn": "AS26801"
     },
     {
-        "nickname": "TV5654",
+        "nickname": "TV4755",
         "asn": "AS22927"
     },
     {
@@ -6581,6 +6579,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -9790,6 +9791,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -19319,9 +19323,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -20671,9 +20672,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -23073,7 +23071,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV7413",
+        "nickname": "TV7819",
         "asn": "AS5384"
     },
     {
@@ -23939,9 +23937,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.117.88.34"
-        ],
         "asn": "AS59711"
     },
     {
@@ -28564,9 +28559,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -31714,7 +31706,7 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV6872",
+        "nickname": "TV69",
         "asn": "AS27747"
     },
     {
@@ -36121,6 +36113,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Ambrosia",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "quandorondo",
         "asn": "AS36849"
     },
@@ -36306,6 +36302,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -37910,6 +37909,13 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "ChickenParmesan",
+        "exit_address": [
+            "90.255.234.132"
+        ],
+        "asn": "AS5378"
+    },
+    {
         "nickname": "NTH111R4",
         "exit_address": [
             "192.42.116.111"
@@ -38134,6 +38140,10 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
+    },
+    {
+        "nickname": "darkness",
+        "asn": "AS210558"
     },
     {
         "nickname": "as215296torrelay01",
@@ -40013,6 +40023,9 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
+        "exit_address": [
+            "45.38.20.240"
+        ],
         "asn": "AS215659"
     },
     {
@@ -40702,10 +40715,6 @@
         "asn": "AS136258"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS5432"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS201409"
     },
@@ -40845,9 +40854,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -41879,6 +41885,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "150.40.117.43"
+        ],
         "asn": "AS215659"
     },
     {
@@ -42291,6 +42300,9 @@
     },
     {
         "nickname": "cyunexit0",
+        "exit_address": [
+            "66.78.40.35"
+        ],
         "asn": "AS215659"
     },
     {
@@ -42931,7 +42943,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9520",
+        "nickname": "TV2807",
         "asn": "AS701"
     },
     {
@@ -43037,9 +43049,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -43270,10 +43279,6 @@
             "31.14.40.92"
         ],
         "asn": "AS19624"
-    },
-    {
-        "nickname": "SteelServers",
-        "asn": "AS23655"
     },
     {
         "nickname": "hi5meo",
@@ -44715,10 +44720,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "vRelay",
-        "asn": "AS212655"
-    },
-    {
         "nickname": "MyMiddle",
         "asn": "AS8764"
     },
@@ -45033,6 +45034,10 @@
     {
         "nickname": "wokwaixtor",
         "asn": "AS4764"
+    },
+    {
+        "nickname": "StadisRelay",
+        "asn": "AS197524"
     },
     {
         "nickname": "DediZoneRelay",
@@ -47579,10 +47584,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Argo286",
-        "asn": "AS210083"
-    },
-    {
         "nickname": "MyTorRelay",
         "asn": "AS16276"
     },
@@ -49312,9 +49313,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
