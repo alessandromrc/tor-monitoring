@@ -3210,6 +3210,7 @@
 /ipv6 firewall address-list add list=tor_ipv6 address=2600:3c0e::2000:50ff:fec7:b50f comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a01:4f9:2b:31a0::2 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:1600:13:101::22e0 comment="tor_ipv6/tor-monitoring"
+/ipv6 firewall address-list add list=tor_ipv6 address=2a0c:16c1:1:1500:225:b8ff:fe00:4a comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2400:8905::f03c:95ff:feea:af99 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a0b:4142:d97::2 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:67c:e60:c0c:192:42:116:164 comment="tor_ipv6/tor-monitoring"
