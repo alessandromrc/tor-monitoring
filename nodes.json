@@ -368,9 +368,6 @@
     },
     {
         "nickname": "ChickenShawarma",
-        "exit_address": [
-            "90.255.234.132"
-        ],
         "asn": "AS5378"
     },
     {
@@ -4414,9 +4411,6 @@
     },
     {
         "nickname": "suportthe1truestate",
-        "exit_address": [
-            "155.94.163.175"
-        ],
         "asn": "AS27176"
     },
     {
@@ -4476,6 +4470,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "anonyfirst",
+        "asn": "AS212815"
     },
     {
         "nickname": "gabenickson",
@@ -19674,10 +19672,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "trustytorplace",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "t00r",
         "asn": "AS20860"
     },
@@ -27698,6 +27692,9 @@
     },
     {
         "nickname": "death",
+        "exit_address": [
+            "93.113.25.109"
+        ],
         "asn": "AS215659"
     },
     {
@@ -32977,10 +32974,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "LesPatriotes77",
-        "asn": "AS3215"
-    },
-    {
         "nickname": "TORKeFFORG6",
         "exit_address": [
             "193.189.100.199"
@@ -35521,7 +35514,7 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "HaveANiceDay",
+        "nickname": "LetsAllLoveLain",
         "asn": "AS40676"
     },
     {
@@ -51968,10 +51961,6 @@
     {
         "nickname": "Valsec",
         "asn": "AS2119"
-    },
-    {
-        "nickname": "zrts45lopp00",
-        "asn": "AS28753"
     },
     {
         "nickname": "Quintex203",
