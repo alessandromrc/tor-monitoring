@@ -1626,6 +1626,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "calrelay",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "Chrono",
         "asn": "AS8560"
     },
@@ -4923,6 +4927,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "intorItrust",
+        "asn": "AS5432"
+    },
+    {
         "nickname": "DFRI143",
         "exit_address": [
             "171.25.193.45"
@@ -5011,10 +5019,6 @@
             "185.220.101.174"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "RyzenAndShine",
-        "asn": "AS58087"
     },
     {
         "nickname": "VIKINGVPN1",
@@ -10985,6 +10989,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Sandevistan",
+        "asn": "AS50266"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -12367,9 +12375,6 @@
     },
     {
         "nickname": "TORKeFFORG30",
-        "exit_address": [
-            "193.189.100.197"
-        ],
         "asn": "AS41281"
     },
     {
@@ -13953,6 +13958,10 @@
             "171.25.193.46"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS8560"
     },
     {
         "nickname": "BSDrelay02",
@@ -21726,10 +21735,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "GERRelay1",
-        "asn": "AS206996"
-    },
-    {
         "nickname": "AllenInfoSec",
         "asn": "AS9416"
     },
@@ -25437,9 +25442,6 @@
     },
     {
         "nickname": "TORKeFFORG3",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -26326,7 +26328,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.172"
+            "198.167.206.172",
+            "198.167.206.199"
         ],
         "asn": "AS39287"
     },
@@ -31791,7 +31794,7 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV5863",
+        "nickname": "TV1542",
         "asn": "AS27747"
     },
     {
@@ -42121,9 +42124,6 @@
     },
     {
         "nickname": "arecoque1",
-        "exit_address": [
-            "80.67.167.81"
-        ],
         "asn": "AS2027"
     },
     {
@@ -42780,10 +42780,6 @@
     {
         "nickname": "RelayGeek14",
         "asn": "AS44570"
-    },
-    {
-        "nickname": "TV3691",
-        "asn": "AS7922"
     },
     {
         "nickname": "Aramis",
@@ -49192,7 +49188,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "myTorRelay",
@@ -49473,10 +49469,6 @@
     {
         "nickname": "ParadiseTorRelay4",
         "asn": "AS42675"
-    },
-    {
-        "nickname": "Cicada3301",
-        "asn": "AS33915"
     },
     {
         "nickname": "JAJTorBits3",
