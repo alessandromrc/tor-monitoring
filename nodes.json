@@ -12297,7 +12297,7 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "Syst",
+        "nickname": "Unnamed",
         "asn": "AS211507"
     },
     {
@@ -16769,6 +16769,10 @@
     },
     {
         "nickname": "Unnamed",
+        "asn": "AS24940"
+    },
+    {
+        "nickname": "Unnamed",
         "asn": "AS16276"
     },
     {
@@ -18264,6 +18268,10 @@
     {
         "nickname": "lildonald",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TORHELPER",
+        "asn": "AS3214"
     },
     {
         "nickname": "DFRI121",
@@ -25688,6 +25696,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -29633,6 +29644,10 @@
         "asn": "AS11426"
     },
     {
+        "nickname": "Zuckerboot",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "ididnteditheconfig",
         "asn": "AS200462"
     },
@@ -31809,7 +31824,7 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV1542",
+        "nickname": "TV2314",
         "asn": "AS27747"
     },
     {
@@ -36528,10 +36543,6 @@
             "204.8.96.111"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "Maciak22",
-        "asn": "AS20473"
     },
     {
         "nickname": "TARDIS42",
@@ -44593,7 +44604,7 @@
         "asn": "AS56630"
     },
     {
-        "nickname": "TV8798",
+        "nickname": "TV8683",
         "asn": "AS5378"
     },
     {
@@ -50018,6 +50029,10 @@
             "204.8.96.116"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "SqX8sPvR4yrRsEF",
+        "asn": "AS8881"
     },
     {
         "nickname": "Dentist",
