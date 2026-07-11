@@ -4706,6 +4706,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS401652"
+    },
+    {
         "nickname": "MyRelay1",
         "asn": "AS197540"
     },
@@ -12294,6 +12298,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -18388,10 +18395,6 @@
             "80.67.172.162"
         ],
         "asn": "AS20766"
-    },
-    {
-        "nickname": "Cassanova",
-        "asn": "AS26666"
     },
     {
         "nickname": "tor76065",
@@ -27155,7 +27158,7 @@
         "asn": "AS24482"
     },
     {
-        "nickname": "TV6782",
+        "nickname": "TV2782",
         "asn": "AS22927"
     },
     {
@@ -35714,10 +35717,6 @@
     {
         "nickname": "RoastedTor04",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "SSDNodesNLexit3",
-        "asn": "AS200651"
     },
     {
         "nickname": "Unnamed",
@@ -49178,7 +49177,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "myTorRelay",
