@@ -21440,6 +21440,10 @@
         "asn": "AS6724"
     },
     {
+        "nickname": "natz",
+        "asn": "AS5089"
+    },
+    {
         "nickname": "flamingo",
         "asn": "AS21859"
     },
@@ -21809,6 +21813,10 @@
     {
         "nickname": "APl01",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "TorRelayLXC",
+        "asn": "AS33915"
     },
     {
         "nickname": "eo180",
@@ -26366,6 +26374,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.158",
             "198.167.206.199"
         ],
         "asn": "AS39287"
@@ -36136,6 +36145,10 @@
     {
         "nickname": "sinkrlogin",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "p165",
+        "asn": "AS3269"
     },
     {
         "nickname": "zgato",
@@ -49185,7 +49198,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "myTorRelay",
