@@ -8751,6 +8751,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -17587,6 +17590,10 @@
     {
         "nickname": "TorNode07dot2",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "UnshakledDread",
+        "asn": "AS16276"
     },
     {
         "nickname": "LouneaGigabitFiber",
@@ -40368,6 +40375,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "AleaJactaEst",
+        "asn": "AS20766"
+    },
+    {
         "nickname": "masstorchiT",
         "asn": "AS36352"
     },
@@ -49177,7 +49188,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "myTorRelay",
