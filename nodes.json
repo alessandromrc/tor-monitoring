@@ -3615,10 +3615,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "KyunTorExitNode",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "berni",
         "asn": "AS29259"
     },
@@ -8750,7 +8746,7 @@
         "asn": "AS49592"
     },
     {
-        "nickname": "Syst",
+        "nickname": "Unnamed",
         "asn": "AS211507"
     },
     {
@@ -19408,6 +19404,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "DonateSimpleXChat",
+        "asn": "AS215362"
+    },
+    {
         "nickname": "ch41n",
         "exit_address": [
             "209.141.40.68"
@@ -26359,7 +26359,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.172",
             "198.167.206.199"
         ],
         "asn": "AS39287"
@@ -29040,9 +29039,6 @@
     },
     {
         "nickname": "Raptor",
-        "exit_address": [
-            "91.203.145.116"
-        ],
         "asn": "AS45045"
     },
     {
@@ -29317,10 +29313,6 @@
             "204.8.96.146"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "kanto",
-        "asn": "AS13170"
     },
     {
         "nickname": "prsv",
@@ -32952,10 +32944,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "InfamouS",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "Aphrodites",
         "asn": "AS14061"
     },
@@ -36398,6 +36386,10 @@
     {
         "nickname": "Trismegistus",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "BaerchenWiese2025",
+        "asn": "AS3320"
     },
     {
         "nickname": "obzgs5tbmn4q",
@@ -43512,10 +43504,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS4760"
-    },
-    {
         "nickname": "GermanCraft24",
         "asn": "AS31103"
     },
@@ -45469,10 +45457,6 @@
             "192.42.116.18"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "relayon1143",
-        "asn": "AS60729"
     },
     {
         "nickname": "UnredactedXMR",
@@ -51760,7 +51744,8 @@
     {
         "nickname": "PROXIMA778",
         "exit_address": [
-            "150.40.127.160"
+            "150.40.127.160",
+            "202.181.177.215"
         ],
         "asn": "AS211619"
     },
