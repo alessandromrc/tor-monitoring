@@ -510,9 +510,6 @@
     },
     {
         "nickname": "1654656309244015",
-        "exit_address": [
-            "185.132.53.45"
-        ],
         "asn": "AS211507"
     },
     {
@@ -8744,9 +8741,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.132.53.150"
-        ],
         "asn": "AS211507"
     },
     {
@@ -14490,6 +14484,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "SpicyHaven",
+        "asn": "AS42831"
+    },
+    {
         "nickname": "isitor",
         "asn": "AS13113"
     },
@@ -16358,10 +16356,6 @@
     {
         "nickname": "Maokai",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS3816"
     },
     {
         "nickname": "Quintex137",
@@ -24988,9 +24982,6 @@
     },
     {
         "nickname": "ferrarizKolash",
-        "exit_address": [
-            "185.154.110.17"
-        ],
         "asn": "AS49770"
     },
     {
@@ -29823,10 +29814,6 @@
             "45.38.20.213"
         ],
         "asn": "AS215659"
-    },
-    {
-        "nickname": "tortellini",
-        "asn": "AS701"
     },
     {
         "nickname": "ForDemocracy12",
