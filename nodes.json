@@ -2124,10 +2124,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "duat5",
-        "asn": "AS20115"
-    },
-    {
         "nickname": "luxvptorex",
         "exit_address": [
             "107.189.30.69"
@@ -3274,6 +3270,10 @@
     {
         "nickname": "NoJustice",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "TV1610",
+        "asn": "AS22927"
     },
     {
         "nickname": "torjockel",
@@ -6157,10 +6157,6 @@
     {
         "nickname": "NTH27R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "genesis",
-        "asn": "AS211507"
     },
     {
         "nickname": "fenrir",
@@ -9091,10 +9087,6 @@
     {
         "nickname": "equipto",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Beta",
-        "asn": "AS3215"
     },
     {
         "nickname": "GETmoneroDOTorg",
@@ -22252,6 +22244,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "proxmox",
+        "asn": "AS396420"
+    },
+    {
         "nickname": "r0cket05i6",
         "exit_address": [
             "45.84.107.222"
@@ -29850,6 +29846,10 @@
     {
         "nickname": "strait",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "GamingWhoever",
+        "asn": "AS7018"
     },
     {
         "nickname": "lilkeed",
@@ -45215,10 +45215,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Alpha",
-        "asn": "AS3215"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.95.169.104"
@@ -48935,6 +48931,10 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "FueeaExit",
+        "asn": "AS212743"
     },
     {
         "nickname": "SSDNodesROexit",
