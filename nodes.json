@@ -6794,7 +6794,7 @@
     },
     {
         "nickname": "TorUtilizerCloudR1",
-        "asn": "AS197540"
+        "asn": "AS8560"
     },
     {
         "nickname": "LINKANATOR",
@@ -7121,6 +7121,10 @@
             "147.90.234.63"
         ],
         "asn": "AS27284"
+    },
+    {
+        "nickname": "KNikaMev",
+        "asn": "AS201814"
     },
     {
         "nickname": "prsv",
@@ -27326,10 +27330,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "pitpipitpi",
-        "asn": "AS9318"
-    },
-    {
         "nickname": "fatpat",
         "asn": "AS36849"
     },
@@ -39311,10 +39311,6 @@
         "asn": "AS5410"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS215762"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.189.12.3"
@@ -49128,11 +49124,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
-    },
-    {
-        "nickname": "myTorRelay",
-        "asn": "AS3320"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -51701,7 +51693,6 @@
     {
         "nickname": "PROXIMA778",
         "exit_address": [
-            "150.40.127.160",
             "202.181.177.215"
         ],
         "asn": "AS211619"
