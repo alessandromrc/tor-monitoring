@@ -7601,6 +7601,10 @@
         "asn": "AS214379"
     },
     {
+        "nickname": "ThomasTorNode",
+        "asn": "AS400391"
+    },
+    {
         "nickname": "GhostPacket",
         "asn": "AS33993"
     },
@@ -7727,9 +7731,6 @@
     },
     {
         "nickname": "relayon0167",
-        "exit_address": [
-            "185.220.101.167"
-        ],
         "asn": "AS60729"
     },
     {
@@ -15770,9 +15771,6 @@
     },
     {
         "nickname": "relayon0138",
-        "exit_address": [
-            "185.220.101.138"
-        ],
         "asn": "AS60729"
     },
     {
@@ -28424,7 +28422,7 @@
     },
     {
         "nickname": "gp2112",
-        "asn": "AS18881"
+        "asn": "AS27699"
     },
     {
         "nickname": "Quintex349",
@@ -31805,7 +31803,7 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV2314",
+        "nickname": "TV8798",
         "asn": "AS27747"
     },
     {
@@ -35777,6 +35775,10 @@
     {
         "nickname": "kiloali",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "fuckChatControl",
+        "asn": "AS719"
     },
     {
         "nickname": "iambaidu",
@@ -43631,10 +43633,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9400",
-        "asn": "AS36925"
-    },
-    {
         "nickname": "DarkDevil",
         "asn": "AS211619"
     },
@@ -43713,10 +43711,6 @@
     {
         "nickname": "dnb4ever",
         "asn": "AS8881"
-    },
-    {
-        "nickname": "TV5022",
-        "asn": "AS31615"
     },
     {
         "nickname": "ZhetaRoute",
@@ -44023,10 +44017,6 @@
     {
         "nickname": "yeattwizzyrich",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "SamuraiBronk",
-        "asn": "AS9009"
     },
     {
         "nickname": "Urania",
