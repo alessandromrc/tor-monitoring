@@ -16745,10 +16745,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "t1r",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "VoltEuropaTorUsers",
         "asn": "AS26832"
     },
@@ -18203,10 +18199,6 @@
         "asn": "AS24961"
     },
     {
-        "nickname": "brrbigchungus",
-        "asn": "AS48314"
-    },
-    {
         "nickname": "mimira14",
         "asn": "AS211507"
     },
@@ -19081,7 +19073,7 @@
     },
     {
         "nickname": "Gabriel0GGR",
-        "asn": "AS26599"
+        "asn": "AS18881"
     },
     {
         "nickname": "anduinExit01",
@@ -20210,6 +20202,10 @@
     {
         "nickname": "destroylonely",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "happybooming",
+        "asn": "AS5089"
     },
     {
         "nickname": "yungla",
@@ -29827,10 +29823,6 @@
             "45.38.20.213"
         ],
         "asn": "AS215659"
-    },
-    {
-        "nickname": "Torware3",
-        "asn": "AS138997"
     },
     {
         "nickname": "tortellini",
@@ -41756,6 +41748,9 @@
     },
     {
         "nickname": "LechatTheCatgirl",
+        "exit_address": [
+            "82.26.80.150"
+        ],
         "asn": "AS215114"
     },
     {
@@ -45765,6 +45760,7 @@
     {
         "nickname": "Mundo",
         "exit_address": [
+            "90.184.10.74",
             "90.185.50.119"
         ],
         "asn": "AS203953"
@@ -49419,6 +49415,10 @@
         "asn": "AS33255"
     },
     {
+        "nickname": "TV6432",
+        "asn": "AS27747"
+    },
+    {
         "nickname": "mevolz2",
         "asn": "AS24940"
     },
@@ -49793,10 +49793,6 @@
     {
         "nickname": "dreamville",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "commufa",
-        "asn": "AS18126"
     },
     {
         "nickname": "NTH148R1",
@@ -50672,6 +50668,10 @@
     {
         "nickname": "myNiceRelay",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "centralRelay1",
+        "asn": "AS199284"
     },
     {
         "nickname": "NTH104R8",
