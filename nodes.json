@@ -3413,6 +3413,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "0xfff",
+        "asn": "AS209"
+    },
+    {
         "nickname": "cryzrelay04",
         "asn": "AS29551"
     },
@@ -7963,10 +7967,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "prsv",
-        "asn": "AS210558"
-    },
-    {
         "nickname": "TV676",
         "asn": "AS6167"
     },
@@ -8796,6 +8796,10 @@
     {
         "nickname": "SkynetDE",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "pharoahemonch",
+        "asn": "AS36849"
     },
     {
         "nickname": "ididnteditheconfig",
@@ -13718,10 +13722,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "TV9588",
-        "asn": "AS12389"
     },
     {
         "nickname": "Quintex151",
@@ -22728,6 +22728,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "pharoahemonch",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "Minotaur2",
         "asn": "AS398101"
     },
@@ -24280,6 +24284,10 @@
     {
         "nickname": "snailnode",
         "asn": "AS35179"
+    },
+    {
+        "nickname": "pharoahemonch",
+        "asn": "AS36849"
     },
     {
         "nickname": "Thalcon",
@@ -27738,10 +27746,6 @@
     {
         "nickname": "darksource",
         "asn": "AS203953"
-    },
-    {
-        "nickname": "SLAVAUKRAINI",
-        "asn": "AS208208"
     },
     {
         "nickname": "LillyCL",
@@ -32264,10 +32268,6 @@
         "asn": "AS206238"
     },
     {
-        "nickname": "Osiris",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "breadcan",
         "asn": "AS8881"
     },
@@ -33304,9 +33304,6 @@
     },
     {
         "nickname": "leopold1809",
-        "exit_address": [
-            "103.146.203.120"
-        ],
         "asn": "AS136052"
     },
     {
@@ -44258,10 +44255,6 @@
             "149.202.79.129"
         ],
         "asn": "AS16276"
-    },
-    {
-        "nickname": "prsv",
-        "asn": "AS210558"
     },
     {
         "nickname": "goodiemob",
