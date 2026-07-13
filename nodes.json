@@ -1550,9 +1550,6 @@
     },
     {
         "nickname": "Quintex396",
-        "exit_address": [
-            "204.8.96.185"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2436,9 +2433,6 @@
     },
     {
         "nickname": "Quintex288",
-        "exit_address": [
-            "204.8.96.177"
-        ],
         "asn": "AS62744"
     },
     {
@@ -2968,9 +2962,6 @@
     },
     {
         "nickname": "Quintex285",
-        "exit_address": [
-            "204.8.96.174"
-        ],
         "asn": "AS62744"
     },
     {
@@ -3271,7 +3262,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV5152",
+        "nickname": "TV570",
         "asn": "AS22927"
     },
     {
@@ -8908,9 +8899,6 @@
     },
     {
         "nickname": "Quintex200",
-        "exit_address": [
-            "204.8.96.189"
-        ],
         "asn": "AS62744"
     },
     {
@@ -9698,9 +9686,6 @@
     },
     {
         "nickname": "Quintex250",
-        "exit_address": [
-            "204.8.96.73"
-        ],
         "asn": "AS62744"
     },
     {
@@ -10131,9 +10116,6 @@
     },
     {
         "nickname": "Quintex61",
-        "exit_address": [
-            "204.8.96.150"
-        ],
         "asn": "AS62744"
     },
     {
@@ -14212,9 +14194,6 @@
     },
     {
         "nickname": "Quintex388",
-        "exit_address": [
-            "204.8.96.177"
-        ],
         "asn": "AS62744"
     },
     {
@@ -15296,9 +15275,6 @@
     },
     {
         "nickname": "Quintex188",
-        "exit_address": [
-            "204.8.96.177"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16507,9 +16483,6 @@
     },
     {
         "nickname": "Quintex284",
-        "exit_address": [
-            "204.8.96.173"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16713,9 +16686,6 @@
     },
     {
         "nickname": "Quintex196",
-        "exit_address": [
-            "204.8.96.185"
-        ],
         "asn": "AS62744"
     },
     {
@@ -18280,9 +18250,6 @@
     },
     {
         "nickname": "Quintex296",
-        "exit_address": [
-            "204.8.96.185"
-        ],
         "asn": "AS62744"
     },
     {
@@ -21339,9 +21306,6 @@
     },
     {
         "nickname": "Quintex91",
-        "exit_address": [
-            "204.8.96.180"
-        ],
         "asn": "AS62744"
     },
     {
@@ -23147,9 +23111,6 @@
     },
     {
         "nickname": "Quintex368",
-        "exit_address": [
-            "204.8.96.157"
-        ],
         "asn": "AS62744"
     },
     {
@@ -24328,10 +24289,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Espirit",
-        "asn": "AS394380"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -24780,9 +24737,6 @@
     },
     {
         "nickname": "Quintex394",
-        "exit_address": [
-            "204.8.96.183"
-        ],
         "asn": "AS62744"
     },
     {
@@ -26382,9 +26336,6 @@
     },
     {
         "nickname": "Quintex185",
-        "exit_address": [
-            "204.8.96.174"
-        ],
         "asn": "AS62744"
     },
     {
@@ -27320,9 +27271,6 @@
     },
     {
         "nickname": "Quintex191",
-        "exit_address": [
-            "204.8.96.180"
-        ],
         "asn": "AS62744"
     },
     {
@@ -27454,9 +27402,6 @@
     },
     {
         "nickname": "Quintex387",
-        "exit_address": [
-            "204.8.96.176"
-        ],
         "asn": "AS62744"
     },
     {
@@ -27907,9 +27852,6 @@
     },
     {
         "nickname": "Quintex291",
-        "exit_address": [
-            "204.8.96.180"
-        ],
         "asn": "AS62744"
     },
     {
@@ -29015,6 +28957,9 @@
     },
     {
         "nickname": "Raptor",
+        "exit_address": [
+            "91.203.145.116"
+        ],
         "asn": "AS45045"
     },
     {
@@ -30777,9 +30722,6 @@
     },
     {
         "nickname": "Quintex267",
-        "exit_address": [
-            "204.8.96.156"
-        ],
         "asn": "AS62744"
     },
     {
@@ -33659,9 +33601,6 @@
     },
     {
         "nickname": "Quintex94",
-        "exit_address": [
-            "204.8.96.183"
-        ],
         "asn": "AS62744"
     },
     {
@@ -34572,9 +34511,6 @@
     },
     {
         "nickname": "Quintex271",
-        "exit_address": [
-            "204.8.96.160"
-        ],
         "asn": "AS62744"
     },
     {
@@ -37178,9 +37114,6 @@
     },
     {
         "nickname": "Quintex192",
-        "exit_address": [
-            "204.8.96.181"
-        ],
         "asn": "AS62744"
     },
     {
@@ -37995,6 +37928,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "PingMeRelay232",
+        "asn": "AS1267"
+    },
+    {
         "nickname": "r0cket02i3",
         "exit_address": [
             "45.84.107.182"
@@ -38054,9 +37991,6 @@
     },
     {
         "nickname": "Quintex275",
-        "exit_address": [
-            "204.8.96.164"
-        ],
         "asn": "AS62744"
     },
     {
@@ -41697,9 +41631,6 @@
     },
     {
         "nickname": "Quintex175",
-        "exit_address": [
-            "204.8.96.164"
-        ],
         "asn": "AS62744"
     },
     {
@@ -42717,9 +42648,6 @@
     },
     {
         "nickname": "Quintex400",
-        "exit_address": [
-            "204.8.96.189"
-        ],
         "asn": "AS62744"
     },
     {
@@ -42757,9 +42685,6 @@
     },
     {
         "nickname": "Quintex391",
-        "exit_address": [
-            "204.8.96.180"
-        ],
         "asn": "AS62744"
     },
     {
@@ -43512,9 +43437,6 @@
     },
     {
         "nickname": "Quintex92",
-        "exit_address": [
-            "204.8.96.181"
-        ],
         "asn": "AS62744"
     },
     {
@@ -44836,9 +44758,6 @@
     },
     {
         "nickname": "Quintex65",
-        "exit_address": [
-            "204.8.96.154"
-        ],
         "asn": "AS62744"
     },
     {
@@ -44972,9 +44891,6 @@
     },
     {
         "nickname": "Quintex71",
-        "exit_address": [
-            "204.8.96.160"
-        ],
         "asn": "AS62744"
     },
     {
@@ -45904,9 +45820,6 @@
     },
     {
         "nickname": "Quintex367",
-        "exit_address": [
-            "204.8.96.156"
-        ],
         "asn": "AS62744"
     },
     {
@@ -46711,10 +46624,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "h2techtor",
-        "asn": "AS17290"
-    },
-    {
         "nickname": "SpiritBomb",
         "asn": "AS51167"
     },
@@ -46734,9 +46643,6 @@
     },
     {
         "nickname": "Quintex292",
-        "exit_address": [
-            "204.8.96.181"
-        ],
         "asn": "AS62744"
     },
     {
@@ -46789,9 +46695,6 @@
     },
     {
         "nickname": "Quintex165",
-        "exit_address": [
-            "204.8.96.154"
-        ],
         "asn": "AS62744"
     },
     {
@@ -49550,9 +49453,6 @@
     },
     {
         "nickname": "Quintex87",
-        "exit_address": [
-            "204.8.96.176"
-        ],
         "asn": "AS62744"
     },
     {
@@ -50197,9 +50097,6 @@
     },
     {
         "nickname": "Quintex365",
-        "exit_address": [
-            "204.8.96.154"
-        ],
         "asn": "AS62744"
     },
     {
@@ -51567,9 +51464,6 @@
     },
     {
         "nickname": "Quintex96",
-        "exit_address": [
-            "204.8.96.185"
-        ],
         "asn": "AS62744"
     },
     {
@@ -52080,9 +51974,6 @@
     },
     {
         "nickname": "Quintex167",
-        "exit_address": [
-            "204.8.96.156"
-        ],
         "asn": "AS62744"
     },
     {
