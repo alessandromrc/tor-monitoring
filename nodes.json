@@ -22567,10 +22567,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "AuthVA",
-        "asn": "AS14618"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -38933,6 +38929,9 @@
     },
     {
         "nickname": "Yeereereeim",
+        "exit_address": [
+            "172.81.132.94"
+        ],
         "asn": "AS27176"
     },
     {
@@ -46187,6 +46186,10 @@
         "asn": "AS202422"
     },
     {
+        "nickname": "ezioauditore",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "NTH145R5",
         "exit_address": [
             "192.42.116.145"
@@ -46380,10 +46383,6 @@
             "192.42.116.65"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Bartmoss",
-        "asn": "AS16276"
     },
     {
         "nickname": "theTorDoor",
@@ -48791,10 +48790,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "Hamgurber",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "maceraTOR",
         "asn": "AS24940"
     },
@@ -48972,10 +48967,6 @@
         "asn": "AS18126"
     },
     {
-        "nickname": "SpokaneBronk",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "theispco",
         "asn": "AS40663"
     },
@@ -49117,7 +49108,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -49690,10 +49681,6 @@
             "192.42.116.106"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Void",
-        "asn": "AS154633"
     },
     {
         "nickname": "LightSteelBlue",
@@ -52457,6 +52444,10 @@
             "69.163.77.166"
         ],
         "asn": "AS36103"
+    },
+    {
+        "nickname": "Cyberbunker",
+        "asn": "AS44133"
     },
     {
         "nickname": "Planet",
