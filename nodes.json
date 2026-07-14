@@ -6738,6 +6738,10 @@
         "asn": "AS34224"
     },
     {
+        "nickname": "Lavender",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "cvbnet1",
         "asn": "AS197540"
     },
@@ -7358,9 +7362,6 @@
     },
     {
         "nickname": "Quintex340",
-        "exit_address": [
-            "204.8.96.89"
-        ],
         "asn": "AS62744"
     },
     {
@@ -7906,9 +7907,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.170"
-        ],
         "asn": "AS400226"
     },
     {
@@ -9759,9 +9757,6 @@
     },
     {
         "nickname": "Quintex346",
-        "exit_address": [
-            "204.8.96.69"
-        ],
         "asn": "AS62744"
     },
     {
@@ -9785,9 +9780,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.172"
-        ],
         "asn": "AS400226"
     },
     {
@@ -11320,9 +11312,6 @@
     },
     {
         "nickname": "Quintex40",
-        "exit_address": [
-            "204.8.96.89"
-        ],
         "asn": "AS62744"
     },
     {
@@ -11682,9 +11671,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.162"
-        ],
         "asn": "AS400226"
     },
     {
@@ -12058,9 +12044,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.171"
-        ],
         "asn": "AS400226"
     },
     {
@@ -13144,9 +13127,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.172"
-        ],
         "asn": "AS400226"
     },
     {
@@ -15918,9 +15898,6 @@
     },
     {
         "nickname": "Quintex89",
-        "exit_address": [
-            "204.8.96.178"
-        ],
         "asn": "AS62744"
     },
     {
@@ -17158,9 +17135,6 @@
     },
     {
         "nickname": "Quintex244",
-        "exit_address": [
-            "204.8.96.67"
-        ],
         "asn": "AS62744"
     },
     {
@@ -17669,9 +17643,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.162"
-        ],
         "asn": "AS400226"
     },
     {
@@ -20130,9 +20101,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.174"
-        ],
         "asn": "AS400226"
     },
     {
@@ -20468,9 +20436,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.165"
-        ],
         "asn": "AS400226"
     },
     {
@@ -23382,9 +23347,6 @@
     },
     {
         "nickname": "Quintex282",
-        "exit_address": [
-            "204.8.96.171"
-        ],
         "asn": "AS62744"
     },
     {
@@ -23584,10 +23546,6 @@
             "185.246.188.74"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "IT3K",
-        "asn": "AS31242"
     },
     {
         "nickname": "OmbroRelay",
@@ -25137,9 +25095,6 @@
     },
     {
         "nickname": "Quintex82",
-        "exit_address": [
-            "204.8.96.171"
-        ],
         "asn": "AS62744"
     },
     {
@@ -27601,10 +27556,6 @@
             "23.129.64.147"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "FrankyFourFingers",
-        "asn": "AS33915"
     },
     {
         "nickname": "mnesys1",
@@ -30387,9 +30338,6 @@
     },
     {
         "nickname": "Quintex295",
-        "exit_address": [
-            "204.8.96.184"
-        ],
         "asn": "AS62744"
     },
     {
@@ -30990,9 +30938,6 @@
     },
     {
         "nickname": "Quintex140",
-        "exit_address": [
-            "204.8.96.89"
-        ],
         "asn": "AS62744"
     },
     {
@@ -32101,10 +32046,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "torricelli",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "davidray",
         "asn": "AS36849"
     },
@@ -32735,7 +32676,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7988",
+        "nickname": "TV7519",
         "asn": "AS12479"
     },
     {
@@ -33996,9 +33937,6 @@
     },
     {
         "nickname": "Quintex44",
-        "exit_address": [
-            "204.8.96.67"
-        ],
         "asn": "AS62744"
     },
     {
@@ -36542,9 +36480,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.173"
-        ],
         "asn": "AS400226"
     },
     {
@@ -37524,9 +37459,6 @@
     },
     {
         "nickname": "Quintex182",
-        "exit_address": [
-            "204.8.96.171"
-        ],
         "asn": "AS62744"
     },
     {
@@ -38057,9 +37989,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.174"
-        ],
         "asn": "AS400226"
     },
     {
@@ -39249,10 +39178,6 @@
         "asn": "AS20115"
     },
     {
-        "nickname": "Nirze",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "NTH145R7",
         "exit_address": [
             "192.42.116.145"
@@ -39316,6 +39241,9 @@
     },
     {
         "nickname": "livefreeordie",
+        "exit_address": [
+            "193.149.187.228"
+        ],
         "asn": "AS399629"
     },
     {
@@ -39896,7 +39824,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV8122",
+        "nickname": "TV8862",
         "asn": "AS37053"
     },
     {
@@ -41823,9 +41751,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.171"
-        ],
         "asn": "AS400226"
     },
     {
@@ -44449,7 +44374,7 @@
         "asn": "AS56630"
     },
     {
-        "nickname": "TV8758",
+        "nickname": "TV8928",
         "asn": "AS5378"
     },
     {
@@ -47929,9 +47854,6 @@
     },
     {
         "nickname": "StormyCloud",
-        "exit_address": [
-            "23.128.248.170"
-        ],
         "asn": "AS400226"
     },
     {
@@ -48361,6 +48283,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "Monero1337XMR",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "rickrolltroll",
         "asn": "AS42927"
     },
@@ -48727,9 +48653,6 @@
     },
     {
         "nickname": "Quintex344",
-        "exit_address": [
-            "204.8.96.67"
-        ],
         "asn": "AS62744"
     },
     {
@@ -51984,6 +51907,9 @@
     },
     {
         "nickname": "Quintex167",
+        "exit_address": [
+            "204.8.96.156"
+        ],
         "asn": "AS62744"
     },
     {
