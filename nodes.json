@@ -8721,6 +8721,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -10505,10 +10508,6 @@
     {
         "nickname": "TheSuccubus",
         "asn": "AS28753"
-    },
-    {
-        "nickname": "Rhea",
-        "asn": "AS14061"
     },
     {
         "nickname": "Quintex241",
@@ -17939,10 +17938,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "pltorrelay",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "GermanCraft6",
         "asn": "AS197540"
     },
@@ -18338,10 +18333,6 @@
             "37.228.129.168"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "bronkromanian2",
-        "asn": "AS215659"
     },
     {
         "nickname": "xrl4tjdevde",
@@ -21921,10 +21912,6 @@
     {
         "nickname": "BHNAuroraEU1",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "dobromanian",
-        "asn": "AS215659"
     },
     {
         "nickname": "unk",
@@ -27364,6 +27351,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "TrapNode01",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "Echo94736",
         "asn": "AS63949"
     },
@@ -28883,10 +28874,6 @@
             "96.44.154.224"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "Boltzmann",
-        "asn": "AS8075"
     },
     {
         "nickname": "zucchini",
@@ -38930,6 +38917,10 @@
         "asn": "AS213900"
     },
     {
+        "nickname": "SenycRelay",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "ScheunenTor",
         "asn": "AS9136"
     },
@@ -39216,10 +39207,6 @@
         "asn": "AS24961"
     },
     {
-        "nickname": "xangaen8",
-        "asn": "AS6805"
-    },
-    {
         "nickname": "Bruxelles",
         "asn": "AS5432"
     },
@@ -39429,10 +39416,6 @@
     {
         "nickname": "zinha",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Schroedinger",
-        "asn": "AS8075"
     },
     {
         "nickname": "handsomeandwealthy",
