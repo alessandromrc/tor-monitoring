@@ -3248,7 +3248,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV6983",
+        "nickname": "TV9547",
         "asn": "AS22927"
     },
     {
@@ -8949,6 +8949,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "RelayDashboard",
+        "asn": "AS33915"
+    },
+    {
         "nickname": "TC33",
         "asn": "AS3301"
     },
@@ -10133,6 +10137,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "iZbiabiaZd",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "GermanCraft14",
         "asn": "AS214996"
     },
@@ -10746,9 +10754,6 @@
     },
     {
         "nickname": "Quintex395",
-        "exit_address": [
-            "204.8.96.184"
-        ],
         "asn": "AS62744"
     },
     {
@@ -12182,6 +12187,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "Cavern",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "Alberta",
         "exit_address": [
             "209.141.51.180"
@@ -12682,9 +12691,6 @@
     },
     {
         "nickname": "Quintex149",
-        "exit_address": [
-            "204.8.96.72"
-        ],
         "asn": "AS62744"
     },
     {
@@ -24118,10 +24124,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "AuthVA",
-        "asn": "AS14618"
-    },
-    {
         "nickname": "Quintex214",
         "exit_address": [
             "204.8.96.104"
@@ -24953,6 +24955,9 @@
     },
     {
         "nickname": "Quintex39",
+        "exit_address": [
+            "204.8.96.88"
+        ],
         "asn": "AS62744"
     },
     {
@@ -26197,7 +26202,7 @@
     },
     {
         "nickname": "FirstNode",
-        "asn": "AS56655"
+        "asn": "AS197540"
     },
     {
         "nickname": "eo183",
@@ -28840,10 +28845,6 @@
         "asn": "AS394380"
     },
     {
-        "nickname": "AuthDE",
-        "asn": "AS16509"
-    },
-    {
         "nickname": "Kangaroo",
         "asn": "AS133159"
     },
@@ -31408,10 +31409,6 @@
         "asn": "AS51396"
     },
     {
-        "nickname": "AuthIE",
-        "asn": "AS16509"
-    },
-    {
         "nickname": "mitm666",
         "asn": "AS3320"
     },
@@ -32081,9 +32078,6 @@
     },
     {
         "nickname": "Quintex95",
-        "exit_address": [
-            "204.8.96.184"
-        ],
         "asn": "AS62744"
     },
     {
@@ -32987,9 +32981,6 @@
     },
     {
         "nickname": "Quintex299",
-        "exit_address": [
-            "204.8.96.188"
-        ],
         "asn": "AS62744"
     },
     {
@@ -35544,10 +35535,6 @@
     {
         "nickname": "schokomilch",
         "asn": "AS51395"
-    },
-    {
-        "nickname": "pre45",
-        "asn": "AS39798"
     },
     {
         "nickname": "kennethwhalum",
@@ -40659,9 +40646,6 @@
     },
     {
         "nickname": "Quintex189",
-        "exit_address": [
-            "204.8.96.178"
-        ],
         "asn": "AS62744"
     },
     {
@@ -42829,7 +42813,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV8918",
+        "nickname": "TV7440",
         "asn": "AS701"
     },
     {
@@ -44673,9 +44657,6 @@
     },
     {
         "nickname": "Quintex99",
-        "exit_address": [
-            "204.8.96.188"
-        ],
         "asn": "AS62744"
     },
     {
@@ -48127,9 +48108,6 @@
     },
     {
         "nickname": "Quintex49",
-        "exit_address": [
-            "204.8.96.72"
-        ],
         "asn": "AS62744"
     },
     {
@@ -48916,7 +48894,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49642,6 +49620,10 @@
     {
         "nickname": "acehood",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "RADIOALBLASSERDAM",
+        "asn": "AS50266"
     },
     {
         "nickname": "TORstenExit04",
