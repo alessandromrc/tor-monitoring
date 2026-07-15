@@ -24185,10 +24185,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "longclaw",
-        "asn": "AS7765"
-    },
-    {
         "nickname": "TorRelaylxbchppt",
         "asn": "AS26347"
     },
@@ -26492,6 +26488,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.193",
             "198.167.206.243"
         ],
         "asn": "AS39287"
@@ -36375,6 +36372,10 @@
     {
         "nickname": "justinjoker",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "soma",
+        "asn": "AS215659"
     },
     {
         "nickname": "torvarval",
@@ -48765,6 +48766,10 @@
     },
     {
         "nickname": "prsv",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "lqwer",
         "asn": "AS16276"
     },
     {
