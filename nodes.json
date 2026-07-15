@@ -511,6 +511,9 @@
     },
     {
         "nickname": "1637810952927345",
+        "exit_address": [
+            "185.132.53.45"
+        ],
         "asn": "AS211507"
     },
     {
@@ -6457,6 +6460,9 @@
     },
     {
         "nickname": "4100053078153488",
+        "exit_address": [
+            "185.132.53.46"
+        ],
         "asn": "AS211507"
     },
     {
@@ -7485,7 +7491,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV212",
+        "nickname": "TV6037",
         "asn": "AS22927"
     },
     {
@@ -8214,6 +8220,9 @@
     },
     {
         "nickname": "1577670679873544",
+        "exit_address": [
+            "185.132.53.58"
+        ],
         "asn": "AS211507"
     },
     {
@@ -12857,9 +12866,6 @@
     },
     {
         "nickname": "bonobo",
-        "exit_address": [
-            "23.129.64.224"
-        ],
         "asn": "AS396507"
     },
     {
@@ -20067,10 +20073,6 @@
         "asn": "AS40994"
     },
     {
-        "nickname": "angaRelay",
-        "asn": "AS5410"
-    },
-    {
         "nickname": "artikel10ber17",
         "exit_address": [
             "185.220.101.5"
@@ -21465,6 +21467,9 @@
     },
     {
         "nickname": "SwedenNewNew",
+        "exit_address": [
+            "82.39.155.148"
+        ],
         "asn": "AS207295"
     },
     {
@@ -28086,6 +28091,9 @@
     },
     {
         "nickname": "9553249278916597",
+        "exit_address": [
+            "185.132.53.27"
+        ],
         "asn": "AS211507"
     },
     {
@@ -28331,9 +28339,6 @@
     },
     {
         "nickname": "Quintex84",
-        "exit_address": [
-            "204.8.96.173"
-        ],
         "asn": "AS62744"
     },
     {
@@ -29965,7 +29970,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9470",
+        "nickname": "TV8287",
         "asn": "AS7303"
     },
     {
@@ -35182,9 +35187,6 @@
     },
     {
         "nickname": "Quintex81",
-        "exit_address": [
-            "204.8.96.170"
-        ],
         "asn": "AS62744"
     },
     {
@@ -36238,7 +36240,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8271",
+        "nickname": "TV8581",
         "asn": "AS37705"
     },
     {
@@ -37515,10 +37517,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS4766"
-    },
-    {
-        "nickname": "RugSiFlacara",
-        "asn": "AS19318"
     },
     {
         "nickname": "SkyEarthWater38519",
@@ -50946,6 +50944,10 @@
     {
         "nickname": "francelover",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "BussinesMiddleMan",
+        "asn": "AS50266"
     },
     {
         "nickname": "r0cket12i4",
