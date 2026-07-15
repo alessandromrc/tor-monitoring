@@ -598,6 +598,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS215365"
+    },
+    {
         "nickname": "howlin",
         "asn": "AS9009"
     },
@@ -2688,6 +2692,9 @@
     },
     {
         "nickname": "Polyphemus",
+        "exit_address": [
+            "107.189.31.187"
+        ],
         "asn": "AS53667"
     },
     {
@@ -3357,9 +3364,6 @@
     },
     {
         "nickname": "Quintex249",
-        "exit_address": [
-            "204.8.96.72"
-        ],
         "asn": "AS62744"
     },
     {
@@ -5119,10 +5123,6 @@
     {
         "nickname": "nothingtoseehere",
         "asn": "AS200019"
-    },
-    {
-        "nickname": "sanningsministeriet",
-        "asn": "AS8473"
     },
     {
         "nickname": "GermanCraft3",
@@ -7491,7 +7491,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6037",
+        "nickname": "TV9975",
         "asn": "AS22927"
     },
     {
@@ -15062,6 +15062,10 @@
             "204.8.96.188"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS215365"
     },
     {
         "nickname": "myN0de1",
@@ -27157,10 +27161,6 @@
         "asn": "AS214798"
     },
     {
-        "nickname": "LechatTheCatgirl",
-        "asn": "AS3215"
-    },
-    {
         "nickname": "r0cket11i5",
         "exit_address": [
             "45.84.107.128"
@@ -28412,9 +28412,6 @@
     },
     {
         "nickname": "Quintex180",
-        "exit_address": [
-            "204.8.96.169"
-        ],
         "asn": "AS62744"
     },
     {
@@ -31485,6 +31482,10 @@
     {
         "nickname": "davido",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "phantom0084",
+        "asn": "AS215659"
     },
     {
         "nickname": "arribaespana",
@@ -41100,9 +41101,6 @@
     },
     {
         "nickname": "Quintex46",
-        "exit_address": [
-            "204.8.96.69"
-        ],
         "asn": "AS62744"
     },
     {
@@ -43808,9 +43806,6 @@
     },
     {
         "nickname": "Quintex92",
-        "exit_address": [
-            "204.8.96.181"
-        ],
         "asn": "AS62744"
     },
     {
