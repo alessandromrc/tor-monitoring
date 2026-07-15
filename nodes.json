@@ -7450,7 +7450,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9454",
+        "nickname": "TV3323",
         "asn": "AS22927"
     },
     {
@@ -14388,6 +14388,10 @@
         "asn": "AS1136"
     },
     {
+        "nickname": "oddisee",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "popeye",
         "exit_address": [
             "162.216.18.62"
@@ -17886,9 +17890,6 @@
     },
     {
         "nickname": "marylou1",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -21214,6 +21215,9 @@
     },
     {
         "nickname": "tokiRelay",
+        "exit_address": [
+            "185.231.102.5"
+        ],
         "asn": "AS30893"
     },
     {
@@ -24843,6 +24847,9 @@
     },
     {
         "nickname": "Quintex394",
+        "exit_address": [
+            "204.8.96.183"
+        ],
         "asn": "AS62744"
     },
     {
@@ -29073,6 +29080,10 @@
         "asn": "AS48753"
     },
     {
+        "nickname": "dessa",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "Novastation",
         "asn": "AS24940"
     },
@@ -29914,9 +29925,6 @@
     },
     {
         "nickname": "marylou2",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -30081,9 +30089,6 @@
     },
     {
         "nickname": "marylou3",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -31921,6 +31926,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "saulwilliams",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "dababy",
         "asn": "AS36849"
     },
@@ -33732,6 +33741,10 @@
         "asn": "AS214379"
     },
     {
+        "nickname": "ABOBA",
+        "asn": "AS214677"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS197540"
     },
@@ -34728,6 +34741,9 @@
     },
     {
         "nickname": "ellsburg",
+        "exit_address": [
+            "23.129.64.135"
+        ],
         "asn": "AS396507"
     },
     {
@@ -40511,6 +40527,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "littlebrother",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.207.107.130"
@@ -43199,6 +43219,9 @@
     },
     {
         "nickname": "RestoreEU",
+        "exit_address": [
+            "107.189.6.232"
+        ],
         "asn": "AS53667"
     },
     {
@@ -49190,7 +49213,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
