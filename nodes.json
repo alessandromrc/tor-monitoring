@@ -2403,6 +2403,9 @@
     },
     {
         "nickname": "HeyGoToContactsBro",
+        "exit_address": [
+            "147.161.3.25"
+        ],
         "asn": "AS399486"
     },
     {
@@ -20212,6 +20215,9 @@
     },
     {
         "nickname": "3NiTY",
+        "exit_address": [
+            "78.17.93.70"
+        ],
         "asn": "AS26832"
     },
     {
@@ -24683,6 +24689,9 @@
     },
     {
         "nickname": "GimmeSomeXMRinBio",
+        "exit_address": [
+            "147.161.3.32"
+        ],
         "asn": "AS399486"
     },
     {
@@ -25374,6 +25383,9 @@
     },
     {
         "nickname": "GOMONERO",
+        "exit_address": [
+            "147.161.3.33"
+        ],
         "asn": "AS399486"
     },
     {
@@ -34107,6 +34119,9 @@
     },
     {
         "nickname": "GoXMRinMyContacts",
+        "exit_address": [
+            "147.161.3.31"
+        ],
         "asn": "AS399486"
     },
     {
@@ -50623,6 +50638,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "NoToChatControl",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "zer0bitz",
         "asn": "AS1759"
     },
@@ -51608,10 +51627,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Najdorf",
-        "asn": "AS24940"
     },
     {
         "nickname": "prsv",
