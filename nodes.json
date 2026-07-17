@@ -4898,10 +4898,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "hlrelay",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "pushypebble",
         "asn": "AS27176"
     },
@@ -6559,10 +6555,6 @@
     {
         "nickname": "myvoiceismypassport",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "zzzzzzzzzzdefault",
-        "asn": "AS6805"
     },
     {
         "nickname": "Hibernity",
@@ -20963,6 +20955,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -24625,6 +24621,10 @@
     {
         "nickname": "CasaRrelay",
         "asn": "AS50840"
+    },
+    {
+        "nickname": "kaistarrycheeks",
+        "asn": "AS203273"
     },
     {
         "nickname": "MegaPint",
@@ -28759,7 +28759,7 @@
     },
     {
         "nickname": "gp2112",
-        "asn": "AS18881"
+        "asn": "AS27699"
     },
     {
         "nickname": "Quintex349",
@@ -30158,7 +30158,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9980",
+        "nickname": "TV4346",
         "asn": "AS7303"
     },
     {
@@ -33185,7 +33185,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV9867",
+        "nickname": "TV7213",
         "asn": "AS12479"
     },
     {
@@ -37658,7 +37658,7 @@
     },
     {
         "nickname": "Aliveinside",
-        "asn": "AS136258"
+        "asn": "AS9009"
     },
     {
         "nickname": "FrenchGoose",
@@ -43911,6 +43911,9 @@
     },
     {
         "nickname": "SiFiveHiFive",
+        "exit_address": [
+            "23.129.64.99"
+        ],
         "asn": "AS396507"
     },
     {
@@ -49830,7 +49833,7 @@
     },
     {
         "nickname": "ArriveInside",
-        "asn": "AS136258"
+        "asn": "AS9009"
     },
     {
         "nickname": "NTH114R7",
@@ -49973,6 +49976,10 @@
     {
         "nickname": "Anarchism21",
         "asn": "AS28753"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS3816"
     },
     {
         "nickname": "Slavyanka",
