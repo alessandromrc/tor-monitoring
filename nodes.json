@@ -8553,6 +8553,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "TORHELPER",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "chp175",
         "exit_address": [
             "107.189.1.175"
@@ -10626,9 +10630,6 @@
     },
     {
         "nickname": "vpsbrexit",
-        "exit_address": [
-            "187.127.6.7"
-        ],
         "asn": "AS47583"
     },
     {
@@ -12124,10 +12125,6 @@
     {
         "nickname": "knottsac",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "PillarOfSeasons",
-        "asn": "AS15943"
     },
     {
         "nickname": "bluesfear",
@@ -23878,6 +23875,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "NetherlandsRelay",
+        "asn": "AS1136"
+    },
+    {
         "nickname": "KavinRelay",
         "asn": "AS31898"
     },
@@ -31267,6 +31268,10 @@
     {
         "nickname": "openmikeeagle",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "StickNet",
+        "asn": "AS7018"
     },
     {
         "nickname": "NTH129R1",
@@ -47413,10 +47418,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "hEwcb7YV9hT",
-        "asn": "AS58955"
-    },
-    {
         "nickname": "NTH100R1",
         "asn": "AS8283"
     },
@@ -47994,10 +47995,6 @@
     {
         "nickname": "eclipse21",
         "asn": "AS205007"
-    },
-    {
-        "nickname": "Seychelles",
-        "asn": "AS12876"
     },
     {
         "nickname": "Unnamed",
@@ -49244,7 +49241,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -52027,6 +52024,10 @@
     {
         "nickname": "torcatgirlcloud",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "soma",
+        "asn": "AS215659"
     },
     {
         "nickname": "TorRelay12345",
