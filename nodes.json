@@ -7493,7 +7493,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV1578",
+        "nickname": "TV4476",
         "asn": "AS22927"
     },
     {
@@ -29542,10 +29542,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "TKTor",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "opencommunity",
         "asn": "AS36352"
     },
@@ -41570,6 +41566,9 @@
     },
     {
         "nickname": "bornhackexit",
+        "exit_address": [
+            "151.216.96.225"
+        ],
         "asn": "AS208647"
     },
     {
@@ -47046,7 +47045,7 @@
         "asn": "AS29066"
     },
     {
-        "nickname": "TV9060",
+        "nickname": "TV8888",
         "asn": "AS7303"
     },
     {
@@ -49619,7 +49618,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -50593,9 +50592,6 @@
     },
     {
         "nickname": "NotYourWifi",
-        "exit_address": [
-            "72.5.43.62"
-        ],
         "asn": "AS399629"
     },
     {
