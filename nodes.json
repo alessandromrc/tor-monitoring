@@ -23839,10 +23839,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Headband1370",
-        "asn": "AS29695"
-    },
-    {
         "nickname": "bornhack2",
         "asn": "AS24940"
     },
@@ -26703,7 +26699,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.172",
             "198.167.206.190"
         ],
         "asn": "AS39287"
@@ -29541,7 +29536,7 @@
         "asn": "AS12"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS214677"
     },
     {
@@ -30172,6 +30167,10 @@
     {
         "nickname": "Jackdaw1",
         "asn": "AS62005"
+    },
+    {
+        "nickname": "keimai",
+        "asn": "AS20473"
     },
     {
         "nickname": "OrionNebula",
@@ -45640,10 +45639,6 @@
     {
         "nickname": "TumblerOne",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "Schmutzig",
-        "asn": "AS1101"
     },
     {
         "nickname": "Killix",
