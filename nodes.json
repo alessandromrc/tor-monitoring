@@ -1930,10 +1930,6 @@
         "asn": "AS25400"
     },
     {
-        "nickname": "DogeRelay4",
-        "asn": "AS701"
-    },
-    {
         "nickname": "TorRelay2b",
         "asn": "AS197540"
     },
@@ -3479,10 +3475,6 @@
     {
         "nickname": "moneybagg",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV51",
-        "asn": "AS7922"
     },
     {
         "nickname": "TorZoner4",
@@ -26530,6 +26522,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "BlackPearl",
+        "asn": "AS24309"
+    },
+    {
         "nickname": "Johand",
         "asn": "AS56655"
     },
@@ -26703,6 +26699,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.178",
             "198.167.206.190"
         ],
         "asn": "AS39287"
@@ -28739,6 +28736,9 @@
     },
     {
         "nickname": "artikel5ev13",
+        "exit_address": [
+            "51.15.59.15"
+        ],
         "asn": "AS12876"
     },
     {
@@ -40490,7 +40490,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV5495",
+        "nickname": "TV8515",
         "asn": "AS37053"
     },
     {
@@ -49711,7 +49711,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
