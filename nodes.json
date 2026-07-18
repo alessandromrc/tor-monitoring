@@ -4089,10 +4089,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "BlauwBlauw",
-        "asn": "AS50266"
-    },
-    {
         "nickname": "nyonyonyo2",
         "asn": "AS63770"
     },
@@ -5021,10 +5017,6 @@
     {
         "nickname": "SchulteTorRelay001",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "egomaniachumvee",
-        "asn": "AS7018"
     },
     {
         "nickname": "dutchKitsune",
@@ -27704,6 +27696,9 @@
     },
     {
         "nickname": "beacon",
+        "exit_address": [
+            "150.40.126.115"
+        ],
         "asn": "AS211619"
     },
     {
@@ -39697,10 +39692,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TheShadowRoute15",
-        "asn": "AS215288"
-    },
-    {
         "nickname": "ghaisguevara",
         "asn": "AS36849"
     },
@@ -40490,7 +40481,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "TV8515",
+        "nickname": "TV5495",
         "asn": "AS37053"
     },
     {
@@ -41914,6 +41905,10 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "HollolaRelay",
+        "asn": "AS16086"
     },
     {
         "nickname": "killerpriest",
@@ -45254,10 +45249,6 @@
     {
         "nickname": "mikrogravitationB",
         "asn": "AS206236"
-    },
-    {
-        "nickname": "TheShadowRoute18",
-        "asn": "AS215288"
     },
     {
         "nickname": "BlackCloud",
@@ -49711,7 +49702,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -50945,10 +50936,6 @@
     {
         "nickname": "Caramelo",
         "asn": "AS136258"
-    },
-    {
-        "nickname": "whiteeagle",
-        "asn": "AS803"
     },
     {
         "nickname": "plasmarifle",
