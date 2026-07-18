@@ -7795,10 +7795,6 @@
         "asn": "AS215659"
     },
     {
-        "nickname": "relayon0167",
-        "asn": "AS60729"
-    },
-    {
         "nickname": "NTH68R3",
         "exit_address": [
             "192.42.116.68"
@@ -10416,6 +10412,9 @@
     },
     {
         "nickname": "r0cket09i5",
+        "exit_address": [
+            "45.84.107.33"
+        ],
         "asn": "AS214503"
     },
     {
@@ -15898,10 +15897,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "relayon0138",
-        "asn": "AS60729"
-    },
-    {
         "nickname": "Taco",
         "asn": "AS60781"
     },
@@ -16628,6 +16623,9 @@
     },
     {
         "nickname": "r0cket15i6",
+        "exit_address": [
+            "45.84.107.174"
+        ],
         "asn": "AS214503"
     },
     {
@@ -21386,9 +21384,6 @@
     },
     {
         "nickname": "manybahtRelay",
-        "exit_address": [
-            "185.231.102.5"
-        ],
         "asn": "AS215365"
     },
     {
@@ -32534,10 +32529,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS401652"
-    },
-    {
         "nickname": "decicus",
         "asn": "AS214379"
     },
@@ -33115,7 +33106,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7213",
+        "nickname": "TV7316",
         "asn": "AS12479"
     },
     {
@@ -34651,7 +34642,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV2415",
+        "nickname": "TV2156",
         "asn": "AS28573"
     },
     {
@@ -37770,6 +37761,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.9.148.165"
+        ],
         "asn": "AS49447"
     },
     {
