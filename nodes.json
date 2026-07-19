@@ -1608,10 +1608,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "hayzycomr",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "67.215.236.114"
@@ -3312,6 +3308,10 @@
     {
         "nickname": "apollo112",
         "asn": "AS51852"
+    },
+    {
+        "nickname": "articolo15",
+        "asn": "AS16276"
     },
     {
         "nickname": "MarioVerde",
@@ -5362,6 +5362,10 @@
     {
         "nickname": "ieditheconfig",
         "asn": "AS398721"
+    },
+    {
+        "nickname": "DesiRelay01",
+        "asn": "AS133619"
     },
     {
         "nickname": "NTH105R1",
@@ -17719,10 +17723,6 @@
     {
         "nickname": "TerrorismNetwork",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ThinkPenguin",
-        "asn": "AS63949"
     },
     {
         "nickname": "0xdeadbeef",
@@ -41511,8 +41511,8 @@
     {
         "nickname": "bornhackexit",
         "exit_address": [
-            "151.216.96.225",
-            "151.216.96.93"
+            "151.216.96.93",
+            "151.216.97.11"
         ],
         "asn": "AS208647"
     },
