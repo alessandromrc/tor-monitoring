@@ -1875,6 +1875,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "thingyRelay",
+        "asn": "AS12364"
+    },
+    {
         "nickname": "bananenmuffin",
         "asn": "AS24940"
     },
@@ -5007,9 +5011,6 @@
     },
     {
         "nickname": "dutchKitsune",
-        "exit_address": [
-            "153.75.89.191"
-        ],
         "asn": "AS14956"
     },
     {
@@ -20121,6 +20122,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "TorRelayAtVecses",
+        "asn": "AS20845"
+    },
+    {
         "nickname": "NTH64R2",
         "exit_address": [
             "192.42.116.64"
@@ -20854,7 +20859,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV787",
+        "nickname": "TV2615",
         "asn": "AS8452"
     },
     {
@@ -24303,6 +24308,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "GnavenRelay2",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "mypersonalnickname",
         "asn": "AS63949"
     },
@@ -24791,6 +24800,10 @@
             "185.220.101.40"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "TorRelay",
+        "asn": "AS142113"
     },
     {
         "nickname": "ra2sys",
@@ -30130,7 +30143,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV9169",
+        "nickname": "TV7068",
         "asn": "AS7303"
     },
     {
@@ -51121,6 +51134,10 @@
         "asn": "AS198967"
     },
     {
+        "nickname": "GnavenRelay1",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.234.34"
@@ -53049,10 +53066,6 @@
     {
         "nickname": "AbsoluteCinema",
         "asn": "AS3215"
-    },
-    {
-        "nickname": "560003101a51",
-        "asn": "AS20473"
     },
     {
         "nickname": "ForPrivacyNET",
