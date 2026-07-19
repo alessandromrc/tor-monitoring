@@ -7972,9 +7972,6 @@
     },
     {
         "nickname": "hands",
-        "exit_address": [
-            "109.169.33.163"
-        ],
         "asn": "AS20860"
     },
     {
@@ -13090,6 +13087,10 @@
         "asn": "AS216188"
     },
     {
+        "nickname": "myNiceRelay",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "tor102",
         "asn": "AS214366"
     },
@@ -14004,6 +14005,10 @@
     {
         "nickname": "Hades",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "freshrss",
+        "asn": "AS215590"
     },
     {
         "nickname": "missyelliott",
@@ -16269,10 +16274,6 @@
     {
         "nickname": "OnionPie",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "jesterrelay",
-        "asn": "AS701"
     },
     {
         "nickname": "artikel10buc23",
@@ -22362,10 +22363,6 @@
         "asn": "AS8075"
     },
     {
-        "nickname": "Limbo74",
-        "asn": "AS210083"
-    },
-    {
         "nickname": "tice",
         "exit_address": [
             "23.129.64.149"
@@ -26634,8 +26631,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.178",
-            "198.167.206.190"
+            "198.167.206.178"
         ],
         "asn": "AS39287"
     },
@@ -32143,10 +32139,6 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "TV8798",
-        "asn": "AS27747"
-    },
-    {
         "nickname": "zackdelarocha",
         "asn": "AS36849"
     },
@@ -36416,7 +36408,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8266",
+        "nickname": "TV6263",
         "asn": "AS37705"
     },
     {
@@ -41508,6 +41500,7 @@
     {
         "nickname": "bornhackexit",
         "exit_address": [
+            "151.216.96.152",
             "151.216.96.93",
             "151.216.97.11"
         ],
@@ -42055,10 +42048,6 @@
     {
         "nickname": "NOTaGlowieRelay",
         "asn": "AS8708"
-    },
-    {
-        "nickname": "TheShadowRoute13",
-        "asn": "AS215288"
     },
     {
         "nickname": "littlebrother",
@@ -45063,7 +45052,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS18881"
     },
     {
         "nickname": "Splinter",
@@ -47090,10 +47079,6 @@
             "91.208.75.156"
         ],
         "asn": "AS6718"
-    },
-    {
-        "nickname": "TheMadHackerLives",
-        "asn": "AS216063"
     },
     {
         "nickname": "Quintex281",
