@@ -6560,10 +6560,6 @@
         "asn": "AS26801"
     },
     {
-        "nickname": "TV2432",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "Ragnarok",
         "asn": "AS14061"
     },
@@ -12196,6 +12192,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Pasquino3",
+        "asn": "AS10929"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -15005,9 +15005,6 @@
     },
     {
         "nickname": "jkimnot1",
-        "exit_address": [
-            "179.43.133.50"
-        ],
         "asn": "AS51852"
     },
     {
@@ -18629,9 +18626,6 @@
     },
     {
         "nickname": "eagerrose",
-        "exit_address": [
-            "185.225.69.232"
-        ],
         "asn": "AS30836"
     },
     {
@@ -20736,6 +20730,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.165"
+        ],
         "asn": "AS400226"
     },
     {
@@ -23336,10 +23333,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "BIP110",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "YVRtorPi48MB",
         "asn": "AS852"
     },
@@ -23763,6 +23756,10 @@
     {
         "nickname": "schwartz",
         "asn": "AS208323"
+    },
+    {
+        "nickname": "PutinHuilo200",
+        "asn": "AS9123"
     },
     {
         "nickname": "HetznerStrongRelay",
@@ -24218,10 +24215,6 @@
     {
         "nickname": "bunb",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "ieditedtheconfig",
-        "asn": "AS206216"
     },
     {
         "nickname": "halotrelayone",
@@ -31787,7 +31780,7 @@
         "asn": "AS12989"
     },
     {
-        "nickname": "TV543",
+        "nickname": "TV33",
         "asn": "AS22927"
     },
     {
@@ -32067,10 +32060,6 @@
     },
     {
         "nickname": "FedoraMiddle01",
-        "asn": "AS24940"
-    },
-    {
-        "nickname": "Unnamed",
         "asn": "AS24940"
     },
     {
@@ -35638,10 +35627,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "zorroRanch",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "HeadInTheClouds",
         "asn": "AS50266"
     },
@@ -36474,6 +36459,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "iasnz",
+        "asn": "AS56030"
+    },
+    {
         "nickname": "forest36",
         "asn": "AS214677"
     },
@@ -36692,10 +36681,6 @@
     {
         "nickname": "Trismegistus",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "BaerchenWiese2025",
-        "asn": "AS3320"
     },
     {
         "nickname": "obzgs5tbmn4q",
@@ -40512,6 +40497,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "AussieOnion",
+        "asn": "AS38195"
+    },
+    {
         "nickname": "engineX",
         "asn": "AS31898"
     },
@@ -43642,6 +43631,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "moon3000",
+        "asn": "AS43641"
+    },
+    {
         "nickname": "Relay01",
         "asn": "AS213281"
     },
@@ -43930,6 +43923,10 @@
     {
         "nickname": "meddicineman",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MyRelay",
+        "asn": "AS6128"
     },
     {
         "nickname": "ILoveNoelleParis",
@@ -45436,10 +45433,6 @@
     {
         "nickname": "StadisRelay",
         "asn": "AS197524"
-    },
-    {
-        "nickname": "LL",
-        "asn": "AS29222"
     },
     {
         "nickname": "NTH116R3",
@@ -49497,7 +49490,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
