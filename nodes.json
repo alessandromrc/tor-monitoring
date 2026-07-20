@@ -2471,10 +2471,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "AetherGuard",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "suesslupine",
         "exit_address": [
             "109.70.100.8"
@@ -2691,6 +2687,10 @@
             "67.215.237.232"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "JohnFilch123",
+        "asn": "AS211507"
     },
     {
         "nickname": "cray",
@@ -3280,7 +3280,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV6230",
+        "nickname": "TV7290",
         "asn": "AS22927"
     },
     {
@@ -20802,7 +20802,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV7637",
+        "nickname": "TV8480",
         "asn": "AS8452"
     },
     {
@@ -23313,7 +23313,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV7135",
+        "nickname": "TV6554",
         "asn": "AS5384"
     },
     {
@@ -30420,6 +30420,10 @@
     {
         "nickname": "0x3d01",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Torware",
+        "asn": "AS19318"
     },
     {
         "nickname": "WeaselWave",
@@ -51463,6 +51467,10 @@
         "asn": "AS8860"
     },
     {
+        "nickname": "Octavia2",
+        "asn": "AS19318"
+    },
+    {
         "nickname": "fluffypancakes004ca",
         "asn": "AS26832"
     },
@@ -52739,6 +52747,9 @@
     },
     {
         "nickname": "winner",
+        "exit_address": [
+            "23.129.64.151"
+        ],
         "asn": "AS396507"
     },
     {
