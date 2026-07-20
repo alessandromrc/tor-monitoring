@@ -1519,10 +1519,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "thorgodofhunger",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "89.58.26.216"
@@ -3288,7 +3284,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV5016",
+        "nickname": "TV9430",
         "asn": "AS22927"
     },
     {
@@ -8493,10 +8489,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "AutisticAltruist",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "layziebone",
         "asn": "AS36849"
     },
@@ -8871,10 +8863,6 @@
     {
         "nickname": "SkynetDE",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "pharoahemonch",
-        "asn": "AS36849"
     },
     {
         "nickname": "ididnteditheconfig",
@@ -14916,10 +14904,6 @@
         "asn": "AS39378"
     },
     {
-        "nickname": "hiddenubermensch",
-        "asn": "AS209"
-    },
-    {
         "nickname": "tactback1545",
         "asn": "AS701"
     },
@@ -19041,10 +19025,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "DandelionSproutW11",
-        "asn": "AS2119"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -20002,9 +19982,6 @@
     },
     {
         "nickname": "SkaffaExit",
-        "exit_address": [
-            "66.78.40.91"
-        ],
         "asn": "AS215659"
     },
     {
@@ -20568,9 +20545,6 @@
     },
     {
         "nickname": "eo205",
-        "exit_address": [
-            "23.129.64.205"
-        ],
         "asn": "AS396507"
     },
     {
@@ -25487,10 +25461,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "Sokolowa",
-        "asn": "AS29066"
-    },
-    {
         "nickname": "nonamegypsy",
         "asn": "AS36849"
     },
@@ -28970,6 +28940,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.165"
+        ],
         "asn": "AS400226"
     },
     {
@@ -33057,9 +33030,6 @@
     },
     {
         "nickname": "merrill",
-        "exit_address": [
-            "23.129.64.143"
-        ],
         "asn": "AS396507"
     },
     {
@@ -35313,6 +35283,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "ArabHotels",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "JohnFilch123",
         "asn": "AS1002"
     },
@@ -37523,6 +37497,10 @@
     {
         "nickname": "dotsrcRelay1",
         "asn": "AS1835"
+    },
+    {
+        "nickname": "torreon",
+        "asn": "AS20473"
     },
     {
         "nickname": "relayon0165",
@@ -41475,7 +41453,6 @@
         "nickname": "bornhackexit",
         "exit_address": [
             "151.216.96.152",
-            "151.216.96.93",
             "151.216.97.11"
         ],
         "asn": "AS208647"
@@ -44607,6 +44584,10 @@
         "asn": "AS33993"
     },
     {
+        "nickname": "2778626253393027",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "sorry4nothing",
         "asn": "AS6730"
     },
@@ -44696,9 +44677,6 @@
     },
     {
         "nickname": "anon1mous54",
-        "exit_address": [
-            "172.81.131.139"
-        ],
         "asn": "AS27176"
     },
     {
@@ -45012,7 +44990,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -45383,9 +45361,6 @@
     },
     {
         "nickname": "blahaj",
-        "exit_address": [
-            "23.129.64.225"
-        ],
         "asn": "AS396507"
     },
     {
@@ -48800,6 +48775,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -49490,7 +49468,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -52760,9 +52738,6 @@
     },
     {
         "nickname": "winner",
-        "exit_address": [
-            "23.129.64.151"
-        ],
         "asn": "AS396507"
     },
     {
