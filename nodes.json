@@ -943,10 +943,6 @@
         "asn": "AS852"
     },
     {
-        "nickname": "arbertDelroth",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS6167"
     },
@@ -3284,7 +3280,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV9430",
+        "nickname": "TV2742",
         "asn": "AS22927"
     },
     {
@@ -9010,10 +9006,6 @@
             "199.195.253.156"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS22295"
     },
     {
         "nickname": "B6pNt",
@@ -23338,7 +23330,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV7197",
+        "nickname": "TV7135",
         "asn": "AS5384"
     },
     {
@@ -28406,10 +28398,6 @@
     {
         "nickname": "zgato",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "mimiri06",
-        "asn": "AS214209"
     },
     {
         "nickname": "Privacyignr",
@@ -37619,9 +37607,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "45.9.148.188"
-        ],
         "asn": "AS49447"
     },
     {
@@ -41452,8 +41437,7 @@
     {
         "nickname": "bornhackexit",
         "exit_address": [
-            "151.216.96.152",
-            "151.216.97.11"
+            "151.216.96.152"
         ],
         "asn": "AS208647"
     },
@@ -44389,10 +44373,6 @@
         "asn": "AS30860"
     },
     {
-        "nickname": "chimbosonic",
-        "asn": "AS20712"
-    },
-    {
         "nickname": "Orpheus",
         "asn": "AS14061"
     },
@@ -44585,6 +44565,9 @@
     },
     {
         "nickname": "2778626253393027",
+        "exit_address": [
+            "104.244.78.232"
+        ],
         "asn": "AS53667"
     },
     {
@@ -47412,10 +47395,6 @@
     {
         "nickname": "ant312",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "destiny",
-        "asn": "AS53667"
     },
     {
         "nickname": "TV8818",
@@ -50992,10 +50971,6 @@
             "161.129.68.162"
         ],
         "asn": "AS19318"
-    },
-    {
-        "nickname": "TheShadowRoute01",
-        "asn": "AS215288"
     },
     {
         "nickname": "Sol",
