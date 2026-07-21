@@ -18973,6 +18973,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Sentosa",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "Computer147",
         "asn": "AS16276"
     },
@@ -20608,10 +20612,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "talibkweli",
-        "asn": "AS36849"
     },
     {
         "nickname": "cocash",
@@ -26483,9 +26483,14 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "MineRelay",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.158"
+            "198.167.206.158",
+            "198.167.206.232"
         ],
         "asn": "AS39287"
     },
@@ -28149,10 +28154,6 @@
     {
         "nickname": "toradol",
         "asn": "AS11426"
-    },
-    {
-        "nickname": "jeanegrae",
-        "asn": "AS36849"
     },
     {
         "nickname": "WolfgangAndDagmar",
@@ -39108,10 +39109,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "killerpriest",
-        "asn": "AS36849"
-    },
-    {
         "nickname": "0xdeadbeef",
         "asn": "AS197540"
     },
@@ -46148,10 +46145,6 @@
         "asn": "AS209"
     },
     {
-        "nickname": "jeruthedamaja",
-        "asn": "AS36849"
-    },
-    {
         "nickname": "Assange007uk",
         "asn": "AS8560"
     },
@@ -49356,7 +49349,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
