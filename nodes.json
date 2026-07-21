@@ -1330,10 +1330,6 @@
         "asn": "AS32181"
     },
     {
-        "nickname": "Mawker0",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "TheYOSH",
         "asn": "AS50266"
     },
@@ -3280,7 +3276,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV7290",
+        "nickname": "TV9151",
         "asn": "AS22927"
     },
     {
@@ -5922,6 +5918,10 @@
             "109.70.100.15"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "redgreen",
+        "asn": "AS63949"
     },
     {
         "nickname": "TV1504",
@@ -9262,6 +9262,9 @@
     },
     {
         "nickname": "forest10",
+        "exit_address": [
+            "45.133.73.184"
+        ],
         "asn": "AS211507"
     },
     {
@@ -10097,6 +10100,10 @@
             "185.220.101.180"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Thalassa",
+        "asn": "AS197540"
     },
     {
         "nickname": "OysterReef",
@@ -20309,6 +20316,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "Octavia",
+        "asn": "AS40021"
+    },
+    {
         "nickname": "r0cket06i4",
         "exit_address": [
             "45.84.107.55"
@@ -21501,10 +21512,6 @@
             "107.189.8.70"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS45102"
     },
     {
         "nickname": "idideditheconfig",
@@ -27653,9 +27660,6 @@
     },
     {
         "nickname": "TORKeFFORG29",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -30984,6 +30988,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "Grga3",
+        "asn": "AS5603"
+    },
+    {
         "nickname": "cello",
         "asn": "AS16276"
     },
@@ -31676,7 +31684,7 @@
         "asn": "AS45731"
     },
     {
-        "nickname": "Marcus",
+        "nickname": "Markus",
         "asn": "AS3301"
     },
     {
@@ -34098,6 +34106,10 @@
     },
     {
         "nickname": "PlebsTogetherStrong",
+        "asn": "AS197540"
+    },
+    {
+        "nickname": "Chrono",
         "asn": "AS197540"
     },
     {
@@ -47031,10 +47043,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS211619"
-    },
-    {
         "nickname": "torly4relay",
         "asn": "AS42730"
     },
@@ -49466,7 +49474,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
