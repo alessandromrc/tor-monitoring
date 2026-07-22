@@ -3243,7 +3243,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV3444",
+        "nickname": "TV1375",
         "asn": "AS22927"
     },
     {
@@ -16033,6 +16033,9 @@
     },
     {
         "nickname": "marylou4",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -17823,6 +17826,9 @@
     },
     {
         "nickname": "marylou1",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -26339,6 +26345,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.158",
             "198.167.206.232"
         ],
         "asn": "AS39287"
@@ -29825,6 +29832,9 @@
     },
     {
         "nickname": "marylou2",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -29982,6 +29992,9 @@
     },
     {
         "nickname": "marylou3",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -39057,6 +39070,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "TheEmprahProtec",
+        "asn": "AS46375"
+    },
+    {
         "nickname": "voronoy",
         "asn": "AS16276"
     },
@@ -45744,9 +45761,6 @@
     },
     {
         "nickname": "steamedhams",
-        "exit_address": [
-            "144.6.236.131"
-        ],
         "asn": "AS4764"
     },
     {
