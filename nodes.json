@@ -3243,7 +3243,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV3415",
+        "nickname": "TV3444",
         "asn": "AS22927"
     },
     {
@@ -6918,10 +6918,6 @@
         "asn": "AS5089"
     },
     {
-        "nickname": "Publius",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.223.84.84"
@@ -8329,9 +8325,6 @@
     },
     {
         "nickname": "privatebrowsingorg",
-        "exit_address": [
-            "107.189.12.7"
-        ],
         "asn": "AS53667"
     },
     {
@@ -8711,6 +8704,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.132.53.150"
+        ],
         "asn": "AS211507"
     },
     {
@@ -16040,6 +16036,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "marylou4",
+        "asn": "AS197422"
+    },
+    {
         "nickname": "VivaLaRevolution",
         "asn": "AS16276"
     },
@@ -17826,6 +17826,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "marylou1",
+        "asn": "AS197422"
+    },
+    {
         "nickname": "StreamsofLifeSpa",
         "asn": "AS16276"
     },
@@ -18067,6 +18071,10 @@
     {
         "nickname": "alxu",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "AB49K",
+        "asn": "AS20473"
     },
     {
         "nickname": "astringency",
@@ -18331,7 +18339,7 @@
     },
     {
         "nickname": "ChomelesDEionos",
-        "asn": "AS8560"
+        "asn": "AS215136"
     },
     {
         "nickname": "sarkodie",
@@ -23094,7 +23102,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV6592",
+        "nickname": "TV7213",
         "asn": "AS5384"
     },
     {
@@ -24079,6 +24087,10 @@
             "109.70.100.3"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "TorzurWelt",
+        "asn": "AS8560"
     },
     {
         "nickname": "mistahfab",
@@ -25609,10 +25621,6 @@
     {
         "nickname": "Destiny",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "memcpy4",
-        "asn": "AS24940"
     },
     {
         "nickname": "DFRI141",
@@ -29820,6 +29828,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "marylou2",
+        "asn": "AS197422"
+    },
+    {
         "nickname": "lukast",
         "asn": "AS211507"
     },
@@ -29971,6 +29983,10 @@
     {
         "nickname": "Bootlicker",
         "asn": "AS44869"
+    },
+    {
+        "nickname": "marylou3",
+        "asn": "AS197422"
     },
     {
         "nickname": "CryptoHouse",
@@ -30445,9 +30461,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "103.109.100.162"
-        ],
         "asn": "AS206264"
     },
     {
@@ -32481,10 +32494,6 @@
             "185.225.69.187"
         ],
         "asn": "AS30836"
-    },
-    {
-        "nickname": "mkoloke",
-        "asn": "AS174"
     },
     {
         "nickname": "phobos",
@@ -40003,6 +40012,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "reallayer",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "fuckthefreeworld",
         "asn": "AS24940"
     },
@@ -41670,9 +41683,6 @@
     },
     {
         "nickname": "LechatTheCatgirl",
-        "exit_address": [
-            "82.26.80.150"
-        ],
         "asn": "AS215114"
     },
     {
@@ -48662,10 +48672,6 @@
     {
         "nickname": "relayon1134",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "tazmania",
-        "asn": "AS12322"
     },
     {
         "nickname": "Vigilance",
