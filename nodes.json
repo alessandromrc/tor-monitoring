@@ -26310,7 +26310,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.158"
+            "198.167.206.158",
+            "198.167.206.195"
         ],
         "asn": "AS39287"
     },
@@ -39189,6 +39190,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "sipebero",
+        "asn": "AS44486"
+    },
+    {
         "nickname": "NTH65R2",
         "exit_address": [
             "192.42.116.65"
@@ -42080,6 +42085,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "zighimilan",
+        "asn": "AS12874"
+    },
+    {
         "nickname": "Quintex186",
         "exit_address": [
             "204.8.96.175"
@@ -44914,6 +44923,10 @@
     {
         "nickname": "bauruine",
         "asn": "AS56655"
+    },
+    {
+        "nickname": "magic848relay",
+        "asn": "AS29222"
     },
     {
         "nickname": "prsv",
