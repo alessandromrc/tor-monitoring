@@ -1578,6 +1578,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "FiberRelay02",
+        "asn": "AS32723"
+    },
+    {
         "nickname": "NTH45R5",
         "exit_address": [
             "192.42.116.45"
@@ -3258,7 +3262,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV4988",
+        "nickname": "TV1554",
         "asn": "AS22927"
     },
     {
@@ -8684,10 +8688,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "Sixshot",
-        "asn": "AS58087"
-    },
-    {
         "nickname": "DefendRojava",
         "asn": "AS8560"
     },
@@ -13374,6 +13374,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "TV8001",
+        "asn": "AS262196"
+    },
+    {
         "nickname": "sudokill",
         "asn": "AS5089"
     },
@@ -15185,6 +15189,10 @@
             "185.220.101.44"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "AnotherMiddleFinger",
+        "asn": "AS701"
     },
     {
         "nickname": "dee1",
@@ -18319,7 +18327,7 @@
     },
     {
         "nickname": "ChomelesDEionos",
-        "asn": "AS215136"
+        "asn": "AS8560"
     },
     {
         "nickname": "sarkodie",
@@ -20362,10 +20370,6 @@
     {
         "nickname": "spasoyex",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "Monday",
-        "asn": "AS36352"
     },
     {
         "nickname": "DogeRelay",
@@ -24186,10 +24190,6 @@
             "178.18.242.84"
         ],
         "asn": "AS51167"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS16010"
     },
     {
         "nickname": "ididntedittheconfig",
@@ -30795,10 +30795,6 @@
         "asn": "AS6517"
     },
     {
-        "nickname": "Meleggie",
-        "asn": "AS22773"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.243.218.232"
@@ -32698,7 +32694,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV616",
+        "nickname": "TV7119",
         "asn": "AS12479"
     },
     {
@@ -45076,10 +45072,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "carbonationnode",
-        "asn": "AS701"
-    },
-    {
         "nickname": "plies",
         "asn": "AS56655"
     },
@@ -49317,6 +49309,10 @@
             "192.42.116.47"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "tguard147235783413",
+        "asn": "AS34224"
     },
     {
         "nickname": "AsianaOnionDurian",
