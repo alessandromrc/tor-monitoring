@@ -10360,6 +10360,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.227"
+        ],
         "asn": "AS27284"
     },
     {
@@ -15201,10 +15204,6 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "thingyRelay",
-        "asn": "AS12364"
-    },
-    {
         "nickname": "tortzshukistan",
         "asn": "AS15943"
     },
@@ -18273,10 +18272,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3816"
-    },
-    {
         "nickname": "NTH56R2",
         "exit_address": [
             "192.42.116.56"
@@ -20311,6 +20306,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.227"
+        ],
         "asn": "AS27284"
     },
     {
@@ -21845,7 +21843,7 @@
         "asn": "AS57043"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "joker",
         "asn": "AS26832"
     },
     {
@@ -22034,6 +22032,9 @@
     },
     {
         "nickname": "Limbo74",
+        "exit_address": [
+            "203.12.31.167"
+        ],
         "asn": "AS210083"
     },
     {
@@ -31261,6 +31262,9 @@
     },
     {
         "nickname": "TheHedy1",
+        "exit_address": [
+            "103.253.24.18"
+        ],
         "asn": "AS133210"
     },
     {
@@ -36593,6 +36597,10 @@
             "109.70.100.2"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "VagelissRelay",
+        "asn": "AS200736"
     },
     {
         "nickname": "theTorDoor",
@@ -42011,6 +42019,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.227"
+        ],
         "asn": "AS27284"
     },
     {
@@ -46755,6 +46766,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.227"
+        ],
         "asn": "AS27284"
     },
     {
@@ -48723,7 +48737,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
