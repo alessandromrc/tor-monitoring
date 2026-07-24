@@ -716,6 +716,10 @@
         "asn": "AS63770"
     },
     {
+        "nickname": "midrelay",
+        "asn": "AS204876"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.223.84.121"
@@ -3262,7 +3266,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV2955",
+        "nickname": "TV9292",
         "asn": "AS22927"
     },
     {
@@ -4475,7 +4479,7 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "ratatoskr",
+        "nickname": "ca1",
         "asn": "AS26832"
     },
     {
@@ -15734,10 +15738,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "oymyakon",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH157R1",
         "asn": "AS215125"
     },
@@ -18426,10 +18426,6 @@
     {
         "nickname": "ilovememphis",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "orbiter",
-        "asn": "AS5378"
     },
     {
         "nickname": "ChickenWalk",
@@ -23031,7 +23027,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV7026",
+        "nickname": "TV7226",
         "asn": "AS5384"
     },
     {
@@ -25422,9 +25418,6 @@
     },
     {
         "nickname": "5M1T8",
-        "exit_address": [
-            "78.17.93.173"
-        ],
         "asn": "AS26832"
     },
     {
@@ -29660,7 +29653,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "TV7613",
+        "nickname": "TV7287",
         "asn": "AS7303"
     },
     {
@@ -34568,10 +34561,6 @@
             "64.190.76.11"
         ],
         "asn": "AS214094"
-    },
-    {
-        "nickname": "Yggdrasil",
-        "asn": "AS12322"
     },
     {
         "nickname": "Unnamed",
@@ -41189,9 +41178,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -42729,10 +42715,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "FreeExit",
-        "asn": "AS51852"
-    },
-    {
         "nickname": "DemonsysSEA",
         "asn": "AS16276"
     },
@@ -43952,6 +43934,10 @@
     {
         "nickname": "Zensursula",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "kmdd",
+        "asn": "AS3209"
     },
     {
         "nickname": "Chapman",
@@ -48452,6 +48438,10 @@
     {
         "nickname": "relayon1134",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "tazmania",
+        "asn": "AS12322"
     },
     {
         "nickname": "Vigilance",
