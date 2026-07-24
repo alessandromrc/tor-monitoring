@@ -1665,6 +1665,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -3259,7 +3262,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV2345",
+        "nickname": "TV8787",
         "asn": "AS22927"
     },
     {
@@ -7824,6 +7827,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -9004,6 +9010,10 @@
     {
         "nickname": "tendies3",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "1981",
+        "asn": "AS197540"
     },
     {
         "nickname": "rdExiTorNode",
@@ -10929,6 +10939,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -13240,10 +13253,6 @@
     {
         "nickname": "DemonHunter",
         "asn": "AS33993"
-    },
-    {
-        "nickname": "NotYourISP",
-        "asn": "AS399629"
     },
     {
         "nickname": "fatamorgana",
@@ -17384,10 +17393,6 @@
         "asn": "AS6848"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "westsidegunn",
         "asn": "AS36849"
     },
@@ -20836,10 +20841,6 @@
     {
         "nickname": "BehemothLTDUK1",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "FrakerTor",
-        "asn": "AS6327"
     },
     {
         "nickname": "blizzard2",
@@ -25443,10 +25444,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "OptimusPrime",
-        "asn": "AS4739"
-    },
-    {
         "nickname": "tydollasign",
         "asn": "AS36849"
     },
@@ -26761,10 +26758,6 @@
         "asn": "AS25400"
     },
     {
-        "nickname": "gueperide",
-        "asn": "AS5432"
-    },
-    {
         "nickname": "torexitams00",
         "exit_address": [
             "45.66.35.20"
@@ -27177,6 +27170,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -27241,10 +27237,6 @@
             "107.189.14.4"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "pluto",
-        "asn": "AS43513"
     },
     {
         "nickname": "Montelibero",
@@ -34079,10 +34071,6 @@
     {
         "nickname": "acehoodbroward",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "QbiXES1",
-        "asn": "AS8560"
     },
     {
         "nickname": "NTH135R1",
@@ -44296,7 +44284,7 @@
         "asn": "AS56630"
     },
     {
-        "nickname": "TV8181",
+        "nickname": "TV6231",
         "asn": "AS5378"
     },
     {
