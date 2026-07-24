@@ -2398,9 +2398,6 @@
     },
     {
         "nickname": "HeyGoToContactsBro",
-        "exit_address": [
-            "147.161.3.25"
-        ],
         "asn": "AS399486"
     },
     {
@@ -3194,10 +3191,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "user1",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "nbrelay1",
         "exit_address": [
             "45.9.168.93"
@@ -3266,7 +3259,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV3018",
+        "nickname": "TV2345",
         "asn": "AS22927"
     },
     {
@@ -10947,10 +10940,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "opencommunity",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Sandevistan",
         "asn": "AS50266"
     },
@@ -13364,7 +13353,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV6431",
+        "nickname": "TV7501",
         "asn": "AS262196"
     },
     {
@@ -15411,6 +15400,9 @@
     },
     {
         "nickname": "fumo",
+        "exit_address": [
+            "45.137.201.100"
+        ],
         "asn": "AS211507"
     },
     {
@@ -16741,9 +16733,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "184.107.161.55"
-        ],
         "asn": "AS32613"
     },
     {
@@ -22185,10 +22174,6 @@
         "asn": "AS33915"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "SteinchesTORRelay",
         "asn": "AS8560"
     },
@@ -25315,9 +25300,6 @@
     },
     {
         "nickname": "GOMONERO",
-        "exit_address": [
-            "147.161.3.33"
-        ],
         "asn": "AS399486"
     },
     {
@@ -28080,9 +28062,6 @@
     },
     {
         "nickname": "TorchTest",
-        "exit_address": [
-            "147.161.3.20"
-        ],
         "asn": "AS399486"
     },
     {
@@ -29072,10 +29051,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "4711",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "Quintex343",
         "exit_address": [
             "204.8.96.66"
@@ -30052,10 +30027,6 @@
         "asn": "AS215904"
     },
     {
-        "nickname": "EchoOfTruth",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "NTH42R2",
         "exit_address": [
             "192.42.116.42"
@@ -30343,10 +30314,6 @@
     {
         "nickname": "lordinfamous",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
     },
     {
         "nickname": "Quintex295",
@@ -30962,10 +30929,6 @@
             "204.8.96.89"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "RatchetR",
-        "asn": "AS51765"
     },
     {
         "nickname": "1Grelay2",
@@ -33959,9 +33922,6 @@
     },
     {
         "nickname": "GoXMRinMyContacts",
-        "exit_address": [
-            "147.161.3.31"
-        ],
         "asn": "AS399486"
     },
     {
@@ -37139,6 +37099,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.9.148.188"
+        ],
         "asn": "AS49447"
     },
     {
@@ -40211,6 +40174,9 @@
     },
     {
         "nickname": "dim",
+        "exit_address": [
+            "45.137.201.5"
+        ],
         "asn": "AS211507"
     },
     {
@@ -41684,10 +41650,6 @@
     {
         "nickname": "renrpo26",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
     },
     {
         "nickname": "PapaJohns",
@@ -48824,7 +48786,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -52172,6 +52134,10 @@
             "69.163.77.166"
         ],
         "asn": "AS36103"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS45102"
     },
     {
         "nickname": "Cyberbunker",
