@@ -9572,6 +9572,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "CaptainMyCaptain",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "ferrarizGonzalez",
         "exit_address": [
             "185.154.110.142"
@@ -13367,7 +13371,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV9221",
+        "nickname": "TV7045",
         "asn": "AS262196"
     },
     {
@@ -17011,10 +17015,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TartarosOnion",
-        "asn": "AS16086"
-    },
-    {
         "nickname": "Unnamed",
         "exit_address": [
             "150.129.10.151"
@@ -19572,9 +19572,6 @@
     },
     {
         "nickname": "ZEYS",
-        "exit_address": [
-            "172.81.131.156"
-        ],
         "asn": "AS27176"
     },
     {
@@ -27557,7 +27554,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV4398",
+        "nickname": "TV1677",
         "asn": "AS6327"
     },
     {
@@ -35869,7 +35866,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV9256",
+        "nickname": "TV3530",
         "asn": "AS37705"
     },
     {
@@ -37515,9 +37512,6 @@
     },
     {
         "nickname": "HungarianBronkExit",
-        "exit_address": [
-            "45.9.168.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -39767,9 +39761,6 @@
     },
     {
         "nickname": "BronkExit",
-        "exit_address": [
-            "45.9.168.106"
-        ],
         "asn": "AS211619"
     },
     {
@@ -46773,10 +46764,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV8818",
-        "asn": "AS12389"
-    },
-    {
         "nickname": "babyd",
         "asn": "AS36849"
     },
@@ -47701,6 +47688,10 @@
     {
         "nickname": "tengu",
         "asn": "AS852"
+    },
+    {
+        "nickname": "getrelayedon02",
+        "asn": "AS31898"
     },
     {
         "nickname": "BestTheBestXMR",
@@ -50949,6 +50940,9 @@
     },
     {
         "nickname": "fatman",
+        "exit_address": [
+            "51.15.16.14"
+        ],
         "asn": "AS12876"
     },
     {
