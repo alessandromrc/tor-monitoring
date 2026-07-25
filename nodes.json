@@ -4647,6 +4647,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "test",
+        "asn": "AS48031"
+    },
+    {
         "nickname": "SSE",
         "asn": "AS1653"
     },
@@ -10589,10 +10593,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "jungefreiheit",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "Spiegelberg",
         "asn": "AS16276"
     },
@@ -13612,6 +13612,10 @@
             "149.102.153.38"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "test2",
+        "asn": "AS48031"
     },
     {
         "nickname": "NTH175R1",
@@ -26212,8 +26216,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.136",
-            "198.167.206.195"
+            "198.167.206.136"
         ],
         "asn": "AS39287"
     },
@@ -30208,6 +30211,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "test3",
+        "asn": "AS48031"
+    },
+    {
         "nickname": "Quintex72",
         "exit_address": [
             "204.8.96.161"
@@ -33757,6 +33764,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "test",
+        "asn": "AS48031"
+    },
+    {
         "nickname": "keller",
         "asn": "AS208323"
     },
@@ -34081,7 +34092,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV7797",
+        "nickname": "TV2607",
         "asn": "AS28573"
     },
     {
@@ -42126,6 +42137,10 @@
             "64.190.76.12"
         ],
         "asn": "AS214094"
+    },
+    {
+        "nickname": "effort831",
+        "asn": "AS47890"
     },
     {
         "nickname": "Quetzalcoatl",
