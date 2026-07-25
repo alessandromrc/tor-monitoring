@@ -153,6 +153,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "JayCO1",
+        "asn": "AS39287"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS202448"
     },
@@ -10588,10 +10592,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "vpsbrexit",
-        "asn": "AS47583"
     },
     {
         "nickname": "ayrastarr",
@@ -24937,10 +24937,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "Quintex39",
         "exit_address": [
             "204.8.96.88"
@@ -31314,9 +31310,6 @@
     },
     {
         "nickname": "OMICRON",
-        "exit_address": [
-            "86.54.28.49"
-        ],
         "asn": "AS12989"
     },
     {
@@ -38690,7 +38683,7 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "TV3426",
+        "nickname": "TV2872",
         "asn": "AS22927"
     },
     {
@@ -46053,9 +46046,6 @@
     },
     {
         "nickname": "Quintex366",
-        "exit_address": [
-            "204.8.96.155"
-        ],
         "asn": "AS62744"
     },
     {
@@ -46182,6 +46172,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.20"
+        ],
         "asn": "AS27284"
     },
     {
