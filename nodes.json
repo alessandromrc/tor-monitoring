@@ -705,10 +705,6 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "KoopaRelay",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "Quintex372",
         "exit_address": [
             "204.8.96.161"
@@ -8379,7 +8375,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV3446",
+        "nickname": "TV4094",
         "asn": "AS7418"
     },
     {
@@ -13341,7 +13337,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV4849",
+        "nickname": "TV4063",
         "asn": "AS262196"
     },
     {
@@ -17877,10 +17873,6 @@
         "asn": "AS62336"
     },
     {
-        "nickname": "JCacheTor",
-        "asn": "AS803"
-    },
-    {
         "nickname": "Quintex222",
         "exit_address": [
             "204.8.96.75"
@@ -22019,6 +22011,9 @@
     },
     {
         "nickname": "Limbo74",
+        "exit_address": [
+            "203.12.31.167"
+        ],
         "asn": "AS210083"
     },
     {
@@ -34084,7 +34079,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV5162",
+        "nickname": "TV2206",
         "asn": "AS28573"
     },
     {
@@ -39060,6 +39055,10 @@
         "asn": "AS20115"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS4764"
+    },
+    {
         "nickname": "NTH145R7",
         "exit_address": [
             "192.42.116.145"
@@ -40740,6 +40739,10 @@
             "45.84.107.198"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "TORHELPER",
+        "asn": "AS203363"
     },
     {
         "nickname": "PrincessLipid",
@@ -46447,10 +46450,6 @@
     {
         "nickname": "Doedelkiste08",
         "asn": "AS35366"
-    },
-    {
-        "nickname": "kfc",
-        "asn": "AS51396"
     },
     {
         "nickname": "Quintex165",
