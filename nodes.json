@@ -1437,6 +1437,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "mittelerde2",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "Wuselnet",
         "asn": "AS24940"
     },
@@ -8121,10 +8125,6 @@
             "204.8.96.166"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "1577670679873544",
-        "asn": "AS211507"
     },
     {
         "nickname": "Unnamed",
@@ -26168,7 +26168,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.189"
+            "198.167.206.189",
+            "198.167.206.251"
         ],
         "asn": "AS39287"
     },
@@ -33487,10 +33488,6 @@
     {
         "nickname": "nss",
         "asn": "AS393408"
-    },
-    {
-        "nickname": "BroomfieldHomelab",
-        "asn": "AS16591"
     },
     {
         "nickname": "uchoRelay",
@@ -42947,10 +42944,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "relayyyyyyyy",
-        "asn": "AS207187"
-    },
-    {
         "nickname": "RuneByteNET",
         "exit_address": [
             "185.181.61.201"
@@ -43859,6 +43852,9 @@
     },
     {
         "nickname": "anon1mous54",
+        "exit_address": [
+            "172.81.131.139"
+        ],
         "asn": "AS27176"
     },
     {
