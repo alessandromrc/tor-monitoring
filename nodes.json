@@ -12182,10 +12182,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "Cavern",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "Alberta",
         "exit_address": [
             "209.141.51.180"
@@ -20593,6 +20589,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "TV7127",
+        "asn": "AS12389"
+    },
+    {
         "nickname": "FoldWatchersPupJoe",
         "asn": "AS5607"
     },
@@ -23747,10 +23747,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "torNodeTango",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "Rubber2439",
         "asn": "AS51265"
     },
@@ -26049,6 +26045,9 @@
     },
     {
         "nickname": "Antisheep",
+        "exit_address": [
+            "5.255.117.56"
+        ],
         "asn": "AS60404"
     },
     {
@@ -28384,10 +28383,6 @@
     {
         "nickname": "Gl1tchX",
         "asn": "AS46690"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS45102"
     },
     {
         "nickname": "ProSecureRelay",
@@ -38964,6 +38959,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "thingyRelay",
+        "asn": "AS12364"
+    },
+    {
         "nickname": "as215248tor3a",
         "asn": "AS215248"
     },
@@ -43549,10 +43548,6 @@
     {
         "nickname": "yeattwizzyrich",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Urania",
-        "asn": "AS16509"
     },
     {
         "nickname": "MksNode1",
@@ -48441,10 +48436,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "commufa",
-        "asn": "AS18126"
-    },
-    {
         "nickname": "theispco",
         "asn": "AS40663"
     },
@@ -48873,10 +48864,6 @@
     {
         "nickname": "ParadiseTorRelay4",
         "asn": "AS42675"
-    },
-    {
-        "nickname": "JAJTorBits3",
-        "asn": "AS7922"
     },
     {
         "nickname": "PLUTEX",
@@ -49571,10 +49558,6 @@
             "147.90.234.115"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "torNodeDelta",
-        "asn": "AS8560"
     },
     {
         "nickname": "NTH100R7",
