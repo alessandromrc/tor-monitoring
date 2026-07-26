@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Tor Monitoring" width="128" height="128" />
+</p>
+
 # Tor Monitoring
 
 This repository provides live Tor network data through simple HTTPS endpoints.  
