@@ -4689,6 +4689,10 @@
         "asn": "AS31103"
     },
     {
+        "nickname": "stgoldstein",
+        "asn": "AS204876"
+    },
+    {
         "nickname": "hottstuff",
         "asn": "AS200651"
     },
@@ -5810,10 +5814,6 @@
     {
         "nickname": "leblitzdick",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "bitsbebittinn2",
-        "asn": "AS5378"
     },
     {
         "nickname": "Unnamed",
@@ -24662,10 +24662,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "INSRelay29at5443",
-        "asn": "AS1205"
-    },
-    {
         "nickname": "gopherf20",
         "asn": "AS14061"
     },
@@ -31048,6 +31044,10 @@
         "asn": "AS48314"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS397982"
+    },
+    {
         "nickname": "MyCore2Tor",
         "asn": "AS398242"
     },
@@ -33443,10 +33443,6 @@
     {
         "nickname": "RelayLama",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "InVinoVeritas3",
-        "asn": "AS202053"
     },
     {
         "nickname": "NewMFRR",
@@ -39164,7 +39160,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV4820",
+        "nickname": "TV3340",
         "asn": "AS7303"
     },
     {
@@ -42366,6 +42362,9 @@
     },
     {
         "nickname": "BringBackSilkRo",
+        "exit_address": [
+            "141.98.11.62"
+        ],
         "asn": "AS209605"
     },
     {
@@ -44066,6 +44065,10 @@
         "asn": "AS6848"
     },
     {
+        "nickname": "Tardis",
+        "asn": "AS57169"
+    },
+    {
         "nickname": "RobotDevil",
         "asn": "AS16276"
     },
@@ -44987,6 +44990,9 @@
     },
     {
         "nickname": "snowman",
+        "exit_address": [
+            "188.116.36.143"
+        ],
         "asn": "AS60117"
     },
     {
@@ -48521,7 +48527,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -50860,6 +50866,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "SagaciousTor",
+        "asn": "AS398721"
+    },
+    {
         "nickname": "lilscrappy",
         "asn": "AS36849"
     },
@@ -50934,6 +50944,10 @@
     {
         "nickname": "IPXR0",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "NextServRelay01",
+        "asn": "AS204464"
     },
     {
         "nickname": "artikel10ber109",
