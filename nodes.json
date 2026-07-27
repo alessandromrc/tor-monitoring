@@ -13544,10 +13544,6 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "PrivacyRelay",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "migos",
         "asn": "AS36849"
     },
@@ -14552,6 +14548,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "OrderOfTime",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "PoComptonRelay",
         "asn": "AS852"
     },
@@ -15549,10 +15549,6 @@
     {
         "nickname": "UnshakledIsaac",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "InVinoVeritas4",
-        "asn": "AS202053"
     },
     {
         "nickname": "seniorrelay",
@@ -21219,10 +21215,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "privado",
-        "asn": "AS50613"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -25467,6 +25459,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "torexit05",
+        "asn": "AS16125"
+    },
+    {
         "nickname": "relayon0176",
         "exit_address": [
             "185.220.101.176"
@@ -26146,6 +26142,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.134",
             "198.167.206.251"
         ],
         "asn": "AS39287"
@@ -28814,10 +28811,6 @@
     {
         "nickname": "torRelay271",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "myTorRelay",
-        "asn": "AS3320"
     },
     {
         "nickname": "r0cket04i7",
@@ -34295,10 +34288,6 @@
         "asn": "AS3223"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS30860"
-    },
-    {
         "nickname": "rofltor05",
         "asn": "AS24940"
     },
@@ -35247,6 +35236,10 @@
             "185.246.190.137"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "sati",
+        "asn": "AS31898"
     },
     {
         "nickname": "secretpassage2",
@@ -42487,6 +42480,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "limon",
+        "asn": "AS15924"
+    },
+    {
         "nickname": "DemonsysSEA",
         "asn": "AS16276"
     },
@@ -42911,6 +42908,10 @@
     {
         "nickname": "zyklon",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "runaz2",
+        "asn": "AS213790"
     },
     {
         "nickname": "NYCBUG0",
@@ -43989,6 +43990,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "torexit03",
+        "asn": "AS16125"
+    },
+    {
         "nickname": "aRC0C7",
         "asn": "AS31898"
     },
@@ -44833,10 +44838,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "opencommunity",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "tor2",
         "asn": "AS8560"
     },
@@ -44983,6 +44984,10 @@
     {
         "nickname": "vps171f7d1e",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "snowman",
+        "asn": "AS60117"
     },
     {
         "nickname": "freakonaleash",
@@ -46249,6 +46254,10 @@
     {
         "nickname": "NurembergRelay353",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "torexit02",
+        "asn": "AS16125"
     },
     {
         "nickname": "Quintex165",
@@ -48512,7 +48521,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49423,6 +49432,10 @@
         "asn": "AS38195"
     },
     {
+        "nickname": "torexit01",
+        "asn": "AS16125"
+    },
+    {
         "nickname": "lildouble0",
         "asn": "AS36849"
     },
@@ -50155,6 +50168,10 @@
     {
         "nickname": "flowjob07",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "torexit04",
+        "asn": "AS16125"
     },
     {
         "nickname": "Relosky",
