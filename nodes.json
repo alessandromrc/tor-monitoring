@@ -733,10 +733,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Basil",
-        "asn": "AS8758"
-    },
-    {
         "nickname": "headieone",
         "asn": "AS36849"
     },
@@ -12745,10 +12741,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "FuckTheCcp",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "playboybunny",
         "asn": "AS60404"
     },
@@ -16161,6 +16153,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "nextservRelay",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "Quintex66",
         "exit_address": [
             "204.8.96.155"
@@ -19335,9 +19331,6 @@
     },
     {
         "nickname": "shhhNotSoLoud",
-        "exit_address": [
-            "65.38.109.3"
-        ],
         "asn": "AS394503"
     },
     {
@@ -25456,6 +25449,9 @@
     },
     {
         "nickname": "torexit05",
+        "exit_address": [
+            "46.166.172.198"
+        ],
         "asn": "AS16125"
     },
     {
@@ -27483,6 +27479,10 @@
     {
         "nickname": "myNiceRelay",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "nextservExit",
+        "asn": "AS204464"
     },
     {
         "nickname": "s3sam",
@@ -30638,10 +30638,6 @@
     {
         "nickname": "mongolefiere",
         "asn": "AS4540"
-    },
-    {
-        "nickname": "detch232",
-        "asn": "AS63150"
     },
     {
         "nickname": "ChocolateBit",
@@ -43990,6 +43986,9 @@
     },
     {
         "nickname": "torexit03",
+        "exit_address": [
+            "46.166.172.196"
+        ],
         "asn": "AS16125"
     },
     {
@@ -46263,6 +46262,9 @@
     },
     {
         "nickname": "torexit02",
+        "exit_address": [
+            "46.166.172.195"
+        ],
         "asn": "AS16125"
     },
     {
@@ -48390,7 +48392,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV8221",
+        "nickname": "TV9322",
         "asn": "AS37705"
     },
     {
@@ -48527,7 +48529,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49439,6 +49441,9 @@
     },
     {
         "nickname": "torexit01",
+        "exit_address": [
+            "46.166.172.194"
+        ],
         "asn": "AS16125"
     },
     {
@@ -50177,6 +50182,9 @@
     },
     {
         "nickname": "torexit04",
+        "exit_address": [
+            "46.166.172.197"
+        ],
         "asn": "AS16125"
     },
     {
