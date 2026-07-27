@@ -1376,6 +1376,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "photon",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "yungbans",
         "asn": "AS36849"
     },
@@ -13311,7 +13315,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV7341",
+        "nickname": "TV8635",
         "asn": "AS262196"
     },
     {
@@ -21973,9 +21977,6 @@
     },
     {
         "nickname": "Limbo74",
-        "exit_address": [
-            "203.12.31.167"
-        ],
         "asn": "AS210083"
     },
     {
@@ -23550,10 +23551,6 @@
     {
         "nickname": "esg",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "noa",
-        "asn": "AS57169"
     },
     {
         "nickname": "DFRI64",
@@ -29449,6 +29446,10 @@
         "asn": "AS3215"
     },
     {
+        "nickname": "ObnoxiousRelay",
+        "asn": "AS852"
+    },
+    {
         "nickname": "Phantom79279",
         "asn": "AS14061"
     },
@@ -33601,10 +33602,6 @@
     {
         "nickname": "zgato",
         "asn": "AS26042"
-    },
-    {
-        "nickname": "friendlybrother",
-        "asn": "AS14061"
     },
     {
         "nickname": "sh97US105RTMP",
@@ -48944,6 +48941,10 @@
     {
         "nickname": "chinstrap",
         "asn": "AS19994"
+    },
+    {
+        "nickname": "NBNGravelinesR1",
+        "asn": "AS16276"
     },
     {
         "nickname": "ValveCover",
