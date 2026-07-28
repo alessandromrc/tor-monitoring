@@ -5264,10 +5264,6 @@
         "asn": "AS4319"
     },
     {
-        "nickname": "DFnodo",
-        "asn": "AS12430"
-    },
-    {
         "nickname": "Shallot",
         "asn": "AS51167"
     },
@@ -22008,9 +22004,6 @@
     },
     {
         "nickname": "level9000",
-        "exit_address": [
-            "194.53.137.156"
-        ],
         "asn": "AS9009"
     },
     {
@@ -24338,10 +24331,6 @@
             "141.239.158.222"
         ],
         "asn": "AS36149"
-    },
-    {
-        "nickname": "staywokewokestay",
-        "asn": "AS16276"
     },
     {
         "nickname": "BienwaldKA01",
@@ -28610,9 +28599,6 @@
     },
     {
         "nickname": "eo193",
-        "exit_address": [
-            "23.129.64.193"
-        ],
         "asn": "AS396507"
     },
     {
@@ -34702,10 +34688,6 @@
     {
         "nickname": "AntonPann3",
         "asn": "AS41075"
-    },
-    {
-        "nickname": "MyNiceRelay",
-        "asn": "AS3209"
     },
     {
         "nickname": "HjelmEnterprises02",
@@ -40929,6 +40911,9 @@
     },
     {
         "nickname": "jetplume36",
+        "exit_address": [
+            "195.88.74.206"
+        ],
         "asn": "AS48900"
     },
     {
@@ -45786,9 +45771,6 @@
     },
     {
         "nickname": "eo209",
-        "exit_address": [
-            "23.129.64.209"
-        ],
         "asn": "AS396507"
     },
     {
@@ -48530,8 +48512,8 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
-        "asn": "AS210558"
+        "nickname": "SecretDropNL",
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
