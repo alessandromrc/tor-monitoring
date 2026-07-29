@@ -14983,6 +14983,10 @@
         "asn": "AS203003"
     },
     {
+        "nickname": "HellGuard",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "trinity",
         "asn": "AS719"
     },
@@ -20378,6 +20382,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "stgoldstein3",
+        "asn": "AS204876"
+    },
+    {
         "nickname": "ash9",
         "asn": "AS14061"
     },
@@ -21344,6 +21352,10 @@
     {
         "nickname": "XSucks",
         "asn": "AS214503"
+    },
+    {
+        "nickname": "corewars",
+        "asn": "AS35916"
     },
     {
         "nickname": "razorgmc",
@@ -23206,10 +23218,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "PutinHuilo200",
-        "asn": "AS9123"
-    },
-    {
         "nickname": "HetznerStrongRelay",
         "asn": "AS24940"
     },
@@ -23675,6 +23683,10 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "stgoldstein5",
+        "asn": "AS204876"
     },
     {
         "nickname": "bigflo",
@@ -25999,9 +26011,6 @@
     },
     {
         "nickname": "europeantgah",
-        "exit_address": [
-            "198.167.206.243"
-        ],
         "asn": "AS39287"
     },
     {
@@ -30319,6 +30328,10 @@
     {
         "nickname": "bonecrusher",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "stgoldstein4",
+        "asn": "AS204876"
     },
     {
         "nickname": "bauruine",
@@ -34770,10 +34783,6 @@
             "23.128.248.169"
         ],
         "asn": "AS400226"
-    },
-    {
-        "nickname": "sartre2",
-        "asn": "AS200651"
     },
     {
         "nickname": "judoka",
@@ -41145,6 +41154,10 @@
     {
         "nickname": "Woodland",
         "asn": "AS18624"
+    },
+    {
+        "nickname": "LechatTheCatgirl",
+        "asn": "AS215114"
     },
     {
         "nickname": "iamthatdude",
@@ -48385,11 +48398,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropNL",
+        "nickname": "SecretDropUS",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS211507"
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
