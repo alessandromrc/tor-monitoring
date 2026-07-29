@@ -7385,7 +7385,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV184",
+        "nickname": "TV399",
         "asn": "AS22927"
     },
     {
@@ -9369,10 +9369,6 @@
     {
         "nickname": "NTH153R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "VoxBox",
-        "asn": "AS6661"
     },
     {
         "nickname": "aphroditeRelay1",
@@ -13246,7 +13242,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV1051",
+        "nickname": "TV7733",
         "asn": "AS262196"
     },
     {
@@ -21355,6 +21351,9 @@
     },
     {
         "nickname": "corewars",
+        "exit_address": [
+            "148.135.75.210"
+        ],
         "asn": "AS35916"
     },
     {
@@ -36669,6 +36668,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "Aliveinside",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "FrenchGoose",
         "asn": "AS214677"
     },
@@ -43670,10 +43673,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TorRelay27",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.38"
@@ -44639,9 +44638,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "80.82.76.41"
-        ],
         "asn": "AS202425"
     },
     {
@@ -48580,6 +48576,10 @@
         "asn": "AS3164"
     },
     {
+        "nickname": "ArriveInside",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "NTH114R7",
         "exit_address": [
             "192.42.116.114"
@@ -50360,9 +50360,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "45.81.21.50"
-        ],
         "asn": "AS204615"
     },
     {
