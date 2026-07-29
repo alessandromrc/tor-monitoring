@@ -4383,9 +4383,6 @@
     },
     {
         "nickname": "poitras",
-        "exit_address": [
-            "23.129.64.146"
-        ],
         "asn": "AS396507"
     },
     {
@@ -8084,9 +8081,6 @@
     },
     {
         "nickname": "hellman",
-        "exit_address": [
-            "23.129.64.155"
-        ],
         "asn": "AS396507"
     },
     {
@@ -8345,7 +8339,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV4034",
+        "nickname": "TV6395",
         "asn": "AS7418"
     },
     {
@@ -18055,10 +18049,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TORHELPER",
-        "asn": "AS3214"
-    },
-    {
         "nickname": "DFRI121",
         "exit_address": [
             "171.25.193.80"
@@ -19986,7 +19976,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "3NiTY",
+        "nickname": "MIB",
         "exit_address": [
             "78.17.93.70"
         ],
@@ -21741,6 +21731,10 @@
         "asn": "AS27176"
     },
     {
+        "nickname": "zgato",
+        "asn": "AS206996"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -21847,6 +21841,9 @@
     },
     {
         "nickname": "Limbo74",
+        "exit_address": [
+            "203.12.31.167"
+        ],
         "asn": "AS210083"
     },
     {
@@ -21952,6 +21949,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.252"
+        ],
         "asn": "AS205100"
     },
     {
@@ -23088,6 +23088,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.252"
+        ],
         "asn": "AS205100"
     },
     {
@@ -23418,6 +23421,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.255"
+        ],
         "asn": "AS205100"
     },
     {
@@ -25166,7 +25172,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "5M1T8",
+        "nickname": "MiB",
         "asn": "AS26832"
     },
     {
@@ -25307,10 +25313,6 @@
             "171.25.193.45"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "Faustino50",
-        "asn": "AS36352"
     },
     {
         "nickname": "torexit05",
@@ -25820,10 +25822,6 @@
             "204.8.96.110"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS15704"
     },
     {
         "nickname": "scummage",
@@ -26518,6 +26516,10 @@
             "45.66.35.20"
         ],
         "asn": "AS61125"
+    },
+    {
+        "nickname": "zgato",
+        "asn": "AS206996"
     },
     {
         "nickname": "Quintex123",
@@ -29027,6 +29029,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "zgato",
+        "asn": "AS206996"
+    },
+    {
         "nickname": "r0cket13i0",
         "exit_address": [
             "45.84.107.97"
@@ -29977,6 +29983,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.253"
+        ],
         "asn": "AS205100"
     },
     {
@@ -30849,9 +30858,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.223.84.84"
-        ],
         "asn": "AS36352"
     },
     {
@@ -31031,6 +31037,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.255"
+        ],
         "asn": "AS205100"
     },
     {
@@ -31127,10 +31136,16 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.254"
+        ],
         "asn": "AS205100"
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.253"
+        ],
         "asn": "AS205100"
     },
     {
@@ -31368,9 +31383,6 @@
     },
     {
         "nickname": "manning",
-        "exit_address": [
-            "23.129.64.142"
-        ],
         "asn": "AS396507"
     },
     {
@@ -31848,6 +31860,10 @@
     {
         "nickname": "Void",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "RelayFR",
+        "asn": "AS211273"
     },
     {
         "nickname": "SpookieRelay",
@@ -36626,6 +36642,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ididedittheconfig",
+        "asn": "AS2856"
+    },
+    {
         "nickname": "Quintex192",
         "exit_address": [
             "204.8.96.181"
@@ -39596,10 +39616,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "Sacha",
-        "asn": "AS8075"
-    },
-    {
         "nickname": "XMRStableCrypto",
         "asn": "AS48753"
     },
@@ -40934,6 +40950,9 @@
     },
     {
         "nickname": "test",
+        "exit_address": [
+            "86.107.168.183"
+        ],
         "asn": "AS26832"
     },
     {
@@ -43089,7 +43108,10 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "Z30",
+        "nickname": "MIB",
+        "exit_address": [
+            "78.17.93.91"
+        ],
         "asn": "AS26832"
     },
     {
@@ -43859,7 +43881,7 @@
         "asn": "AS56630"
     },
     {
-        "nickname": "TV5904",
+        "nickname": "TV9445",
         "asn": "AS5378"
     },
     {
@@ -45815,10 +45837,6 @@
         "asn": "AS719"
     },
     {
-        "nickname": "ubermensch",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "UnshakledEchelon",
         "asn": "AS16276"
     },
@@ -46982,8 +47000,12 @@
         "asn": "AS577"
     },
     {
-        "nickname": "M0RPH30VS",
+        "nickname": "MiB",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "zgato",
+        "asn": "AS206996"
     },
     {
         "nickname": "NTH44R2",
@@ -47224,6 +47246,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.254"
+        ],
         "asn": "AS205100"
     },
     {
@@ -48083,9 +48108,6 @@
     },
     {
         "nickname": "eo214",
-        "exit_address": [
-            "23.129.64.214"
-        ],
         "asn": "AS396507"
     },
     {
@@ -48368,11 +48390,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
