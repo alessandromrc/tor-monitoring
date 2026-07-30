@@ -7853,6 +7853,9 @@
     },
     {
         "nickname": "hands",
+        "exit_address": [
+            "109.169.33.163"
+        ],
         "asn": "AS20860"
     },
     {
@@ -8377,10 +8380,6 @@
     {
         "nickname": "blrfortormd",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "HeliumFactory",
-        "asn": "AS398721"
     },
     {
         "nickname": "UnredactedWylie",
@@ -13255,7 +13254,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV713",
+        "nickname": "TV7714",
         "asn": "AS262196"
     },
     {
@@ -21156,10 +21155,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Mainframe",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "obscuraalm01",
         "asn": "AS202422"
     },
@@ -27127,10 +27122,6 @@
             "45.84.107.128"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "Onionhighway718",
-        "asn": "AS25255"
     },
     {
         "nickname": "CembraNutBoys01",
@@ -33467,10 +33458,6 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "springonion",
-        "asn": "AS60404"
-    },
-    {
         "nickname": "SlugnetExitRelay02",
         "asn": "AS40663"
     },
@@ -38487,6 +38474,10 @@
         "asn": "AS399646"
     },
     {
+        "nickname": "GIZeStiC",
+        "asn": "AS32613"
+    },
+    {
         "nickname": "as214958tor4",
         "asn": "AS8283"
     },
@@ -39517,6 +39508,10 @@
     {
         "nickname": "Nymeria",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "breaker39",
+        "asn": "AS36352"
     },
     {
         "nickname": "vpskilobug",
@@ -42328,6 +42323,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Death",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "kleatus",
         "asn": "AS215381"
     },
@@ -42870,6 +42869,10 @@
     {
         "nickname": "cairnes",
         "asn": "AS60781"
+    },
+    {
+        "nickname": "zgato",
+        "asn": "AS41608"
     },
     {
         "nickname": "zyklon",
@@ -44738,10 +44741,6 @@
     {
         "nickname": "yaeji",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "omarmercado8",
-        "asn": "AS11878"
     },
     {
         "nickname": "NTH64R4",
