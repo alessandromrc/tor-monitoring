@@ -1040,6 +1040,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "torgwthem",
+        "asn": "AS8412"
+    },
+    {
         "nickname": "Mikoshi4",
         "asn": "AS3320"
     },
@@ -17676,6 +17680,9 @@
     },
     {
         "nickname": "marylou1",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -18165,7 +18172,7 @@
     },
     {
         "nickname": "ChomelesDEionos",
-        "asn": "AS8560"
+        "asn": "AS215136"
     },
     {
         "nickname": "sarkodie",
@@ -25870,6 +25877,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS15704"
+    },
+    {
         "nickname": "scummage",
         "asn": "AS7018"
     },
@@ -29452,6 +29463,9 @@
     },
     {
         "nickname": "marylou2",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -29612,6 +29626,9 @@
     },
     {
         "nickname": "marylou3",
+        "exit_address": [
+            "89.234.157.254"
+        ],
         "asn": "AS197422"
     },
     {
@@ -36094,7 +36111,7 @@
     },
     {
         "nickname": "Hooyah",
-        "asn": "AS9009"
+        "asn": "AS212238"
     },
     {
         "nickname": "hollunder",
@@ -38917,10 +38934,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "Chief",
-        "asn": "AS58087"
     },
     {
         "nickname": "r0cket03i2",
@@ -43034,10 +43047,6 @@
     {
         "nickname": "zeusrelay26",
         "asn": "AS151660"
-    },
-    {
-        "nickname": "keef",
-        "asn": "AS58087"
     },
     {
         "nickname": "ramirez",
@@ -47932,10 +47941,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "testostenode",
-        "asn": "AS58087"
-    },
-    {
         "nickname": "relayon0148",
         "exit_address": [
             "185.220.101.148"
@@ -51703,9 +51708,6 @@
     },
     {
         "nickname": "ExitIsland",
-        "exit_address": [
-            "89.125.153.39"
-        ],
         "asn": "AS219486"
     },
     {
@@ -51722,10 +51724,6 @@
     {
         "nickname": "nauzome",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "gotg",
-        "asn": "AS58087"
     },
     {
         "nickname": "stgoldstein2",
