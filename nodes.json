@@ -932,10 +932,6 @@
     },
     {
         "nickname": "Unnamed",
-        "asn": "AS4764"
-    },
-    {
-        "nickname": "Unnamed",
         "asn": "AS6167"
     },
     {
@@ -9972,10 +9968,6 @@
     {
         "nickname": "barabasz",
         "asn": "AS5089"
-    },
-    {
-        "nickname": "funkolando",
-        "asn": "AS3249"
     },
     {
         "nickname": "delasoul",
@@ -21317,6 +21309,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "PabloRelay",
+        "asn": "AS57269"
+    },
+    {
         "nickname": "privado",
         "asn": "AS50613"
     },
@@ -23810,10 +23806,6 @@
             "201.3.225.65"
         ],
         "asn": "AS48031"
-    },
-    {
-        "nickname": "Rubber2439",
-        "asn": "AS51265"
     },
     {
         "nickname": "DFRI164",
@@ -35836,6 +35828,10 @@
     {
         "nickname": "forest26",
         "asn": "AS26383"
+    },
+    {
+        "nickname": "TORHELPER",
+        "asn": "AS31898"
     },
     {
         "nickname": "Millerntor",
@@ -48855,11 +48851,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
