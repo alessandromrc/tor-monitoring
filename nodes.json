@@ -22730,10 +22730,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "6RkeOldafyGq2up1mXh",
-        "asn": "AS3462"
-    },
-    {
         "nickname": "stoertetor02",
         "asn": "AS24940"
     },
@@ -23005,6 +23001,10 @@
     {
         "nickname": "biggeazy",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "BIP110",
+        "asn": "AS36352"
     },
     {
         "nickname": "YVRtorPi48MB",
@@ -27544,10 +27544,6 @@
             "23.129.64.147"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "TV4271",
-        "asn": "AS6327"
     },
     {
         "nickname": "toradmin",
@@ -42071,6 +42067,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "87.121.52.101"
+        ],
         "asn": "AS34224"
     },
     {
@@ -48701,7 +48700,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV1775",
+        "nickname": "TV733",
         "asn": "AS37705"
     },
     {
