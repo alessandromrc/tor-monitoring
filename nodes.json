@@ -3345,10 +3345,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "relay48",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "ywaifir",
         "exit_address": [
             "212.95.50.77"
@@ -7888,9 +7884,6 @@
     },
     {
         "nickname": "PandaHideout",
-        "exit_address": [
-            "49.213.62.84"
-        ],
         "asn": "AS213605"
     },
     {
@@ -10719,6 +10712,10 @@
         "asn": "AS8881"
     },
     {
+        "nickname": "jayeffkay0",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "obscurayrv01",
         "asn": "AS202422"
     },
@@ -10743,10 +10740,6 @@
             "185.243.218.232"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "number9large",
-        "asn": "AS211895"
     },
     {
         "nickname": "Mischmaschine",
@@ -18310,6 +18303,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "opencommunity",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "NTH56R2",
         "exit_address": [
             "192.42.116.56"
@@ -20323,7 +20320,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TV544",
+        "nickname": "TV6421",
         "asn": "AS22927"
     },
     {
@@ -20859,10 +20856,6 @@
     {
         "nickname": "BehemothLTDUK1",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "FrakerTor",
-        "asn": "AS6327"
     },
     {
         "nickname": "blizzard2",
@@ -29144,6 +29137,10 @@
     {
         "nickname": "flachmon",
         "asn": "AS15943"
+    },
+    {
+        "nickname": "d3dc10b86daafa0e",
+        "asn": "AS56655"
     },
     {
         "nickname": "timbaland",
@@ -42069,6 +42066,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS34224"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.227"
@@ -46271,10 +46272,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "BorkNode02",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "shawnna",
         "asn": "AS36849"
     },
@@ -47221,6 +47218,10 @@
             "185.100.87.192"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "PaxyTorProxy",
+        "asn": "AS8400"
     },
     {
         "nickname": "NTH43R8",
@@ -48397,6 +48398,10 @@
         "asn": "AS39798"
     },
     {
+        "nickname": "MyDockerRelay",
+        "asn": "AS42885"
+    },
+    {
         "nickname": "lildarkie",
         "asn": "AS36849"
     },
@@ -48833,7 +48838,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "rundmc",
