@@ -4645,10 +4645,6 @@
         "asn": "AS61125"
     },
     {
-        "nickname": "test",
-        "asn": "AS48031"
-    },
-    {
         "nickname": "SSE",
         "asn": "AS1653"
     },
@@ -20941,6 +20937,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "ASEA0",
+        "asn": "AS202053"
+    },
+    {
         "nickname": "RelayGeek03",
         "asn": "AS924"
     },
@@ -22975,6 +22975,10 @@
             "109.71.252.97"
         ],
         "asn": "AS58087"
+    },
+    {
+        "nickname": "Esp0",
+        "asn": "AS202053"
     },
     {
         "nickname": "yyzz3",
@@ -33069,10 +33073,6 @@
             "192.42.116.105"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TerminaTor",
-        "asn": "AS51167"
     },
     {
         "nickname": "Lisa29",
@@ -49477,10 +49477,6 @@
     {
         "nickname": "belovachap11",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "WitchNode",
-        "asn": "AS51167"
     },
     {
         "nickname": "Quetzalcoatl",
