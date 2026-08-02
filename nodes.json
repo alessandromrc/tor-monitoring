@@ -2903,6 +2903,9 @@
     },
     {
         "nickname": "2mpe4b",
+        "exit_address": [
+            "107.189.5.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -7455,7 +7458,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV8920",
+        "nickname": "TV5712",
         "asn": "AS22927"
     },
     {
@@ -18249,6 +18252,10 @@
         "asn": "AS24961"
     },
     {
+        "nickname": "brrbigchungus",
+        "asn": "AS48314"
+    },
+    {
         "nickname": "mimira14",
         "asn": "AS211507"
     },
@@ -25646,9 +25653,6 @@
     },
     {
         "nickname": "torexit05",
-        "exit_address": [
-            "46.166.172.198"
-        ],
         "asn": "AS16125"
     },
     {
@@ -29433,6 +29437,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "suramadu",
+        "asn": "AS136052"
+    },
+    {
         "nickname": "209489OracleLHR",
         "asn": "AS31898"
     },
@@ -32749,9 +32757,6 @@
     },
     {
         "nickname": "champchamp",
-        "exit_address": [
-            "172.104.243.155"
-        ],
         "asn": "AS63949"
     },
     {
@@ -44431,9 +44436,6 @@
     },
     {
         "nickname": "torexit03",
-        "exit_address": [
-            "46.166.172.196"
-        ],
         "asn": "AS16125"
     },
     {
@@ -46720,9 +46722,6 @@
     },
     {
         "nickname": "torexit02",
-        "exit_address": [
-            "46.166.172.195"
-        ],
         "asn": "AS16125"
     },
     {
@@ -47772,6 +47771,10 @@
     {
         "nickname": "NTH301R1",
         "asn": "AS206238"
+    },
+    {
+        "nickname": "PILabRelay",
+        "asn": "AS14061"
     },
     {
         "nickname": "closedsource",
@@ -48859,7 +48862,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV8122",
+        "nickname": "TV5581",
         "asn": "AS37705"
     },
     {
@@ -49915,9 +49918,6 @@
     },
     {
         "nickname": "torexit01",
-        "exit_address": [
-            "46.166.172.194"
-        ],
         "asn": "AS16125"
     },
     {
@@ -50674,9 +50674,6 @@
     },
     {
         "nickname": "torexit04",
-        "exit_address": [
-            "46.166.172.197"
-        ],
         "asn": "AS16125"
     },
     {
@@ -50889,6 +50886,10 @@
     {
         "nickname": "CopperOri",
         "asn": "AS203424"
+    },
+    {
+        "nickname": "ImportOpsecRelay",
+        "asn": "AS33588"
     },
     {
         "nickname": "prsv",
