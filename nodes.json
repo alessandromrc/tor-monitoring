@@ -8601,7 +8601,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV7035",
+        "nickname": "TV8142",
         "asn": "AS7303"
     },
     {
@@ -13514,10 +13514,6 @@
         "asn": "AS34224"
     },
     {
-        "nickname": "Lagerfeuer",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH58R5",
         "exit_address": [
             "192.42.116.58"
@@ -15815,10 +15811,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS60781"
-    },
-    {
-        "nickname": "lukast",
-        "asn": "AS30893"
     },
     {
         "nickname": "eddierajah",
@@ -22912,9 +22904,6 @@
     },
     {
         "nickname": "lillen",
-        "exit_address": [
-            "81.232.160.94"
-        ],
         "asn": "AS3301"
     },
     {
@@ -30193,8 +30182,16 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Relay",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "Oracle",
         "asn": "AS52048"
+    },
+    {
+        "nickname": "Relay",
+        "asn": "AS200019"
     },
     {
         "nickname": "405tor6",
@@ -41745,9 +41742,6 @@
     },
     {
         "nickname": "LechatTheCatgirl",
-        "exit_address": [
-            "151.240.100.190"
-        ],
         "asn": "AS215114"
     },
     {
@@ -43429,10 +43423,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "iWontSay",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "bcetor01",
         "asn": "AS14061"
     },
@@ -44316,6 +44306,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS174"
+    },
+    {
+        "nickname": "trueprivate",
+        "asn": "AS216475"
     },
     {
         "nickname": "olivia",
@@ -49044,7 +49038,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -49186,10 +49180,6 @@
     {
         "nickname": "Lozaning",
         "asn": "AS10242"
-    },
-    {
-        "nickname": "DFSRelayExt",
-        "asn": "AS12876"
     },
     {
         "nickname": "v205",
