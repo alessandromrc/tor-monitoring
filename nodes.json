@@ -7051,10 +7051,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "polichouz",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "NTH53R5",
         "exit_address": [
             "192.42.116.53"
@@ -7471,7 +7467,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV6050",
+        "nickname": "TV3549",
         "asn": "AS22927"
     },
     {
@@ -15568,10 +15564,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "tornodearch",
-        "asn": "AS19901"
-    },
-    {
         "nickname": "georgector",
         "asn": "AS48101"
     },
@@ -19429,10 +19421,6 @@
         "asn": "AS36149"
     },
     {
-        "nickname": "echo42null",
-        "asn": "AS1836"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "107.174.146.5"
@@ -21593,6 +21581,9 @@
     },
     {
         "nickname": "jailbreakuriphone",
+        "exit_address": [
+            "167.179.117.50"
+        ],
         "asn": "AS20473"
     },
     {
@@ -22891,10 +22882,6 @@
     {
         "nickname": "slimthugbosshogg",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "frstrelay",
-        "asn": "AS15366"
     },
     {
         "nickname": "ohrly",
@@ -24986,6 +24973,9 @@
     },
     {
         "nickname": "ferrarizKolash",
+        "exit_address": [
+            "185.154.110.17"
+        ],
         "asn": "AS49770"
     },
     {
@@ -29288,6 +29278,10 @@
             "23.129.64.150"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "MyFirstExitNode",
+        "asn": "AS202053"
     },
     {
         "nickname": "TRB",
@@ -40561,6 +40555,10 @@
         "asn": "AS400304"
     },
     {
+        "nickname": "arelay4u",
+        "asn": "AS11351"
+    },
+    {
         "nickname": "wonderzone",
         "asn": "AS39798"
     },
@@ -44579,7 +44577,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -46759,6 +46757,9 @@
     },
     {
         "nickname": "kfc",
+        "exit_address": [
+            "176.65.148.133"
+        ],
         "asn": "AS51396"
     },
     {
@@ -49044,7 +49045,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
