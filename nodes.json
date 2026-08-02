@@ -358,6 +358,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -5909,6 +5912,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -8586,7 +8592,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV3847",
+        "nickname": "TV8141",
         "asn": "AS7303"
     },
     {
@@ -10395,7 +10401,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV1797",
+        "nickname": "TV1858",
         "asn": "AS22927"
     },
     {
@@ -18949,10 +18955,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Sentosa",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "UnredactedChina",
         "exit_address": [
             "23.191.200.15"
@@ -26162,6 +26164,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -29285,6 +29290,9 @@
     },
     {
         "nickname": "MyFirstExitNode",
+        "exit_address": [
+            "87.58.146.44"
+        ],
         "asn": "AS202053"
     },
     {
@@ -49049,7 +49057,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
