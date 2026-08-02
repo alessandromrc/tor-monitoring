@@ -8601,7 +8601,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV1543",
+        "nickname": "TV7035",
         "asn": "AS7303"
     },
     {
@@ -14929,6 +14929,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "Brain",
+        "asn": "AS216475"
+    },
+    {
         "nickname": "JFKAirpoot8",
         "asn": "AS32723"
     },
@@ -17297,6 +17301,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "MyTorGuardRelay1",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "MKDDT",
         "asn": "AS63023"
     },
@@ -17312,7 +17320,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "pinehollow",
+        "nickname": "pinehollow1",
         "asn": "AS397982"
     },
     {
@@ -18073,10 +18081,6 @@
             "45.148.10.111"
         ],
         "asn": "AS48090"
-    },
-    {
-        "nickname": "gothamKneadsMe",
-        "asn": "AS22773"
     },
     {
         "nickname": "artikel10buc15",
@@ -20788,10 +20792,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "TV7127",
-        "asn": "AS12389"
     },
     {
         "nickname": "Unnamed",
@@ -29279,7 +29279,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "MyFirstExitNode",
+        "nickname": "UpCloudExitNode",
         "exit_address": [
             "87.58.146.44"
         ],
@@ -32682,6 +32682,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "TorRelay",
+        "asn": "AS142113"
+    },
+    {
         "nickname": "merrill",
         "exit_address": [
             "23.129.64.143"
@@ -33067,6 +33071,10 @@
             "204.8.96.188"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "pinehollow2",
+        "asn": "AS397982"
     },
     {
         "nickname": "theTorDoor",
@@ -45626,10 +45634,6 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "ICrelay",
-        "asn": "AS10796"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.227.183.149"
@@ -46984,10 +46988,6 @@
     {
         "nickname": "zgato",
         "asn": "AS12479"
-    },
-    {
-        "nickname": "durene",
-        "asn": "AS26832"
     },
     {
         "nickname": "bgoloke",
@@ -49044,7 +49044,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49066,11 +49066,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropNL",
+        "nickname": "SecretDropUS",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS211507"
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
