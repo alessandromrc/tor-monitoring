@@ -358,9 +358,6 @@
     },
     {
         "nickname": "motauri",
-        "exit_address": [
-            "95.143.193.125"
-        ],
         "asn": "AS49770"
     },
     {
@@ -7458,7 +7455,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV5712",
+        "nickname": "TV6050",
         "asn": "AS22927"
     },
     {
@@ -12025,6 +12022,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "PrivacyNodeTeni",
+        "asn": "AS36352"
     },
     {
         "nickname": "foolio",
@@ -19825,9 +19826,6 @@
     },
     {
         "nickname": "EsRabasNoCalamares",
-        "exit_address": [
-            "91.126.107.222"
-        ],
         "asn": "AS35699"
     },
     {
@@ -21062,10 +21060,6 @@
     {
         "nickname": "eclipse03",
         "asn": "AS12605"
-    },
-    {
-        "nickname": "Torben",
-        "asn": "AS3320"
     },
     {
         "nickname": "NTH13R2",
@@ -25196,6 +25190,10 @@
             "185.243.218.233"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "Sokolowa",
+        "asn": "AS29066"
     },
     {
         "nickname": "nonamegypsy",
@@ -34715,6 +34713,10 @@
         "asn": "AS12322"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS5483"
+    },
+    {
         "nickname": "UnredactedBirknfld",
         "exit_address": [
             "23.191.200.60"
@@ -35641,6 +35643,10 @@
     {
         "nickname": "SODrelay",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "suramadu",
+        "asn": "AS136052"
     },
     {
         "nickname": "scrillazone4",
@@ -38353,9 +38359,6 @@
     },
     {
         "nickname": "darkwizard",
-        "exit_address": [
-            "62.171.137.169"
-        ],
         "asn": "AS51167"
     },
     {
@@ -38491,10 +38494,6 @@
     {
         "nickname": "NTH100R7",
         "asn": "AS8283"
-    },
-    {
-        "nickname": "null",
-        "asn": "AS200019"
     },
     {
         "nickname": "dukofdarham",
@@ -46434,6 +46433,10 @@
             "192.42.116.115"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "BorkNode02",
+        "asn": "AS36352"
     },
     {
         "nickname": "shawnna",
