@@ -1609,6 +1609,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "trinity",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "toratako",
         "asn": "AS58791"
     },
@@ -5248,6 +5252,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "xyz",
+        "asn": "AS62240"
+    },
+    {
         "nickname": "punchtde",
         "asn": "AS36849"
     },
@@ -7447,7 +7455,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV48",
+        "nickname": "TV3641",
         "asn": "AS22927"
     },
     {
@@ -8217,6 +8225,9 @@
     },
     {
         "nickname": "LebLibraries",
+        "exit_address": [
+            "66.220.242.222"
+        ],
         "asn": "AS17356"
     },
     {
@@ -8563,7 +8574,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV1570",
+        "nickname": "TV3847",
         "asn": "AS7303"
     },
     {
@@ -9769,6 +9780,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.71.33"
+        ],
         "asn": "AS212477"
     },
     {
@@ -10662,6 +10676,9 @@
     },
     {
         "nickname": "XXXMRRRinBIO",
+        "exit_address": [
+            "78.17.213.22"
+        ],
         "asn": "AS212477"
     },
     {
@@ -12255,6 +12272,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.212.143"
+        ],
         "asn": "AS212477"
     },
     {
@@ -12828,6 +12848,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.212.153"
+        ],
         "asn": "AS212477"
     },
     {
@@ -16569,6 +16592,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.71.39"
+        ],
         "asn": "AS212477"
     },
     {
@@ -17733,6 +17759,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.213.225"
+        ],
         "asn": "AS212477"
     },
     {
@@ -17868,9 +17897,6 @@
     },
     {
         "nickname": "marylou1",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -18300,9 +18326,6 @@
     },
     {
         "nickname": "2mpe4",
-        "exit_address": [
-            "107.189.5.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -20218,10 +20241,6 @@
     {
         "nickname": "destroylonely",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "happybooming",
-        "asn": "AS5089"
     },
     {
         "nickname": "yungla",
@@ -22236,10 +22255,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "momlookimrelaying",
-        "asn": "AS33915"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS31898"
     },
@@ -22809,10 +22824,6 @@
     {
         "nickname": "toosi",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TV5416",
-        "asn": "AS22927"
     },
     {
         "nickname": "guru",
@@ -26530,6 +26541,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "neo",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "piccalogrindmode",
         "asn": "AS36849"
     },
@@ -29980,10 +29995,6 @@
         "asn": "AS15924"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS49683"
-    },
-    {
         "nickname": "lowFog",
         "asn": "AS16276"
     },
@@ -30938,6 +30949,9 @@
     },
     {
         "nickname": "vol2",
+        "exit_address": [
+            "136.244.111.163"
+        ],
         "asn": "AS20473"
     },
     {
@@ -34615,6 +34629,9 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
+        "exit_address": [
+            "78.17.70.211"
+        ],
         "asn": "AS212477"
     },
     {
@@ -37610,6 +37627,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "love",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "shibuya",
         "asn": "AS206238"
     },
@@ -37786,6 +37807,9 @@
     },
     {
         "nickname": "DrofSpace",
+        "exit_address": [
+            "62.210.142.224"
+        ],
         "asn": "AS12876"
     },
     {
@@ -38374,6 +38398,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "bstsrelay",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "murs",
         "asn": "AS36849"
     },
@@ -38619,6 +38647,9 @@
     },
     {
         "nickname": "2mpe4c",
+        "exit_address": [
+            "107.189.5.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -38780,10 +38811,6 @@
     {
         "nickname": "CuriousLoophole",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS49683"
     },
     {
         "nickname": "NTH100R2",
