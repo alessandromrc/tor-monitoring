@@ -8592,7 +8592,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV8141",
+        "nickname": "TV1543",
         "asn": "AS7303"
     },
     {
@@ -19127,6 +19127,10 @@
         "asn": "AS47890"
     },
     {
+        "nickname": "ShohinGuard",
+        "asn": "AS11776"
+    },
+    {
         "nickname": "anduinExit01",
         "exit_address": [
             "185.42.170.203"
@@ -20906,6 +20910,10 @@
         "asn": "AS21499"
     },
     {
+        "nickname": "justbits",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Comet14",
         "asn": "AS63949"
     },
@@ -22145,10 +22153,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "privacy4sa",
-        "asn": "AS328170"
-    },
-    {
         "nickname": "bffs4m8b5nrz5ax1",
         "asn": "AS36352"
     },
@@ -23142,10 +23146,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV7234",
-        "asn": "AS5384"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.95.169.32"
@@ -23870,10 +23870,6 @@
             "109.70.100.14"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "hayirseverbiri1337",
-        "asn": "AS210538"
     },
     {
         "nickname": "Geoff",
@@ -41769,9 +41765,6 @@
     },
     {
         "nickname": "freedomHostingByXOR",
-        "exit_address": [
-            "185.231.33.38"
-        ],
         "asn": "AS211720"
     },
     {
@@ -49079,11 +49072,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
