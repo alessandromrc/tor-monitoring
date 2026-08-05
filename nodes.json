@@ -8772,7 +8772,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV5319",
+        "nickname": "TV255",
         "asn": "AS7303"
     },
     {
@@ -8855,6 +8855,10 @@
     {
         "nickname": "configedited",
         "asn": "AS8434"
+    },
+    {
+        "nickname": "Muscal",
+        "asn": "AS51167"
     },
     {
         "nickname": "Hyper41398",
@@ -10598,7 +10602,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV1720",
+        "nickname": "TV2418",
         "asn": "AS22927"
     },
     {
@@ -15187,7 +15191,7 @@
         "asn": "AS216475"
     },
     {
-        "nickname": "JFKAirpoot8",
+        "nickname": "JFKAirport8",
         "asn": "AS32723"
     },
     {
@@ -19617,6 +19621,10 @@
     {
         "nickname": "Chenjesu",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "torrelayrickety235",
+        "asn": "AS7018"
     },
     {
         "nickname": "LillyCL",
@@ -24240,6 +24248,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "hayirseverbiri1337",
+        "asn": "AS210538"
+    },
+    {
         "nickname": "Geoff",
         "asn": "AS16276"
     },
@@ -25739,6 +25751,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -25971,7 +25986,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV1142",
+        "nickname": "TV5685",
         "asn": "AS22927"
     },
     {
@@ -30744,10 +30759,6 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "Suramadu",
-        "asn": "AS136052"
-    },
-    {
         "nickname": "NTH21R2",
         "exit_address": [
             "192.42.116.21"
@@ -30875,9 +30886,6 @@
     },
     {
         "nickname": "PremiumTorExit",
-        "exit_address": [
-            "185.100.87.136"
-        ],
         "asn": "AS200651"
     },
     {
@@ -34836,7 +34844,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV7831",
+        "nickname": "TV1671",
         "asn": "AS28573"
     },
     {
@@ -39132,10 +39140,6 @@
             "204.8.96.85"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "Senfsingapore",
-        "asn": "AS63473"
     },
     {
         "nickname": "as215248tor2b",
@@ -51127,6 +51131,10 @@
         "asn": "AS53006"
     },
     {
+        "nickname": "torserver",
+        "asn": "AS5089"
+    },
+    {
         "nickname": "lexluger",
         "asn": "AS36849"
     },
@@ -53052,10 +53060,6 @@
     {
         "nickname": "turing",
         "asn": "AS6805"
-    },
-    {
-        "nickname": "ExitIsland",
-        "asn": "AS219486"
     },
     {
         "nickname": "forest04",
