@@ -4214,10 +4214,6 @@
         "asn": "AS215730"
     },
     {
-        "nickname": "MojNode",
-        "asn": "AS8400"
-    },
-    {
         "nickname": "greasymiami",
         "asn": "AS36849"
     },
@@ -8757,7 +8753,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV8142",
+        "nickname": "TV8795",
         "asn": "AS7303"
     },
     {
@@ -10590,7 +10586,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV1793",
+        "nickname": "TV1720",
         "asn": "AS22927"
     },
     {
@@ -11819,6 +11815,10 @@
             "23.129.64.215"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "archivalrelay2",
+        "asn": "AS56655"
     },
     {
         "nickname": "XE1A",
@@ -23450,6 +23450,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "TV7130",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "99banannas",
         "asn": "AS3164"
     },
@@ -24306,10 +24310,6 @@
     {
         "nickname": "Caramelo",
         "asn": "AS136258"
-    },
-    {
-        "nickname": "halotrelayone",
-        "asn": "AS16276"
     },
     {
         "nickname": "WragingRelay",
@@ -25954,7 +25954,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV7113",
+        "nickname": "TV5963",
         "asn": "AS22927"
     },
     {
@@ -26728,10 +26728,6 @@
     {
         "nickname": "TorUtilizerCloudR4",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "europeantgah",
-        "asn": "AS39287"
     },
     {
         "nickname": "anonymityiscool",
@@ -37938,6 +37934,9 @@
     },
     {
         "nickname": "anonymityiscool2",
+        "exit_address": [
+            "205.185.121.164"
+        ],
         "asn": "AS53667"
     },
     {
@@ -45950,10 +45949,6 @@
         "asn": "AS199918"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS202425"
-    },
-    {
         "nickname": "yaeji",
         "asn": "AS36849"
     },
@@ -49618,7 +49613,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "TV597",
+        "nickname": "TV5240",
         "asn": "AS37705"
     },
     {
@@ -51753,10 +51748,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS204615"
-    },
-    {
         "nickname": "cyberbits",
         "asn": "AS12876"
     },
@@ -53210,6 +53201,10 @@
             "185.130.47.58"
         ],
         "asn": "AS210083"
+    },
+    {
+        "nickname": "archivalrelay1",
+        "asn": "AS56655"
     },
     {
         "nickname": "Quintex494",
