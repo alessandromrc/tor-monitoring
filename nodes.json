@@ -7645,10 +7645,6 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "rockericy",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "famousdex",
         "asn": "AS36849"
     },
@@ -9290,6 +9286,10 @@
     {
         "nickname": "badc2ded",
         "asn": "AS38195"
+    },
+    {
+        "nickname": "shajikarma",
+        "asn": "AS20473"
     },
     {
         "nickname": "RagingRelay",
@@ -13086,10 +13086,6 @@
         "asn": "AS12741"
     },
     {
-        "nickname": "TV3480",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "rbran0server0tor",
         "asn": "AS263108"
     },
@@ -13671,7 +13667,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV7661",
+        "nickname": "TV7672",
         "asn": "AS262196"
     },
     {
@@ -14515,6 +14511,10 @@
     {
         "nickname": "chonk",
         "asn": "AS29802"
+    },
+    {
+        "nickname": "bosco1",
+        "asn": "AS11878"
     },
     {
         "nickname": "Quintex388",
@@ -26519,6 +26519,7 @@
     {
         "nickname": "fuuutoopunderwhat",
         "exit_address": [
+            "212.192.15.177",
             "81.17.30.247"
         ],
         "asn": "AS51852"
@@ -28975,6 +28976,10 @@
             "107.189.30.236"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "844tor",
+        "asn": "AS212219"
     },
     {
         "nickname": "INSRelay38at8443",
@@ -31522,9 +31527,6 @@
     },
     {
         "nickname": "Blanche",
-        "exit_address": [
-            "198.98.48.33"
-        ],
         "asn": "AS53667"
     },
     {
@@ -32543,7 +32545,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV1303",
+        "nickname": "TV1484",
         "asn": "AS22927"
     },
     {
@@ -34839,7 +34841,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV7655",
+        "nickname": "TV2972",
         "asn": "AS28573"
     },
     {
@@ -42817,10 +42819,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Gman",
-        "asn": "AS215311"
-    },
-    {
         "nickname": "RexNet",
         "asn": "AS7029"
     },
@@ -50023,6 +50021,9 @@
     },
     {
         "nickname": "LillyCL",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS42473"
     },
     {
