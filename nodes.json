@@ -3147,10 +3147,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "ForPrivacyNET",
-        "asn": "AS24961"
-    },
-    {
         "nickname": "FuckTheCommies",
         "asn": "AS26832"
     },
@@ -13716,6 +13712,9 @@
     },
     {
         "nickname": "itsholdme",
+        "exit_address": [
+            "78.17.93.216"
+        ],
         "asn": "AS26832"
     },
     {
@@ -22812,6 +22811,9 @@
     },
     {
         "nickname": "helloanybody",
+        "exit_address": [
+            "78.17.93.117"
+        ],
         "asn": "AS26832"
     },
     {
@@ -28621,6 +28623,9 @@
     },
     {
         "nickname": "wftisgoingonhere",
+        "exit_address": [
+            "185.141.216.29"
+        ],
         "asn": "AS26832"
     },
     {
@@ -32549,7 +32554,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "TV2493",
+        "nickname": "TV786",
         "asn": "AS22927"
     },
     {
@@ -33686,6 +33691,10 @@
     {
         "nickname": "Punggol",
         "asn": "AS141995"
+    },
+    {
+        "nickname": "FestivalDay5",
+        "asn": "AS215467"
     },
     {
         "nickname": "privatecloud",
@@ -39872,6 +39881,10 @@
         "asn": "AS8434"
     },
     {
+        "nickname": "WyseOnion01",
+        "asn": "AS202613"
+    },
+    {
         "nickname": "gesdm",
         "asn": "AS3"
     },
@@ -41808,9 +41821,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "152.42.210.90"
-        ],
         "asn": "AS14061"
     },
     {
@@ -42551,6 +42561,10 @@
     {
         "nickname": "PanamaSecureNode",
         "asn": "AS27956"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS200081"
     },
     {
         "nickname": "TorBSD",
@@ -49784,7 +49798,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -49806,11 +49820,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
@@ -52160,10 +52174,6 @@
         "asn": "AS6724"
     },
     {
-        "nickname": "ShowMyWay",
-        "asn": "AS209641"
-    },
-    {
         "nickname": "NeelTorExit2A",
         "exit_address": [
             "147.90.234.63"
@@ -53075,6 +53085,9 @@
     },
     {
         "nickname": "fromthissimulation",
+        "exit_address": [
+            "78.17.93.37"
+        ],
         "asn": "AS26832"
     },
     {
