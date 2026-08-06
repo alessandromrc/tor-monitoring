@@ -4,7 +4,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "BaumiMiddleRelay06",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -4444,6 +4444,9 @@
     },
     {
         "nickname": "TulipBaroo",
+        "exit_address": [
+            "147.90.234.223"
+        ],
         "asn": "AS27284"
     },
     {
@@ -5859,7 +5862,7 @@
         "asn": "AS29691"
     },
     {
-        "nickname": "BaumiMiddleRelay05",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -8744,7 +8747,7 @@
         "asn": "AS215362"
     },
     {
-        "nickname": "TV7711",
+        "nickname": "TV8133",
         "asn": "AS7303"
     },
     {
@@ -21108,10 +21111,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS6327"
-    },
-    {
         "nickname": "UnredactedHaugen",
         "exit_address": [
             "23.191.200.64"
@@ -22610,6 +22609,9 @@
     },
     {
         "nickname": "howtoescape",
+        "exit_address": [
+            "78.17.93.142"
+        ],
         "asn": "AS26832"
     },
     {
@@ -28133,7 +28135,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "BaumiMiddleRelay04",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -29403,7 +29405,7 @@
         "asn": "AS400810"
     },
     {
-        "nickname": "BaumiMiddleRelay00",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -34597,10 +34599,6 @@
         "asn": "AS57494"
     },
     {
-        "nickname": "FurryUprising",
-        "asn": "AS577"
-    },
-    {
         "nickname": "RelayUli",
         "asn": "AS8560"
     },
@@ -34639,7 +34637,7 @@
         "asn": "AS24806"
     },
     {
-        "nickname": "BaumiMiddleRelay01",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -34660,10 +34658,6 @@
     {
         "nickname": "dotsrcExit7",
         "asn": "AS210731"
-    },
-    {
-        "nickname": "torototela",
-        "asn": "AS3269"
     },
     {
         "nickname": "r0cket15i7",
@@ -34834,6 +34828,9 @@
     },
     {
         "nickname": "mf",
+        "exit_address": [
+            "185.141.216.30"
+        ],
         "asn": "AS26832"
     },
     {
@@ -43964,7 +43961,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "BaumiMiddleRelay02",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -48054,7 +48051,7 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "BaumiMiddleRelay03",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -49798,7 +49795,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49820,11 +49817,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropNL",
+        "nickname": "SecretDropUS",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS211507"
+        "asn": "AS210558"
     },
     {
         "nickname": "prsv",
@@ -49959,6 +49956,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "hotsummer",
+        "asn": "AS20473"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -52268,7 +52269,7 @@
         "asn": "AS5404"
     },
     {
-        "nickname": "BaumiMiddleRelay07",
+        "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
     },
     {
@@ -53020,6 +53021,10 @@
             "45.84.107.33"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "TV9894",
+        "asn": "AS3741"
     },
     {
         "nickname": "DFRI25",
