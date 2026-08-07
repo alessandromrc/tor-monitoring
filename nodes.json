@@ -28304,9 +28304,6 @@
     },
     {
         "nickname": "nextservExit",
-        "exit_address": [
-            "195.123.4.231"
-        ],
         "asn": "AS204464"
     },
     {
@@ -29370,10 +29367,6 @@
     {
         "nickname": "BakerMakerBoots",
         "asn": "AS23473"
-    },
-    {
-        "nickname": "LAA",
-        "asn": "AS212219"
     },
     {
         "nickname": "BeoWulftheMighty",
@@ -44416,6 +44409,9 @@
     },
     {
         "nickname": "MuseCong",
+        "exit_address": [
+            "172.86.91.90"
+        ],
         "asn": "AS14956"
     },
     {
@@ -50056,7 +50052,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -51533,7 +51529,7 @@
         "asn": "AS30722"
     },
     {
-        "nickname": "OltrelestelleRelay",
+        "nickname": "FollowWhiteRabbit",
         "asn": "AS21409"
     },
     {
