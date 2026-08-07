@@ -8070,10 +8070,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "PandaHideout",
-        "asn": "AS213605"
-    },
-    {
         "nickname": "WMrelay1",
         "asn": "AS43118"
     },
@@ -26657,7 +26653,8 @@
     {
         "nickname": "fuuutoopunderwhat",
         "exit_address": [
-            "212.192.15.177"
+            "212.192.15.177",
+            "81.17.30.247"
         ],
         "asn": "AS51852"
     },
