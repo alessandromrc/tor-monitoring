@@ -6575,6 +6575,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "CeibaNode",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "Wolf359",
         "asn": "AS12989"
     },
@@ -9967,6 +9971,9 @@
     },
     {
         "nickname": "Runaz2",
+        "exit_address": [
+            "192.253.248.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -17710,6 +17717,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "illustrious",
+        "asn": "AS48314"
+    },
+    {
         "nickname": "apple",
         "asn": "AS5650"
     },
@@ -19381,9 +19392,6 @@
     },
     {
         "nickname": "xnodete",
-        "exit_address": [
-            "179.43.159.202"
-        ],
         "asn": "AS51852"
     },
     {
@@ -22843,9 +22851,6 @@
     },
     {
         "nickname": "Xn0d311",
-        "exit_address": [
-            "81.17.18.50"
-        ],
         "asn": "AS51852"
     },
     {
@@ -24463,6 +24468,10 @@
             "185.67.82.114"
         ],
         "asn": "AS20904"
+    },
+    {
+        "nickname": "illustrioussness",
+        "asn": "AS48314"
     },
     {
         "nickname": "cuccnl10G",
@@ -26138,7 +26147,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV6629",
+        "nickname": "TV5387",
         "asn": "AS22927"
     },
     {
@@ -27612,10 +27621,6 @@
     {
         "nickname": "MintyHaven",
         "asn": "AS62005"
-    },
-    {
-        "nickname": "pizzadough",
-        "asn": "AS14061"
     },
     {
         "nickname": "eclipse27",
@@ -29304,10 +29309,6 @@
     {
         "nickname": "Allator",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "segv",
-        "asn": "AS14061"
     },
     {
         "nickname": "rpo140flow",
@@ -45275,6 +45276,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "TorRelay27",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.38"
@@ -52517,10 +52522,6 @@
     {
         "nickname": "zgato",
         "asn": "AS206996"
-    },
-    {
-        "nickname": "HorstRelay",
-        "asn": "AS3209"
     },
     {
         "nickname": "rosmarin",
