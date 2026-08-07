@@ -5965,6 +5965,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "Bishibosh",
+        "asn": "AS133159"
+    },
+    {
         "nickname": "Tanithil",
         "asn": "AS14061"
     },
@@ -8591,10 +8595,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "TV2330",
-        "asn": "AS7418"
     },
     {
         "nickname": "intothetylerzone",
@@ -34481,10 +34481,6 @@
         "asn": "AS46841"
     },
     {
-        "nickname": "toradmin",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "Jackdaw3",
         "asn": "AS62005"
     },
@@ -50075,11 +50071,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
