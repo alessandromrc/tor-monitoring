@@ -6367,10 +6367,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Relay",
-        "asn": "AS29695"
-    },
-    {
         "nickname": "showbiz",
         "asn": "AS36849"
     },
@@ -26779,8 +26775,7 @@
     {
         "nickname": "fuuutoopunderwhat",
         "exit_address": [
-            "212.192.15.177",
-            "81.17.30.247"
+            "212.192.15.177"
         ],
         "asn": "AS51852"
     },
@@ -27158,6 +27153,10 @@
     {
         "nickname": "cochise",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "exit",
+        "asn": "AS20766"
     },
     {
         "nickname": "TheMadHackerTkDc",
@@ -28734,10 +28733,6 @@
     {
         "nickname": "TruthSeeker",
         "asn": "AS393552"
-    },
-    {
-        "nickname": "DETL0002",
-        "asn": "AS8881"
     },
     {
         "nickname": "NeelTorExit7A",
@@ -32070,6 +32065,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "23.94.148.16"
+        ],
         "asn": "AS36352"
     },
     {
