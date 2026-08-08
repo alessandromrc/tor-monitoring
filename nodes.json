@@ -16689,6 +16689,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "SvZMSiUFQN",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "AntaresExit22",
         "exit_address": [
             "150.129.10.151"
@@ -19669,10 +19673,6 @@
             "185.243.218.231"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "ttt",
-        "asn": "AS36352"
     },
     {
         "nickname": "redacted",
@@ -26245,7 +26245,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV4552",
+        "nickname": "TV6694",
         "asn": "AS22927"
     },
     {
@@ -50190,11 +50190,11 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
+        "nickname": "SecretDropNL",
         "exit_address": [
             "92.119.164.131"
         ],
-        "asn": "AS210558"
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
