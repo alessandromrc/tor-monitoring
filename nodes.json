@@ -941,7 +941,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "VegaExit5",
         "asn": "AS210558"
     },
     {
@@ -2528,7 +2528,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "KrazExit17",
         "asn": "AS30860"
     },
     {
@@ -3528,7 +3528,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "ShaulaExit80",
         "asn": "AS174"
     },
     {
@@ -6639,7 +6639,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "HadarExit30",
         "asn": "AS24961"
     },
     {
@@ -6994,7 +6994,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "S",
+        "nickname": "T",
         "asn": "AS16276"
     },
     {
@@ -7150,10 +7150,6 @@
     {
         "nickname": "caseyjones",
         "asn": "AS213373"
-    },
-    {
-        "nickname": "AsamiShimodaRival",
-        "asn": "AS207083"
     },
     {
         "nickname": "NTH170R1",
@@ -8143,7 +8139,7 @@
         "asn": "AS3399"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "OrionExit53",
         "asn": "AS36352"
     },
     {
@@ -9306,7 +9302,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "GienahExit36",
         "asn": "AS60117"
     },
     {
@@ -9826,10 +9822,6 @@
     {
         "nickname": "YukisTorRelay",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "apollomiddle1",
-        "asn": "AS5650"
     },
     {
         "nickname": "CaptainMyCaptain",
@@ -11177,7 +11169,7 @@
         "asn": "AS400175"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "OrionExit83",
         "asn": "AS36352"
     },
     {
@@ -13741,7 +13733,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV7531",
+        "nickname": "TV701",
         "asn": "AS262196"
     },
     {
@@ -16655,7 +16647,7 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "AntaresExit22",
         "asn": "AS60404"
     },
     {
@@ -17538,7 +17530,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "LyraExit40",
         "asn": "AS60404"
     },
     {
@@ -18003,7 +17995,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "WezenExit66",
         "asn": "AS42532"
     },
     {
@@ -19081,7 +19073,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "GienahExit94",
         "asn": "AS49447"
     },
     {
@@ -21031,9 +21023,6 @@
     },
     {
         "nickname": "SCSRelay",
-        "exit_address": [
-            "78.141.219.102"
-        ],
         "asn": "AS398924"
     },
     {
@@ -23645,7 +23634,7 @@
         "asn": "AS852"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "PolluxExit16",
         "asn": "AS207560"
     },
     {
@@ -23739,7 +23728,7 @@
         "asn": "AS131965"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "AludraExit42",
         "asn": "AS206264"
     },
     {
@@ -24004,7 +23993,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "MiraExit13",
         "asn": "AS204615"
     },
     {
@@ -25061,6 +25050,9 @@
     },
     {
         "nickname": "TorExitVIF",
+        "exit_address": [
+            "216.239.90.19"
+        ],
         "asn": "AS10996"
     },
     {
@@ -25261,6 +25253,10 @@
     {
         "nickname": "TorRelay2a",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "AstraExit16",
+        "asn": "AS206264"
     },
     {
         "nickname": "Estevez4893",
@@ -26046,7 +26042,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "AlnairExit34",
         "asn": "AS60404"
     },
     {
@@ -27669,7 +27665,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "PolluxExit80",
         "asn": "AS19624"
     },
     {
@@ -29076,7 +29072,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "SargasExit9",
         "asn": "AS34224"
     },
     {
@@ -31564,7 +31560,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "PolluxExit68",
         "asn": "AS27176"
     },
     {
@@ -33629,7 +33625,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "KrazExit28",
         "asn": "AS43641"
     },
     {
@@ -34242,7 +34238,7 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "NaosExit82",
         "asn": "AS6698"
     },
     {
@@ -38026,10 +38022,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS57269"
-    },
-    {
         "nickname": "r0cket07i1",
         "exit_address": [
             "45.84.107.74"
@@ -39676,7 +39668,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "SargasExit16",
         "asn": "AS36352"
     },
     {
@@ -45432,7 +45424,7 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "ShaulaExit32",
         "asn": "AS207560"
     },
     {
@@ -45549,7 +45541,7 @@
         "asn": "AS200533"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "ShaulaExit30",
         "asn": "AS49447"
     },
     {
@@ -52419,7 +52411,7 @@
         "asn": "AS9790"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "NimbusExit93",
         "asn": "AS60117"
     },
     {
@@ -53507,7 +53499,7 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "NimbusExit11",
         "asn": "AS52048"
     },
     {
