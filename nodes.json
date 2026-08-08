@@ -6631,6 +6631,10 @@
         "asn": "AS3462"
     },
     {
+        "nickname": "0x255dotdev",
+        "asn": "AS5378"
+    },
+    {
         "nickname": "8952180622941497",
         "exit_address": [
             "185.132.53.46"
@@ -21195,7 +21199,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV7294",
+        "nickname": "TV2028",
         "asn": "AS8452"
     },
     {
@@ -23069,10 +23073,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "BronkHungaryHR2",
-        "asn": "AS41075"
     },
     {
         "nickname": "Polyphemus7",
@@ -45892,6 +45892,9 @@
     },
     {
         "nickname": "eagerrose",
+        "exit_address": [
+            "185.225.69.232"
+        ],
         "asn": "AS41075"
     },
     {
