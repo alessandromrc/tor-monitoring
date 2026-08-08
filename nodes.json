@@ -9004,10 +9004,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "geistslowy",
-        "asn": "AS44133"
-    },
-    {
         "nickname": "BigLoop",
         "exit_address": [
             "23.137.254.244"
@@ -9180,6 +9176,10 @@
             "199.195.253.156"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "zgato",
+        "asn": "AS22295"
     },
     {
         "nickname": "Unnamed",
@@ -52131,9 +52131,6 @@
     },
     {
         "nickname": "slavaukraini",
-        "exit_address": [
-            "37.187.74.97"
-        ],
         "asn": "AS16276"
     },
     {
