@@ -3107,6 +3107,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "gaineeyrelay",
+        "asn": "AS46375"
+    },
+    {
         "nickname": "PerplexedExit011",
         "exit_address": [
             "109.237.27.11"
@@ -8676,9 +8680,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "149.102.153.38"
-        ],
         "asn": "AS51167"
     },
     {
@@ -8928,6 +8929,9 @@
     },
     {
         "nickname": "clarkquay",
+        "exit_address": [
+            "185.225.69.214"
+        ],
         "asn": "AS41075"
     },
     {
@@ -21152,10 +21156,6 @@
     {
         "nickname": "yungbleu",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "fireBidPilot",
-        "asn": "AS36352"
     },
     {
         "nickname": "Quintex463",
@@ -37306,9 +37306,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "149.102.153.38"
-        ],
         "asn": "AS51167"
     },
     {
@@ -41338,10 +41335,6 @@
         "asn": "AS51395"
     },
     {
-        "nickname": "TRS01",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "eruption",
         "asn": "AS63023"
     },
@@ -41495,10 +41488,6 @@
     {
         "nickname": "fedoriansRelayTor",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "PrincessPeach",
-        "asn": "AS33915"
     },
     {
         "nickname": "MassiveStealTime",
@@ -49077,10 +49066,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TorRelayDE01",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "yfnkay",
         "asn": "AS36849"
     },
@@ -49856,9 +49841,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "149.102.153.38"
-        ],
         "asn": "AS51167"
     },
     {
@@ -53348,10 +53330,6 @@
     {
         "nickname": "flowjob03",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "SunnyOldEngland",
-        "asn": "AS2856"
     },
     {
         "nickname": "vicmensa",
