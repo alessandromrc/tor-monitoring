@@ -27156,6 +27156,9 @@
     },
     {
         "nickname": "exit",
+        "exit_address": [
+            "80.67.176.91"
+        ],
         "asn": "AS20766"
     },
     {
@@ -28429,6 +28432,9 @@
     },
     {
         "nickname": "nextservExit",
+        "exit_address": [
+            "195.123.4.231"
+        ],
         "asn": "AS204464"
     },
     {
@@ -34963,9 +34969,6 @@
     },
     {
         "nickname": "GoXMRinMyContacts",
-        "exit_address": [
-            "147.161.3.31"
-        ],
         "asn": "AS399486"
     },
     {
@@ -38850,9 +38853,6 @@
     },
     {
         "nickname": "DrofSpace",
-        "exit_address": [
-            "146.70.123.122"
-        ],
         "asn": "AS9009"
     },
     {
