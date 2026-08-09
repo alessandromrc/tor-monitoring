@@ -346,6 +346,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -12862,6 +12865,9 @@
     },
     {
         "nickname": "Quintex523",
+        "exit_address": [
+            "204.8.96.76"
+        ],
         "asn": "AS62744"
     },
     {
@@ -19195,6 +19201,9 @@
     },
     {
         "nickname": "Quintex560",
+        "exit_address": [
+            "204.8.96.149"
+        ],
         "asn": "AS62744"
     },
     {
@@ -19675,6 +19684,10 @@
     {
         "nickname": "big30shiestygang",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Pizza",
+        "asn": "AS197540"
     },
     {
         "nickname": "masstor5",
@@ -21467,6 +21480,9 @@
     },
     {
         "nickname": "Quintex511",
+        "exit_address": [
+            "204.8.96.101"
+        ],
         "asn": "AS62744"
     },
     {
@@ -31683,6 +31699,9 @@
     },
     {
         "nickname": "Quintex568",
+        "exit_address": [
+            "204.8.96.157"
+        ],
         "asn": "AS62744"
     },
     {
@@ -32168,6 +32187,9 @@
     },
     {
         "nickname": "Quintex514",
+        "exit_address": [
+            "204.8.96.104"
+        ],
         "asn": "AS62744"
     },
     {
@@ -42576,10 +42598,6 @@
         "asn": "AS57043"
     },
     {
-        "nickname": "CookieCrumble",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -47133,9 +47151,6 @@
     },
     {
         "nickname": "kissmyexit",
-        "exit_address": [
-            "201.3.225.69"
-        ],
         "asn": "AS48031"
     },
     {
