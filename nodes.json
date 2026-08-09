@@ -10446,6 +10446,10 @@
         "asn": "AS398256"
     },
     {
+        "nickname": "SanRelay2",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "FuckYouPutin",
         "asn": "AS6871"
     },
@@ -10516,9 +10520,6 @@
     },
     {
         "nickname": "drake",
-        "exit_address": [
-            "23.129.64.134"
-        ],
         "asn": "AS396507"
     },
     {
@@ -11367,9 +11368,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -22984,10 +22982,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "DarkestDarkness",
-        "asn": "AS44925"
-    },
-    {
         "nickname": "PommespanzerGB1",
         "asn": "AS8560"
     },
@@ -26072,6 +26066,10 @@
             "45.84.107.55"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "SanRelay3",
+        "asn": "AS29222"
     },
     {
         "nickname": "DFRI73",
@@ -33333,6 +33331,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "SanRelay1",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Bifrost",
         "asn": "AS8473"
     },
@@ -37865,10 +37867,6 @@
     {
         "nickname": "ABOBA",
         "asn": "AS214677"
-    },
-    {
-        "nickname": "rathergonaked",
-        "asn": "AS3320"
     },
     {
         "nickname": "x4223001",
@@ -44227,6 +44225,9 @@
     },
     {
         "nickname": "KingShadow1",
+        "exit_address": [
+            "104.167.242.116"
+        ],
         "asn": "AS26286"
     },
     {
@@ -50163,8 +50164,8 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SecretDropUS",
-        "asn": "AS210558"
+        "nickname": "SecretDropNL",
+        "asn": "AS211507"
     },
     {
         "nickname": "prsv",
