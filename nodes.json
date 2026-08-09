@@ -1652,9 +1652,6 @@
     },
     {
         "nickname": "trinity",
-        "exit_address": [
-            "89.125.50.241"
-        ],
         "asn": "AS212477"
     },
     {
@@ -6091,9 +6088,6 @@
     },
     {
         "nickname": "2mpe3",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -10091,9 +10085,6 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
-        "exit_address": [
-            "78.17.71.33"
-        ],
         "asn": "AS212477"
     },
     {
@@ -13228,9 +13219,6 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
-        "exit_address": [
-            "78.17.212.153"
-        ],
         "asn": "AS212477"
     },
     {
@@ -17328,6 +17316,10 @@
             "23.129.64.173"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "FireCudaRelay",
+        "asn": "AS13030"
     },
     {
         "nickname": "Digitalcourage4ipaa",
@@ -27287,9 +27279,6 @@
     },
     {
         "nickname": "neo",
-        "exit_address": [
-            "89.125.66.96"
-        ],
         "asn": "AS212477"
     },
     {
@@ -35597,9 +35586,6 @@
     },
     {
         "nickname": "gimmexmrfastinbio",
-        "exit_address": [
-            "78.17.70.211"
-        ],
         "asn": "AS212477"
     },
     {
