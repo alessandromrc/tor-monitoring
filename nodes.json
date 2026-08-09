@@ -5490,7 +5490,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV6120",
+        "nickname": "TV2777",
         "asn": "AS27747"
     },
     {
@@ -21623,6 +21623,7 @@
     {
         "nickname": "CryonVentura",
         "exit_address": [
+            "153.75.246.107",
             "72.61.8.41"
         ],
         "asn": "AS47583"
@@ -34697,6 +34698,10 @@
     {
         "nickname": "server11r3",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "prefou",
+        "asn": "AS12322"
     },
     {
         "nickname": "Mountainmdst156",
