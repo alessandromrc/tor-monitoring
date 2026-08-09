@@ -1191,6 +1191,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Relay3158214110",
+        "asn": "AS20860"
+    },
+    {
         "nickname": "Quintex433",
         "exit_address": [
             "204.8.96.113"
@@ -3145,6 +3149,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS50266"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS20860"
     },
     {
         "nickname": "litserver",
@@ -7725,10 +7733,6 @@
             "192.42.116.17"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TV2761",
-        "asn": "AS22927"
     },
     {
         "nickname": "esko",
@@ -18539,6 +18543,10 @@
         "asn": "AS41075"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS20860"
+    },
+    {
         "nickname": "cupcake",
         "asn": "AS11572"
     },
@@ -18983,6 +18991,10 @@
     {
         "nickname": "TORHELPER",
         "asn": "AS3214"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS20860"
     },
     {
         "nickname": "DFRI121",
@@ -26164,6 +26176,10 @@
     },
     {
         "nickname": "prsv",
+        "asn": "AS20860"
+    },
+    {
+        "nickname": "prsv",
         "asn": "AS16276"
     },
     {
@@ -30982,6 +30998,10 @@
         "asn": "AS214677"
     },
     {
+        "nickname": "prsv",
+        "asn": "AS20860"
+    },
+    {
         "nickname": "mac68",
         "asn": "AS210893"
     },
@@ -32491,10 +32511,6 @@
         "asn": "AS48314"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS397982"
-    },
-    {
         "nickname": "MyCore2Tor",
         "asn": "AS398242"
     },
@@ -33533,6 +33549,10 @@
             "23.129.64.204"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "AdlerSRG",
+        "asn": "AS3209"
     },
     {
         "nickname": "knxw",
@@ -45990,7 +46010,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
@@ -49612,6 +49632,10 @@
             "204.8.96.64"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "prsv",
+        "asn": "AS20860"
     },
     {
         "nickname": "NTH107R6",
