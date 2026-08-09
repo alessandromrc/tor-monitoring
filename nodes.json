@@ -7710,10 +7710,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "TORKeFFORG38",
         "exit_address": [
             "193.189.100.205"
@@ -10951,10 +10947,6 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "TV7053",
         "asn": "AS22927"
     },
@@ -14134,6 +14126,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "thebestguard",
+        "asn": "AS212238"
+    },
+    {
         "nickname": "Quintex151",
         "exit_address": [
             "204.8.96.140"
@@ -16841,6 +16837,10 @@
             "204.8.96.86"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "TV9241",
+        "asn": "AS7303"
     },
     {
         "nickname": "9g4net5",
@@ -20351,6 +20351,10 @@
         "asn": "AS52173"
     },
     {
+        "nickname": "SkaffaExit",
+        "asn": "AS215659"
+    },
+    {
         "nickname": "alfavetix",
         "asn": "AS24940"
     },
@@ -22692,6 +22696,9 @@
     },
     {
         "nickname": "Limbo74",
+        "exit_address": [
+            "203.12.31.167"
+        ],
         "asn": "AS210083"
     },
     {
@@ -25377,6 +25384,10 @@
     {
         "nickname": "JohnTheFisherman",
         "asn": "AS6855"
+    },
+    {
+        "nickname": "roroh9999",
+        "asn": "AS20473"
     },
     {
         "nickname": "NSOGroupSucks",
@@ -30282,10 +30293,6 @@
     {
         "nickname": "scarface",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "suramadu",
-        "asn": "AS136052"
     },
     {
         "nickname": "209489OracleLHR",
