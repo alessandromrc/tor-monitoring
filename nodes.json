@@ -3997,6 +3997,10 @@
         "asn": "AS204957"
     },
     {
+        "nickname": "myNiceRelay",
+        "asn": "AS1267"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS213887"
     },
@@ -11936,9 +11940,6 @@
     },
     {
         "nickname": "eo215",
-        "exit_address": [
-            "23.129.64.215"
-        ],
         "asn": "AS396507"
     },
     {
@@ -24087,7 +24088,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV4690",
+        "nickname": "TV6764",
         "asn": "AS28573"
     },
     {
@@ -33323,10 +33324,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TorRelay",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "62.72.47.105"
@@ -35167,7 +35164,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV488",
+        "nickname": "TV9899",
         "asn": "AS28573"
     },
     {
@@ -45299,9 +45296,6 @@
     },
     {
         "nickname": "wokestaywokestay",
-        "exit_address": [
-            "149.202.79.129"
-        ],
         "asn": "AS16276"
     },
     {
@@ -46669,6 +46663,10 @@
     {
         "nickname": "DialUpDynamo24",
         "asn": "AS34244"
+    },
+    {
+        "nickname": "rootcomde",
+        "asn": "AS3215"
     },
     {
         "nickname": "Quintex62",
@@ -52521,6 +52519,10 @@
             "204.8.96.159"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "SagaciousTor",
+        "asn": "AS398721"
     },
     {
         "nickname": "lilscrappy",
