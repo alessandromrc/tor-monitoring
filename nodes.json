@@ -5463,7 +5463,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV1645",
+        "nickname": "TV7833",
         "asn": "AS27747"
     },
     {
@@ -5484,10 +5484,6 @@
     {
         "nickname": "TouchMyData",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "NodoBlade",
-        "asn": "AS30722"
     },
     {
         "nickname": "GlobalEntry",
@@ -6652,9 +6648,6 @@
     },
     {
         "nickname": "sweeney",
-        "exit_address": [
-            "23.129.64.165"
-        ],
         "asn": "AS396507"
     },
     {
@@ -15798,10 +15791,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "nobodly",
-        "asn": "AS12312"
-    },
-    {
         "nickname": "TheStonedGamer",
         "asn": "AS7922"
     },
@@ -20354,6 +20343,9 @@
     },
     {
         "nickname": "SkaffaExit",
+        "exit_address": [
+            "66.78.40.91"
+        ],
         "asn": "AS215659"
     },
     {
@@ -24327,10 +24319,6 @@
     {
         "nickname": "RadicalPrivacyRelay",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "bones",
-        "asn": "AS852"
     },
     {
         "nickname": "outatime",
@@ -30006,10 +29994,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "gfguihgrudifhguih",
-        "asn": "AS48823"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -30444,7 +30428,7 @@
         "asn": "AS200462"
     },
     {
-        "nickname": "ddropunderwhat",
+        "nickname": "fuuutoopunderwhat",
         "asn": "AS51852"
     },
     {
@@ -40718,9 +40702,6 @@
     },
     {
         "nickname": "TorRelayPoland01",
-        "exit_address": [
-            "179.60.149.108"
-        ],
         "asn": "AS209272"
     },
     {
@@ -41457,6 +41438,10 @@
     {
         "nickname": "fedoriansRelayTor",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "PrincessPeach",
+        "asn": "AS33915"
     },
     {
         "nickname": "MassiveStealTime",
@@ -45529,9 +45514,6 @@
     },
     {
         "nickname": "eo189",
-        "exit_address": [
-            "23.129.64.189"
-        ],
         "asn": "AS396507"
     },
     {
@@ -50452,9 +50434,6 @@
     },
     {
         "nickname": "PLUTEX",
-        "exit_address": [
-            "109.69.67.17"
-        ],
         "asn": "AS49855"
     },
     {
