@@ -2684,10 +2684,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "0x766c6164",
-        "asn": "AS8708"
-    },
-    {
         "nickname": "janina1",
         "asn": "AS24940"
     },
@@ -3288,6 +3284,9 @@
     },
     {
         "nickname": "AstraExit16",
+        "exit_address": [
+            "103.109.100.162"
+        ],
         "asn": "AS206264"
     },
     {
@@ -8102,6 +8101,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "ioooi",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "NTH14R8",
         "exit_address": [
             "192.42.116.14"
@@ -8252,6 +8255,10 @@
         "asn": "AS2516"
     },
     {
+        "nickname": "spider3",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.170"
@@ -8367,10 +8374,6 @@
     {
         "nickname": "fabiana",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "G0LD13",
-        "asn": "AS48031"
     },
     {
         "nickname": "artikel5ev4",
@@ -11677,9 +11680,6 @@
     },
     {
         "nickname": "llandaf",
-        "exit_address": [
-            "23.129.64.166"
-        ],
         "asn": "AS396507"
     },
     {
@@ -26610,7 +26610,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV8837",
+        "nickname": "TV1426",
         "asn": "AS22927"
     },
     {
@@ -26681,9 +26681,6 @@
     },
     {
         "nickname": "eo186",
-        "exit_address": [
-            "23.129.64.186"
-        ],
         "asn": "AS396507"
     },
     {
@@ -35412,6 +35409,9 @@
     },
     {
         "nickname": "GoXMRinMyContacts",
+        "exit_address": [
+            "147.161.3.31"
+        ],
         "asn": "AS399486"
     },
     {
@@ -46882,6 +46882,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "omarmercado8",
+        "asn": "AS11878"
+    },
+    {
         "nickname": "NTH64R4",
         "exit_address": [
             "192.42.116.64"
@@ -48403,6 +48407,10 @@
             "204.8.96.142"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "YHminipc",
+        "asn": "AS7018"
     },
     {
         "nickname": "SecureFinancesXMR",
