@@ -5876,6 +5876,10 @@
         "asn": "AS3352"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS398256"
+    },
+    {
         "nickname": "DXV7520",
         "exit_address": [
             "31.133.0.235"
@@ -8795,6 +8799,10 @@
     {
         "nickname": "JAJTorbits3",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "GlenNodeRelay",
+        "asn": "AS4764"
     },
     {
         "nickname": "Quintex501",
@@ -14684,6 +14692,10 @@
         "asn": "AS214366"
     },
     {
+        "nickname": "currentlane",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -18580,10 +18592,6 @@
         "asn": "AS60781"
     },
     {
-        "nickname": "Mikontalo",
-        "asn": "AS1759"
-    },
-    {
         "nickname": "artikel10ber90",
         "exit_address": [
             "185.220.101.23"
@@ -22296,6 +22304,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS27284"
+    },
+    {
         "nickname": "zgato",
         "asn": "AS36352"
     },
@@ -22388,6 +22400,9 @@
     },
     {
         "nickname": "corewars",
+        "exit_address": [
+            "148.135.75.210"
+        ],
         "asn": "AS35916"
     },
     {
@@ -24993,6 +25008,10 @@
     {
         "nickname": "galates2",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS262287"
     },
     {
         "nickname": "NTH133R1",
@@ -28895,6 +28914,10 @@
         "asn": "AS11426"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS19318"
+    },
+    {
         "nickname": "WolfgangAndDagmar",
         "asn": "AS3320"
     },
@@ -29801,10 +29824,6 @@
     {
         "nickname": "southside",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TinCan",
-        "asn": "AS42885"
     },
     {
         "nickname": "NTH45R8",
@@ -43047,6 +43066,10 @@
         "asn": "AS36007"
     },
     {
+        "nickname": "MalfunctioningEddy",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "orange",
         "asn": "AS5650"
     },
@@ -46639,6 +46662,10 @@
     {
         "nickname": "ChaotorumRelay",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Gelfingen2",
+        "asn": "AS6730"
     },
     {
         "nickname": "DFRI118",
