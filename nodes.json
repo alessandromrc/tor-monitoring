@@ -2247,6 +2247,9 @@
     },
     {
         "nickname": "Digitalcourage4ipca",
+        "exit_address": [
+            "185.220.101.98"
+        ],
         "asn": "AS60729"
     },
     {
@@ -6105,6 +6108,9 @@
     },
     {
         "nickname": "Digitalcourage4ipea",
+        "exit_address": [
+            "185.220.101.100"
+        ],
         "asn": "AS60729"
     },
     {
@@ -6636,6 +6642,9 @@
     },
     {
         "nickname": "Digitalcourage4ipdb",
+        "exit_address": [
+            "185.220.101.99"
+        ],
         "asn": "AS60729"
     },
     {
@@ -7377,6 +7386,9 @@
     },
     {
         "nickname": "Digitalcourage4ip7a",
+        "exit_address": [
+            "185.220.101.110"
+        ],
         "asn": "AS60729"
     },
     {
@@ -8290,6 +8302,10 @@
     {
         "nickname": "PommespanzerUS1",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "SanRelay4",
+        "asn": "AS29222"
     },
     {
         "nickname": "DFRI145",
@@ -10275,6 +10291,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "LastDragonRelay",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "NTH53R4",
         "exit_address": [
             "192.42.116.53"
@@ -11617,6 +11637,9 @@
     },
     {
         "nickname": "Digitalcourage4ip3b",
+        "exit_address": [
+            "185.220.101.106"
+        ],
         "asn": "AS60729"
     },
     {
@@ -13136,6 +13159,10 @@
         "asn": "AS59253"
     },
     {
+        "nickname": "test",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "NTH104R1",
         "asn": "AS215125"
     },
@@ -14431,7 +14458,7 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "TV3464",
+        "nickname": "TV5778",
         "asn": "AS6849"
     },
     {
@@ -14440,6 +14467,9 @@
     },
     {
         "nickname": "Digitalcourage4iphb",
+        "exit_address": [
+            "185.220.101.103"
+        ],
         "asn": "AS60729"
     },
     {
@@ -18860,6 +18890,9 @@
     },
     {
         "nickname": "Digitalcourage4ipba",
+        "exit_address": [
+            "185.220.101.97"
+        ],
         "asn": "AS60729"
     },
     {
@@ -22490,6 +22523,9 @@
     },
     {
         "nickname": "Digitalcourage4ip2a",
+        "exit_address": [
+            "185.220.101.105"
+        ],
         "asn": "AS60729"
     },
     {
@@ -22973,6 +23009,9 @@
     },
     {
         "nickname": "Digitalcourage4ip6a",
+        "exit_address": [
+            "185.220.101.109"
+        ],
         "asn": "AS60729"
     },
     {
@@ -25104,6 +25143,9 @@
     },
     {
         "nickname": "Digitalcourage4ip6b",
+        "exit_address": [
+            "185.220.101.109"
+        ],
         "asn": "AS60729"
     },
     {
@@ -27302,9 +27344,6 @@
     },
     {
         "nickname": "7408404693470079",
-        "exit_address": [
-            "185.132.53.11"
-        ],
         "asn": "AS211507"
     },
     {
@@ -27638,6 +27677,9 @@
     },
     {
         "nickname": "Digitalcourage4ip4b",
+        "exit_address": [
+            "185.220.101.107"
+        ],
         "asn": "AS60729"
     },
     {
@@ -27688,6 +27730,9 @@
     },
     {
         "nickname": "Digitalcourage4ipfa",
+        "exit_address": [
+            "185.220.101.101"
+        ],
         "asn": "AS60729"
     },
     {
@@ -28263,6 +28308,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "SanRelay5",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Montelibero",
         "asn": "AS24940"
     },
@@ -28398,6 +28447,9 @@
     },
     {
         "nickname": "Digitalcourage4ipcb",
+        "exit_address": [
+            "185.220.101.98"
+        ],
         "asn": "AS60729"
     },
     {
@@ -30710,6 +30762,9 @@
     },
     {
         "nickname": "Digitalcourage4ip5b",
+        "exit_address": [
+            "185.220.101.108"
+        ],
         "asn": "AS60729"
     },
     {
@@ -32907,6 +32962,9 @@
     },
     {
         "nickname": "Digitalcourage4ipga",
+        "exit_address": [
+            "185.220.101.102"
+        ],
         "asn": "AS60729"
     },
     {
@@ -33017,6 +33075,9 @@
     },
     {
         "nickname": "Digitalcourage4ip5a",
+        "exit_address": [
+            "185.220.101.108"
+        ],
         "asn": "AS60729"
     },
     {
@@ -34849,6 +34910,9 @@
     },
     {
         "nickname": "Digitalcourage4ip3a",
+        "exit_address": [
+            "185.220.101.106"
+        ],
         "asn": "AS60729"
     },
     {
@@ -36360,6 +36424,9 @@
     },
     {
         "nickname": "Digitalcourage4ipda",
+        "exit_address": [
+            "185.220.101.99"
+        ],
         "asn": "AS60729"
     },
     {
@@ -39513,6 +39580,9 @@
     },
     {
         "nickname": "Digitalcourage4ip2b",
+        "exit_address": [
+            "185.220.101.105"
+        ],
         "asn": "AS60729"
     },
     {
@@ -41933,6 +42003,9 @@
     },
     {
         "nickname": "Digitalcourage4ipab",
+        "exit_address": [
+            "185.220.101.96"
+        ],
         "asn": "AS60729"
     },
     {
@@ -42393,6 +42466,9 @@
     },
     {
         "nickname": "Digitalcourage4ipbb",
+        "exit_address": [
+            "185.220.101.97"
+        ],
         "asn": "AS60729"
     },
     {
@@ -43902,6 +43978,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "C0rnd0g",
+        "asn": "AS14956"
+    },
+    {
         "nickname": "r0cket09i0",
         "exit_address": [
             "45.84.107.33"
@@ -44225,6 +44305,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "TV806",
+        "asn": "AS701"
+    },
+    {
         "nickname": "ZackMorris",
         "exit_address": [
             "178.218.144.96"
@@ -44327,6 +44411,9 @@
     },
     {
         "nickname": "Digitalcourage4ip7b",
+        "exit_address": [
+            "185.220.101.110"
+        ],
         "asn": "AS60729"
     },
     {
@@ -45800,10 +45887,6 @@
             "192.42.116.19"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "psychohurricane",
-        "asn": "AS200482"
     },
     {
         "nickname": "tryler",
@@ -48983,6 +49066,9 @@
     },
     {
         "nickname": "Digitalcourage4ipfb",
+        "exit_address": [
+            "185.220.101.101"
+        ],
         "asn": "AS60729"
     },
     {
@@ -49878,6 +49964,9 @@
     },
     {
         "nickname": "Digitalcourage4ipha",
+        "exit_address": [
+            "185.220.101.103"
+        ],
         "asn": "AS60729"
     },
     {
@@ -50324,7 +50413,7 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "TV3763",
+        "nickname": "TV1309",
         "asn": "AS37705"
     },
     {
@@ -53639,6 +53728,9 @@
     },
     {
         "nickname": "Digitalcourage4ip4a",
+        "exit_address": [
+            "185.220.101.107"
+        ],
         "asn": "AS60729"
     },
     {
