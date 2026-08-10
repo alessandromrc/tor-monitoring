@@ -625,6 +625,9 @@
     },
     {
         "nickname": "Digitalcourage4ipeb",
+        "exit_address": [
+            "185.220.101.100"
+        ],
         "asn": "AS60729"
     },
     {
@@ -3906,10 +3909,6 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "myRelay1",
-        "asn": "AS262391"
-    },
-    {
         "nickname": "BSDrelay09",
         "asn": "AS53667"
     },
@@ -4371,6 +4370,9 @@
     },
     {
         "nickname": "Digitalcourage4ipgb",
+        "exit_address": [
+            "185.220.101.102"
+        ],
         "asn": "AS60729"
     },
     {
@@ -7934,6 +7936,9 @@
     },
     {
         "nickname": "Palewillow",
+        "exit_address": [
+            "152.53.32.167"
+        ],
         "asn": "AS197540"
     },
     {
@@ -17496,6 +17501,9 @@
     },
     {
         "nickname": "Digitalcourage4ipaa",
+        "exit_address": [
+            "185.220.101.96"
+        ],
         "asn": "AS60729"
     },
     {
@@ -32371,6 +32379,9 @@
     },
     {
         "nickname": "Digitalcourage4ip1a",
+        "exit_address": [
+            "185.220.101.104"
+        ],
         "asn": "AS60729"
     },
     {
@@ -39668,6 +39679,9 @@
     },
     {
         "nickname": "Digitalcourage4ip1b",
+        "exit_address": [
+            "185.220.101.104"
+        ],
         "asn": "AS60729"
     },
     {
@@ -42985,6 +42999,10 @@
         "asn": "AS56030"
     },
     {
+        "nickname": "det0xgravity",
+        "asn": "AS812"
+    },
+    {
         "nickname": "buddy",
         "asn": "AS36849"
     },
@@ -43953,6 +43971,9 @@
     },
     {
         "nickname": "C0rnd0g",
+        "exit_address": [
+            "172.86.117.246"
+        ],
         "asn": "AS14956"
     },
     {
@@ -45266,10 +45287,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "VALinuxRelay",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "NTH42R1",
         "asn": "AS215125"
     },
@@ -45492,6 +45509,10 @@
     {
         "nickname": "NuclearShack",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "magalien",
+        "asn": "AS701"
     },
     {
         "nickname": "as215248tor3b",
@@ -53793,6 +53814,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "USARelay1",
+        "asn": "AS40021"
     },
     {
         "nickname": "surfeasy",
