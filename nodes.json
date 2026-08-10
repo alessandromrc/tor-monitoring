@@ -5363,6 +5363,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "sh97US105R",
+        "asn": "AS32181"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS199173"
     },
@@ -21205,6 +21209,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Dynasty",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "rema",
         "asn": "AS36849"
     },
@@ -31107,10 +31115,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "T",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "DrunkenOyster",
         "asn": "AS211882"
     },
@@ -33887,10 +33891,6 @@
     {
         "nickname": "Tank",
         "asn": "AS52048"
-    },
-    {
-        "nickname": "TorRelay",
-        "asn": "AS142113"
     },
     {
         "nickname": "Quintex570",
@@ -50883,6 +50883,9 @@
     },
     {
         "nickname": "PLUTEX",
+        "exit_address": [
+            "109.69.67.17"
+        ],
         "asn": "AS49855"
     },
     {
