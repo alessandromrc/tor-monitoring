@@ -3113,10 +3113,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS50266"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -12166,6 +12162,9 @@
     },
     {
         "nickname": "kimwolf",
+        "exit_address": [
+            "217.60.78.119"
+        ],
         "asn": "AS198189"
     },
     {
@@ -27070,10 +27069,6 @@
         "asn": "AS49447"
     },
     {
-        "nickname": "SygnetUSWest1",
-        "asn": "AS212317"
-    },
-    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.166"
@@ -31346,9 +31341,6 @@
     },
     {
         "nickname": "PremiumTorExit",
-        "exit_address": [
-            "185.100.87.136"
-        ],
         "asn": "AS200651"
     },
     {
@@ -35483,10 +35475,6 @@
     {
         "nickname": "theispco",
         "asn": "AS40663"
-    },
-    {
-        "nickname": "TV4057",
-        "asn": "AS27747"
     },
     {
         "nickname": "frumentumzeus",
@@ -42351,6 +42339,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "natomo",
+        "asn": "AS4713"
+    },
+    {
         "nickname": "Tachugur",
         "exit_address": [
             "62.133.45.2"
@@ -45772,10 +45764,6 @@
         "asn": "AS56630"
     },
     {
-        "nickname": "TV6118",
-        "asn": "AS5378"
-    },
-    {
         "nickname": "DFRI83",
         "exit_address": [
             "171.25.193.39"
@@ -46051,9 +46039,6 @@
     },
     {
         "nickname": "eagerrose",
-        "exit_address": [
-            "185.225.69.232"
-        ],
         "asn": "AS41075"
     },
     {
@@ -50363,7 +50348,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
