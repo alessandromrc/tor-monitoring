@@ -3584,10 +3584,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV7422",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "Lyzev",
         "asn": "AS8560"
     },
@@ -23730,6 +23726,9 @@
     },
     {
         "nickname": "hfguihgrudifhguih",
+        "exit_address": [
+            "185.11.136.232"
+        ],
         "asn": "AS48823"
     },
     {
@@ -26417,7 +26416,7 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV4641",
+        "nickname": "TV8212",
         "asn": "AS22927"
     },
     {
@@ -28526,9 +28525,6 @@
     },
     {
         "nickname": "snowden",
-        "exit_address": [
-            "23.129.64.147"
-        ],
         "asn": "AS396507"
     },
     {
@@ -28765,10 +28761,6 @@
     {
         "nickname": "taquered",
         "asn": "AS56322"
-    },
-    {
-        "nickname": "tor1no",
-        "asn": "AS34989"
     },
     {
         "nickname": "Nova28",
@@ -30260,9 +30252,6 @@
     },
     {
         "nickname": "turing",
-        "exit_address": [
-            "23.129.64.150"
-        ],
         "asn": "AS396507"
     },
     {
@@ -32465,7 +32454,7 @@
         "asn": "AS12989"
     },
     {
-        "nickname": "TV789",
+        "nickname": "TV7720",
         "asn": "AS22927"
     },
     {
@@ -37275,7 +37264,7 @@
         "asn": "AS88"
     },
     {
-        "nickname": "test",
+        "nickname": "T",
         "asn": "AS16276"
     },
     {
@@ -41869,10 +41858,6 @@
         "asn": "AS44570"
     },
     {
-        "nickname": "RandomRelay",
-        "asn": "AS1257"
-    },
-    {
         "nickname": "eo185",
         "asn": "AS396507"
     },
@@ -42193,9 +42178,6 @@
     },
     {
         "nickname": "PrincessLipid",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -53084,10 +53066,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "NochnoiDozor",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "apollo245",
         "asn": "AS51852"
     },
@@ -53261,10 +53239,6 @@
     {
         "nickname": "flomilli",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "BlooRaspbrie",
-        "asn": "AS212477"
     },
     {
         "nickname": "oneup",
