@@ -1647,6 +1647,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "RizeruGuardRelay",
+        "asn": "AS203303"
+    },
+    {
         "nickname": "chrisrivers",
         "asn": "AS36849"
     },
@@ -3393,10 +3397,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "TV5743",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "torjockel",
         "exit_address": [
             "149.56.44.47"
@@ -4327,10 +4327,6 @@
     {
         "nickname": "OkrRelay",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "TV805",
-        "asn": "AS22927"
     },
     {
         "nickname": "NTH16R6",
@@ -10763,6 +10759,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "gorbin",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Belgium",
         "asn": "AS206804"
     },
@@ -10774,7 +10774,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV1883",
+        "nickname": "TV2572",
         "asn": "AS22927"
     },
     {
@@ -11860,6 +11860,10 @@
         "asn": "AS152900"
     },
     {
+        "nickname": "idkhowinternetworks",
+        "asn": "AS1267"
+    },
+    {
         "nickname": "nitrogen",
         "asn": "AS400771"
     },
@@ -12169,7 +12173,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "stealthvm",
+        "nickname": "kimwolf",
         "asn": "AS198189"
     },
     {
@@ -15601,6 +15605,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "gorbin",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "ThanasRelay1",
         "asn": "AS16276"
     },
@@ -16141,6 +16149,10 @@
     },
     {
         "nickname": "Hyper97552",
+        "asn": "AS14061"
+    },
+    {
+        "nickname": "ArthurIvan",
         "asn": "AS14061"
     },
     {
@@ -31169,9 +31181,6 @@
     },
     {
         "nickname": "eo223",
-        "exit_address": [
-            "23.129.64.223"
-        ],
         "asn": "AS396507"
     },
     {
@@ -40762,6 +40771,10 @@
     {
         "nickname": "rittervg",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "TV6742",
+        "asn": "AS7303"
     },
     {
         "nickname": "TaageHemmingAgner",
