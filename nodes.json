@@ -32448,7 +32448,7 @@
         "asn": "AS12989"
     },
     {
-        "nickname": "TV9315",
+        "nickname": "TV3446",
         "asn": "AS22927"
     },
     {
@@ -41092,9 +41092,6 @@
     },
     {
         "nickname": "PrincessShokora",
-        "exit_address": [
-            "178.85.139.57"
-        ],
         "asn": "AS33915"
     },
     {
@@ -41510,6 +41507,10 @@
             "45.148.10.111"
         ],
         "asn": "AS48090"
+    },
+    {
+        "nickname": "TV1155",
+        "asn": "AS13489"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -43356,6 +43357,10 @@
     {
         "nickname": "eo219",
         "asn": "AS396507"
+    },
+    {
+        "nickname": "jonasBebe",
+        "asn": "AS24940"
     },
     {
         "nickname": "spacehostpurrp",
@@ -46686,6 +46691,9 @@
     },
     {
         "nickname": "Nova978",
+        "exit_address": [
+            "23.145.40.108"
+        ],
         "asn": "AS400587"
     },
     {
@@ -52642,6 +52650,10 @@
             "192.42.116.68"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "blisckatupaya",
+        "asn": "AS202422"
     },
     {
         "nickname": "Quetzalcoatl",
