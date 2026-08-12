@@ -500,6 +500,9 @@
     },
     {
         "nickname": "161864234372059",
+        "exit_address": [
+            "185.132.53.45"
+        ],
         "asn": "AS211507"
     },
     {
@@ -12652,6 +12655,9 @@
     },
     {
         "nickname": "764484440058266",
+        "exit_address": [
+            "150.40.127.161"
+        ],
         "asn": "AS211619"
     },
     {
@@ -21344,7 +21350,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "TV2028",
+        "nickname": "TV9280",
         "asn": "AS8452"
     },
     {
@@ -21747,10 +21753,6 @@
             "192.42.116.13"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS214677"
     },
     {
         "nickname": "fluffypancakes011nl",
@@ -29795,10 +29797,6 @@
             "204.8.96.182"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "LLycanORD",
-        "asn": "AS400810"
     },
     {
         "nickname": "BaumiMiddleRelays",
@@ -45962,6 +45960,9 @@
     },
     {
         "nickname": "eagerrose",
+        "exit_address": [
+            "185.225.69.232"
+        ],
         "asn": "AS41075"
     },
     {
@@ -53144,10 +53145,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS214677"
     },
     {
         "nickname": "ForPrivacyNET",
