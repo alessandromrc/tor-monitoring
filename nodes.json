@@ -1919,6 +1919,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -10408,10 +10411,6 @@
     {
         "nickname": "Thalassa",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "Thanos",
-        "asn": "AS8560"
     },
     {
         "nickname": "OysterReef",
@@ -26943,6 +26942,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -42488,6 +42490,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -44883,9 +44888,6 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
-        "exit_address": [
-            "67.219.109.141"
-        ],
         "asn": "AS20473"
     },
     {
@@ -50262,7 +50264,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
