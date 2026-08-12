@@ -28162,10 +28162,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS26277"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -36162,6 +36158,9 @@
     },
     {
         "nickname": "torexitams14",
+        "exit_address": [
+            "45.66.35.62"
+        ],
         "asn": "AS61125"
     },
     {
@@ -47428,10 +47427,6 @@
     {
         "nickname": "FlashApe2",
         "asn": "AS207083"
-    },
-    {
-        "nickname": "InnocenceTube",
-        "asn": "AS3214"
     },
     {
         "nickname": "doociv",
