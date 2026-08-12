@@ -19095,10 +19095,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "eagerrose",
-        "asn": "AS41075"
-    },
-    {
         "nickname": "SmallTownHosting",
         "asn": "AS395673"
     },
@@ -19637,6 +19633,10 @@
     {
         "nickname": "statikselektah",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "BungeeNet2",
+        "asn": "AS16276"
     },
     {
         "nickname": "desiigner",
@@ -20305,6 +20305,9 @@
     },
     {
         "nickname": "ZEYS",
+        "exit_address": [
+            "172.81.131.156"
+        ],
         "asn": "AS27176"
     },
     {
@@ -20581,10 +20584,6 @@
             "204.8.96.117"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "TorRelayAtVecses",
-        "asn": "AS20845"
     },
     {
         "nickname": "NTH64R2",
@@ -20897,6 +20896,10 @@
             "82.221.100.222"
         ],
         "asn": "AS50613"
+    },
+    {
+        "nickname": "ServuryPrivateExit",
+        "asn": "AS213250"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -22983,6 +22986,10 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
+    },
+    {
+        "nickname": "Midnight",
+        "asn": "AS3320"
     },
     {
         "nickname": "PlayParadise",
@@ -29998,10 +30005,6 @@
     {
         "nickname": "torNYU1",
         "asn": "AS12"
-    },
-    {
-        "nickname": "PLWAWVPS003",
-        "asn": "AS16276"
     },
     {
         "nickname": "Unnamed",
@@ -38481,10 +38484,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "RC2Tor",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "SavePBSandNPR",
         "asn": "AS56322"
     },
@@ -39936,6 +39935,9 @@
     },
     {
         "nickname": "Yeereereeim",
+        "exit_address": [
+            "172.81.132.94"
+        ],
         "asn": "AS27176"
     },
     {
@@ -49374,6 +49376,10 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
+    },
+    {
+        "nickname": "BungeeNet1",
+        "asn": "AS16276"
     },
     {
         "nickname": "NTH107R6",
