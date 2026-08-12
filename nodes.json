@@ -5453,7 +5453,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV3277",
+        "nickname": "TV560",
         "asn": "AS27747"
     },
     {
@@ -6102,6 +6102,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -11598,10 +11601,6 @@
     {
         "nickname": "YAOITNLAUS1",
         "asn": "AS7018"
-    },
-    {
-        "nickname": "Neon",
-        "asn": "AS63023"
     },
     {
         "nickname": "fiveseraspark",
@@ -31827,9 +31826,6 @@
     },
     {
         "nickname": "Purple",
-        "exit_address": [
-            "103.91.65.44"
-        ],
         "asn": "AS55720"
     },
     {
@@ -31944,10 +31940,6 @@
     {
         "nickname": "TORHELPER",
         "asn": "AS215730"
-    },
-    {
-        "nickname": "Blanche",
-        "asn": "AS53667"
     },
     {
         "nickname": "prsv",
