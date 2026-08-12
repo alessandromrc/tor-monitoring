@@ -5453,7 +5453,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV560",
+        "nickname": "TV3232",
         "asn": "AS27747"
     },
     {
@@ -8154,10 +8154,6 @@
             "109.169.33.163"
         ],
         "asn": "AS20860"
-    },
-    {
-        "nickname": "lostsignal",
-        "asn": "AS63023"
     },
     {
         "nickname": "NTH105R4",
@@ -12615,10 +12611,6 @@
     {
         "nickname": "bigboogie",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "idideditconfig",
-        "asn": "AS51319"
     },
     {
         "nickname": "freedoomnet",
@@ -28211,9 +28203,6 @@
     },
     {
         "nickname": "AtariFanclub",
-        "exit_address": [
-            "88.80.20.86"
-        ],
         "asn": "AS33837"
     },
     {
@@ -36681,10 +36670,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "suramadu",
-        "asn": "AS136052"
-    },
-    {
         "nickname": "scrillazone4",
         "asn": "AS36849"
     },
@@ -38360,10 +38345,6 @@
     {
         "nickname": "tormiddleRvaultcc",
         "asn": "AS202053"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4766"
     },
     {
         "nickname": "anonymoushippotamus",
@@ -44358,6 +44339,9 @@
     },
     {
         "nickname": "KingShadow1",
+        "exit_address": [
+            "104.167.242.116"
+        ],
         "asn": "AS26286"
     },
     {
