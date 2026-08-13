@@ -11580,7 +11580,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "YAOITNLAUS1",
+        "nickname": "YAOIEXILAUS1",
         "asn": "AS7018"
     },
     {
@@ -11621,9 +11621,6 @@
     },
     {
         "nickname": "taine",
-        "exit_address": [
-            "130.193.15.186"
-        ],
         "asn": "AS8648"
     },
     {
@@ -31798,6 +31795,9 @@
     },
     {
         "nickname": "Purple",
+        "exit_address": [
+            "103.91.65.44"
+        ],
         "asn": "AS55720"
     },
     {
@@ -33704,7 +33704,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV7993",
+        "nickname": "TV8191",
         "asn": "AS12479"
     },
     {
