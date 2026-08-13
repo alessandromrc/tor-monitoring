@@ -2231,6 +2231,10 @@
         "asn": "AS33993"
     },
     {
+        "nickname": "Antares25",
+        "asn": "AS214036"
+    },
+    {
         "nickname": "Anaconda2",
         "asn": "AS5617"
     },
@@ -10530,9 +10534,6 @@
     },
     {
         "nickname": "tainish",
-        "exit_address": [
-            "130.193.10.21"
-        ],
         "asn": "AS8648"
     },
     {
@@ -19871,7 +19872,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "torrelayrickety235",
+        "nickname": "PrairieCircuit",
         "asn": "AS7018"
     },
     {
@@ -23829,7 +23830,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV6730",
+        "nickname": "TV6718",
         "asn": "AS5384"
     },
     {
@@ -43254,10 +43255,6 @@
             "185.220.101.163"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "impishingyserawn",
-        "asn": "AS200651"
     },
     {
         "nickname": "GhostPacket",
