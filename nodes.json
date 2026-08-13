@@ -4513,9 +4513,6 @@
     },
     {
         "nickname": "poitras",
-        "exit_address": [
-            "23.129.64.146"
-        ],
         "asn": "AS396507"
     },
     {
@@ -10744,7 +10741,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV2424",
+        "nickname": "TV5125",
         "asn": "AS22927"
     },
     {
@@ -11385,6 +11382,9 @@
     },
     {
         "nickname": "CleanExit40M",
+        "exit_address": [
+            "213.136.69.234"
+        ],
         "asn": "AS51167"
     },
     {
@@ -13351,10 +13351,6 @@
         "asn": "AS48900"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3303"
-    },
-    {
         "nickname": "MyTorExitNode",
         "exit_address": [
             "165.227.163.170"
@@ -14773,6 +14769,10 @@
     {
         "nickname": "venusseries",
         "asn": "AS57269"
+    },
+    {
+        "nickname": "torfan",
+        "asn": "AS16019"
     },
     {
         "nickname": "tonil",
@@ -20895,6 +20895,9 @@
     },
     {
         "nickname": "ServuryPrivateExit",
+        "exit_address": [
+            "207.180.58.43"
+        ],
         "asn": "AS213250"
     },
     {
@@ -24603,10 +24606,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "hayirseverbiri1337",
-        "asn": "AS210538"
-    },
-    {
         "nickname": "Geoff",
         "asn": "AS16276"
     },
@@ -25014,9 +25013,6 @@
     },
     {
         "nickname": "nenapini",
-        "exit_address": [
-            "23.129.64.169"
-        ],
         "asn": "AS396507"
     },
     {
@@ -26604,6 +26600,10 @@
     {
         "nickname": "YetAnotherTorRelay",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "TV6641",
+        "asn": "AS7303"
     },
     {
         "nickname": "binney",
