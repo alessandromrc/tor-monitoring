@@ -2348,6 +2348,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "EUTOR1",
+        "asn": "AS209604"
+    },
+    {
         "nickname": "UnredactedHechler",
         "exit_address": [
             "23.191.200.84"
@@ -5522,6 +5526,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.223.84.121"
+        ],
         "asn": "AS36352"
     },
     {
@@ -6095,6 +6102,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -6953,10 +6963,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "TuckMuckFuckboy1",
-        "asn": "AS24971"
-    },
-    {
         "nickname": "Basher",
         "asn": "AS34224"
     },
@@ -7762,10 +7768,6 @@
             "23.191.200.16"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "DonationFromHERMES",
-        "asn": "AS212477"
     },
     {
         "nickname": "queerfeminism",
@@ -35395,9 +35397,6 @@
     },
     {
         "nickname": "freedoomnet",
-        "exit_address": [
-            "89.126.230.40"
-        ],
         "asn": "AS63023"
     },
     {
@@ -39494,6 +39493,9 @@
     },
     {
         "nickname": "Bacon8ter",
+        "exit_address": [
+            "217.156.49.33"
+        ],
         "asn": "AS9009"
     },
     {
@@ -43125,6 +43127,10 @@
     {
         "nickname": "bigpun",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "EUTOR2",
+        "asn": "AS209604"
     },
     {
         "nickname": "magic848relay",
