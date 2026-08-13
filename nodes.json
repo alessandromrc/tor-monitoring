@@ -5297,10 +5297,6 @@
         "asn": "AS9063"
     },
     {
-        "nickname": "4712",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "popofficial",
         "asn": "AS36849"
     },
@@ -10938,6 +10934,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "justbytes",
+        "asn": "AS36352"
     },
     {
         "nickname": "BahnhufPowah",
@@ -23832,7 +23832,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV6526",
+        "nickname": "TV6730",
         "asn": "AS5384"
     },
     {
@@ -30168,6 +30168,10 @@
         "asn": "AS15943"
     },
     {
+        "nickname": "eromm",
+        "asn": "AS3462"
+    },
+    {
         "nickname": "d3dc10b86daafa0e",
         "asn": "AS56655"
     },
@@ -31599,10 +31603,6 @@
     {
         "nickname": "DerTeufel",
         "asn": "AS202306"
-    },
-    {
-        "nickname": "Calistro",
-        "asn": "AS47583"
     },
     {
         "nickname": "rappername",
@@ -33885,9 +33885,6 @@
     },
     {
         "nickname": "unbeatable",
-        "exit_address": [
-            "81.181.104.22"
-        ],
         "asn": "AS9009"
     },
     {
@@ -34176,10 +34173,6 @@
             "147.90.235.16"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "sipededi1",
-        "asn": "AS36352"
     },
     {
         "nickname": "NTH105R3",
