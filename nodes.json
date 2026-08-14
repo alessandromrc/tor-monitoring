@@ -1911,6 +1911,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -2959,10 +2962,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "passthefox",
-        "asn": "AS210083"
-    },
-    {
         "nickname": "2mpe4b",
         "exit_address": [
             "107.189.5.249"
@@ -3493,6 +3492,10 @@
             "45.84.107.74"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "toshibaopensdbeater",
+        "asn": "AS7018"
     },
     {
         "nickname": "BaBaBooey",
@@ -5500,6 +5503,9 @@
     },
     {
         "nickname": "Lyra53",
+        "exit_address": [
+            "192.95.10.204"
+        ],
         "asn": "AS16276"
     },
     {
@@ -6396,6 +6402,9 @@
     },
     {
         "nickname": "Gienah20",
+        "exit_address": [
+            "91.223.82.93"
+        ],
         "asn": "AS199968"
     },
     {
@@ -10963,7 +10972,7 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "TV7815",
+        "nickname": "TV1228",
         "asn": "AS22927"
     },
     {
@@ -26868,6 +26877,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -33178,10 +33190,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "RelayFR",
-        "asn": "AS211273"
-    },
-    {
         "nickname": "SpookieRelay",
         "asn": "AS203953"
     },
@@ -38142,6 +38150,9 @@
     },
     {
         "nickname": "cometnode650",
+        "exit_address": [
+            "86.111.187.166"
+        ],
         "asn": "AS33182"
     },
     {
@@ -46129,10 +46140,6 @@
         "asn": "AS924"
     },
     {
-        "nickname": "LTtielRelay01",
-        "asn": "AS16125"
-    },
-    {
         "nickname": "nuttyLake",
         "asn": "AS200651"
     },
@@ -50146,7 +50153,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -52011,10 +52018,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "slavaukraini",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "pepinet",
         "asn": "AS12586"
     },
@@ -53493,6 +53496,10 @@
     {
         "nickname": "nauzome",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "forest56",
+        "asn": "AS51852"
     },
     {
         "nickname": "stgoldstein2",
