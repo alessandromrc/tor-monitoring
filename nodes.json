@@ -10468,6 +10468,9 @@
     },
     {
         "nickname": "AssholicGoose",
+        "exit_address": [
+            "193.218.118.188"
+        ],
         "asn": "AS207656"
     },
     {
@@ -10652,10 +10655,6 @@
             "45.84.107.33"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "ShadowBridge",
-        "asn": "AS14061"
     },
     {
         "nickname": "ymysummer",
@@ -18111,9 +18110,6 @@
     },
     {
         "nickname": "eo218",
-        "exit_address": [
-            "23.129.64.218"
-        ],
         "asn": "AS396507"
     },
     {
@@ -36681,6 +36677,10 @@
         "asn": "AS2611"
     },
     {
+        "nickname": "TV3900",
+        "asn": "AS7303"
+    },
+    {
         "nickname": "G0LD13",
         "exit_address": [
             "201.3.225.23"
@@ -37362,9 +37362,6 @@
     },
     {
         "nickname": "eo201",
-        "exit_address": [
-            "23.129.64.201"
-        ],
         "asn": "AS396507"
     },
     {
@@ -39451,10 +39448,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "c037b3dc2eeb",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "bstsrelay",
         "asn": "AS51167"
     },
@@ -41489,10 +41482,6 @@
     {
         "nickname": "mase",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "KissMyAES",
-        "asn": "AS1759"
     },
     {
         "nickname": "ibibUNC1",
@@ -44264,9 +44253,6 @@
     },
     {
         "nickname": "KingShadow1",
-        "exit_address": [
-            "104.167.242.116"
-        ],
         "asn": "AS26286"
     },
     {
