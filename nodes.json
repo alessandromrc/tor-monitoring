@@ -3355,10 +3355,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "user1",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "nbrelay1",
         "exit_address": [
             "45.9.168.93"
@@ -6859,6 +6855,10 @@
         "asn": "AS59711"
     },
     {
+        "nickname": "MODZBridge",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "Quintex174",
         "exit_address": [
             "204.8.96.163"
@@ -8291,10 +8291,6 @@
             "171.25.193.45"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "SecretDropCH",
-        "asn": "AS211507"
     },
     {
         "nickname": "ageinghacker",
@@ -15838,7 +15834,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV7785",
+        "nickname": "TV773",
         "asn": "AS5410"
     },
     {
@@ -45873,6 +45869,10 @@
     {
         "nickname": "quantrelleflow",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MyZorinMiddleRelay",
+        "asn": "AS7018"
     },
     {
         "nickname": "JohnthePhisherman",
