@@ -2249,9 +2249,6 @@
     },
     {
         "nickname": "luxvptorex",
-        "exit_address": [
-            "107.189.30.69"
-        ],
         "asn": "AS53667"
     },
     {
@@ -6793,10 +6790,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "Hibernity",
-        "asn": "AS26801"
-    },
-    {
         "nickname": "Ragnarok",
         "asn": "AS14061"
     },
@@ -7379,6 +7372,9 @@
     },
     {
         "nickname": "gdanskexit10",
+        "exit_address": [
+            "160.16.108.10"
+        ],
         "asn": "AS9370"
     },
     {
@@ -10759,7 +10755,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV9860",
+        "nickname": "TV1641",
         "asn": "AS22927"
     },
     {
@@ -11104,6 +11100,9 @@
     },
     {
         "nickname": "hhmyyupl59",
+        "exit_address": [
+            "51.79.99.235"
+        ],
         "asn": "AS16276"
     },
     {
@@ -11136,10 +11135,6 @@
     {
         "nickname": "whvger",
         "asn": "AS8881"
-    },
-    {
-        "nickname": "jayeffkay0",
-        "asn": "AS14061"
     },
     {
         "nickname": "ToLamRelay",
@@ -14560,10 +14555,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "DutchPowders",
-        "asn": "AS214677"
     },
     {
         "nickname": "1Grelay",
@@ -33734,7 +33725,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TV378",
+        "nickname": "TV7109",
         "asn": "AS12479"
     },
     {
@@ -37073,7 +37064,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8936",
+        "nickname": "TV8834",
         "asn": "AS37705"
     },
     {
@@ -37699,10 +37690,6 @@
             "204.8.96.120"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "openbsdHPbeater",
-        "asn": "AS7018"
     },
     {
         "nickname": "MyDebianRelay",
@@ -38949,10 +38936,6 @@
     {
         "nickname": "MalfunctioningEddy",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "DrofSpace",
-        "asn": "AS9009"
     },
     {
         "nickname": "r0cket09i6",
