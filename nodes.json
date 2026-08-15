@@ -7317,6 +7317,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "summitexit820",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "NTH21R7",
         "exit_address": [
             "192.42.116.21"
@@ -8383,6 +8387,10 @@
             "94.72.104.135"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "HereticReaper",
+        "asn": "AS16276"
     },
     {
         "nickname": "NTH118R8",
@@ -11073,9 +11081,6 @@
     },
     {
         "nickname": "XXXMRRRinBIO",
-        "exit_address": [
-            "78.17.213.22"
-        ],
         "asn": "AS212477"
     },
     {
@@ -13611,6 +13616,9 @@
     },
     {
         "nickname": "cedarexit300",
+        "exit_address": [
+            "176.123.2.173"
+        ],
         "asn": "AS200019"
     },
     {
@@ -20248,10 +20256,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "eo197",
-        "asn": "AS396507"
-    },
-    {
         "nickname": "G6PXA8ru",
         "asn": "AS20473"
     },
@@ -26474,6 +26478,10 @@
         "asn": "AS41281"
     },
     {
+        "nickname": "oslorelay33",
+        "asn": "AS200019"
+    },
+    {
         "nickname": "Michelangelo",
         "exit_address": [
             "200.122.181.2"
@@ -28631,6 +28639,10 @@
             "93.113.25.109"
         ],
         "asn": "AS215659"
+    },
+    {
+        "nickname": "Ankaa44",
+        "asn": "AS200019"
     },
     {
         "nickname": "zeydRelay5",
@@ -31932,10 +31944,6 @@
     {
         "nickname": "Assange038bg",
         "asn": "AS59729"
-    },
-    {
-        "nickname": "mongolefiere",
-        "asn": "AS4540"
     },
     {
         "nickname": "detch232",
@@ -38567,6 +38575,9 @@
     },
     {
         "nickname": "summitnode732",
+        "exit_address": [
+            "89.45.201.189"
+        ],
         "asn": "AS212221"
     },
     {
@@ -42009,6 +42020,9 @@
     },
     {
         "nickname": "brnoexit25",
+        "exit_address": [
+            "87.121.69.138"
+        ],
         "asn": "AS213035"
     },
     {
@@ -45646,6 +45660,10 @@
             "204.8.96.108"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "bergenexit29",
+        "asn": "AS200019"
     },
     {
         "nickname": "prsv",
@@ -49301,6 +49319,10 @@
     {
         "nickname": "networksupporter652",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "Shaula56",
+        "asn": "AS47583"
     },
     {
         "nickname": "krakaT0a",
@@ -53064,6 +53086,10 @@
             "204.8.96.181"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "HeliosReaper",
+        "asn": "AS16276"
     },
     {
         "nickname": "apollo245",
