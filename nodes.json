@@ -3526,7 +3526,7 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "toshibaopensdbeater",
+        "nickname": "toshibaopenbsdbeate",
         "asn": "AS7018"
     },
     {
@@ -34920,6 +34920,9 @@
     },
     {
         "nickname": "osemes60",
+        "exit_address": [
+            "50.115.7.124"
+        ],
         "asn": "AS7979"
     },
     {
