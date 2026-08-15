@@ -18141,6 +18141,9 @@
     },
     {
         "nickname": "beaconexit713",
+        "exit_address": [
+            "192.227.140.105"
+        ],
         "asn": "AS36352"
     },
     {
@@ -26608,6 +26611,9 @@
     },
     {
         "nickname": "otternode243",
+        "exit_address": [
+            "86.111.188.83"
+        ],
         "asn": "AS33182"
     },
     {
@@ -45552,9 +45558,6 @@
     },
     {
         "nickname": "anon1mous54",
-        "exit_address": [
-            "172.81.131.139"
-        ],
         "asn": "AS27176"
     },
     {
