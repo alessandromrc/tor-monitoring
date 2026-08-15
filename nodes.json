@@ -10767,7 +10767,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV5897",
+        "nickname": "TV913",
         "asn": "AS22927"
     },
     {
@@ -12238,6 +12238,9 @@
     },
     {
         "nickname": "Capella49",
+        "exit_address": [
+            "131.123.42.138"
+        ],
         "asn": "AS200019"
     },
     {
@@ -16043,6 +16046,9 @@
     },
     {
         "nickname": "spnex39",
+        "exit_address": [
+            "176.123.1.106"
+        ],
         "asn": "AS200019"
     },
     {
@@ -17638,6 +17644,9 @@
     },
     {
         "nickname": "portorelay49",
+        "exit_address": [
+            "132.243.162.115"
+        ],
         "asn": "AS200019"
     },
     {
@@ -18544,7 +18553,7 @@
         "asn": "AS60781"
     },
     {
-        "nickname": "TV5256",
+        "nickname": "TV5870",
         "asn": "AS22927"
     },
     {
@@ -19399,6 +19408,10 @@
     {
         "nickname": "onionXR",
         "asn": "AS212477"
+    },
+    {
+        "nickname": "Voxtrail42",
+        "asn": "AS63949"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -22512,6 +22525,9 @@
     },
     {
         "nickname": "ridge3",
+        "exit_address": [
+            "103.208.86.5"
+        ],
         "asn": "AS61138"
     },
     {
@@ -25613,10 +25629,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "ageis",
-        "asn": "AS396507"
-    },
-    {
         "nickname": "NTH87R1",
         "asn": "AS215125"
     },
@@ -27134,6 +27146,9 @@
     },
     {
         "nickname": "vertexnode251",
+        "exit_address": [
+            "65.21.148.182"
+        ],
         "asn": "AS24940"
     },
     {
@@ -34896,6 +34911,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "osemes60",
+        "asn": "AS7979"
+    },
+    {
         "nickname": "SlugnetExitRelay02",
         "asn": "AS40663"
     },
@@ -40836,6 +40855,9 @@
     },
     {
         "nickname": "Gienah64",
+        "exit_address": [
+            "104.194.11.174"
+        ],
         "asn": "AS23470"
     },
     {
@@ -42462,6 +42484,9 @@
     },
     {
         "nickname": "Pollux31",
+        "exit_address": [
+            "176.9.45.29"
+        ],
         "asn": "AS24940"
     },
     {
@@ -44159,10 +44184,6 @@
     {
         "nickname": "independence",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "TV9926",
-        "asn": "AS7303"
     },
     {
         "nickname": "limon",
@@ -51538,6 +51559,9 @@
     },
     {
         "nickname": "Shaula37",
+        "exit_address": [
+            "194.110.247.28"
+        ],
         "asn": "AS200019"
     },
     {
