@@ -271,6 +271,9 @@
     },
     {
         "nickname": "Pollux54",
+        "exit_address": [
+            "87.239.135.61"
+        ],
         "asn": "AS214639"
     },
     {
@@ -3606,10 +3609,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Lyzev",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "TorZoner4",
         "asn": "AS34222"
     },
@@ -6828,6 +6827,10 @@
     {
         "nickname": "activetrout",
         "asn": "AS328364"
+    },
+    {
+        "nickname": "Test",
+        "asn": "AS212238"
     },
     {
         "nickname": "Mainframe",
@@ -47022,10 +47025,6 @@
             "192.42.116.101"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "kissmyexit",
-        "asn": "AS48031"
     },
     {
         "nickname": "Zer0n",
