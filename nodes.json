@@ -759,6 +759,9 @@
     },
     {
         "nickname": "tilburgexit45",
+        "exit_address": [
+            "185.117.72.44"
+        ],
         "asn": "AS60117"
     },
     {
@@ -9481,6 +9484,10 @@
         "asn": "AS395662"
     },
     {
+        "nickname": "WolontariatNode1",
+        "asn": "AS41079"
+    },
+    {
         "nickname": "UnredactedJames",
         "exit_address": [
             "23.191.200.94"
@@ -14689,6 +14696,9 @@
     },
     {
         "nickname": "zenith289",
+        "exit_address": [
+            "194.76.146.71"
+        ],
         "asn": "AS34534"
     },
     {
@@ -16776,6 +16786,10 @@
     {
         "nickname": "syd",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TesseractNetwork",
+        "asn": "AS57269"
     },
     {
         "nickname": "prsv",
@@ -27359,9 +27373,6 @@
     },
     {
         "nickname": "exit",
-        "exit_address": [
-            "80.67.176.91"
-        ],
         "asn": "AS20766"
     },
     {
@@ -35696,6 +35707,9 @@
     },
     {
         "nickname": "falcon112",
+        "exit_address": [
+            "185.183.98.242"
+        ],
         "asn": "AS60117"
     },
     {
@@ -41409,6 +41423,10 @@
     {
         "nickname": "GEamsterdam",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "KNikaMini",
+        "asn": "AS51290"
     },
     {
         "nickname": "Unnamed",
@@ -52197,6 +52215,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "ViceTOR",
+        "asn": "AS3352"
+    },
+    {
         "nickname": "wedostor",
         "asn": "AS197019"
     },
@@ -53352,6 +53374,9 @@
     },
     {
         "nickname": "szczecinexit29",
+        "exit_address": [
+            "46.175.128.35"
+        ],
         "asn": "AS60458"
     },
     {
@@ -53422,6 +53447,10 @@
     {
         "nickname": "as215248tor5a",
         "asn": "AS215248"
+    },
+    {
+        "nickname": "WolontariatNode2",
+        "asn": "AS41079"
     },
     {
         "nickname": "Quintex167",
