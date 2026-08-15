@@ -1962,6 +1962,9 @@
     },
     {
         "nickname": "malmoexit16",
+        "exit_address": [
+            "102.129.200.117"
+        ],
         "asn": "AS208949"
     },
     {
@@ -5457,10 +5460,6 @@
     {
         "nickname": "DFnodo",
         "asn": "AS12430"
-    },
-    {
-        "nickname": "freedoomnet",
-        "asn": "AS63023"
     },
     {
         "nickname": "Shallot",
@@ -10651,6 +10650,9 @@
     },
     {
         "nickname": "gdyniarelay26",
+        "exit_address": [
+            "62.210.199.83"
+        ],
         "asn": "AS12876"
     },
     {
@@ -12313,6 +12315,9 @@
     },
     {
         "nickname": "szczecinrelay5",
+        "exit_address": [
+            "162.55.95.169"
+        ],
         "asn": "AS24940"
     },
     {
@@ -13403,6 +13408,9 @@
     },
     {
         "nickname": "tilburgexit4",
+        "exit_address": [
+            "176.65.131.192"
+        ],
         "asn": "AS198584"
     },
     {
@@ -13597,6 +13605,10 @@
     {
         "nickname": "prophecy",
         "asn": "AS211507"
+    },
+    {
+        "nickname": "cedarexit300",
+        "asn": "AS200019"
     },
     {
         "nickname": "ForDemocracy9",
@@ -14682,6 +14694,10 @@
             "192.42.116.61"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "viennaOnTheRunnn",
+        "asn": "AS6724"
     },
     {
         "nickname": "MPNRelay1A",
@@ -18528,7 +18544,7 @@
         "asn": "AS60781"
     },
     {
-        "nickname": "TV259",
+        "nickname": "TV5256",
         "asn": "AS22927"
     },
     {
@@ -19179,6 +19195,10 @@
     {
         "nickname": "artichokerouter",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "cedarexit262",
+        "asn": "AS213035"
     },
     {
         "nickname": "CebolaServer",
@@ -28669,10 +28689,6 @@
         "asn": "AS214209"
     },
     {
-        "nickname": "freedoomnet",
-        "asn": "AS63023"
-    },
-    {
         "nickname": "NTH115R8",
         "exit_address": [
             "192.42.116.115"
@@ -28857,6 +28873,9 @@
     },
     {
         "nickname": "osloexit42",
+        "exit_address": [
+            "185.28.37.194"
+        ],
         "asn": "AS213035"
     },
     {
@@ -30913,10 +30932,6 @@
             "204.8.96.117"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "Octavia",
-        "asn": "AS51167"
     },
     {
         "nickname": "eficommander",
@@ -38532,6 +38547,10 @@
         "asn": "AS15962"
     },
     {
+        "nickname": "summitnode732",
+        "asn": "AS212221"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.207.107.216"
@@ -41698,10 +41717,6 @@
         "asn": "AS204876"
     },
     {
-        "nickname": "asasweep",
-        "asn": "AS3303"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS31898"
     },
@@ -41969,6 +41984,10 @@
     {
         "nickname": "xqw33ds",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "brnoexit25",
+        "asn": "AS213035"
     },
     {
         "nickname": "TorLoseMyID",
@@ -45891,7 +45910,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "MyZorinMiddleRelay",
+        "nickname": "TorSuperNodeMiddle",
         "asn": "AS7018"
     },
     {
@@ -48198,6 +48217,9 @@
     },
     {
         "nickname": "Altair85",
+        "exit_address": [
+            "203.146.102.94"
+        ],
         "asn": "AS9891"
     },
     {
