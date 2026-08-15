@@ -5601,10 +5601,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "SlimTor",
-        "asn": "AS42652"
-    },
-    {
         "nickname": "NTH21R6",
         "exit_address": [
             "192.42.116.21"
@@ -10607,10 +10603,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "drake",
-        "asn": "AS396507"
-    },
-    {
         "nickname": "5479315347738034",
         "exit_address": [
             "185.132.53.47"
@@ -15328,6 +15320,9 @@
     },
     {
         "nickname": "Capella13",
+        "exit_address": [
+            "91.208.197.71"
+        ],
         "asn": "AS200019"
     },
     {
@@ -22930,9 +22925,6 @@
     },
     {
         "nickname": "tice",
-        "exit_address": [
-            "23.129.64.149"
-        ],
         "asn": "AS396507"
     },
     {
@@ -32117,10 +32109,6 @@
     {
         "nickname": "atoratvm",
         "asn": "AS47172"
-    },
-    {
-        "nickname": "stopthewarinUA",
-        "asn": "AS197540"
     },
     {
         "nickname": "prsv",
@@ -45958,10 +45946,6 @@
             "23.191.200.78"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "TorBerry",
-        "asn": "AS5607"
     },
     {
         "nickname": "peeweelongway",
