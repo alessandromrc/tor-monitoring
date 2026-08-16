@@ -2936,6 +2936,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "VerdalabNAS",
+        "asn": "AS7552"
+    },
+    {
         "nickname": "PrivacyComDeR4",
         "asn": "AS8560"
     },
@@ -11737,10 +11741,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "llandaf",
-        "asn": "AS396507"
-    },
-    {
         "nickname": "rotkraut",
         "exit_address": [
             "109.70.100.3"
@@ -13800,9 +13800,6 @@
     },
     {
         "nickname": "TorExitRomania",
-        "exit_address": [
-            "185.165.171.84"
-        ],
         "asn": "AS200651"
     },
     {
@@ -21220,6 +21217,7 @@
     {
         "nickname": "creeknode223",
         "exit_address": [
+            "186.246.45.17",
             "186.246.45.176",
             "49.13.206.189",
             "65.109.142.58"
@@ -23591,6 +23589,7 @@
         "nickname": "Alnair38",
         "exit_address": [
             "135.181.26.138",
+            "167.71.38.247",
             "186.246.45.17",
             "186.246.45.176",
             "186.246.45.200"
