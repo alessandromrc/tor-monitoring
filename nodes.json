@@ -1947,6 +1947,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -7096,6 +7099,9 @@
     },
     {
         "nickname": "JarvisExit",
+        "exit_address": [
+            "97.191.36.171"
+        ],
         "asn": "AS6167"
     },
     {
@@ -21214,6 +21220,7 @@
     {
         "nickname": "creeknode223",
         "exit_address": [
+            "186.246.45.176",
             "49.13.206.189",
             "65.109.142.58"
         ],
@@ -23583,6 +23590,7 @@
     {
         "nickname": "Alnair38",
         "exit_address": [
+            "135.181.26.138",
             "186.246.45.17",
             "186.246.45.176",
             "186.246.45.200"
@@ -26816,10 +26824,6 @@
             "200.122.181.2"
         ],
         "asn": "AS3790"
-    },
-    {
-        "nickname": "eo186",
-        "asn": "AS396507"
     },
     {
         "nickname": "DFRI142",
@@ -36779,10 +36783,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "zorroRanch",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "HeadInTheClouds",
         "asn": "AS50266"
     },
@@ -44331,10 +44331,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS3329"
-    },
-    {
-        "nickname": "frequency",
-        "asn": "AS22773"
     },
     {
         "nickname": "lilnasx",
