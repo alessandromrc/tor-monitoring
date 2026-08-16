@@ -7609,6 +7609,10 @@
         "asn": "AS33915"
     },
     {
+        "nickname": "SanRelay6",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Veng",
         "asn": "AS16276"
     },
@@ -11972,6 +11976,10 @@
         "asn": "AS5650"
     },
     {
+        "nickname": "SanRelay6",
+        "asn": "AS29222"
+    },
+    {
         "nickname": "Kappa85",
         "asn": "AS14061"
     },
@@ -13957,10 +13965,6 @@
             "204.8.96.173"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "GermanCraft12",
-        "asn": "AS24940"
     },
     {
         "nickname": "Truck",
@@ -21209,6 +21213,7 @@
     {
         "nickname": "creeknode223",
         "exit_address": [
+            "159.223.20.73",
             "167.71.38.247",
             "186.246.45.17",
             "186.246.45.176",
@@ -24185,7 +24190,7 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "TV9602",
+        "nickname": "TV8512",
         "asn": "AS5384"
     },
     {
@@ -25882,6 +25887,10 @@
             "204.8.96.183"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "TorNode",
+        "asn": "AS214973"
     },
     {
         "nickname": "obscurasof01",
@@ -33968,6 +33977,10 @@
             "92.246.84.133"
         ],
         "asn": "AS44592"
+    },
+    {
+        "nickname": "SanRelay7",
+        "asn": "AS29222"
     },
     {
         "nickname": "curtcollins",
@@ -45460,6 +45473,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "TV7063",
+        "asn": "AS36925"
+    },
+    {
         "nickname": "DarkDevil",
         "asn": "AS211619"
     },
@@ -50590,6 +50607,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "SanRelay7",
+        "asn": "AS29222"
     },
     {
         "nickname": "Unnamed",
