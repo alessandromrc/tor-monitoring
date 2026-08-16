@@ -1947,9 +1947,6 @@
     },
     {
         "nickname": "2mpe",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -21217,7 +21214,8 @@
     {
         "nickname": "creeknode223",
         "exit_address": [
-            "49.13.206.189"
+            "49.13.206.189",
+            "65.109.142.58"
         ],
         "asn": "AS198610"
     },
@@ -23586,7 +23584,8 @@
         "nickname": "Alnair38",
         "exit_address": [
             "186.246.45.17",
-            "186.246.45.176"
+            "186.246.45.176",
+            "186.246.45.200"
         ],
         "asn": "AS198610"
     },
@@ -45180,10 +45179,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "Kea",
-        "asn": "AS56030"
-    },
-    {
         "nickname": "TorHet4",
         "asn": "AS24940"
     },
@@ -53278,6 +53273,10 @@
     {
         "nickname": "streamsinthedesert",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "torbox",
+        "asn": "AS11351"
     },
     {
         "nickname": "Tekiworld",
