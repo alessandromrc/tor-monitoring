@@ -5096,6 +5096,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "Mazetor1",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "czrpYOL8Pp",
         "asn": "AS3209"
     },
@@ -11790,6 +11794,9 @@
     },
     {
         "nickname": "HarborKoi",
+        "exit_address": [
+            "5.255.124.237"
+        ],
         "asn": "AS60404"
     },
     {
@@ -12500,10 +12507,6 @@
             "109.70.100.15"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "ManyWaysOut",
-        "asn": "AS20473"
     },
     {
         "nickname": "UnredactedAlien",
@@ -13292,9 +13295,6 @@
     },
     {
         "nickname": "lobbyistforlove",
-        "exit_address": [
-            "84.16.224.227"
-        ],
         "asn": "AS28753"
     },
     {
@@ -20755,6 +20755,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "fredostorrelay",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "2bel",
         "asn": "AS16276"
     },
@@ -23855,6 +23859,9 @@
     },
     {
         "nickname": "LumenIbex",
+        "exit_address": [
+            "5.255.127.212"
+        ],
         "asn": "AS60404"
     },
     {
@@ -27641,10 +27648,6 @@
     {
         "nickname": "phife",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS3215"
     },
     {
         "nickname": "cochise",
@@ -38089,7 +38092,7 @@
     },
     {
         "nickname": "Hooyah",
-        "asn": "AS212238"
+        "asn": "AS9009"
     },
     {
         "nickname": "hollunder",
@@ -38316,10 +38319,6 @@
             "104.244.73.190"
         ],
         "asn": "AS53667"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS215659"
     },
     {
         "nickname": "FirstFamily",
@@ -40173,6 +40172,9 @@
     },
     {
         "nickname": "QuartzVole",
+        "exit_address": [
+            "170.75.164.137"
+        ],
         "asn": "AS174"
     },
     {
@@ -41245,9 +41247,6 @@
     },
     {
         "nickname": "handsomeandwealthy",
-        "exit_address": [
-            "46.165.243.36"
-        ],
         "asn": "AS28753"
     },
     {
@@ -45519,6 +45518,10 @@
             "192.42.116.49"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "AmberZebra",
+        "asn": "AS200651"
     },
     {
         "nickname": "sweetums",
