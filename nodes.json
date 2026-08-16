@@ -4006,6 +4006,9 @@
     },
     {
         "nickname": "NorthHeron",
+        "exit_address": [
+            "170.75.174.113"
+        ],
         "asn": "AS174"
     },
     {
@@ -7052,6 +7055,10 @@
             "23.191.200.117"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "MidRelayG4me",
+        "asn": "AS3320"
     },
     {
         "nickname": "EpicTor4",
@@ -10396,10 +10403,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "kofatra",
-        "asn": "AS396507"
     },
     {
         "nickname": "raekwon",
@@ -25801,6 +25804,10 @@
     {
         "nickname": "LINKANATOR",
         "asn": "AS211507"
+    },
+    {
+        "nickname": "wxthnetrly",
+        "asn": "AS2856"
     },
     {
         "nickname": "DFRI130",
@@ -45410,6 +45417,9 @@
     },
     {
         "nickname": "HarborQuail",
+        "exit_address": [
+            "172.81.177.173"
+        ],
         "asn": "AS174"
     },
     {
