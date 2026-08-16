@@ -4951,6 +4951,9 @@
     },
     {
         "nickname": "oslorelay16",
+        "exit_address": [
+            "142.44.247.134"
+        ],
         "asn": "AS16276"
     },
     {
@@ -8295,10 +8298,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "onionBerry",
-        "asn": "AS1267"
-    },
-    {
         "nickname": "TV676",
         "asn": "AS6167"
     },
@@ -11355,6 +11354,9 @@
     },
     {
         "nickname": "Hadar29",
+        "exit_address": [
+            "209.135.171.245"
+        ],
         "asn": "AS399646"
     },
     {
@@ -12182,10 +12184,6 @@
             "23.128.248.162"
         ],
         "asn": "AS400226"
-    },
-    {
-        "nickname": "Xer0mid",
-        "asn": "AS14061"
     },
     {
         "nickname": "BigDaddy",
@@ -13312,6 +13310,9 @@
     },
     {
         "nickname": "liegeexit15",
+        "exit_address": [
+            "107.189.14.72"
+        ],
         "asn": "AS53667"
     },
     {
@@ -13623,6 +13624,9 @@
     },
     {
         "nickname": "aarhusexit13",
+        "exit_address": [
+            "212.192.216.2"
+        ],
         "asn": "AS213035"
     },
     {
@@ -13896,6 +13900,9 @@
     },
     {
         "nickname": "gdyniaexit39",
+        "exit_address": [
+            "172.96.161.165"
+        ],
         "asn": "AS23470"
     },
     {
@@ -14060,6 +14067,9 @@
     },
     {
         "nickname": "Aludra76",
+        "exit_address": [
+            "108.181.57.1"
+        ],
         "asn": "AS40676"
     },
     {
@@ -16421,6 +16431,9 @@
     },
     {
         "nickname": "aarhusrelay41",
+        "exit_address": [
+            "46.17.102.237"
+        ],
         "asn": "AS57043"
     },
     {
@@ -21486,6 +21499,9 @@
     },
     {
         "nickname": "szczecinrelay43",
+        "exit_address": [
+            "91.208.184.192"
+        ],
         "asn": "AS200019"
     },
     {
@@ -22872,6 +22888,9 @@
     },
     {
         "nickname": "vitoriaexit25",
+        "exit_address": [
+            "91.208.162.12"
+        ],
         "asn": "AS200019"
     },
     {
@@ -23782,6 +23801,9 @@
     },
     {
         "nickname": "osloexit2",
+        "exit_address": [
+            "192.151.156.2"
+        ],
         "asn": "AS33387"
     },
     {
@@ -27079,6 +27101,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -31961,6 +31986,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "mirage",
+        "asn": "AS56322"
+    },
+    {
         "nickname": "flowjob01",
         "asn": "AS197540"
     },
@@ -32660,6 +32689,9 @@
     },
     {
         "nickname": "tilburgexit3",
+        "exit_address": [
+            "156.244.41.224"
+        ],
         "asn": "AS154177"
     },
     {
@@ -33402,6 +33434,9 @@
     },
     {
         "nickname": "lynxrelay520",
+        "exit_address": [
+            "75.127.7.87"
+        ],
         "asn": "AS36352"
     },
     {
@@ -33704,6 +33739,9 @@
     },
     {
         "nickname": "Shaula89",
+        "exit_address": [
+            "185.102.78.177"
+        ],
         "asn": "AS198171"
     },
     {
@@ -37563,6 +37601,9 @@
     },
     {
         "nickname": "Rigel98",
+        "exit_address": [
+            "143.246.195.15"
+        ],
         "asn": "AS200019"
     },
     {
@@ -40714,6 +40755,9 @@
     },
     {
         "nickname": "zenith640",
+        "exit_address": [
+            "209.90.232.249"
+        ],
         "asn": "AS136175"
     },
     {
@@ -41243,6 +41287,9 @@
     },
     {
         "nickname": "malmoexit32",
+        "exit_address": [
+            "130.250.191.214"
+        ],
         "asn": "AS215117"
     },
     {
@@ -46442,6 +46489,9 @@
     },
     {
         "nickname": "creekrelay848",
+        "exit_address": [
+            "45.12.114.156"
+        ],
         "asn": "AS33993"
     },
     {
@@ -50471,7 +50521,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -53719,6 +53769,9 @@
     },
     {
         "nickname": "rsefjrn64",
+        "exit_address": [
+            "212.192.240.126"
+        ],
         "asn": "AS213035"
     },
     {
