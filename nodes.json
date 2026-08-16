@@ -195,9 +195,6 @@
     },
     {
         "nickname": "eo190",
-        "exit_address": [
-            "23.129.64.190"
-        ],
         "asn": "AS396507"
     },
     {
@@ -6732,6 +6729,9 @@
     },
     {
         "nickname": "emberrelay260",
+        "exit_address": [
+            "136.243.195.67"
+        ],
         "asn": "AS24940"
     },
     {
@@ -7096,6 +7096,10 @@
     {
         "nickname": "GoodForYou",
         "asn": "AS15600"
+    },
+    {
+        "nickname": "JarvisExit",
+        "asn": "AS6167"
     },
     {
         "nickname": "cvbnet1",
@@ -8814,6 +8818,9 @@
     },
     {
         "nickname": "Antares9",
+        "exit_address": [
+            "23.94.84.118"
+        ],
         "asn": "AS36352"
     },
     {
@@ -18052,6 +18059,9 @@
     },
     {
         "nickname": "cedarrelay968",
+        "exit_address": [
+            "50.116.58.75"
+        ],
         "asn": "AS63949"
     },
     {
@@ -21206,6 +21216,9 @@
     },
     {
         "nickname": "creeknode223",
+        "exit_address": [
+            "49.13.206.189"
+        ],
         "asn": "AS198610"
     },
     {
@@ -23356,10 +23369,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "RexXenia",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "GKMDRelay01",
         "asn": "AS200019"
     },
@@ -23576,6 +23585,7 @@
     {
         "nickname": "Alnair38",
         "exit_address": [
+            "186.246.45.17",
             "186.246.45.176"
         ],
         "asn": "AS198610"
@@ -26532,10 +26542,6 @@
     {
         "nickname": "as215296torrelay04",
         "asn": "AS215296"
-    },
-    {
-        "nickname": "GOMONERO",
-        "asn": "AS399486"
     },
     {
         "nickname": "NTH83R1",
@@ -31232,9 +31238,6 @@
     },
     {
         "nickname": "freedoomnet",
-        "exit_address": [
-            "89.126.230.41"
-        ],
         "asn": "AS63023"
     },
     {
@@ -37415,6 +37418,9 @@
     },
     {
         "nickname": "creeknode628",
+        "exit_address": [
+            "135.181.74.216"
+        ],
         "asn": "AS24940"
     },
     {
