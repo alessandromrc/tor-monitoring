@@ -1495,7 +1495,7 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "PickANickname",
+        "nickname": "bergenexit38",
         "exit_address": [
             "184.107.185.209"
         ],
@@ -8432,9 +8432,6 @@
     },
     {
         "nickname": "hellman",
-        "exit_address": [
-            "23.129.64.155"
-        ],
         "asn": "AS396507"
     },
     {
@@ -13623,6 +13620,9 @@
     },
     {
         "nickname": "TorExitRomania",
+        "exit_address": [
+            "185.165.171.84"
+        ],
         "asn": "AS200651"
     },
     {
@@ -22594,6 +22594,10 @@
     {
         "nickname": "Nexus473",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Alnair90",
+        "asn": "AS395092"
     },
     {
         "nickname": "AllenInfoSec",
@@ -33871,10 +33875,6 @@
     {
         "nickname": "DontTreadOnMe1",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "UnredactedWikiLeaks",
