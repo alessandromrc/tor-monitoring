@@ -2899,7 +2899,7 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "VerdalabNAS",
+        "nickname": "VerdalabSGN01",
         "asn": "AS7552"
     },
     {
@@ -5838,10 +5838,6 @@
             "192.42.116.21"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "HappyToServeYou03",
-        "asn": "AS36352"
     },
     {
         "nickname": "Mixmaster",
@@ -17622,10 +17618,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "eo188",
-        "asn": "AS396507"
-    },
-    {
         "nickname": "NTH60R5",
         "exit_address": [
             "192.42.116.60"
@@ -23492,7 +23484,6 @@
             "159.223.20.73",
             "164.90.211.12",
             "167.71.38.247",
-            "186.246.45.17",
             "186.246.45.176",
             "186.246.45.200",
             "46.101.244.49",
@@ -54340,6 +54331,10 @@
         "asn": "AS207143"
     },
     {
+        "nickname": "CapellaExit21",
+        "asn": "AS49447"
+    },
+    {
         "nickname": "plan9kaos",
         "asn": "AS24940"
     },
@@ -54563,10 +54558,6 @@
     {
         "nickname": "anarchosyndical7",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "TV8865",
-        "asn": "AS27747"
     },
     {
         "nickname": "yunggravy",
