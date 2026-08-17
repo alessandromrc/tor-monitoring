@@ -7031,9 +7031,6 @@
     },
     {
         "nickname": "JarvisMiddle",
-        "exit_address": [
-            "97.191.36.171"
-        ],
         "asn": "AS6167"
     },
     {
@@ -11022,7 +11019,7 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "TV3192",
+        "nickname": "TV5614",
         "asn": "AS22927"
     },
     {
@@ -21567,6 +21564,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "FoldWatchersPupJoe",
+        "asn": "AS5607"
+    },
+    {
         "nickname": "UnredactedHaugen",
         "exit_address": [
             "23.191.200.64"
@@ -30252,10 +30253,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "gfguihgrudifhguih",
-        "asn": "AS48823"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -31476,10 +31473,6 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
-    },
-    {
-        "nickname": "PremiumTorExit",
-        "asn": "AS200651"
     },
     {
         "nickname": "LillyCL",
@@ -33423,10 +33416,6 @@
             "194.15.113.118"
         ],
         "asn": "AS213354"
-    },
-    {
-        "nickname": "wizardfumes",
-        "asn": "AS7922"
     },
     {
         "nickname": "OurHost2",
@@ -43337,10 +43326,6 @@
         "asn": "AS27956"
     },
     {
-        "nickname": "TorBSD",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "renrpo26",
         "asn": "AS14061"
     },
@@ -46454,6 +46439,9 @@
     },
     {
         "nickname": "MixSOFRelay",
+        "exit_address": [
+            "45.9.156.238"
+        ],
         "asn": "AS211619"
     },
     {
@@ -46845,9 +46833,6 @@
     },
     {
         "nickname": "ridgerelay665",
-        "exit_address": [
-            "176.123.9.27"
-        ],
         "asn": "AS200019"
     },
     {
@@ -50396,10 +50381,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "tazmania",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "Vigilance",
         "asn": "AS35592"
     },
@@ -52839,10 +52820,6 @@
     {
         "nickname": "desolate",
         "asn": "AS198189"
-    },
-    {
-        "nickname": "nobodly",
-        "asn": "AS12312"
     },
     {
         "nickname": "MasterChiefIsCool",
