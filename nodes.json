@@ -2148,6 +2148,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "r3816b6944c36837",
+        "asn": "AS201667"
+    },
+    {
         "nickname": "quconyl",
         "asn": "AS210644"
     },
@@ -10255,7 +10259,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "InVinoVeritas7",
+        "nickname": "InVinoVeritas5",
         "asn": "AS24940"
     },
     {
@@ -11530,10 +11534,6 @@
             "118.163.74.160"
         ],
         "asn": "AS3462"
-    },
-    {
-        "nickname": "MyDebian13Exit",
-        "asn": "AS3258"
     },
     {
         "nickname": "MoneroMeansMoney",
@@ -18903,9 +18903,6 @@
     },
     {
         "nickname": "CarabineroDeChile",
-        "exit_address": [
-            "107.189.8.65"
-        ],
         "asn": "AS53667"
     },
     {
@@ -20896,7 +20893,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "InVinoVeritas",
+        "nickname": "InVinoVeritas1",
         "asn": "AS16276"
     },
     {
@@ -22819,6 +22816,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "porchmonkee",
+        "asn": "AS49683"
+    },
+    {
         "nickname": "pragmatic",
         "asn": "AS21100"
     },
@@ -24517,7 +24518,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV4483",
+        "nickname": "TV6803",
         "asn": "AS28573"
     },
     {
@@ -25486,6 +25487,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "rbfcfd371590d189",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "dukesrelay",
         "asn": "AS16591"
     },
@@ -25496,6 +25501,10 @@
     {
         "nickname": "T0rNode555Nose",
         "asn": "AS44133"
+    },
+    {
+        "nickname": "rd8ebe7bdc5365b2",
+        "asn": "AS201667"
     },
     {
         "nickname": "prsv",
@@ -34708,10 +34717,6 @@
         "asn": "AS2856"
     },
     {
-        "nickname": "TV4285",
-        "asn": "AS28573"
-    },
-    {
         "nickname": "DFRI153",
         "exit_address": [
             "171.25.193.46"
@@ -35507,10 +35512,6 @@
     {
         "nickname": "TheOneRelay",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "TV1653",
-        "asn": "AS28573"
     },
     {
         "nickname": "freeforall",
@@ -43195,6 +43196,10 @@
         "asn": "AS44133"
     },
     {
+        "nickname": "SoWhereIsYourGod",
+        "asn": "AS15895"
+    },
+    {
         "nickname": "CarterParadox",
         "exit_address": [
             "103.109.101.105"
@@ -49241,6 +49246,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "r677b2dcfdfe7bc8",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "femdot",
         "asn": "AS36849"
     },
@@ -52739,6 +52748,9 @@
     },
     {
         "nickname": "ZephyrFalcon",
+        "exit_address": [
+            "93.99.105.32"
+        ],
         "asn": "AS16019"
     },
     {
