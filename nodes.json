@@ -1487,6 +1487,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "PickANickname",
+        "asn": "AS32613"
+    },
+    {
         "nickname": "TORKeFFORG37",
         "exit_address": [
             "193.189.100.204"
@@ -3838,6 +3842,10 @@
     {
         "nickname": "Nethergrog",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS49392"
     },
     {
         "nickname": "UnredactedDrake",
@@ -23427,7 +23435,6 @@
     {
         "nickname": "Alnair38",
         "exit_address": [
-            "135.181.26.138",
             "159.223.20.73",
             "164.90.211.12",
             "167.71.38.247",
@@ -26948,10 +26955,6 @@
     {
         "nickname": "Uri",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "IrishBread",
-        "asn": "AS48753"
     },
     {
         "nickname": "BobDobbs",
@@ -37260,6 +37263,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "AndroidPhoneRelay",
+        "asn": "AS6327"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -38472,6 +38479,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS57269"
+    },
+    {
         "nickname": "r0cket07i1",
         "exit_address": [
             "45.84.107.74"
@@ -38667,6 +38678,10 @@
     {
         "nickname": "anonymoushippotamus",
         "asn": "AS3223"
+    },
+    {
+        "nickname": "PopNode2",
+        "asn": "AS211619"
     },
     {
         "nickname": "SkyEarthWater38519",
@@ -46328,6 +46343,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "aprelay",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "MyMiddle",
         "asn": "AS8764"
     },
@@ -53354,6 +53373,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "PopNode1",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "PankyBG1",
         "asn": "AS56630"
     },
@@ -54212,6 +54235,9 @@
     },
     {
         "nickname": "CapellaExit21",
+        "exit_address": [
+            "45.9.148.122"
+        ],
         "asn": "AS49447"
     },
     {
