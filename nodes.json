@@ -4581,10 +4581,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "wokestaywokestay",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "JohnMcClane",
         "asn": "AS202422"
     },
@@ -6311,10 +6307,6 @@
             "192.42.116.21"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "horgabost",
-        "asn": "AS396507"
     },
     {
         "nickname": "bytebybyte3319",
@@ -12859,10 +12851,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "130NITROGEN",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "F3Netze",
         "exit_address": [
             "185.220.100.240"
@@ -15886,7 +15874,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV4226",
+        "nickname": "TV6404",
         "asn": "AS5410"
     },
     {
@@ -21034,6 +21022,7 @@
             "186.246.45.200",
             "46.101.244.49",
             "49.13.195.223",
+            "49.13.196.129",
             "65.109.142.58",
             "95.216.215.89",
             "95.217.238.97"
@@ -24717,7 +24706,7 @@
         "asn": "AS1136"
     },
     {
-        "nickname": "TV5468",
+        "nickname": "TV9977",
         "asn": "AS14117"
     },
     {
@@ -46469,6 +46458,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "MixSOFRelay",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "NTH100R6",
         "exit_address": [
             "192.42.116.100"
@@ -52253,6 +52246,9 @@
     },
     {
         "nickname": "tudPsRelay",
+        "exit_address": [
+            "141.76.72.140"
+        ],
         "asn": "AS680"
     },
     {
@@ -52271,7 +52267,7 @@
         "asn": "AS198967"
     },
     {
-        "nickname": "Entry9100",
+        "nickname": "Entry7588",
         "asn": "AS22927"
     },
     {
@@ -52491,6 +52487,9 @@
     },
     {
         "nickname": "9294548736212678",
+        "exit_address": [
+            "185.132.53.37"
+        ],
         "asn": "AS211507"
     },
     {
