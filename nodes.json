@@ -5517,9 +5517,6 @@
     },
     {
         "nickname": "c0wb0y",
-        "exit_address": [
-            "205.185.121.170"
-        ],
         "asn": "AS53667"
     },
     {
@@ -14941,6 +14938,10 @@
         "asn": "AS1136"
     },
     {
+        "nickname": "blackhole20261",
+        "asn": "AS62005"
+    },
+    {
         "nickname": "badgerexit830",
         "exit_address": [
             "185.121.168.90"
@@ -21062,7 +21063,8 @@
             "49.13.195.223",
             "49.13.206.189",
             "65.109.142.58",
-            "95.216.215.89"
+            "95.216.215.89",
+            "95.217.238.97"
         ],
         "asn": "AS198610"
     },
@@ -23452,6 +23454,10 @@
     {
         "nickname": "STYX",
         "asn": "AS24282"
+    },
+    {
+        "nickname": "ShiftLoveX",
+        "asn": "AS20473"
     },
     {
         "nickname": "SaltyFox",
@@ -27163,6 +27169,9 @@
     },
     {
         "nickname": "2mpe2",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -28706,10 +28715,6 @@
     {
         "nickname": "sirqettRelayOne",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "snowden",
-        "asn": "AS396507"
     },
     {
         "nickname": "mnesys1",
@@ -30347,6 +30352,10 @@
     {
         "nickname": "NTH114R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "OnlyUsingXMR",
+        "asn": "AS49392"
     },
     {
         "nickname": "thescribe",
@@ -33371,9 +33380,6 @@
     },
     {
         "nickname": "clan",
-        "exit_address": [
-            "205.185.123.93"
-        ],
         "asn": "AS53667"
     },
     {
@@ -37328,10 +37334,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS49981"
-    },
-    {
         "nickname": "masstordub",
         "asn": "AS36352"
     },
@@ -40653,10 +40655,6 @@
     {
         "nickname": "LupusreginaBeta",
         "asn": "AS8434"
-    },
-    {
-        "nickname": "WyseOnion01",
-        "asn": "AS202613"
     },
     {
         "nickname": "gesdm",
@@ -44344,10 +44342,6 @@
             "141.239.158.222"
         ],
         "asn": "AS36149"
-    },
-    {
-        "nickname": "tracerwall",
-        "asn": "AS3301"
     },
     {
         "nickname": "TORfuExit04",
