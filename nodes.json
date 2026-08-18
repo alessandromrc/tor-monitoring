@@ -3831,6 +3831,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "TV9728",
+        "asn": "AS24556"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS26832"
     },
@@ -4678,9 +4682,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
@@ -9362,9 +9363,6 @@
     },
     {
         "nickname": "Alhena42",
-        "exit_address": [
-            "5.206.227.172"
-        ],
         "asn": "AS47674"
     },
     {
@@ -13511,9 +13509,6 @@
     },
     {
         "nickname": "tilburgexit4",
-        "exit_address": [
-            "176.65.131.192"
-        ],
         "asn": "AS198584"
     },
     {
@@ -14526,6 +14521,10 @@
     {
         "nickname": "prsv",
         "asn": "AS41075"
+    },
+    {
+        "nickname": "SABronk",
+        "asn": "AS329325"
     },
     {
         "nickname": "TV5778",
@@ -17577,6 +17576,10 @@
     {
         "nickname": "prsv",
         "asn": "AS216405"
+    },
+    {
+        "nickname": "BronkCroatia02",
+        "asn": "AS211619"
     },
     {
         "nickname": "NTH97R2",
@@ -23607,7 +23610,6 @@
     {
         "nickname": "Alnair38",
         "exit_address": [
-            "135.181.26.138",
             "65.109.142.58",
             "95.216.215.89"
         ],
@@ -27691,9 +27693,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.3.140.104"
-        ],
         "asn": "AS36352"
     },
     {
@@ -35808,6 +35807,9 @@
     },
     {
         "nickname": "Sygg",
+        "exit_address": [
+            "107.189.7.208"
+        ],
         "asn": "AS53667"
     },
     {
@@ -40248,9 +40250,6 @@
     },
     {
         "nickname": "QuartzVole",
-        "exit_address": [
-            "170.75.164.137"
-        ],
         "asn": "AS174"
     },
     {
@@ -44939,9 +44938,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.174.146.5"
-        ],
         "asn": "AS36352"
     },
     {
