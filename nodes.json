@@ -6389,6 +6389,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "killerpriest",
+        "asn": "AS36849"
+    },
+    {
         "nickname": "plo",
         "asn": "AS36849"
     },
@@ -11129,7 +11133,7 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "TV5541",
+        "nickname": "TV5379",
         "asn": "AS22927"
     },
     {
@@ -16036,7 +16040,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "TV6404",
+        "nickname": "TV3764",
         "asn": "AS5410"
     },
     {
@@ -20294,6 +20298,9 @@
     },
     {
         "nickname": "hnlexit6",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -21236,7 +21243,6 @@
             "49.13.195.223",
             "49.13.196.129",
             "65.109.142.58",
-            "95.216.215.89",
             "95.217.238.97"
         ],
         "asn": "AS198610"
@@ -21532,6 +21538,10 @@
             "23.128.248.165"
         ],
         "asn": "AS400226"
+    },
+    {
+        "nickname": "RelayFR",
+        "asn": "AS56971"
     },
     {
         "nickname": "katharina",
@@ -42235,10 +42245,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "dresdenitsoeppoert",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "bauruine",
         "exit_address": [
             "185.243.218.233"
@@ -48136,6 +48142,10 @@
     {
         "nickname": "redsox",
         "asn": "AS42708"
+    },
+    {
+        "nickname": "talibkweli",
+        "asn": "AS36849"
     },
     {
         "nickname": "myrelaynick",
