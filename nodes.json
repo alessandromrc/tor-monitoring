@@ -1943,6 +1943,9 @@
     },
     {
         "nickname": "hnlexit5",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -16063,10 +16066,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "particle7",
-        "asn": "AS49683"
-    },
-    {
         "nickname": "Lemminkainen",
         "asn": "AS16276"
     },
@@ -18237,6 +18236,9 @@
     },
     {
         "nickname": "hnlexit7",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -23622,7 +23624,6 @@
         "nickname": "Alnair38",
         "exit_address": [
             "135.181.26.138",
-            "159.223.20.73",
             "164.90.211.12",
             "186.246.45.176",
             "46.101.244.49",
@@ -25745,6 +25746,9 @@
     },
     {
         "nickname": "hnlexit2",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -31596,9 +31600,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "46.105.20.238"
-        ],
         "asn": "AS16276"
     },
     {
@@ -31906,6 +31907,9 @@
     },
     {
         "nickname": "hnlexit4",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -35620,9 +35624,6 @@
     },
     {
         "nickname": "GoXMRinMyContacts",
-        "exit_address": [
-            "147.161.3.31"
-        ],
         "asn": "AS399486"
     },
     {
@@ -43428,6 +43429,9 @@
     },
     {
         "nickname": "hnlexit1",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -44670,6 +44674,9 @@
     },
     {
         "nickname": "hnlexit3",
+        "exit_address": [
+            "141.239.158.222"
+        ],
         "asn": "AS36149"
     },
     {
@@ -50881,6 +50888,9 @@
     },
     {
         "nickname": "eo214",
+        "exit_address": [
+            "23.129.64.214"
+        ],
         "asn": "AS396507"
     },
     {
