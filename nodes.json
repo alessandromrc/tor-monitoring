@@ -11140,7 +11140,7 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "TV389",
+        "nickname": "TV2028",
         "asn": "AS22927"
     },
     {
@@ -21244,7 +21244,6 @@
     {
         "nickname": "creeknode223",
         "exit_address": [
-            "186.246.45.200",
             "46.101.244.49",
             "49.13.195.223",
             "49.13.196.129"
@@ -23633,8 +23632,7 @@
             "46.101.244.49",
             "49.13.195.223",
             "65.109.142.58",
-            "95.216.215.89",
-            "95.217.238.97"
+            "95.216.215.89"
         ],
         "asn": "AS198610"
     },
@@ -34982,6 +34980,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.244.79.44"
+        ],
         "asn": "AS53667"
     },
     {
@@ -38959,7 +38960,7 @@
         "asn": "AS3223"
     },
     {
-        "nickname": "PopNode2",
+        "nickname": "PopNodeHU2",
         "exit_address": [
             "45.9.168.107"
         ],
@@ -43903,6 +43904,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.244.79.44"
+        ],
         "asn": "AS53667"
     },
     {
@@ -45783,6 +45787,10 @@
     {
         "nickname": "privacyfirstplease",
         "asn": "AS197902"
+    },
+    {
+        "nickname": "Torrifics",
+        "asn": "AS3320"
     },
     {
         "nickname": "NTH111R8",
@@ -53724,7 +53732,7 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "PopNode1",
+        "nickname": "PopNodeHU1",
         "exit_address": [
             "45.9.168.100"
         ],
