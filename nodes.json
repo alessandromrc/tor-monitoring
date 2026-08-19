@@ -4181,6 +4181,10 @@
         "asn": "AS57043"
     },
     {
+        "nickname": "NukeRelay1",
+        "asn": "AS812"
+    },
+    {
         "nickname": "slxrd2",
         "asn": "AS53006"
     },
@@ -9986,6 +9990,10 @@
         "asn": "AS7377"
     },
     {
+        "nickname": "uncknewone",
+        "asn": "AS213250"
+    },
+    {
         "nickname": "MyPrivateExit",
         "asn": "AS215311"
     },
@@ -11277,7 +11285,7 @@
         "asn": "AS6871"
     },
     {
-        "nickname": "TV1584",
+        "nickname": "TV1057",
         "asn": "AS22927"
     },
     {
@@ -25856,6 +25864,9 @@
     },
     {
         "nickname": "percebimientos923",
+        "exit_address": [
+            "142.44.247.134"
+        ],
         "asn": "AS16276"
     },
     {
@@ -27704,9 +27715,6 @@
     },
     {
         "nickname": "2mpe2",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -32666,6 +32674,9 @@
     },
     {
         "nickname": "Aog",
+        "exit_address": [
+            "193.27.90.125"
+        ],
         "asn": "AS200019"
     },
     {
@@ -34095,6 +34106,9 @@
     },
     {
         "nickname": "TUmRE0t",
+        "exit_address": [
+            "94.124.160.112"
+        ],
         "asn": "AS395092"
     },
     {
@@ -39977,6 +39991,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS49981"
+    },
+    {
         "nickname": "Bluejaybrd",
         "asn": "AS24940"
     },
@@ -42652,6 +42670,10 @@
     {
         "nickname": "Billy",
         "asn": "AS5432"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS49981"
     },
     {
         "nickname": "veespRU",
@@ -50045,10 +50067,6 @@
         "asn": "AS16591"
     },
     {
-        "nickname": "SecureVoyage",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "didntsetrelayname",
         "asn": "AS31898"
     },
@@ -52708,6 +52726,7 @@
         "nickname": "5ORjh0zy",
         "exit_address": [
             "159.223.20.73",
+            "49.13.195.223",
             "65.109.142.58"
         ],
         "asn": "AS198610"
