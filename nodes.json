@@ -5636,10 +5636,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "TV3232",
-        "asn": "AS27747"
-    },
-    {
         "nickname": "Alien7001",
         "asn": "AS3236"
     },
@@ -14174,7 +14170,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV4503",
+        "nickname": "TV9238",
         "asn": "AS262196"
     },
     {
@@ -19476,7 +19472,7 @@
     },
     {
         "nickname": "ChomelesDEionos",
-        "asn": "AS215136"
+        "asn": "AS8560"
     },
     {
         "nickname": "sarkodie",
@@ -39944,6 +39940,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "190.2.155.251"
+        ],
         "asn": "AS49981"
     },
     {
@@ -46059,6 +46058,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "X0wG9Vw",
+        "asn": "AS397423"
+    },
+    {
         "nickname": "NTH49R4",
         "exit_address": [
             "192.42.116.49"
@@ -47935,6 +47938,9 @@
     },
     {
         "nickname": "BronkCroatia",
+        "exit_address": [
+            "45.95.169.119"
+        ],
         "asn": "AS211619"
     },
     {
@@ -48742,6 +48748,10 @@
     {
         "nickname": "Wolfmdst8767",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "Carlberg",
+        "asn": "AS213468"
     },
     {
         "nickname": "roryfresco",
@@ -54187,6 +54197,9 @@
     },
     {
         "nickname": "dreamachine",
+        "exit_address": [
+            "5.255.110.120"
+        ],
         "asn": "AS60404"
     },
     {
