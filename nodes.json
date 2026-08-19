@@ -1404,10 +1404,6 @@
         "asn": "AS5378"
     },
     {
-        "nickname": "EnilnoEnterprise",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "rico",
         "asn": "AS36849"
     },
@@ -9603,9 +9599,6 @@
     },
     {
         "nickname": "G0LD13",
-        "exit_address": [
-            "201.3.225.27"
-        ],
         "asn": "AS48031"
     },
     {
@@ -10740,10 +10733,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS12552"
-    },
-    {
         "nickname": "SOL42",
         "asn": "AS3352"
     },
@@ -10976,10 +10965,6 @@
             "45.84.107.33"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "ymysummer",
-        "asn": "AS24940"
     },
     {
         "nickname": "mullbinde6",
@@ -13669,6 +13654,9 @@
     },
     {
         "nickname": "Albali90",
+        "exit_address": [
+            "86.111.187.153"
+        ],
         "asn": "AS33182"
     },
     {
@@ -15208,10 +15196,6 @@
     {
         "nickname": "daringer",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "MadToshTorRelay9001",
-        "asn": "AS22612"
     },
     {
         "nickname": "Perseverance",
@@ -19028,9 +19012,6 @@
     },
     {
         "nickname": "marylou1",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -27179,10 +27160,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "TV7748",
-        "asn": "AS22927"
-    },
-    {
         "nickname": "peeweerose",
         "asn": "AS36849"
     },
@@ -28115,6 +28092,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.3.42.78"
+        ],
         "asn": "AS36352"
     },
     {
@@ -31669,9 +31649,6 @@
     },
     {
         "nickname": "marylou2",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -31865,9 +31842,6 @@
     },
     {
         "nickname": "marylou3",
-        "exit_address": [
-            "89.234.157.254"
-        ],
         "asn": "AS197422"
     },
     {
@@ -35143,6 +35117,9 @@
     },
     {
         "nickname": "cometnode650",
+        "exit_address": [
+            "86.111.187.166"
+        ],
         "asn": "AS33182"
     },
     {
