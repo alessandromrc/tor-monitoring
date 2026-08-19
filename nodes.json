@@ -10996,7 +10996,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV2523",
+        "nickname": "TV1328",
         "asn": "AS22927"
     },
     {
@@ -32621,6 +32621,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -43600,10 +43604,6 @@
         "asn": "AS6730"
     },
     {
-        "nickname": "inconnu1",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "kiriakou",
         "exit_address": [
             "23.129.64.140"
@@ -45601,10 +45601,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "ArcticRelay73",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "TwitchSucks",
         "asn": "AS214503"
     },
@@ -45745,6 +45741,7 @@
     {
         "nickname": "Dizitalcourage4ip1b",
         "exit_address": [
+            "135.181.26.138",
             "49.12.39.148",
             "65.109.142.58",
             "95.217.238.97"
@@ -50927,6 +50924,10 @@
     {
         "nickname": "fedstookover",
         "asn": "AS215730"
+    },
+    {
+        "nickname": "torservers33",
+        "asn": "AS38517"
     },
     {
         "nickname": "anarchosyndical6",
