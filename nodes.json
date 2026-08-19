@@ -774,10 +774,6 @@
         "asn": "AS60117"
     },
     {
-        "nickname": "BurningMaggi",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "klaxhex",
         "asn": "AS53667"
     },
@@ -1514,10 +1510,6 @@
     {
         "nickname": "JeffsQuRelay",
         "asn": "AS3269"
-    },
-    {
-        "nickname": "armand",
-        "asn": "AS36849"
     },
     {
         "nickname": "as214958tor2",
@@ -4048,6 +4040,10 @@
     {
         "nickname": "Killix",
         "asn": "AS211507"
+    },
+    {
+        "nickname": "0x576f77",
+        "asn": "AS12874"
     },
     {
         "nickname": "DuckDuckDev",
@@ -17381,10 +17377,6 @@
             "204.8.96.86"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "TV9960",
-        "asn": "AS7303"
     },
     {
         "nickname": "9g4net5",
@@ -38400,10 +38392,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "shark",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH16R3",
         "exit_address": [
             "192.42.116.16"
@@ -45736,6 +45724,7 @@
     {
         "nickname": "Dizitalcourage4ip1b",
         "exit_address": [
+            "49.12.39.148",
             "65.109.142.58",
             "95.217.238.97"
         ],
@@ -52717,6 +52706,7 @@
         "exit_address": [
             "159.223.20.73",
             "49.13.195.223",
+            "49.13.196.129",
             "65.109.142.58"
         ],
         "asn": "AS198610"
