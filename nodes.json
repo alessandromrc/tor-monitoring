@@ -1392,6 +1392,10 @@
         "asn": "AS49683"
     },
     {
+        "nickname": "kipp",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "192.3.42.78"
@@ -7557,10 +7561,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "lasttimeforgotit",
-        "asn": "AS8648"
-    },
-    {
         "nickname": "NTH100R8",
         "asn": "AS8283"
     },
@@ -10804,10 +10804,6 @@
         "asn": "AS215540"
     },
     {
-        "nickname": "tainish",
-        "asn": "AS8648"
-    },
-    {
         "nickname": "kingsun",
         "asn": "AS36849"
     },
@@ -10997,10 +10993,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "gorbin",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Belgium",
         "asn": "AS206804"
     },
@@ -11012,7 +11004,7 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "TV4598",
+        "nickname": "TV1308",
         "asn": "AS22927"
     },
     {
@@ -11918,10 +11910,6 @@
     {
         "nickname": "dotsrcExit3",
         "asn": "AS210731"
-    },
-    {
-        "nickname": "taine",
-        "asn": "AS8648"
     },
     {
         "nickname": "Bobbysrelay",
@@ -22453,10 +22441,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "tainisia",
-        "asn": "AS8648"
-    },
-    {
         "nickname": "Superchango",
         "asn": "AS5432"
     },
@@ -32618,6 +32602,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "mullvad",
+        "asn": "AS17858"
+    },
+    {
         "nickname": "bonecrusher",
         "asn": "AS36849"
     },
@@ -37847,6 +37835,10 @@
         "asn": "AS7303"
     },
     {
+        "nickname": "TV6277",
+        "asn": "AS5384"
+    },
+    {
         "nickname": "G0LD13",
         "asn": "AS48031"
     },
@@ -38811,9 +38803,6 @@
     },
     {
         "nickname": "artikel5ev13b",
-        "exit_address": [
-            "51.15.59.15"
-        ],
         "asn": "AS12876"
     },
     {
@@ -44563,6 +44552,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "unchild",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "subspacerelay1",
         "asn": "AS1136"
     },
@@ -45844,6 +45837,7 @@
             "49.13.195.223",
             "49.13.196.129",
             "65.109.142.58",
+            "95.216.215.89",
             "95.217.238.97"
         ],
         "asn": "AS198610"
