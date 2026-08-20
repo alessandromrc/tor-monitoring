@@ -2609,10 +2609,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "itcanhappenhere",
-        "asn": "AS50613"
-    },
-    {
         "nickname": "Johnson46243",
         "asn": "AS53667"
     },
@@ -9902,10 +9898,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "nezupub",
-        "asn": "AS51175"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS43513"
     },
@@ -17127,10 +17119,6 @@
         "asn": "AS212477"
     },
     {
-        "nickname": "Folgers",
-        "asn": "AS27411"
-    },
-    {
         "nickname": "bludicapra",
         "exit_address": [
             "64.190.76.2"
@@ -19764,10 +19752,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Folgers",
-        "asn": "AS27411"
-    },
-    {
         "nickname": "fabledview",
         "exit_address": [
             "212.73.134.204"
@@ -21395,9 +21379,6 @@
     },
     {
         "nickname": "ServuryPrivateExit",
-        "exit_address": [
-            "207.180.58.43"
-        ],
         "asn": "AS213250"
     },
     {
@@ -27263,10 +27244,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "TV8130",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "binney",
         "exit_address": [
             "23.129.64.132"
@@ -32236,6 +32213,9 @@
     },
     {
         "nickname": "Satoshi2",
+        "exit_address": [
+            "23.182.128.217"
+        ],
         "asn": "AS401933"
     },
     {
@@ -43300,6 +43280,9 @@
     },
     {
         "nickname": "Satoshi",
+        "exit_address": [
+            "23.182.128.217"
+        ],
         "asn": "AS401933"
     },
     {
@@ -45644,7 +45627,6 @@
     {
         "nickname": "Dizitalcourage4ip1b",
         "exit_address": [
-            "135.181.26.138",
             "46.101.244.49",
             "49.12.39.148",
             "49.13.195.223",
@@ -47470,10 +47452,6 @@
     {
         "nickname": "luhtyler",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TumblerOne",
-        "asn": "AS3320"
     },
     {
         "nickname": "Killix",
