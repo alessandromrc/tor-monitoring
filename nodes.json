@@ -6531,6 +6531,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "gotorDe5",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "fenrir",
         "asn": "AS14061"
     },
@@ -14077,6 +14081,10 @@
             "204.8.96.100"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "HOtDOgRelay",
+        "asn": "AS2516"
     },
     {
         "nickname": "gdyniaexit39",
@@ -52655,7 +52663,6 @@
         "nickname": "5ORjh0zy",
         "exit_address": [
             "135.181.26.138",
-            "159.223.20.73",
             "164.90.211.12",
             "167.71.38.247",
             "49.12.39.148",
