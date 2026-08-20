@@ -3447,6 +3447,10 @@
         "asn": "AS15600"
     },
     {
+        "nickname": "CzechMiddle",
+        "asn": "AS201476"
+    },
+    {
         "nickname": "SrsTubesRelay",
         "asn": "AS50066"
     },
@@ -9228,6 +9232,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "ToLamRelay",
+        "asn": "AS7552"
+    },
+    {
         "nickname": "TrustMeBroGarantee",
         "asn": "AS16591"
     },
@@ -10728,10 +10736,6 @@
             "94.230.208.147"
         ],
         "asn": "AS29691"
-    },
-    {
-        "nickname": "torus",
-        "asn": "AS53356"
     },
     {
         "nickname": "FlashGoat",
@@ -27225,10 +27229,6 @@
         "asn": "AS215120"
     },
     {
-        "nickname": "spheroid",
-        "asn": "AS53356"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS33984"
     },
@@ -37819,6 +37819,10 @@
     {
         "nickname": "lilcnote",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MyRelayNode1",
+        "asn": "AS31898"
     },
     {
         "nickname": "rivon",
