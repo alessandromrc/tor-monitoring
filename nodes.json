@@ -1277,9 +1277,6 @@
     },
     {
         "nickname": "kissmyexit",
-        "exit_address": [
-            "201.3.225.70"
-        ],
         "asn": "AS48031"
     },
     {
@@ -2420,9 +2417,6 @@
     },
     {
         "nickname": "Basil174",
-        "exit_address": [
-            "165.245.144.171"
-        ],
         "asn": "AS14061"
     },
     {
@@ -9641,9 +9635,6 @@
     },
     {
         "nickname": "freedoomnet",
-        "exit_address": [
-            "89.126.230.29"
-        ],
         "asn": "AS63023"
     },
     {
@@ -38950,10 +38941,6 @@
         "asn": "AS6181"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "theseekingchild",
         "exit_address": [
             "180.150.226.99"
@@ -41880,9 +41867,6 @@
     },
     {
         "nickname": "quasarnode761",
-        "exit_address": [
-            "130.185.109.4"
-        ],
         "asn": "AS51191"
     },
     {
@@ -43055,9 +43039,6 @@
     },
     {
         "nickname": "UnredactedAssange",
-        "exit_address": [
-            "23.191.200.4"
-        ],
         "asn": "AS401401"
     },
     {
@@ -44911,6 +44892,9 @@
     },
     {
         "nickname": "C0rnd0g",
+        "exit_address": [
+            "172.86.117.246"
+        ],
         "asn": "AS14956"
     },
     {
@@ -45376,6 +45360,10 @@
     {
         "nickname": "bluecrab",
         "asn": "AS399122"
+    },
+    {
+        "nickname": "acid74middleguard1",
+        "asn": "AS8881"
     },
     {
         "nickname": "GermanCraft24",
@@ -47669,9 +47657,6 @@
     },
     {
         "nickname": "Altair80",
-        "exit_address": [
-            "167.99.28.88"
-        ],
         "asn": "AS14061"
     },
     {
@@ -51056,9 +51041,6 @@
     },
     {
         "nickname": "ridge881",
-        "exit_address": [
-            "213.111.144.15"
-        ],
         "asn": "AS43641"
     },
     {
@@ -52661,7 +52643,6 @@
     {
         "nickname": "5ORjh0zy",
         "exit_address": [
-            "135.181.26.138",
             "164.90.211.12",
             "167.71.38.247",
             "49.12.39.148",
@@ -54666,9 +54647,6 @@
     },
     {
         "nickname": "falconexit217",
-        "exit_address": [
-            "208.73.206.42"
-        ],
         "asn": "AS19318"
     },
     {
