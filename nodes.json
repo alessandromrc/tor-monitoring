@@ -10165,9 +10165,6 @@
     },
     {
         "nickname": "kACL",
-        "exit_address": [
-            "185.102.78.177"
-        ],
         "asn": "AS198171"
     },
     {
@@ -14117,7 +14114,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "TV2403",
+        "nickname": "TV1538",
         "asn": "AS262196"
     },
     {
@@ -15507,10 +15504,6 @@
             "147.90.235.22"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "PlayInTraffic",
-        "asn": "AS210558"
     },
     {
         "nickname": "Aleff",
@@ -45548,8 +45541,7 @@
     {
         "nickname": "Dizitalcourage4ip1b",
         "exit_address": [
-            "46.101.244.49",
-            "95.217.238.97"
+            "46.101.244.49"
         ],
         "asn": "AS198610"
     },
@@ -51550,7 +51542,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -52546,7 +52538,6 @@
     {
         "nickname": "5ORjh0zy",
         "exit_address": [
-            "167.71.38.247",
             "49.12.39.148",
             "49.13.196.129"
         ],
@@ -54639,6 +54630,10 @@
             "204.8.96.156"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "RelayInTheMiddle",
+        "asn": "AS8758"
     },
     {
         "nickname": "kidcudi",
