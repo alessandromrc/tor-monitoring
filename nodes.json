@@ -11609,10 +11609,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "aphroditeRelay2",
         "asn": "AS8560"
     },
@@ -18042,10 +18038,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "TORvalds",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "Killix",
         "asn": "AS20860"
     },
@@ -23414,6 +23406,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "R4tzRelay",
+        "asn": "AS3269"
+    },
+    {
         "nickname": "UnredactedWilson",
         "exit_address": [
             "23.191.200.113"
@@ -25931,6 +25927,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "purpleHaZ3",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "cmutornode",
         "exit_address": [
             "204.194.29.4"
@@ -27704,10 +27704,6 @@
     {
         "nickname": "cochise",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "exit",
-        "asn": "AS20766"
     },
     {
         "nickname": "TheMadHackerTkDc",
@@ -30771,6 +30767,9 @@
     },
     {
         "nickname": "jackskid",
+        "exit_address": [
+            "154.90.70.168"
+        ],
         "asn": "AS215925"
     },
     {
@@ -51246,7 +51245,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
