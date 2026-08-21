@@ -20151,8 +20151,8 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "PrairieCircuit",
-        "asn": "AS7018"
+        "nickname": "TorReysicCom",
+        "asn": "AS24940"
     },
     {
         "nickname": "mylocXdus01",
@@ -32383,6 +32383,10 @@
         "asn": "AS59729"
     },
     {
+        "nickname": "forest57",
+        "asn": "AS20860"
+    },
+    {
         "nickname": "ChocolateBit",
         "asn": "AS41745"
     },
@@ -32536,6 +32540,10 @@
     },
     {
         "nickname": "bbno",
+        "asn": "AS36849"
+    },
+    {
+        "nickname": "mfdoom",
         "asn": "AS36849"
     },
     {
@@ -47487,10 +47495,6 @@
         "asn": "AS38195"
     },
     {
-        "nickname": "Nova978",
-        "asn": "AS400587"
-    },
-    {
         "nickname": "server11r1",
         "asn": "AS24940"
     },
@@ -50231,6 +50235,9 @@
     },
     {
         "nickname": "WerewolfFunWorld",
+        "exit_address": [
+            "5.79.66.19"
+        ],
         "asn": "AS60781"
     },
     {
