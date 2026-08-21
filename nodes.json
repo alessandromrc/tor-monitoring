@@ -7827,6 +7827,10 @@
         "asn": "AS8881"
     },
     {
+        "nickname": "VLRelaySRV",
+        "asn": "AS16246"
+    },
+    {
         "nickname": "koriander",
         "exit_address": [
             "109.70.100.14"
@@ -14086,6 +14090,10 @@
     {
         "nickname": "fatstor5",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "UnredactedEFF19",
+        "asn": "AS31863"
     },
     {
         "nickname": "smasher",
@@ -39485,10 +39493,6 @@
         "asn": "AS20845"
     },
     {
-        "nickname": "TSwanson",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "einundzwanzig",
         "asn": "AS197540"
     },
@@ -43272,10 +43276,6 @@
     {
         "nickname": "NTH101R4",
         "asn": "AS8283"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS41652"
     },
     {
         "nickname": "UnredactedMKUltra",
