@@ -12347,6 +12347,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "butterOverflow",
+        "asn": "AS64073"
+    },
+    {
         "nickname": "CheeseRobot",
         "asn": "AS24940"
     },
@@ -15282,6 +15286,9 @@
     },
     {
         "nickname": "DawnZebra",
+        "exit_address": [
+            "37.148.161.37"
+        ],
         "asn": "AS62370"
     },
     {
@@ -26825,6 +26832,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "Node2tor4ever",
+        "asn": "AS12586"
+    },
+    {
         "nickname": "DFRI142",
         "exit_address": [
             "171.25.193.45"
@@ -27743,6 +27754,10 @@
     {
         "nickname": "MyRelayNode1",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "Node1tor4ever",
+        "asn": "AS12586"
     },
     {
         "nickname": "BorkNode03",
@@ -34459,6 +34474,9 @@
     },
     {
         "nickname": "PebbleBadger",
+        "exit_address": [
+            "94.130.64.21"
+        ],
         "asn": "AS24940"
     },
     {
@@ -50643,6 +50661,9 @@
     },
     {
         "nickname": "HarborMoose",
+        "exit_address": [
+            "136.243.133.176"
+        ],
         "asn": "AS24940"
     },
     {
