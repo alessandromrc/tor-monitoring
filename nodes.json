@@ -1941,9 +1941,6 @@
     },
     {
         "nickname": "2mpe",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -29749,6 +29746,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "kibble",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "NotTheNSA",
         "asn": "AS8560"
     },
@@ -43636,6 +43637,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "skibble",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -51246,7 +51251,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
