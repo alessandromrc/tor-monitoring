@@ -1941,6 +1941,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -11186,10 +11189,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "XXXMRRRinBIO",
-        "asn": "AS212477"
-    },
-    {
         "nickname": "GermanCraft22",
         "asn": "AS21336"
     },
@@ -17379,10 +17378,6 @@
     {
         "nickname": "F24oSecondRelay",
         "asn": "AS44382"
-    },
-    {
-        "nickname": "BakedPotat0",
-        "asn": "AS29802"
     },
     {
         "nickname": "die",
@@ -37806,9 +37801,6 @@
     },
     {
         "nickname": "kissmyexit",
-        "exit_address": [
-            "201.3.225.62"
-        ],
         "asn": "AS48031"
     },
     {
