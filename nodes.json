@@ -4963,6 +4963,10 @@
         "asn": "AS12874"
     },
     {
+        "nickname": "EhrenfeldTorRelay",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NineEyes",
         "asn": "AS12876"
     },
@@ -35812,7 +35816,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TV8165",
+        "nickname": "TV7590",
         "asn": "AS28573"
     },
     {
@@ -38836,6 +38840,14 @@
     {
         "nickname": "dusf22",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "NetWorkXXIV",
+        "asn": "AS197540"
+    },
+    {
+        "nickname": "smurfixNSC",
+        "asn": "AS12337"
     },
     {
         "nickname": "firstor",
@@ -48636,10 +48648,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "WolontariatNode2",
-        "asn": "AS41079"
-    },
-    {
         "nickname": "sojabohne",
         "exit_address": [
             "109.70.100.7"
@@ -51024,10 +51032,6 @@
     {
         "nickname": "FAKER",
         "asn": "AS3301"
-    },
-    {
-        "nickname": "WolontariatNode1",
-        "asn": "AS41079"
     },
     {
         "nickname": "Quintex561",
