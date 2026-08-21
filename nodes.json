@@ -19332,10 +19332,6 @@
         "asn": "AS63199"
     },
     {
-        "nickname": "suchagoodguy",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "protaper41",
         "exit_address": [
             "37.228.129.168"
@@ -26841,6 +26837,9 @@
     },
     {
         "nickname": "Node2tor4ever",
+        "exit_address": [
+            "5.230.219.100"
+        ],
         "asn": "AS12586"
     },
     {
@@ -27765,6 +27764,9 @@
     },
     {
         "nickname": "Node1tor4ever",
+        "exit_address": [
+            "5.230.219.101"
+        ],
         "asn": "AS12586"
     },
     {
