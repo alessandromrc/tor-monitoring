@@ -14081,6 +14081,9 @@
     },
     {
         "nickname": "UnredactedEFF19",
+        "exit_address": [
+            "104.171.114.22"
+        ],
         "asn": "AS31863"
     },
     {
@@ -30763,6 +30766,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "jackskid",
+        "asn": "AS215925"
+    },
+    {
         "nickname": "DFRI126",
         "exit_address": [
             "171.25.193.131"
@@ -37354,7 +37361,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "TV5148",
+        "nickname": "TV4624",
         "asn": "AS5384"
     },
     {
