@@ -13150,6 +13150,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "DrauseFPS",
+        "asn": "AS12876"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS43641"
     },
@@ -35366,10 +35370,6 @@
         "asn": "AS393408"
     },
     {
-        "nickname": "uchoRelay",
-        "asn": "AS9318"
-    },
-    {
         "nickname": "torRelaySgp1",
         "asn": "AS14061"
     },
@@ -35834,6 +35834,10 @@
             "23.129.64.133"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "TV9172",
+        "asn": "AS28573"
     },
     {
         "nickname": "NTH44R1",
@@ -36980,6 +36984,10 @@
     {
         "nickname": "magic848relay",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "gAte2AwaY",
+        "asn": "AS8254"
     },
     {
         "nickname": "zerberusTor",
@@ -54656,9 +54664,6 @@
     },
     {
         "nickname": "NotYourINTERNET",
-        "exit_address": [
-            "64.190.113.221"
-        ],
         "asn": "AS399629"
     },
     {
