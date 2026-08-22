@@ -1275,10 +1275,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "RootZone",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "kdot",
         "asn": "AS36849"
     },
@@ -4644,6 +4640,9 @@
     },
     {
         "nickname": "wokestaywokestay",
+        "exit_address": [
+            "149.202.79.129"
+        ],
         "asn": "AS16276"
     },
     {
@@ -12390,6 +12389,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "DipperPines",
+        "asn": "AS204876"
+    },
+    {
         "nickname": "AntonPann5",
         "asn": "AS41608"
     },
@@ -13608,6 +13611,9 @@
     },
     {
         "nickname": "moarSmokes",
+        "exit_address": [
+            "91.99.118.154"
+        ],
         "asn": "AS24940"
     },
     {
@@ -19644,10 +19650,6 @@
         "asn": "AS58212"
     },
     {
-        "nickname": "ADoorToTor",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "trauben",
         "exit_address": [
             "109.70.100.5"
@@ -22713,6 +22715,10 @@
             "104.223.84.121"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "beegate1",
+        "asn": "AS12322"
     },
     {
         "nickname": "BOB123",
@@ -29582,6 +29588,9 @@
     },
     {
         "nickname": "fatboy",
+        "exit_address": [
+            "51.15.18.73"
+        ],
         "asn": "AS12876"
     },
     {
@@ -35512,10 +35521,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MonRelaisPerso",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "brentfaiyaz",
         "asn": "AS36849"
     },
@@ -37329,7 +37334,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "TV4714",
+        "nickname": "TV5364",
         "asn": "AS5384"
     },
     {
