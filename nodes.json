@@ -3291,6 +3291,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "VikingLineNL",
+        "asn": "AS57043"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -24565,7 +24569,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TV6803",
+        "nickname": "TV5117",
         "asn": "AS28573"
     },
     {
@@ -28554,10 +28558,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "coolcouchpampers",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "beacon",
         "exit_address": [
             "150.40.126.115"
@@ -28805,10 +28805,6 @@
             "23.191.200.99"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "cdbrelay01",
-        "asn": "AS20473"
     },
     {
         "nickname": "NTH101R5",
@@ -37498,6 +37494,10 @@
             "204.8.96.106"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "outerterminus",
+        "asn": "AS210083"
     },
     {
         "nickname": "prsv",
@@ -49232,10 +49232,6 @@
     {
         "nickname": "anarchosyndical1",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "pangea06",
-        "asn": "AS16019"
     },
     {
         "nickname": "NTH63R5",
