@@ -4307,10 +4307,6 @@
         "asn": "AS215730"
     },
     {
-        "nickname": "MojNode",
-        "asn": "AS8400"
-    },
-    {
         "nickname": "greasymiami",
         "asn": "AS36849"
     },
@@ -15267,9 +15263,6 @@
     },
     {
         "nickname": "DawnZebra",
-        "exit_address": [
-            "37.148.161.37"
-        ],
         "asn": "AS62370"
     },
     {
@@ -23977,9 +23970,6 @@
     },
     {
         "nickname": "FrostVole",
-        "exit_address": [
-            "195.20.115.161"
-        ],
         "asn": "AS56322"
     },
     {
@@ -25944,9 +25934,6 @@
     },
     {
         "nickname": "KiwiZebra",
-        "exit_address": [
-            "195.20.115.145"
-        ],
         "asn": "AS56322"
     },
     {
@@ -34380,9 +34367,6 @@
     },
     {
         "nickname": "PebbleBadger",
-        "exit_address": [
-            "94.130.64.21"
-        ],
         "asn": "AS24940"
     },
     {
@@ -34655,6 +34639,10 @@
             "5.104.86.6"
         ],
         "asn": "AS141995"
+    },
+    {
+        "nickname": "Svaneke",
+        "asn": "AS24800"
     },
     {
         "nickname": "torro",
@@ -35342,6 +35330,10 @@
         "asn": "AS399646"
     },
     {
+        "nickname": "TehRelayV3",
+        "asn": "AS5617"
+    },
+    {
         "nickname": "Sidewinder",
         "asn": "AS24940"
     },
@@ -35824,9 +35816,6 @@
     },
     {
         "nickname": "JasperZebra",
-        "exit_address": [
-            "195.20.115.218"
-        ],
         "asn": "AS56322"
     },
     {
@@ -48959,9 +48948,6 @@
     },
     {
         "nickname": "KiwiRaven",
-        "exit_address": [
-            "80.94.95.143"
-        ],
         "asn": "AS204428"
     },
     {
@@ -50511,9 +50497,6 @@
     },
     {
         "nickname": "HarborMoose",
-        "exit_address": [
-            "136.243.133.176"
-        ],
         "asn": "AS24940"
     },
     {
@@ -53590,9 +53573,6 @@
     },
     {
         "nickname": "BlueElk",
-        "exit_address": [
-            "78.41.207.197"
-        ],
         "asn": "AS62370"
     },
     {
