@@ -6932,10 +6932,6 @@
         "asn": "AS328364"
     },
     {
-        "nickname": "Test",
-        "asn": "AS212238"
-    },
-    {
         "nickname": "r0cket11i3",
         "exit_address": [
             "45.84.107.128"
@@ -7833,7 +7829,7 @@
     },
     {
         "nickname": "acid74middleguard2",
-        "asn": "AS8881"
+        "asn": "AS3320"
     },
     {
         "nickname": "VLRelaySRV",
@@ -8111,6 +8107,10 @@
     {
         "nickname": "reovol",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Node3tor4ever",
+        "asn": "AS50613"
     },
     {
         "nickname": "atommanxseries",
@@ -11246,6 +11246,10 @@
     {
         "nickname": "famousoceans",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "CzechMiddle2",
+        "asn": "AS16276"
     },
     {
         "nickname": "Route64TorRelay",
@@ -18984,6 +18988,10 @@
     {
         "nickname": "ShinobiHasu",
         "asn": "AS151873"
+    },
+    {
+        "nickname": "Node4tor4ever",
+        "asn": "AS41075"
     },
     {
         "nickname": "prsv",
@@ -31743,9 +31751,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.227.183.149"
-        ],
         "asn": "AS36352"
     },
     {
@@ -45998,9 +46003,6 @@
     },
     {
         "nickname": "fourwinds02",
-        "exit_address": [
-            "5.255.98.151"
-        ],
         "asn": "AS60404"
     },
     {
@@ -51713,9 +51715,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.227.183.149"
-        ],
         "asn": "AS36352"
     },
     {
@@ -53283,10 +53282,6 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
-    },
-    {
-        "nickname": "Aludra57",
-        "asn": "AS42868"
     },
     {
         "nickname": "talkoftheculdesac",
