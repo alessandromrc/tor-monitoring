@@ -2030,7 +2030,7 @@
     },
     {
         "nickname": "Vega79",
-        "asn": "AS36352"
+        "asn": "AS14670"
     },
     {
         "nickname": "DFRI123",
@@ -3292,6 +3292,9 @@
     },
     {
         "nickname": "VikingLineNL",
+        "exit_address": [
+            "46.17.102.193"
+        ],
         "asn": "AS57043"
     },
     {
@@ -7499,10 +7502,6 @@
     {
         "nickname": "hyoudo",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "gdanskexit10",
-        "asn": "AS9370"
     },
     {
         "nickname": "CSTLLNODE3",
@@ -24710,7 +24709,7 @@
     },
     {
         "nickname": "yxvyi25",
-        "asn": "AS36352"
+        "asn": "AS14670"
     },
     {
         "nickname": "OmbroRelay",
