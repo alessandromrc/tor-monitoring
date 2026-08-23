@@ -14038,9 +14038,6 @@
     },
     {
         "nickname": "UnredactedEFF19",
-        "exit_address": [
-            "104.171.114.22"
-        ],
         "asn": "AS31863"
     },
     {
@@ -14431,6 +14428,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -17323,6 +17323,10 @@
     {
         "nickname": "F24oSecondRelay",
         "asn": "AS44382"
+    },
+    {
+        "nickname": "BakedPotat0",
+        "asn": "AS29802"
     },
     {
         "nickname": "die",
@@ -20677,6 +20681,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -23696,6 +23703,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -25087,6 +25097,10 @@
     {
         "nickname": "fastpath04",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "dozer",
+        "asn": "AS197540"
     },
     {
         "nickname": "wavechapelle",
@@ -37174,7 +37188,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "TV5364",
+        "nickname": "TV3254",
         "asn": "AS5384"
     },
     {
@@ -45765,6 +45779,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -47486,6 +47503,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -51484,6 +51504,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.221"
+        ],
         "asn": "AS36352"
     },
     {
@@ -54415,6 +54438,10 @@
     {
         "nickname": "realprivate",
         "asn": "AS212238"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS7922"
     },
     {
         "nickname": "swaelee",
