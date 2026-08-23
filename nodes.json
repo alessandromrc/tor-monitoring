@@ -17231,6 +17231,9 @@
     },
     {
         "nickname": "oer893bhds",
+        "exit_address": [
+            "5.255.108.145"
+        ],
         "asn": "AS60404"
     },
     {
@@ -38931,10 +38934,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "ZoddyTor",
-        "asn": "AS1267"
-    },
-    {
         "nickname": "catgirl",
         "asn": "AS197540"
     },
@@ -40562,6 +40561,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "XeonRelay",
+        "asn": "AS46841"
     },
     {
         "nickname": "NerdreichRelay1",
