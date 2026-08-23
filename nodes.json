@@ -27436,6 +27436,10 @@
         "asn": "AS215288"
     },
     {
+        "nickname": "ithRelay",
+        "asn": "AS3462"
+    },
+    {
         "nickname": "anonymityiscool",
         "exit_address": [
             "205.185.113.180"
@@ -38230,10 +38234,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "jens723",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.244.73.190"
@@ -48326,9 +48326,6 @@
     },
     {
         "nickname": "Onionforge01",
-        "exit_address": [
-            "45.9.149.34"
-        ],
         "asn": "AS49447"
     },
     {
@@ -49823,10 +49820,6 @@
     {
         "nickname": "tengu",
         "asn": "AS852"
-    },
-    {
-        "nickname": "getrelayedon02",
-        "asn": "AS31898"
     },
     {
         "nickname": "BestTheBestXMR",
