@@ -2759,6 +2759,9 @@
     },
     {
         "nickname": "ObsidianExit01",
+        "exit_address": [
+            "31.22.91.203"
+        ],
         "asn": "AS30893"
     },
     {
@@ -4704,6 +4707,9 @@
     },
     {
         "nickname": "TheMadHackerSpinch",
+        "exit_address": [
+            "45.38.20.164"
+        ],
         "asn": "AS215659"
     },
     {
@@ -9216,7 +9222,7 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "TV6204",
+        "nickname": "TV5259",
         "asn": "AS5384"
     },
     {
@@ -17224,6 +17230,10 @@
     {
         "nickname": "WheelTor",
         "asn": "AS2856"
+    },
+    {
+        "nickname": "TORHELPER",
+        "asn": "AS31898"
     },
     {
         "nickname": "Caramelo",
@@ -25753,10 +25763,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS852"
-    },
-    {
         "nickname": "fleelord",
         "asn": "AS36849"
     },
@@ -26886,10 +26892,6 @@
     {
         "nickname": "mygreatrelay",
         "asn": "AS51809"
-    },
-    {
-        "nickname": "UPLUS1F44C",
-        "asn": "AS45839"
     },
     {
         "nickname": "Phantommdst7326",
@@ -45056,10 +45058,6 @@
     {
         "nickname": "moon3000",
         "asn": "AS43641"
-    },
-    {
-        "nickname": "Relay01",
-        "asn": "AS213281"
     },
     {
         "nickname": "Unnamed",
