@@ -34906,6 +34906,9 @@
     },
     {
         "nickname": "torzpi222",
+        "exit_address": [
+            "79.100.237.181"
+        ],
         "asn": "AS8866"
     },
     {
@@ -46548,6 +46551,10 @@
         "asn": "AS8764"
     },
     {
+        "nickname": "GustavVasa1",
+        "asn": "AS16019"
+    },
+    {
         "nickname": "letsdoitUS",
         "asn": "AS8560"
     },
@@ -47481,6 +47488,10 @@
         "asn": "AS3215"
     },
     {
+        "nickname": "pve1ubuntu100",
+        "asn": "AS16591"
+    },
+    {
         "nickname": "Quintex62",
         "exit_address": [
             "204.8.96.151"
@@ -47681,10 +47692,6 @@
     {
         "nickname": "Keeper21",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "raftsmallN2",
-        "asn": "AS31863"
     },
     {
         "nickname": "relayongorellik",
