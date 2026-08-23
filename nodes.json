@@ -3857,6 +3857,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "45.135.180.201"
+        ],
         "asn": "AS43641"
     },
     {
@@ -7814,6 +7817,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "194.58.47.54"
+        ],
         "asn": "AS43641"
     },
     {
@@ -12562,6 +12568,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "PandaRelay",
+        "asn": "AS210644"
+    },
+    {
         "nickname": "Quintex456",
         "exit_address": [
             "204.8.96.145"
@@ -14668,6 +14678,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "45.149.154.152"
+        ],
         "asn": "AS212477"
     },
     {
@@ -15403,6 +15416,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "162.35.243.81"
+        ],
         "asn": "AS212477"
     },
     {
@@ -17870,6 +17886,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "162.35.243.184"
+        ],
         "asn": "AS212477"
     },
     {
@@ -20629,6 +20648,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "162.35.243.27"
+        ],
         "asn": "AS212477"
     },
     {
@@ -27236,6 +27258,9 @@
     },
     {
         "nickname": "10TUCKLESEX",
+        "exit_address": [
+            "162.35.243.112"
+        ],
         "asn": "AS212477"
     },
     {
@@ -37227,7 +37252,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "TV3254",
+        "nickname": "TV6343",
         "asn": "AS5384"
     },
     {
@@ -37592,10 +37617,6 @@
             "147.90.234.214"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "iasnz",
-        "asn": "AS56030"
     },
     {
         "nickname": "Aludra6",
@@ -40554,6 +40575,9 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
+        "exit_address": [
+            "89.35.131.253"
+        ],
         "asn": "AS43641"
     },
     {
