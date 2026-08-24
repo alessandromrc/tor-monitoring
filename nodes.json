@@ -4537,10 +4537,6 @@
         "asn": "AS1759"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS214354"
-    },
-    {
         "nickname": "NTH42R4",
         "exit_address": [
             "192.42.116.42"
@@ -17552,9 +17548,6 @@
     },
     {
         "nickname": "RustyGear",
-        "exit_address": [
-            "64.23.250.142"
-        ],
         "asn": "AS14061"
     },
     {
@@ -18636,6 +18629,10 @@
     {
         "nickname": "raskass",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Sunburst",
+        "asn": "AS216188"
     },
     {
         "nickname": "sipeheartbeatit",
@@ -25653,6 +25650,10 @@
     {
         "nickname": "carbonic",
         "asn": "AS29580"
+    },
+    {
+        "nickname": "DolfijneTorRelay01",
+        "asn": "AS15435"
     },
     {
         "nickname": "redvader",
@@ -32838,9 +32839,6 @@
     },
     {
         "nickname": "NebulaCactus",
-        "exit_address": [
-            "164.92.172.195"
-        ],
         "asn": "AS14061"
     },
     {
