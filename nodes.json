@@ -1152,10 +1152,6 @@
         "asn": "AS39819"
     },
     {
-        "nickname": "trrelayvps",
-        "asn": "AS212219"
-    },
-    {
         "nickname": "obzgs5tbmn4q",
         "exit_address": [
             "82.153.138.57"
@@ -29337,6 +29333,10 @@
         "asn": "AS32133"
     },
     {
+        "nickname": "XYZ",
+        "asn": "AS60522"
+    },
+    {
         "nickname": "baguette",
         "asn": "AS21409"
     },
@@ -37477,10 +37477,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "AndroidPhoneRelay",
-        "asn": "AS6327"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -44638,10 +44634,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "ClimbHigher",
-        "asn": "AS2856"
-    },
-    {
         "nickname": "Mars",
         "asn": "AS14061"
     },
@@ -50348,6 +50340,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
