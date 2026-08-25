@@ -266,10 +266,6 @@
         "asn": "AS62005"
     },
     {
-        "nickname": "kiwi",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "tried",
         "asn": "AS29802"
     },
@@ -5332,6 +5328,10 @@
             "192.76.153.253"
         ],
         "asn": "AS60404"
+    },
+    {
+        "nickname": "SuuuperFoxxxy",
+        "asn": "AS6730"
     },
     {
         "nickname": "Quintex236",
@@ -10982,6 +10982,9 @@
     },
     {
         "nickname": "demise",
+        "exit_address": [
+            "158.94.208.7"
+        ],
         "asn": "AS202412"
     },
     {
@@ -11849,10 +11852,6 @@
             "204.8.96.78"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "antidota",
-        "asn": "AS3209"
     },
     {
         "nickname": "Unnamed",
@@ -13580,6 +13579,9 @@
     },
     {
         "nickname": "AmberLantern",
+        "exit_address": [
+            "45.95.169.138"
+        ],
         "asn": "AS211619"
     },
     {
@@ -17890,10 +17892,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "watermelon",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "eclipse22",
         "asn": "AS151873"
     },
@@ -17947,10 +17945,6 @@
     {
         "nickname": "illustrious",
         "asn": "AS48314"
-    },
-    {
-        "nickname": "apple",
-        "asn": "AS5650"
     },
     {
         "nickname": "uzieka",
@@ -18648,6 +18642,10 @@
     {
         "nickname": "MyHpLappy",
         "asn": "AS6730"
+    },
+    {
+        "nickname": "Prometheus",
+        "asn": "AS211619"
     },
     {
         "nickname": "skankhunt42nl1",
@@ -21370,10 +21368,6 @@
     {
         "nickname": "Margin",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "mango",
-        "asn": "AS5650"
     },
     {
         "nickname": "artikel10ber107",
@@ -43072,10 +43066,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "orange",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "Charybdis",
         "asn": "AS21499"
     },
@@ -44236,10 +44226,6 @@
             "45.95.169.32"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "raspberry",
-        "asn": "AS5650"
     },
     {
         "nickname": "MyTorExit",
@@ -50447,7 +50433,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
