@@ -13223,6 +13223,9 @@
     },
     {
         "nickname": "sweettooth",
+        "exit_address": [
+            "178.170.114.117"
+        ],
         "asn": "AS21409"
     },
     {
@@ -13348,6 +13351,10 @@
     {
         "nickname": "rarelotus",
         "asn": "AS48900"
+    },
+    {
+        "nickname": "dapalted",
+        "asn": "AS197540"
     },
     {
         "nickname": "MyTorExitNode",
@@ -26122,7 +26129,7 @@
         "asn": "AS61138"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "splitsecrelay",
         "asn": "AS3320"
     },
     {
@@ -32319,10 +32326,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "sipedeluxde",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS45102"
     },
@@ -35426,6 +35429,10 @@
             "192.42.116.46"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MyRelay",
+        "asn": "AS213250"
     },
     {
         "nickname": "MoneroBestBuy",
@@ -45134,10 +45141,6 @@
         "asn": "AS60117"
     },
     {
-        "nickname": "Torrifics",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "NTH111R8",
         "exit_address": [
             "192.42.116.111"
@@ -45759,10 +45762,6 @@
     {
         "nickname": "natedogg",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TonTon",
-        "asn": "AS8560"
     },
     {
         "nickname": "nobuzumi",
