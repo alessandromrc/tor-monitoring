@@ -30110,6 +30110,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "hinterdupfing",
+        "asn": "AS6739"
+    },
+    {
         "nickname": "NTH54R3",
         "exit_address": [
             "192.42.116.54"
@@ -31143,6 +31147,9 @@
     },
     {
         "nickname": "PremiumTorExit",
+        "exit_address": [
+            "185.100.87.136"
+        ],
         "asn": "AS200651"
     },
     {
@@ -38562,10 +38569,6 @@
     {
         "nickname": "bootybay",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "tarantula",
-        "asn": "AS213959"
     },
     {
         "nickname": "TorScale",
@@ -51715,10 +51718,6 @@
     {
         "nickname": "zzbrick",
         "asn": "AS198967"
-    },
-    {
-        "nickname": "Entry2383",
-        "asn": "AS22927"
     },
     {
         "nickname": "prsv",
