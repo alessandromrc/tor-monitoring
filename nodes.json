@@ -7028,6 +7028,10 @@
         "asn": "AS26068"
     },
     {
+        "nickname": "hole41",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "UnredactedMaguire",
         "exit_address": [
             "23.191.200.86"
@@ -7037,6 +7041,10 @@
     {
         "nickname": "scaletor",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "Leitungssprenger",
+        "asn": "AS13030"
     },
     {
         "nickname": "Karin4713",
@@ -10830,9 +10838,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.227"
-        ],
         "asn": "AS27284"
     },
     {
@@ -20992,10 +20997,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "happybooming",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "yungla",
         "asn": "AS36849"
     },
@@ -21177,9 +21178,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.227"
-        ],
         "asn": "AS27284"
     },
     {
@@ -26903,6 +26901,9 @@
     },
     {
         "nickname": "DeafCitadel",
+        "exit_address": [
+            "2.56.10.36"
+        ],
         "asn": "AS213373"
     },
     {
@@ -34234,6 +34235,10 @@
     {
         "nickname": "Punggol",
         "asn": "AS141995"
+    },
+    {
+        "nickname": "notarelay",
+        "asn": "AS3320"
     },
     {
         "nickname": "privatecloud",
@@ -43622,9 +43627,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.227"
-        ],
         "asn": "AS27284"
     },
     {
@@ -46929,10 +46931,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "snowman",
-        "asn": "AS60117"
-    },
-    {
         "nickname": "freakonaleash",
         "exit_address": [
             "194.15.115.212"
@@ -48512,9 +48510,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.227"
-        ],
         "asn": "AS27284"
     },
     {
@@ -50882,10 +50877,6 @@
             "23.95.117.249"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "gloriamundi",
-        "asn": "AS35042"
     },
     {
         "nickname": "Slavyanka",
