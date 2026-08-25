@@ -2574,10 +2574,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS63473"
-    },
-    {
         "nickname": "NTH107R3",
         "exit_address": [
             "192.42.116.107"
@@ -3610,6 +3606,10 @@
     {
         "nickname": "VelvetPenguin",
         "asn": "AS16019"
+    },
+    {
+        "nickname": "Roffel999",
+        "asn": "AS44656"
     },
     {
         "nickname": "lakeyah",
@@ -26751,6 +26751,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "RoutingMcRouteFace",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "megaran",
         "asn": "AS36849"
     },
@@ -28804,10 +28808,6 @@
         "asn": "AS11426"
     },
     {
-        "nickname": "CantGetNo",
-        "asn": "AS19318"
-    },
-    {
         "nickname": "WolfgangAndDagmar",
         "asn": "AS3320"
     },
@@ -30128,6 +30128,10 @@
     {
         "nickname": "gibson44",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Gandalf",
+        "asn": "AS207656"
     },
     {
         "nickname": "F3Netze",
@@ -33982,10 +33986,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "jfD6",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "artikel10ber35",
         "exit_address": [
             "185.220.101.9"
@@ -36836,7 +36836,7 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "TV5089",
+        "nickname": "TV4572",
         "asn": "AS5384"
     },
     {
@@ -37148,6 +37148,10 @@
     {
         "nickname": "sinkrlogin",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "thb8b35d95b69765",
+        "asn": "AS9044"
     },
     {
         "nickname": "zgato",
@@ -39007,6 +39011,9 @@
     },
     {
         "nickname": "Peregrine",
+        "exit_address": [
+            "45.9.168.117"
+        ],
         "asn": "AS211619"
     },
     {
@@ -39023,6 +39030,10 @@
             "192.42.116.20"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "PrivacyMatters",
+        "asn": "AS207656"
     },
     {
         "nickname": "Assange008fr2",
@@ -50409,7 +50420,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -53587,6 +53598,10 @@
             "171.25.193.38"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "sk4d9f2m8x1q7w3j",
+        "asn": "AS9044"
     },
     {
         "nickname": "Digitalcourage4ip4a",
