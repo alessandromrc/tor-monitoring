@@ -6263,10 +6263,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Capella17",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "basilikum",
         "exit_address": [
             "109.70.100.15"
@@ -6740,6 +6736,9 @@
     },
     {
         "nickname": "8952180622941497",
+        "exit_address": [
+            "185.132.53.46"
+        ],
         "asn": "AS211507"
     },
     {
@@ -13551,10 +13550,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "AmberLantern",
         "exit_address": [
             "45.95.169.138"
@@ -17183,10 +17178,6 @@
     {
         "nickname": "crimemob",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "artikel5ev13c",
-        "asn": "AS12876"
     },
     {
         "nickname": "ForDemocracy2",
@@ -29168,10 +29159,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "artikel5ev13",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "qFHwB7y3qJF",
         "asn": "AS36352"
     },
@@ -32794,10 +32781,6 @@
     {
         "nickname": "UmbrelBerlinRelay",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "gentlewind",
-        "asn": "AS50266"
     },
     {
         "nickname": "A9K1p",
@@ -37779,10 +37762,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "artikel5ev13b",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "scaramouche",
         "asn": "AS3209"
     },
@@ -39017,6 +38996,10 @@
             "198.46.168.17"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "Peregrine",
+        "asn": "AS211619"
     },
     {
         "nickname": "anonymous",
@@ -50414,7 +50397,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -51713,7 +51696,7 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "TV3827",
+        "nickname": "TV8710",
         "asn": "AS27747"
     },
     {
