@@ -18633,6 +18633,9 @@
     },
     {
         "nickname": "Prometheus",
+        "exit_address": [
+            "150.40.127.12"
+        ],
         "asn": "AS211619"
     },
     {
@@ -26760,10 +26763,6 @@
     {
         "nickname": "megaran",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "BronkBG2",
-        "asn": "AS211619"
     },
     {
         "nickname": "dizum",
@@ -50417,7 +50416,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
