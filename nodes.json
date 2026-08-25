@@ -471,10 +471,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "VlaVlaVlaVlaVla",
-        "asn": "AS577"
-    },
-    {
         "nickname": "root1Moh",
         "asn": "AS197540"
     },
@@ -6313,10 +6309,6 @@
             "23.129.64.174"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "bytebybyte3319",
-        "asn": "AS701"
     },
     {
         "nickname": "forest48",
@@ -24447,10 +24439,6 @@
         "asn": "AS1136"
     },
     {
-        "nickname": "TV9977",
-        "asn": "AS14117"
-    },
-    {
         "nickname": "KavinRelay",
         "asn": "AS31898"
     },
@@ -28822,6 +28810,9 @@
     },
     {
         "nickname": "leonardo",
+        "exit_address": [
+            "193.218.118.89"
+        ],
         "asn": "AS207656"
     },
     {
@@ -33568,10 +33559,6 @@
             "192.42.116.14"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TV7879",
-        "asn": "AS12479"
     },
     {
         "nickname": "kissmyexit",
@@ -44401,10 +44388,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "relayyyyyyyy",
-        "asn": "AS207187"
-    },
-    {
         "nickname": "RuneByteNET",
         "exit_address": [
             "185.181.61.201"
@@ -45713,10 +45696,6 @@
             "23.191.200.78"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "TorBerry",
-        "asn": "AS5607"
     },
     {
         "nickname": "peeweelongway",
