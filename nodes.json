@@ -1359,10 +1359,6 @@
         "asn": "AS50266"
     },
     {
-        "nickname": "london1",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "Delphos",
         "exit_address": [
             "23.137.255.85"
@@ -8438,6 +8434,10 @@
         "asn": "AS399646"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "NTH99R3",
         "exit_address": [
             "192.42.116.99"
@@ -13929,10 +13929,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS5483"
-    },
-    {
-        "nickname": "honeytunnel",
-        "asn": "AS212238"
     },
     {
         "nickname": "lanceyy",
@@ -24921,6 +24917,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "Quintex510",
         "exit_address": [
             "204.8.96.100"
@@ -32955,10 +32955,6 @@
     {
         "nickname": "Monero",
         "asn": "AS52048"
-    },
-    {
-        "nickname": "Svaneke",
-        "asn": "AS24800"
     },
     {
         "nickname": "sabapivot",
@@ -41819,6 +41815,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "ToRUhU",
         "asn": "AS8560"
     },
@@ -47757,6 +47757,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "StormyCloud",
+        "asn": "AS400226"
+    },
+    {
         "nickname": "Quintex98",
         "exit_address": [
             "204.8.96.187"
@@ -49950,10 +49954,6 @@
     {
         "nickname": "Raubritter",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "richRelay",
-        "asn": "AS31898"
     },
     {
         "nickname": "NTH116R5",
@@ -53291,10 +53291,6 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "surfeasy",
-        "asn": "AS53667"
     },
     {
         "nickname": "PyotrTorpotkinOne",
