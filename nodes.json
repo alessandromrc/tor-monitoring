@@ -8431,6 +8431,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.175"
+        ],
         "asn": "AS400226"
     },
     {
@@ -10965,10 +10968,6 @@
     {
         "nickname": "JoshRelayUK",
         "asn": "AS6871"
-    },
-    {
-        "nickname": "TV1151",
-        "asn": "AS22927"
     },
     {
         "nickname": "nyonyonyo2b",
@@ -24914,6 +24913,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.176"
+        ],
         "asn": "AS400226"
     },
     {
@@ -40295,10 +40297,6 @@
         "asn": "AS9891"
     },
     {
-        "nickname": "MyTorGuardRelay",
-        "asn": "AS50613"
-    },
-    {
         "nickname": "T0RCH",
         "exit_address": [
             "186.246.53.89"
@@ -41804,6 +41802,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.175"
+        ],
         "asn": "AS400226"
     },
     {
@@ -47746,6 +47747,9 @@
     },
     {
         "nickname": "StormyCloud",
+        "exit_address": [
+            "23.128.248.176"
+        ],
         "asn": "AS400226"
     },
     {
@@ -50027,7 +50031,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
