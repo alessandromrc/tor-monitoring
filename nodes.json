@@ -22124,10 +22124,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "washington",
-        "asn": "AS3356"
-    },
-    {
         "nickname": "Zug",
         "asn": "AS29222"
     },
@@ -23656,6 +23652,10 @@
     {
         "nickname": "BIP110",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "PrivacyMatters",
+        "asn": "AS207656"
     },
     {
         "nickname": "NTH18R6",
@@ -32648,6 +32648,10 @@
     {
         "nickname": "fokaia",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "mfdoom",
+        "asn": "AS36849"
     },
     {
         "nickname": "prsv",
@@ -41714,10 +41718,6 @@
             "194.26.192.203"
         ],
         "asn": "AS210558"
-    },
-    {
-        "nickname": "UnredactedAssange",
-        "asn": "AS401401"
     },
     {
         "nickname": "stvnrdgme",
