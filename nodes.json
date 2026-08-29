@@ -9333,6 +9333,9 @@
     },
     {
         "nickname": "680b4fe2c69ccb330a",
+        "exit_address": [
+            "213.111.149.223"
+        ],
         "asn": "AS6698"
     },
     {
@@ -10541,6 +10544,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "NamilyRelay",
+        "asn": "AS215590"
+    },
+    {
         "nickname": "grafh",
         "asn": "AS36849"
     },
@@ -11218,10 +11225,6 @@
     {
         "nickname": "Greensky",
         "asn": "AS3236"
-    },
-    {
-        "nickname": "DFRI59",
-        "asn": "AS150683"
     },
     {
         "nickname": "NTH66R1",
@@ -13869,6 +13872,9 @@
     },
     {
         "nickname": "a2fc4592d1b7a080db",
+        "exit_address": [
+            "192.255.145.66"
+        ],
         "asn": "AS36352"
     },
     {
@@ -16482,10 +16488,6 @@
     {
         "nickname": "TH3",
         "asn": "AS16019"
-    },
-    {
-        "nickname": "ceruleanmoonsong",
-        "asn": "AS11232"
     },
     {
         "nickname": "pingrelay",
@@ -24281,6 +24283,10 @@
             "185.220.100.255"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "TV7041",
+        "asn": "AS22927"
     },
     {
         "nickname": "bauruine",
@@ -34670,10 +34676,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "pewpew",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "homeRelay",
         "asn": "AS3215"
     },
@@ -35898,6 +35900,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "ImJustLooking",
+        "asn": "AS8447"
+    },
+    {
         "nickname": "0x012",
         "asn": "AS8560"
     },
@@ -36936,6 +36942,10 @@
     {
         "nickname": "rivon",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "UgreenTorRelay2923",
+        "asn": "AS15435"
     },
     {
         "nickname": "PRQseTORexit5",
@@ -38823,6 +38833,10 @@
             "23.128.248.174"
         ],
         "asn": "AS400226"
+    },
+    {
+        "nickname": "SussyWussy",
+        "asn": "AS12400"
     },
     {
         "nickname": "NTH106R7",
@@ -50961,6 +50975,9 @@
     },
     {
         "nickname": "abc5d3dc1d5c5600f9",
+        "exit_address": [
+            "93.99.105.32"
+        ],
         "asn": "AS16019"
     },
     {
@@ -52481,10 +52498,6 @@
     {
         "nickname": "DonTheMessenger",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "xnet",
-        "asn": "AS48314"
     },
     {
         "nickname": "thorion",
