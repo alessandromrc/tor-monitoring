@@ -1969,6 +1969,10 @@
         "asn": "AS63023"
     },
     {
+        "nickname": "mkronbergrelay",
+        "asn": "AS5378"
+    },
+    {
         "nickname": "TorRelay2b",
         "asn": "AS197540"
     },
@@ -2456,6 +2460,10 @@
     {
         "nickname": "keakdasneak",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "thependingduck",
+        "asn": "AS29580"
     },
     {
         "nickname": "FasterRelay",
@@ -3373,10 +3381,6 @@
     {
         "nickname": "Oktober",
         "asn": "AS15600"
-    },
-    {
-        "nickname": "CzechMiddle",
-        "asn": "AS201476"
     },
     {
         "nickname": "SrsTubesRelay",
@@ -10430,6 +10434,9 @@
     },
     {
         "nickname": "AssholicGoose",
+        "exit_address": [
+            "193.218.118.188"
+        ],
         "asn": "AS207656"
     },
     {
@@ -12654,10 +12661,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "posner",
         "asn": "AS36849"
     },
@@ -14273,6 +14276,10 @@
             "89.147.111.87"
         ],
         "asn": "AS44925"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS7018"
     },
     {
         "nickname": "skyzoobrooklyn",
@@ -17140,7 +17147,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "TV9645",
+        "nickname": "TV6394",
         "asn": "AS23201"
     },
     {
@@ -23378,6 +23385,10 @@
     {
         "nickname": "slimthugbosshogg",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "ohrly",
+        "asn": "AS3320"
     },
     {
         "nickname": "Quintex226",
@@ -32163,9 +32174,6 @@
     },
     {
         "nickname": "torexitams02",
-        "exit_address": [
-            "45.66.35.22"
-        ],
         "asn": "AS61125"
     },
     {
@@ -36747,7 +36755,7 @@
         "asn": "AS45102"
     },
     {
-        "nickname": "TV8769",
+        "nickname": "TV2312",
         "asn": "AS37705"
     },
     {
@@ -39452,6 +39460,7 @@
     {
         "nickname": "dismal",
         "exit_address": [
+            "31.58.216.18",
             "5.83.143.18"
         ],
         "asn": "AS200912"
@@ -41299,6 +41308,9 @@
     },
     {
         "nickname": "dureichstsogut",
+        "exit_address": [
+            "176.118.193.33"
+        ],
         "asn": "AS44486"
     },
     {
@@ -43988,10 +44000,6 @@
     {
         "nickname": "RelayGeek18",
         "asn": "AS44570"
-    },
-    {
-        "nickname": "middletor",
-        "asn": "AS5769"
     },
     {
         "nickname": "XMRBigBoy",
@@ -51015,6 +51023,10 @@
     {
         "nickname": "teutates",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "Merlin",
+        "asn": "AS8434"
     },
     {
         "nickname": "lilynetnyc1",
