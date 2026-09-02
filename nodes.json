@@ -872,6 +872,10 @@
         "asn": "AS17931"
     },
     {
+        "nickname": "4pyro2eu3org0",
+        "asn": "AS13037"
+    },
+    {
         "nickname": "ididnteditheconfig",
         "asn": "AS61112"
     },
@@ -1121,9 +1125,6 @@
     },
     {
         "nickname": "vdexit08",
-        "exit_address": [
-            "94.130.64.21"
-        ],
         "asn": "AS24940"
     },
     {
@@ -2132,9 +2133,6 @@
     },
     {
         "nickname": "vdexit23",
-        "exit_address": [
-            "192.255.145.66"
-        ],
         "asn": "AS36352"
     },
     {
@@ -2224,6 +2222,13 @@
             "138.249.138.129"
         ],
         "asn": "AS63023"
+    },
+    {
+        "nickname": "luxvptorex",
+        "exit_address": [
+            "107.189.30.69"
+        ],
+        "asn": "AS53667"
     },
     {
         "nickname": "idideditheconfig",
@@ -4803,6 +4808,13 @@
         "asn": "AS215540"
     },
     {
+        "nickname": "TorDola",
+        "exit_address": [
+            "185.231.32.33"
+        ],
+        "asn": "AS211720"
+    },
+    {
         "nickname": "kanye",
         "asn": "AS36849"
     },
@@ -5043,10 +5055,6 @@
     {
         "nickname": "RelayTheFuckOutOfIt",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "bluesnake",
-        "asn": "AS1257"
     },
     {
         "nickname": "NTH19R6",
@@ -6241,9 +6249,6 @@
     },
     {
         "nickname": "vdexit16",
-        "exit_address": [
-            "93.99.105.31"
-        ],
         "asn": "AS16019"
     },
     {
@@ -6553,10 +6558,6 @@
         "asn": "AS43350"
     },
     {
-        "nickname": "45wildcat",
-        "asn": "AS21100"
-    },
-    {
         "nickname": "NTH94R2",
         "exit_address": [
             "192.42.116.94"
@@ -6844,6 +6845,10 @@
     {
         "nickname": "myvoiceismypassport",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Hibernity",
+        "asn": "AS26801"
     },
     {
         "nickname": "Ragnarok",
@@ -8030,9 +8035,6 @@
     },
     {
         "nickname": "Node3tor4ever",
-        "exit_address": [
-            "82.221.100.152"
-        ],
         "asn": "AS50613"
     },
     {
@@ -10092,10 +10094,6 @@
         "asn": "AS213790"
     },
     {
-        "nickname": "MyTorRelay",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "jeezy",
         "asn": "AS36849"
     },
@@ -10739,9 +10737,6 @@
     },
     {
         "nickname": "scruffy",
-        "exit_address": [
-            "84.212.206.202"
-        ],
         "asn": "AS25400"
     },
     {
@@ -15081,9 +15076,6 @@
     },
     {
         "nickname": "vdexit13",
-        "exit_address": [
-            "5.255.127.212"
-        ],
         "asn": "AS60404"
     },
     {
@@ -16651,9 +16643,6 @@
     },
     {
         "nickname": "vdexit10",
-        "exit_address": [
-            "5.255.124.237"
-        ],
         "asn": "AS60404"
     },
     {
@@ -17941,9 +17930,6 @@
     },
     {
         "nickname": "vdexit14",
-        "exit_address": [
-            "213.111.149.223"
-        ],
         "asn": "AS6698"
     },
     {
@@ -18649,9 +18635,6 @@
     },
     {
         "nickname": "vdexit18",
-        "exit_address": [
-            "170.75.164.137"
-        ],
         "asn": "AS174"
     },
     {
@@ -22702,9 +22685,6 @@
     },
     {
         "nickname": "vdexit12",
-        "exit_address": [
-            "95.133.166.220"
-        ],
         "asn": "AS200651"
     },
     {
@@ -24098,9 +24078,6 @@
     },
     {
         "nickname": "vdexit22",
-        "exit_address": [
-            "23.95.130.169"
-        ],
         "asn": "AS36352"
     },
     {
@@ -25808,9 +25785,6 @@
     },
     {
         "nickname": "vdexit19",
-        "exit_address": [
-            "170.75.174.113"
-        ],
         "asn": "AS174"
     },
     {
@@ -28243,6 +28217,10 @@
         "asn": "AS211619"
     },
     {
+        "nickname": "schaunicht",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "fatpat",
         "asn": "AS36849"
     },
@@ -29641,9 +29619,6 @@
     },
     {
         "nickname": "vdexit06",
-        "exit_address": [
-            "78.41.207.197"
-        ],
         "asn": "AS62370"
     },
     {
@@ -31402,10 +31377,6 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
-    },
-    {
-        "nickname": "PremiumTorExit",
-        "asn": "AS200651"
     },
     {
         "nickname": "LillyCL",
@@ -34460,10 +34431,6 @@
     {
         "nickname": "justAnotherNodeHere",
         "asn": "AS2856"
-    },
-    {
-        "nickname": "TV2",
-        "asn": "AS28573"
     },
     {
         "nickname": "DFRI153",
@@ -39240,7 +39207,7 @@
     },
     {
         "nickname": "tinyrelay1",
-        "asn": "AS209"
+        "asn": "AS54936"
     },
     {
         "nickname": "bonecrusher",
@@ -41012,9 +40979,6 @@
     },
     {
         "nickname": "vdexit09",
-        "exit_address": [
-            "95.133.166.216"
-        ],
         "asn": "AS200651"
     },
     {
@@ -41119,9 +41083,6 @@
     },
     {
         "nickname": "vdexit21",
-        "exit_address": [
-            "107.174.224.186"
-        ],
         "asn": "AS36352"
     },
     {
@@ -46749,9 +46710,6 @@
     },
     {
         "nickname": "vdexit17",
-        "exit_address": [
-            "93.99.105.33"
-        ],
         "asn": "AS16019"
     },
     {
@@ -47075,6 +47033,10 @@
     {
         "nickname": "shine1k",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Yujiri",
+        "asn": "AS63949"
     },
     {
         "nickname": "homik2",
@@ -47554,6 +47516,10 @@
     {
         "nickname": "relaySafeYou",
         "asn": "AS62005"
+    },
+    {
+        "nickname": "necron71",
+        "asn": "AS11878"
     },
     {
         "nickname": "ub4nix",
@@ -53518,10 +53484,6 @@
         "asn": "AS58061"
     },
     {
-        "nickname": "zeydRelay6",
-        "asn": "AS209874"
-    },
-    {
         "nickname": "as215248tor9a",
         "asn": "AS215248"
     },
@@ -53826,9 +53788,6 @@
     },
     {
         "nickname": "vdexit11",
-        "exit_address": [
-            "185.45.192.182"
-        ],
         "asn": "AS60117"
     },
     {
