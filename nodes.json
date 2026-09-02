@@ -2811,6 +2811,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "dustjack",
+        "asn": "AS30860"
+    },
+    {
         "nickname": "JohnFilch123",
         "asn": "AS211507"
     },
@@ -8334,6 +8338,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS15440"
+    },
+    {
         "nickname": "Quintex471",
         "exit_address": [
             "204.8.96.160"
@@ -10058,6 +10066,10 @@
             "192.253.248.96"
         ],
         "asn": "AS213790"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS15440"
     },
     {
         "nickname": "jeezy",
@@ -16625,6 +16637,9 @@
     },
     {
         "nickname": "TorDola1",
+        "exit_address": [
+            "185.231.33.82"
+        ],
         "asn": "AS211720"
     },
     {
@@ -18386,10 +18401,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "ShadowSphere",
-        "asn": "AS14638"
-    },
-    {
         "nickname": "ItsAOnion",
         "asn": "AS39409"
     },
@@ -18708,9 +18719,6 @@
     },
     {
         "nickname": "Node4tor4ever",
-        "exit_address": [
-            "37.221.209.232"
-        ],
         "asn": "AS41075"
     },
     {
@@ -25746,6 +25754,10 @@
         "asn": "AS8339"
     },
     {
+        "nickname": "CdForum",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "komodore",
         "asn": "AS7552"
     },
@@ -26992,9 +27004,6 @@
     },
     {
         "nickname": "jerryrelay",
-        "exit_address": [
-            "220.135.36.173"
-        ],
         "asn": "AS3462"
     },
     {
@@ -27152,7 +27161,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141"
+            "198.167.206.141",
+            "198.167.206.207"
         ],
         "asn": "AS39287"
     },
@@ -28166,6 +28176,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS15440"
+    },
+    {
         "nickname": "fatpat",
         "asn": "AS36849"
     },
@@ -28339,10 +28353,6 @@
     {
         "nickname": "TV7443",
         "asn": "AS7303"
-    },
-    {
-        "nickname": "UnimatrixZero",
-        "asn": "AS14061"
     },
     {
         "nickname": "testowo",
@@ -32386,10 +32396,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Phantom",
-        "asn": "AS214036"
-    },
-    {
         "nickname": "OMICRON",
         "exit_address": [
             "86.54.28.49"
@@ -33559,6 +33565,9 @@
     },
     {
         "nickname": "copperhare",
+        "exit_address": [
+            "45.77.98.244"
+        ],
         "asn": "AS20473"
     },
     {
@@ -39608,6 +39617,10 @@
             "45.84.107.182"
         ],
         "asn": "AS214503"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS15440"
     },
     {
         "nickname": "MyExitNode",
@@ -45905,6 +45918,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "skinnywench",
+        "asn": "AS30860"
+    },
+    {
         "nickname": "peeweelongway",
         "asn": "AS36849"
     },
@@ -49332,9 +49349,6 @@
     },
     {
         "nickname": "WerewolfFunWorld",
-        "exit_address": [
-            "5.79.66.19"
-        ],
         "asn": "AS60781"
     },
     {
