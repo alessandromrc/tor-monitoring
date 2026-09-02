@@ -1635,6 +1635,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "ToLamRelay",
+        "asn": "AS7552"
+    },
+    {
         "nickname": "chrisrivers",
         "asn": "AS36849"
     },
@@ -10534,6 +10538,9 @@
     },
     {
         "nickname": "AssholicGoose",
+        "exit_address": [
+            "193.218.118.188"
+        ],
         "asn": "AS207656"
     },
     {
@@ -15198,10 +15205,6 @@
         "asn": "AS58291"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS33588"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -15738,6 +15741,10 @@
     {
         "nickname": "Aarsdale",
         "asn": "AS24800"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS6871"
     },
     {
         "nickname": "artikel10buc21",
@@ -16994,9 +17001,6 @@
     },
     {
         "nickname": "1465980292818532",
-        "exit_address": [
-            "150.40.127.100"
-        ],
         "asn": "AS211619"
     },
     {
@@ -19046,6 +19050,9 @@
     },
     {
         "nickname": "PonyLV",
+        "exit_address": [
+            "205.185.126.29"
+        ],
         "asn": "AS53667"
     },
     {
@@ -22881,6 +22888,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3303"
+    },
+    {
         "nickname": "TorNode03dot2",
         "asn": "AS197540"
     },
@@ -25870,10 +25881,6 @@
     {
         "nickname": "MyExperimentalExit",
         "asn": "AS63949"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS7922"
     },
     {
         "nickname": "Quintex39",
@@ -34867,6 +34874,9 @@
     },
     {
         "nickname": "suckit",
+        "exit_address": [
+            "162.210.173.17"
+        ],
         "asn": "AS46841"
     },
     {
@@ -39065,6 +39075,10 @@
     {
         "nickname": "viennaOnTheGo",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "GreyLantern",
+        "asn": "AS30722"
     },
     {
         "nickname": "r0cket09i6",
@@ -52222,9 +52236,6 @@
     },
     {
         "nickname": "9294548736212678",
-        "exit_address": [
-            "185.132.53.37"
-        ],
         "asn": "AS211507"
     },
     {
