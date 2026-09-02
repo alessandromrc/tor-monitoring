@@ -680,6 +680,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "KoopaRelay",
+        "asn": "AS13030"
+    },
+    {
         "nickname": "Quintex372",
         "exit_address": [
             "204.8.96.161"
@@ -1139,9 +1143,6 @@
     },
     {
         "nickname": "1a9636ab33656e8fae",
-        "exit_address": [
-            "45.9.168.45"
-        ],
         "asn": "AS211619"
     },
     {
@@ -2593,10 +2594,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "zeydRelay2",
-        "asn": "AS9009"
-    },
-    {
         "nickname": "basedtengri",
         "asn": "AS12735"
     },
@@ -2723,6 +2720,10 @@
     {
         "nickname": "lancelot",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "powdermonkey",
+        "asn": "AS30860"
     },
     {
         "nickname": "Freebird32",
@@ -15110,9 +15111,6 @@
     },
     {
         "nickname": "mordel",
-        "exit_address": [
-            "71.19.144.106"
-        ],
         "asn": "AS47066"
     },
     {
@@ -15563,9 +15561,6 @@
     },
     {
         "nickname": "andr788k",
-        "exit_address": [
-            "209.141.55.26"
-        ],
         "asn": "AS53667"
     },
     {
@@ -17661,6 +17656,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "CyberSecuritySG",
+        "asn": "AS205759"
+    },
+    {
         "nickname": "NTH99R5",
         "exit_address": [
             "192.42.116.99"
@@ -18988,9 +18987,6 @@
     },
     {
         "nickname": "PonyLV",
-        "exit_address": [
-            "205.185.126.29"
-        ],
         "asn": "AS53667"
     },
     {
@@ -27429,10 +27425,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "torabora2026",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "risk7",
         "asn": "AS20473"
     },
@@ -31525,9 +31517,6 @@
     },
     {
         "nickname": "obscurazrh01",
-        "exit_address": [
-            "45.141.119.26"
-        ],
         "asn": "AS211507"
     },
     {
@@ -33998,9 +33987,6 @@
     },
     {
         "nickname": "c5dcbef2e58fafa603",
-        "exit_address": [
-            "80.94.95.148"
-        ],
         "asn": "AS204428"
     },
     {
