@@ -359,10 +359,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "stgoldstein8",
-        "asn": "AS214854"
-    },
-    {
         "nickname": "relayon0153",
         "exit_address": [
             "185.220.101.153"
@@ -4920,10 +4916,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "DalsLabRelay",
-        "asn": "AS12874"
-    },
-    {
         "nickname": "EhrenfeldTorRelay",
         "asn": "AS3320"
     },
@@ -7037,10 +7029,6 @@
             "23.191.200.117"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "MidRelayG4me",
-        "asn": "AS3320"
     },
     {
         "nickname": "EpicTor4",
@@ -10195,9 +10183,6 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
-        "exit_address": [
-            "162.35.243.97"
-        ],
         "asn": "AS212477"
     },
     {
@@ -16639,6 +16624,10 @@
         "asn": "AS214503"
     },
     {
+        "nickname": "TorDola1",
+        "asn": "AS211720"
+    },
+    {
         "nickname": "ybncordae",
         "asn": "AS36849"
     },
@@ -17636,9 +17625,6 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
-        "exit_address": [
-            "162.35.243.184"
-        ],
         "asn": "AS212477"
     },
     {
@@ -19700,6 +19686,10 @@
     {
         "nickname": "Sabe",
         "asn": "AS56322"
+    },
+    {
+        "nickname": "coffeeismtf",
+        "asn": "AS174"
     },
     {
         "nickname": "artikel10ber62",
@@ -27162,8 +27152,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.141",
-            "198.167.206.151"
+            "198.167.206.141"
         ],
         "asn": "AS39287"
     },
@@ -29398,6 +29387,10 @@
     {
         "nickname": "MaverickPass",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "YOURNICKNAME",
+        "asn": "AS198550"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -33565,6 +33558,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "copperhare",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "bert",
         "asn": "AS1299"
     },
@@ -33946,9 +33943,6 @@
     },
     {
         "nickname": "unbeatable",
-        "exit_address": [
-            "81.181.104.22"
-        ],
         "asn": "AS9009"
     },
     {
@@ -39502,9 +39496,6 @@
     },
     {
         "nickname": "10TUCKLESEXIT",
-        "exit_address": [
-            "162.35.242.49"
-        ],
         "asn": "AS212477"
     },
     {
@@ -41126,10 +41117,6 @@
             "23.129.64.200"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "BronkExit",
-        "asn": "AS211619"
     },
     {
         "nickname": "Khashoggi",
