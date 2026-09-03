@@ -3437,10 +3437,6 @@
         "asn": "AS15600"
     },
     {
-        "nickname": "SrsTubesRelay",
-        "asn": "AS50066"
-    },
-    {
         "nickname": "NoJustice",
         "asn": "AS36352"
     },
@@ -8449,10 +8445,6 @@
             "185.132.53.58"
         ],
         "asn": "AS211507"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS5089"
     },
     {
         "nickname": "souljaboy",
@@ -17657,6 +17649,9 @@
     },
     {
         "nickname": "CyberSecuritySG",
+        "exit_address": [
+            "43.228.157.121"
+        ],
         "asn": "AS205759"
     },
     {
@@ -25470,6 +25465,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "wxthnetrly",
+        "asn": "AS2856"
+    },
+    {
         "nickname": "DFRI130",
         "exit_address": [
             "171.25.193.131"
@@ -26086,6 +26085,10 @@
     {
         "nickname": "TorKnob",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "KingShadow3",
+        "asn": "AS26286"
     },
     {
         "nickname": "Quintex550",
@@ -33375,10 +33378,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "AdlerSRG",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "knxw",
         "asn": "AS36849"
     },
@@ -38173,10 +38172,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "a9scj8209pujnhr",
-        "asn": "AS64236"
-    },
-    {
         "nickname": "corruptedrangers",
         "asn": "AS51852"
     },
@@ -40446,10 +40441,6 @@
             "192.42.116.145"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "squadsal",
-        "asn": "AS31898"
     },
     {
         "nickname": "NTH114R5",
@@ -51404,6 +51395,10 @@
         "asn": "AS213250"
     },
     {
+        "nickname": "skye",
+        "asn": "AS215365"
+    },
+    {
         "nickname": "Dingle",
         "asn": "AS29802"
     },
@@ -53350,10 +53345,6 @@
     {
         "nickname": "NTH93R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "SrsTubesRelay",
-        "asn": "AS50066"
     },
     {
         "nickname": "lilgotit",
