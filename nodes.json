@@ -3047,6 +3047,10 @@
         "asn": "AS141995"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS24961"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "96.44.154.224"
@@ -16127,6 +16131,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "MyUbuntuExit",
+        "asn": "AS17858"
+    },
+    {
         "nickname": "nightops",
         "asn": "AS133398"
     },
@@ -22296,6 +22304,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS24961"
+    },
+    {
         "nickname": "BloomingOnion",
         "asn": "AS20473"
     },
@@ -23027,10 +23039,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "Kukers86PL",
-        "asn": "AS12741"
-    },
-    {
         "nickname": "UnredactedWilson",
         "exit_address": [
             "23.191.200.113"
@@ -23166,10 +23174,6 @@
     },
     {
         "nickname": "BronkHungaryHR2",
-        "asn": "AS41075"
-    },
-    {
-        "nickname": "HungaryFastDC2",
         "asn": "AS41075"
     },
     {
@@ -27084,6 +27088,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.139",
             "198.167.206.207"
         ],
         "asn": "AS39287"
@@ -29548,10 +29553,6 @@
         "asn": "AS42237"
     },
     {
-        "nickname": "speed",
-        "asn": "AS216063"
-    },
-    {
         "nickname": "Minotaur",
         "asn": "AS398101"
     },
@@ -31223,6 +31224,10 @@
         "asn": "AS47890"
     },
     {
+        "nickname": "PremiumTorExit",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "LillyCL",
         "exit_address": [
             "94.16.115.121"
@@ -31468,6 +31473,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Killix",
+        "asn": "AS24961"
+    },
+    {
         "nickname": "JAEN",
         "exit_address": [
             "172.104.182.84"
@@ -31589,6 +31598,10 @@
     {
         "nickname": "torRelayTaledoCorp",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS24961"
     },
     {
         "nickname": "cello",
@@ -32486,10 +32499,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "chonkycat",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "NTH102R2",
         "exit_address": [
             "192.42.116.102"
@@ -32823,6 +32832,10 @@
     {
         "nickname": "BlugoldAwesome",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS24961"
     },
     {
         "nickname": "prsv",
@@ -34237,6 +34250,9 @@
     },
     {
         "nickname": "leopold1809",
+        "exit_address": [
+            "103.146.203.120"
+        ],
         "asn": "AS136052"
     },
     {
@@ -34836,10 +34852,6 @@
     {
         "nickname": "2mproc",
         "asn": "AS701"
-    },
-    {
-        "nickname": "TehRelayV3",
-        "asn": "AS5617"
     },
     {
         "nickname": "Sidewinder",
@@ -37385,6 +37397,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "TorRelayToSee",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Nebula582",
         "asn": "AS63949"
     },
@@ -37521,10 +37537,6 @@
             "109.70.100.15"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "DebrasRelay",
-        "asn": "AS8434"
     },
     {
         "nickname": "EGOTISTICALGIRAFFE",
@@ -38962,10 +38974,6 @@
     {
         "nickname": "TorScale3",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "LaurLaptopTor",
-        "asn": "AS8708"
     },
     {
         "nickname": "NTH102R8",
@@ -41142,10 +41150,6 @@
     {
         "nickname": "yungbooke",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "AussieOnion",
-        "asn": "AS38195"
     },
     {
         "nickname": "prsv",
@@ -50718,10 +50722,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "SussusAmogus",
-        "asn": "AS211301"
-    },
-    {
         "nickname": "NTH106R5",
         "exit_address": [
             "192.42.116.106"
@@ -52912,6 +52912,10 @@
     {
         "nickname": "Vityatan",
         "asn": "AS17552"
+    },
+    {
+        "nickname": "Killix",
+        "asn": "AS24961"
     },
     {
         "nickname": "NTH13R7",
