@@ -817,10 +817,6 @@
         "asn": "AS200019"
     },
     {
-        "nickname": "GermanCraft2",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "smoovel",
         "asn": "AS36849"
     },
@@ -6174,9 +6170,6 @@
     },
     {
         "nickname": "2mpe3",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -15349,6 +15342,10 @@
     {
         "nickname": "richboy",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "derbs",
+        "asn": "AS24961"
     },
     {
         "nickname": "GermanCraft15",
@@ -26088,6 +26085,9 @@
     },
     {
         "nickname": "KingShadow3",
+        "exit_address": [
+            "104.167.242.118"
+        ],
         "asn": "AS26286"
     },
     {
@@ -27259,9 +27259,6 @@
     },
     {
         "nickname": "deadbabecafe",
-        "exit_address": [
-            "74.82.47.194"
-        ],
         "asn": "AS6939"
     },
     {
@@ -30485,6 +30482,10 @@
     {
         "nickname": "bigbrother23470",
         "asn": "AS12322"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS12083"
     },
     {
         "nickname": "ohnobeat",
@@ -33940,6 +33941,9 @@
     },
     {
         "nickname": "unbeatable",
+        "exit_address": [
+            "81.181.104.22"
+        ],
         "asn": "AS9009"
     },
     {
@@ -42189,9 +42193,6 @@
     },
     {
         "nickname": "AllPortN44",
-        "exit_address": [
-            "74.222.12.196"
-        ],
         "asn": "AS22439"
     },
     {
@@ -47548,9 +47549,6 @@
     },
     {
         "nickname": "Chupacabre",
-        "exit_address": [
-            "212.69.167.80"
-        ],
         "asn": "AS8218"
     },
     {
@@ -48505,10 +48503,6 @@
     {
         "nickname": "pcpnode208170",
         "asn": "AS174"
-    },
-    {
-        "nickname": "Strauss",
-        "asn": "AS64457"
     },
     {
         "nickname": "yyzz1",
