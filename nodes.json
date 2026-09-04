@@ -4026,10 +4026,6 @@
         "asn": "AS399493"
     },
     {
-        "nickname": "hyelix",
-        "asn": "AS204957"
-    },
-    {
         "nickname": "forMeIsTheOnion",
         "asn": "AS1267"
     },
@@ -15805,9 +15801,6 @@
     },
     {
         "nickname": "SHEEZ",
-        "exit_address": [
-            "138.249.138.120"
-        ],
         "asn": "AS63023"
     },
     {
@@ -16132,6 +16125,9 @@
     },
     {
         "nickname": "MyUbuntuExit",
+        "exit_address": [
+            "182.231.115.224"
+        ],
         "asn": "AS17858"
     },
     {
@@ -17753,10 +17749,6 @@
     {
         "nickname": "eclipse22",
         "asn": "AS151873"
-    },
-    {
-        "nickname": "ca8be845442f66fe",
-        "asn": "AS56655"
     },
     {
         "nickname": "MyTorGuardRelay1",
@@ -28194,10 +28186,6 @@
         "asn": "AS214503"
     },
     {
-        "nickname": "Onionhighway718",
-        "asn": "AS25255"
-    },
-    {
         "nickname": "Quintex580",
         "exit_address": [
             "204.8.96.169"
@@ -30113,10 +30101,6 @@
         "asn": "AS15943"
     },
     {
-        "nickname": "d3dc10b86daafa0e",
-        "asn": "AS56655"
-    },
-    {
         "nickname": "timbaland",
         "asn": "AS36849"
     },
@@ -31225,6 +31209,9 @@
     },
     {
         "nickname": "PremiumTorExit",
+        "exit_address": [
+            "185.100.87.136"
+        ],
         "asn": "AS200651"
     },
     {
@@ -31768,9 +31755,6 @@
     },
     {
         "nickname": "mirage",
-        "exit_address": [
-            "91.219.237.39"
-        ],
         "asn": "AS56322"
     },
     {
@@ -32395,10 +32379,6 @@
             "204.8.96.162"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "mitm666",
-        "asn": "AS3320"
     },
     {
         "nickname": "Quintex248",
@@ -34655,6 +34635,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "TheMadHackerExit",
+        "asn": "AS44382"
+    },
+    {
         "nickname": "AUO9020",
         "asn": "AS4804"
     },
@@ -34907,6 +34891,10 @@
     {
         "nickname": "calicoe",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "pewpew",
+        "asn": "AS8560"
     },
     {
         "nickname": "homeRelay",
@@ -37196,10 +37184,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "schokomilch",
-        "asn": "AS41745"
-    },
-    {
         "nickname": "ILoveTOR",
         "asn": "AS1267"
     },
@@ -38189,6 +38173,10 @@
     {
         "nickname": "loopnetnode03",
         "asn": "AS401833"
+    },
+    {
+        "nickname": "pabstchampion",
+        "asn": "AS204800"
     },
     {
         "nickname": "sunmary",
@@ -41377,10 +41365,6 @@
             "185.220.101.52"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "PhantomRoute",
-        "asn": "AS5089"
     },
     {
         "nickname": "myNiceRelay",
@@ -47582,9 +47566,6 @@
     },
     {
         "nickname": "Onionforge01",
-        "exit_address": [
-            "45.9.149.34"
-        ],
         "asn": "AS49447"
     },
     {
@@ -51516,6 +51497,10 @@
     {
         "nickname": "puertasecreta",
         "asn": "AS61157"
+    },
+    {
+        "nickname": "TorRelayToSeev2",
+        "asn": "AS3320"
     },
     {
         "nickname": "NoLogRelay",
