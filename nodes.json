@@ -4914,6 +4914,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "EhrenfeldTorRelay",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NineEyes",
         "asn": "AS12876"
     },
@@ -4965,6 +4969,10 @@
     {
         "nickname": "autumntwinuzis",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "torrelayAU",
+        "asn": "AS133159"
     },
     {
         "nickname": "AZY",
@@ -7250,6 +7258,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "allTheSaints",
+        "asn": "AS5089"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -11603,10 +11615,6 @@
     {
         "nickname": "Polar55755",
         "asn": "AS63949"
-    },
-    {
-        "nickname": "HarborKoi",
-        "asn": "AS60404"
     },
     {
         "nickname": "NTH53R1",
@@ -18504,10 +18512,6 @@
         "asn": "AS200490"
     },
     {
-        "nickname": "MyHpLappy",
-        "asn": "AS6730"
-    },
-    {
         "nickname": "Prometheus",
         "exit_address": [
             "150.40.127.12"
@@ -19513,10 +19517,6 @@
             "204.8.96.88"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "DH01",
-        "asn": "AS31615"
     },
     {
         "nickname": "poseidonRelay1",
@@ -24943,6 +24943,10 @@
     {
         "nickname": "AnonymousZy3",
         "asn": "AS213929"
+    },
+    {
+        "nickname": "Nyydo7987",
+        "asn": "AS200019"
     },
     {
         "nickname": "snailnode",
@@ -33257,7 +33261,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "PWH2",
+        "nickname": "Jesse",
         "exit_address": [
             "85.203.40.203"
         ],
@@ -34429,7 +34433,7 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "PWH",
+        "nickname": "Lycus",
         "exit_address": [
             "179.43.176.6"
         ],
@@ -36072,10 +36076,6 @@
             "185.220.101.20"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "torexitams14",
-        "asn": "AS61125"
     },
     {
         "nickname": "magic848relay",
@@ -44731,10 +44731,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "AmberZebra",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "sweetums",
         "asn": "AS3320"
     },
@@ -50109,7 +50105,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
