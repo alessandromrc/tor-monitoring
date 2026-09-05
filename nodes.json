@@ -331,6 +331,9 @@
     },
     {
         "nickname": "DigiGesTor1e1",
+        "exit_address": [
+            "185.195.71.244"
+        ],
         "asn": "AS56803"
     },
     {
@@ -6278,6 +6281,10 @@
     {
         "nickname": "Hymn",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "dailydoodle",
+        "asn": "AS6698"
     },
     {
         "nickname": "PouletNew2",
@@ -15837,6 +15844,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "retroserver",
+        "asn": "AS4766"
+    },
+    {
         "nickname": "sofaygo",
         "asn": "AS36849"
     },
@@ -17070,6 +17081,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Zoppo1",
+        "asn": "AS9136"
+    },
+    {
         "nickname": "Virtulibre4",
         "asn": "AS16276"
     },
@@ -17644,7 +17659,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "birdy",
         "asn": "AS3209"
     },
     {
@@ -21116,6 +21131,9 @@
     },
     {
         "nickname": "TheBlur",
+        "exit_address": [
+            "5.255.123.164"
+        ],
         "asn": "AS60404"
     },
     {
@@ -22847,6 +22865,9 @@
     },
     {
         "nickname": "level9000",
+        "exit_address": [
+            "194.53.137.156"
+        ],
         "asn": "AS9009"
     },
     {
@@ -28261,10 +28282,6 @@
         "asn": "AS44133"
     },
     {
-        "nickname": "TV7443",
-        "asn": "AS7303"
-    },
-    {
         "nickname": "testowo",
         "asn": "AS29314"
     },
@@ -28307,10 +28324,6 @@
     {
         "nickname": "NTH79R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "forester",
-        "asn": "AS205090"
     },
     {
         "nickname": "anonkaisx",
@@ -34042,6 +34055,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Rialto",
+        "asn": "AS46979"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS41075"
     },
@@ -39480,9 +39497,6 @@
     },
     {
         "nickname": "Bacon8ter",
-        "exit_address": [
-            "217.156.49.33"
-        ],
         "asn": "AS9009"
     },
     {
@@ -40895,7 +40909,7 @@
         "asn": "AS208226"
     },
     {
-        "nickname": "earth",
+        "nickname": "IronPath",
         "asn": "AS10013"
     },
     {
@@ -45783,10 +45797,6 @@
     {
         "nickname": "MyMiddle",
         "asn": "AS8764"
-    },
-    {
-        "nickname": "GustavVasa1",
-        "asn": "AS16019"
     },
     {
         "nickname": "letsdoitUS",
@@ -52794,10 +52804,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "pnamstor001",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "rasptorMuc02",
         "asn": "AS8767"
     },
@@ -53230,7 +53236,7 @@
         "asn": "AS212238"
     },
     {
-        "nickname": "donbolliRelay",
+        "nickname": "donbolli",
         "asn": "AS3303"
     },
     {
