@@ -7816,10 +7816,6 @@
         "asn": "AS47890"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS35179"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS6848"
     },
@@ -10593,9 +10589,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -13726,6 +13719,10 @@
         "asn": "AS33915"
     },
     {
+        "nickname": "BunkTorRelay",
+        "asn": "AS60781"
+    },
+    {
         "nickname": "sometorrelay0",
         "asn": "AS6730"
     },
@@ -15955,6 +15952,10 @@
         "asn": "AS47583"
     },
     {
+        "nickname": "socket1717",
+        "asn": "AS17858"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.16"
@@ -18056,6 +18057,9 @@
     },
     {
         "nickname": "Quintex139",
+        "exit_address": [
+            "204.8.96.88"
+        ],
         "asn": "AS62744"
     },
     {
@@ -18182,9 +18186,6 @@
     },
     {
         "nickname": "death",
-        "exit_address": [
-            "193.32.162.86"
-        ],
         "asn": "AS47890"
     },
     {
@@ -23815,6 +23816,9 @@
     },
     {
         "nickname": "Quintex39",
+        "exit_address": [
+            "204.8.96.88"
+        ],
         "asn": "AS62744"
     },
     {
@@ -25059,6 +25063,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.129",
             "198.167.206.171"
         ],
         "asn": "AS39287"
@@ -29914,10 +29919,6 @@
     {
         "nickname": "RelayGeek08",
         "asn": "AS924"
-    },
-    {
-        "nickname": "Torsten",
-        "asn": "AS31898"
     },
     {
         "nickname": "Panama",
@@ -38959,6 +38960,9 @@
     },
     {
         "nickname": "Quintex239",
+        "exit_address": [
+            "204.8.96.88"
+        ],
         "asn": "AS62744"
     },
     {
@@ -46790,10 +46794,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "maktora",
-        "asn": "AS12312"
-    },
-    {
         "nickname": "NTH305R5",
         "asn": "AS8283"
     },
@@ -47623,10 +47623,6 @@
     {
         "nickname": "slxrd2",
         "asn": "AS53006"
-    },
-    {
-        "nickname": "torserver",
-        "asn": "AS5089"
     },
     {
         "nickname": "lexluger",
