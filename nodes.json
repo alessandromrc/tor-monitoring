@@ -2065,6 +2065,10 @@
         "asn": "AS33993"
     },
     {
+        "nickname": "mynode12",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "Anaconda2",
         "asn": "AS5617"
     },
@@ -4329,9 +4333,6 @@
     },
     {
         "nickname": "TheMadHackerSpinch",
-        "exit_address": [
-            "65.87.7.202"
-        ],
         "asn": "AS215659"
     },
     {
@@ -8383,6 +8384,9 @@
     },
     {
         "nickname": "forest40",
+        "exit_address": [
+            "45.137.69.48"
+        ],
         "asn": "AS211507"
     },
     {
@@ -8838,6 +8842,10 @@
     {
         "nickname": "stefanbentenrelay01",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "PoliFDsEc",
+        "asn": "AS59356"
     },
     {
         "nickname": "tor102",
@@ -9824,6 +9832,9 @@
     },
     {
         "nickname": "forest12",
+        "exit_address": [
+            "185.132.53.199"
+        ],
         "asn": "AS211507"
     },
     {
@@ -9854,6 +9865,10 @@
     {
         "nickname": "FlashGoat",
         "asn": "AS212271"
+    },
+    {
+        "nickname": "DerEine",
+        "asn": "AS6724"
     },
     {
         "nickname": "r0cket04i1",
@@ -10318,10 +10333,6 @@
         "asn": "AS8881"
     },
     {
-        "nickname": "obscurayrv01",
-        "asn": "AS202422"
-    },
-    {
         "nickname": "Assange045de",
         "asn": "AS24961"
     },
@@ -10360,6 +10371,9 @@
     },
     {
         "nickname": "forest13",
+        "exit_address": [
+            "45.95.169.21"
+        ],
         "asn": "AS211619"
     },
     {
@@ -17994,6 +18008,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "dryice",
+        "asn": "AS27699"
+    },
+    {
         "nickname": "Teuntje",
         "asn": "AS1103"
     },
@@ -18191,6 +18209,10 @@
     {
         "nickname": "ShohinGuard",
         "asn": "AS11776"
+    },
+    {
+        "nickname": "Gabriel0GGR",
+        "asn": "AS26599"
     },
     {
         "nickname": "KllxTest",
@@ -34137,6 +34159,9 @@
     },
     {
         "nickname": "forest21",
+        "exit_address": [
+            "168.222.241.36"
+        ],
         "asn": "AS40663"
     },
     {
@@ -34232,6 +34257,9 @@
     },
     {
         "nickname": "forest11",
+        "exit_address": [
+            "45.137.201.54"
+        ],
         "asn": "AS211507"
     },
     {
@@ -43328,9 +43356,6 @@
     },
     {
         "nickname": "steamedhams",
-        "exit_address": [
-            "144.6.236.131"
-        ],
         "asn": "AS4764"
     },
     {
@@ -45157,10 +45182,6 @@
     {
         "nickname": "InVinoVeritas6",
         "asn": "AS211507"
-    },
-    {
-        "nickname": "art1kel",
-        "asn": "AS400596"
     },
     {
         "nickname": "seadog007",
