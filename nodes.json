@@ -2777,10 +2777,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "forest52",
-        "asn": "AS49592"
-    },
-    {
         "nickname": "ZionMonero",
         "asn": "AS210558"
     },
@@ -6848,10 +6844,6 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "TorServer",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "ForDemocracy3",
         "asn": "AS16276"
     },
@@ -7587,6 +7579,10 @@
     {
         "nickname": "prsv",
         "asn": "AS41075"
+    },
+    {
+        "nickname": "hsRelayEdge",
+        "asn": "AS11878"
     },
     {
         "nickname": "reis",
@@ -10292,10 +10288,6 @@
     {
         "nickname": "questlove",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "jungefreiheit",
-        "asn": "AS3320"
     },
     {
         "nickname": "Spiegelberg",
@@ -14564,6 +14556,9 @@
     },
     {
         "nickname": "andr788k",
+        "exit_address": [
+            "209.141.55.26"
+        ],
         "asn": "AS53667"
     },
     {
@@ -21401,6 +21396,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "hateashbury",
+        "asn": "AS48314"
+    },
+    {
         "nickname": "LillyCL",
         "asn": "AS7418"
     },
@@ -21655,6 +21654,10 @@
     {
         "nickname": "masstorNYT",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "someonesRelay",
+        "asn": "AS51167"
     },
     {
         "nickname": "FrankyFourFingers",
@@ -25048,10 +25051,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "hashytest",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.21"
@@ -28099,7 +28098,7 @@
     },
     {
         "nickname": "hinterdupfing",
-        "asn": "AS6739"
+        "asn": "AS12430"
     },
     {
         "nickname": "NTH54R3",
@@ -28628,10 +28627,6 @@
     {
         "nickname": "Luzern",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "strunt",
-        "asn": "AS214677"
     },
     {
         "nickname": "prsv",
@@ -33680,10 +33675,6 @@
             "89.58.41.156"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "zorroRanch",
-        "asn": "AS24940"
     },
     {
         "nickname": "HeadInTheClouds",
@@ -40642,6 +40633,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "hsRelayEdge",
+        "asn": "AS11878"
+    },
+    {
         "nickname": "Mixmaster",
         "asn": "AS211619"
     },
@@ -43973,6 +43968,10 @@
     {
         "nickname": "TheSpy",
         "asn": "AS44925"
+    },
+    {
+        "nickname": "Ensayon4Privacy",
+        "asn": "AS29222"
     },
     {
         "nickname": "DFRI48",
