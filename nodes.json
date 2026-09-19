@@ -1063,6 +1063,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "2mplas3",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "3822mNesthorn",
         "asn": "AS29222"
     },
@@ -2579,10 +2583,6 @@
     {
         "nickname": "hashy10G",
         "asn": "AS38074"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS22773"
     },
     {
         "nickname": "nfreal",
@@ -7561,10 +7561,6 @@
         "asn": "AS48090"
     },
     {
-        "nickname": "obzgs5tbmn4q",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "NTH68R3",
         "exit_address": [
             "192.42.116.68"
@@ -9428,10 +9424,6 @@
             "62.72.47.105"
         ],
         "asn": "AS141995"
-    },
-    {
-        "nickname": "Alastor",
-        "asn": "AS12876"
     },
     {
         "nickname": "tor01kryptonit",
@@ -17067,6 +17059,10 @@
         "asn": "AS21336"
     },
     {
+        "nickname": "void",
+        "asn": "AS62005"
+    },
+    {
         "nickname": "4719",
         "exit_address": [
             "185.243.218.229"
@@ -19430,6 +19426,10 @@
     {
         "nickname": "four",
         "asn": "AS58423"
+    },
+    {
+        "nickname": "2mplas2",
+        "asn": "AS53667"
     },
     {
         "nickname": "UnshakledClaude",
@@ -23031,10 +23031,6 @@
         "asn": "AS20904"
     },
     {
-        "nickname": "debian4gbfsn11",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "Kuang",
         "asn": "AS63949"
     },
@@ -24577,10 +24573,6 @@
             "185.246.188.74"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "brutus",
-        "asn": "AS63949"
     },
     {
         "nickname": "trueno",
@@ -26192,6 +26184,10 @@
     {
         "nickname": "CommunityXMRbest",
         "asn": "AS203003"
+    },
+    {
+        "nickname": "edgeviz",
+        "asn": "AS20473"
     },
     {
         "nickname": "neptunes",
@@ -33283,6 +33279,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "feyluRelay",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "opencommunity",
         "asn": "AS36352"
     },
@@ -39857,6 +39857,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "2mplas",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "MesolvardeFront",
         "asn": "AS210403"
     },
@@ -42705,6 +42709,9 @@
     },
     {
         "nickname": "Quintex302",
+        "exit_address": [
+            "204.8.96.121"
+        ],
         "asn": "AS62744"
     },
     {
@@ -46925,7 +46932,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
