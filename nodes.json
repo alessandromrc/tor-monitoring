@@ -2497,7 +2497,7 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "StartOSRelay",
+        "nickname": "WSOSrelay",
         "asn": "AS16276"
     },
     {
@@ -3048,6 +3048,10 @@
             "192.42.116.50"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "FCKzoos",
+        "asn": "AS16276"
     },
     {
         "nickname": "ididnteditheconfig",
@@ -8520,10 +8524,6 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "MyAndroidExit",
-        "asn": "AS17858"
-    },
-    {
         "nickname": "absturztaubetor",
         "asn": "AS25353"
     },
@@ -8679,7 +8679,8 @@
     {
         "nickname": "thealgorithm",
         "exit_address": [
-            "82.197.182.161"
+            "82.197.182.161",
+            "84.74.242.24"
         ],
         "asn": "AS13030"
     },
@@ -17883,10 +17884,6 @@
         "asn": "AS47583"
     },
     {
-        "nickname": "AllTheWorldsAStage",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "artichokerouter",
         "asn": "AS24940"
     },
@@ -20125,10 +20122,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "prideoflions",
-        "asn": "AS47583"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -21316,10 +21309,6 @@
     {
         "nickname": "jadakiss",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "curiousfacts",
-        "asn": "AS20473"
     },
     {
         "nickname": "azkr01",
@@ -26001,10 +25990,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Equinox",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "MintyHaven",
         "asn": "AS62005"
     },
@@ -28010,10 +27995,6 @@
     {
         "nickname": "chance",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "4711",
-        "asn": "AS8560"
     },
     {
         "nickname": "Quintex343",
@@ -35830,6 +35811,9 @@
     },
     {
         "nickname": "anonymityiscool2",
+        "exit_address": [
+            "205.185.121.164"
+        ],
         "asn": "AS53667"
     },
     {
@@ -37109,9 +37093,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "201.91.74.18"
-        ],
         "asn": "AS10429"
     },
     {
