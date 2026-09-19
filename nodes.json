@@ -4021,6 +4021,10 @@
         "asn": "AS16019"
     },
     {
+        "nickname": "RedXen",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "tormount",
         "asn": "AS215730"
     },
@@ -8507,9 +8511,6 @@
     },
     {
         "nickname": "geistslowy",
-        "exit_address": [
-            "37.252.189.216"
-        ],
         "asn": "AS44133"
     },
     {
@@ -17194,10 +17195,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Sunburst",
-        "asn": "AS216188"
-    },
-    {
         "nickname": "sipeheartbeatit",
         "asn": "AS215960"
     },
@@ -25824,10 +25821,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "gueperide",
-        "asn": "AS5432"
-    },
-    {
         "nickname": "torexitams00",
         "exit_address": [
             "45.66.35.20"
@@ -26499,10 +26492,6 @@
             "23.191.200.99"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "cdbrelay01",
-        "asn": "AS20473"
     },
     {
         "nickname": "NTH101R5",
@@ -29170,10 +29159,6 @@
     {
         "nickname": "hammer",
         "asn": "AS208323"
-    },
-    {
-        "nickname": "Potato",
-        "asn": "AS13127"
     },
     {
         "nickname": "Quintex50",
@@ -33363,10 +33348,6 @@
         "asn": "AS49981"
     },
     {
-        "nickname": "forest33",
-        "asn": "AS214481"
-    },
-    {
         "nickname": "NTH53R2",
         "exit_address": [
             "192.42.116.53"
@@ -33875,6 +33856,9 @@
     },
     {
         "nickname": "myNiceRelay1234",
+        "exit_address": [
+            "76.176.73.148"
+        ],
         "asn": "AS20001"
     },
     {
@@ -37309,10 +37293,6 @@
         "asn": "AS51396"
     },
     {
-        "nickname": "dn1a",
-        "asn": "AS399646"
-    },
-    {
         "nickname": "as214958tor4",
         "asn": "AS8283"
     },
@@ -37777,6 +37757,10 @@
     {
         "nickname": "hifi",
         "asn": "AS803"
+    },
+    {
+        "nickname": "OakCottage",
+        "asn": "AS3301"
     },
     {
         "nickname": "LibertyRelayBSD",
