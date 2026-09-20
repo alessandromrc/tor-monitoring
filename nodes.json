@@ -3864,6 +3864,10 @@
         "asn": "AS1653"
     },
     {
+        "nickname": "NukeRelay1",
+        "asn": "AS812"
+    },
+    {
         "nickname": "opencommunity",
         "asn": "AS36352"
     },
@@ -8435,7 +8439,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "pussy",
+        "nickname": "nbgurt",
         "asn": "AS24940"
     },
     {
@@ -10636,10 +10640,6 @@
             "192.42.116.114"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Kyiv00",
-        "asn": "AS202422"
     },
     {
         "nickname": "blegit",
@@ -21220,6 +21220,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "tmrx2",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "rwrwr",
         "asn": "AS12876"
     },
@@ -25397,7 +25401,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.205"
+            "198.167.206.205",
+            "198.167.206.220"
         ],
         "asn": "AS39287"
     },
@@ -33051,9 +33056,6 @@
     },
     {
         "nickname": "fdcExit01",
-        "exit_address": [
-            "46.4.68.89"
-        ],
         "asn": "AS24940"
     },
     {
@@ -33930,9 +33932,6 @@
     },
     {
         "nickname": "myNiceRelay1234",
-        "exit_address": [
-            "76.176.73.148"
-        ],
         "asn": "AS20001"
     },
     {
@@ -35614,6 +35613,10 @@
     {
         "nickname": "idontknowjeffery",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "StartOSRelay",
+        "asn": "AS198983"
     },
     {
         "nickname": "NTH72R1",
@@ -47003,6 +47006,10 @@
         "asn": "AS62000"
     },
     {
+        "nickname": "KDNTOR",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "Quintex263",
         "exit_address": [
             "204.8.96.152"
@@ -48516,7 +48523,6 @@
     {
         "nickname": "oldInJoke",
         "exit_address": [
-            "81.90.116.220",
             "85.253.10.12"
         ],
         "asn": "AS2586"
