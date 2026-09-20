@@ -5716,10 +5716,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Bishibosh",
-        "asn": "AS133159"
-    },
-    {
         "nickname": "Tanithil",
         "asn": "AS14061"
     },
@@ -15383,6 +15379,10 @@
         "asn": "AS29802"
     },
     {
+        "nickname": "FrameBoats",
+        "asn": "AS60558"
+    },
+    {
         "nickname": "pulpisdeportes",
         "asn": "AS7303"
     },
@@ -17613,10 +17613,6 @@
     {
         "nickname": "mimira14",
         "asn": "AS211507"
-    },
-    {
-        "nickname": "aether",
-        "asn": "AS36352"
     },
     {
         "nickname": "young",
@@ -28180,10 +28176,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "rinzler1",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "89.58.26.216"
@@ -31467,6 +31459,9 @@
     },
     {
         "nickname": "5704962594830312",
+        "exit_address": [
+            "45.9.168.114"
+        ],
         "asn": "AS211619"
     },
     {
@@ -33798,9 +33793,6 @@
     },
     {
         "nickname": "bluto",
-        "exit_address": [
-            "172.234.228.174"
-        ],
         "asn": "AS63949"
     },
     {
@@ -37800,10 +37792,6 @@
             "171.25.193.36"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "MacDevRelay",
-        "asn": "AS14061"
     },
     {
         "nickname": "bauruine",
@@ -43358,6 +43346,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "RedXen",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Gelfingen2",
         "asn": "AS6730"
     },
@@ -44298,10 +44290,6 @@
             "212.69.167.80"
         ],
         "asn": "AS8218"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS14061"
     },
     {
         "nickname": "ForDemocracy8",
@@ -47286,10 +47274,6 @@
         "asn": "AS62005"
     },
     {
-        "nickname": "1921431853189438",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "NTH302R2",
         "asn": "AS8283"
     },
@@ -48420,7 +48404,8 @@
     {
         "nickname": "oldInJoke",
         "exit_address": [
-            "81.90.116.220"
+            "81.90.116.220",
+            "85.253.10.12"
         ],
         "asn": "AS2586"
     },
