@@ -10759,10 +10759,6 @@
         "asn": "AS3462"
     },
     {
-        "nickname": "JohnFilch123",
-        "asn": "AS58061"
-    },
-    {
         "nickname": "Free",
         "asn": "AS198161"
     },
@@ -11064,7 +11060,7 @@
         "asn": "AS207656"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS47447"
     },
     {
@@ -20470,6 +20466,10 @@
         "asn": "AS47890"
     },
     {
+        "nickname": "theGoonRelay",
+        "asn": "AS20055"
+    },
+    {
         "nickname": "Leverage",
         "asn": "AS12876"
     },
@@ -27606,6 +27606,9 @@
     },
     {
         "nickname": "DrauseRelay",
+        "exit_address": [
+            "51.158.248.216"
+        ],
         "asn": "AS12876"
     },
     {
@@ -43306,7 +43309,7 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS47447"
     },
     {
@@ -49524,6 +49527,10 @@
     {
         "nickname": "setsun",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "StartOSRelay",
+        "asn": "AS399629"
     },
     {
         "nickname": "rrdic6519",
