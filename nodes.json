@@ -554,9 +554,6 @@
     },
     {
         "nickname": "Digitalcourage4ipeb",
-        "exit_address": [
-            "185.220.101.100"
-        ],
         "asn": "AS60729"
     },
     {
@@ -1064,9 +1061,6 @@
     },
     {
         "nickname": "2mplas3",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -2113,9 +2107,6 @@
     },
     {
         "nickname": "Digitalcourage4ipca",
-        "exit_address": [
-            "185.220.101.98"
-        ],
         "asn": "AS60729"
     },
     {
@@ -4144,9 +4135,6 @@
     },
     {
         "nickname": "IWAITYOUINBIO",
-        "exit_address": [
-            "78.17.93.169"
-        ],
         "asn": "AS26832"
     },
     {
@@ -4162,9 +4150,6 @@
     },
     {
         "nickname": "Digitalcourage4ipgb",
-        "exit_address": [
-            "185.220.101.102"
-        ],
         "asn": "AS60729"
     },
     {
@@ -5815,9 +5800,6 @@
     },
     {
         "nickname": "Digitalcourage4ipea",
-        "exit_address": [
-            "185.220.101.100"
-        ],
         "asn": "AS60729"
     },
     {
@@ -6190,9 +6172,6 @@
     },
     {
         "nickname": "TorWaffleExit",
-        "exit_address": [
-            "178.170.25.112"
-        ],
         "asn": "AS21409"
     },
     {
@@ -6304,9 +6283,6 @@
     },
     {
         "nickname": "Digitalcourage4ipdb",
-        "exit_address": [
-            "185.220.101.99"
-        ],
         "asn": "AS60729"
     },
     {
@@ -6935,10 +6911,6 @@
         "asn": "AS52092"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS48574"
-    },
-    {
         "nickname": "freddiegibbs",
         "asn": "AS36849"
     },
@@ -6985,9 +6957,6 @@
     },
     {
         "nickname": "Digitalcourage4ip7a",
-        "exit_address": [
-            "185.220.101.110"
-        ],
         "asn": "AS60729"
     },
     {
@@ -10921,9 +10890,6 @@
     },
     {
         "nickname": "Digitalcourage4ip3b",
-        "exit_address": [
-            "185.220.101.106"
-        ],
         "asn": "AS60729"
     },
     {
@@ -13480,10 +13446,6 @@
         "asn": "AS400226"
     },
     {
-        "nickname": "FCKzoos",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "braunbaer",
         "exit_address": [
             "109.70.100.10"
@@ -13538,9 +13500,6 @@
     },
     {
         "nickname": "Digitalcourage4iphb",
-        "exit_address": [
-            "185.220.101.103"
-        ],
         "asn": "AS60729"
     },
     {
@@ -13674,10 +13633,6 @@
             "45.84.107.55"
         ],
         "asn": "AS214503"
-    },
-    {
-        "nickname": "mcjLinodeRelay",
-        "asn": "AS63949"
     },
     {
         "nickname": "priceisright",
@@ -14977,9 +14932,6 @@
     },
     {
         "nickname": "IWAITYOUINBIO",
-        "exit_address": [
-            "185.141.216.14"
-        ],
         "asn": "AS26832"
     },
     {
@@ -16403,9 +16355,6 @@
     },
     {
         "nickname": "Digitalcourage4ipaa",
-        "exit_address": [
-            "185.220.101.96"
-        ],
         "asn": "AS60729"
     },
     {
@@ -17691,9 +17640,6 @@
     },
     {
         "nickname": "Digitalcourage4ipba",
-        "exit_address": [
-            "185.220.101.97"
-        ],
         "asn": "AS60729"
     },
     {
@@ -19615,9 +19561,6 @@
     },
     {
         "nickname": "2mplas2",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -21088,9 +21031,6 @@
     },
     {
         "nickname": "Digitalcourage4ip2a",
-        "exit_address": [
-            "185.220.101.105"
-        ],
         "asn": "AS60729"
     },
     {
@@ -21532,9 +21472,6 @@
     },
     {
         "nickname": "Digitalcourage4ip6a",
-        "exit_address": [
-            "185.220.101.109"
-        ],
         "asn": "AS60729"
     },
     {
@@ -23499,9 +23436,6 @@
     },
     {
         "nickname": "Digitalcourage4ip6b",
-        "exit_address": [
-            "185.220.101.109"
-        ],
         "asn": "AS60729"
     },
     {
@@ -23713,10 +23647,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS12735"
     },
     {
         "nickname": "UnredactedVanBuitn",
@@ -24507,6 +24437,9 @@
     },
     {
         "nickname": "KingShadow3",
+        "exit_address": [
+            "104.167.242.118"
+        ],
         "asn": "AS26286"
     },
     {
@@ -24728,6 +24661,10 @@
     {
         "nickname": "defconrelay17",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "OptimusPrime",
+        "asn": "AS4739"
     },
     {
         "nickname": "tydollasign",
@@ -25880,9 +25817,6 @@
     },
     {
         "nickname": "Digitalcourage4ip4b",
-        "exit_address": [
-            "185.220.101.107"
-        ],
         "asn": "AS60729"
     },
     {
@@ -25937,9 +25871,6 @@
     },
     {
         "nickname": "Digitalcourage4ipfa",
-        "exit_address": [
-            "185.220.101.101"
-        ],
         "asn": "AS60729"
     },
     {
@@ -25951,6 +25882,9 @@
     },
     {
         "nickname": "KingShadow2",
+        "exit_address": [
+            "104.167.242.117"
+        ],
         "asn": "AS26286"
     },
     {
@@ -26475,9 +26409,6 @@
     },
     {
         "nickname": "oldInJoke",
-        "exit_address": [
-            "81.90.116.2"
-        ],
         "asn": "AS2586"
     },
     {
@@ -26605,9 +26536,6 @@
     },
     {
         "nickname": "Digitalcourage4ipcb",
-        "exit_address": [
-            "185.220.101.98"
-        ],
         "asn": "AS60729"
     },
     {
@@ -28043,6 +27971,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "tnode3",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.207.107.130"
@@ -28700,9 +28632,6 @@
     },
     {
         "nickname": "Digitalcourage4ip5b",
-        "exit_address": [
-            "185.220.101.108"
-        ],
         "asn": "AS60729"
     },
     {
@@ -30303,9 +30232,6 @@
     },
     {
         "nickname": "Digitalcourage4ip1a",
-        "exit_address": [
-            "185.220.101.104"
-        ],
         "asn": "AS60729"
     },
     {
@@ -30818,9 +30744,6 @@
     },
     {
         "nickname": "Digitalcourage4ipga",
-        "exit_address": [
-            "185.220.101.102"
-        ],
         "asn": "AS60729"
     },
     {
@@ -30927,9 +30850,6 @@
     },
     {
         "nickname": "Digitalcourage4ip5a",
-        "exit_address": [
-            "185.220.101.108"
-        ],
         "asn": "AS60729"
     },
     {
@@ -32597,9 +32517,6 @@
     },
     {
         "nickname": "Digitalcourage4ip3a",
-        "exit_address": [
-            "185.220.101.106"
-        ],
         "asn": "AS60729"
     },
     {
@@ -33337,10 +33254,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "NjallaMiddleNode1",
-        "asn": "AS39287"
-    },
-    {
         "nickname": "lunar4",
         "exit_address": [
             "203.55.81.1"
@@ -34004,9 +33917,6 @@
     },
     {
         "nickname": "Digitalcourage4ipda",
-        "exit_address": [
-            "185.220.101.99"
-        ],
         "asn": "AS60729"
     },
     {
@@ -36927,9 +36837,6 @@
     },
     {
         "nickname": "Digitalcourage4ip2b",
-        "exit_address": [
-            "185.220.101.105"
-        ],
         "asn": "AS60729"
     },
     {
@@ -37034,9 +36941,6 @@
     },
     {
         "nickname": "Digitalcourage4ip1b",
-        "exit_address": [
-            "185.220.101.104"
-        ],
         "asn": "AS60729"
     },
     {
@@ -38505,9 +38409,6 @@
     },
     {
         "nickname": "IWAITYOUINBIO",
-        "exit_address": [
-            "78.17.93.114"
-        ],
         "asn": "AS26832"
     },
     {
@@ -39276,9 +39177,6 @@
     },
     {
         "nickname": "Digitalcourage4ipab",
-        "exit_address": [
-            "185.220.101.96"
-        ],
         "asn": "AS60729"
     },
     {
@@ -39386,6 +39284,10 @@
             "23.129.64.157"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "lunarfunpark",
+        "asn": "AS61272"
     },
     {
         "nickname": "Quintex189",
@@ -39737,9 +39639,6 @@
     },
     {
         "nickname": "Digitalcourage4ipbb",
-        "exit_address": [
-            "185.220.101.97"
-        ],
         "asn": "AS60729"
     },
     {
@@ -41610,9 +41509,6 @@
     },
     {
         "nickname": "Digitalcourage4ip7b",
-        "exit_address": [
-            "185.220.101.110"
-        ],
         "asn": "AS60729"
     },
     {
@@ -41771,6 +41667,9 @@
     },
     {
         "nickname": "KingShadow1",
+        "exit_address": [
+            "104.167.242.116"
+        ],
         "asn": "AS26286"
     },
     {
@@ -42265,6 +42164,9 @@
     },
     {
         "nickname": "SmokeAspectRangers",
+        "exit_address": [
+            "82.221.128.191"
+        ],
         "asn": "AS50613"
     },
     {
@@ -44636,6 +44538,9 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
@@ -45925,9 +45830,6 @@
     },
     {
         "nickname": "Digitalcourage4ipfb",
-        "exit_address": [
-            "185.220.101.101"
-        ],
         "asn": "AS60729"
     },
     {
@@ -46737,9 +46639,6 @@
     },
     {
         "nickname": "Digitalcourage4ipha",
-        "exit_address": [
-            "185.220.101.103"
-        ],
         "asn": "AS60729"
     },
     {
@@ -50295,9 +50194,6 @@
     },
     {
         "nickname": "Digitalcourage4ip4a",
-        "exit_address": [
-            "185.220.101.107"
-        ],
         "asn": "AS60729"
     },
     {
