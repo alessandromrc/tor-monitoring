@@ -1702,6 +1702,9 @@
     },
     {
         "nickname": "abusoustio46",
+        "exit_address": [
+            "46.8.113.170"
+        ],
         "asn": "AS215305"
     },
     {
@@ -1986,6 +1989,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "78.17.93.150"
+        ],
         "asn": "AS26832"
     },
     {
@@ -2379,6 +2385,10 @@
     {
         "nickname": "BeTheStar",
         "asn": "AS1659"
+    },
+    {
+        "nickname": "H464",
+        "asn": "AS20473"
     },
     {
         "nickname": "WeChatSucks",
@@ -3433,10 +3443,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "sahar",
-        "asn": "AS4766"
-    },
-    {
         "nickname": "artikel10ber49",
         "exit_address": [
             "185.220.101.13"
@@ -3864,10 +3870,6 @@
             "171.25.193.79"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "ZaNetExit01",
-        "asn": "AS58061"
     },
     {
         "nickname": "freetornode",
@@ -6105,6 +6107,10 @@
             "204.8.96.104"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "JustARelay1",
+        "asn": "AS1267"
     },
     {
         "nickname": "showbiz",
@@ -10213,6 +10219,10 @@
         "asn": "AS5432"
     },
     {
+        "nickname": "potato",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "Quintex93",
         "exit_address": [
             "204.8.96.182"
@@ -12994,6 +13004,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "86.107.168.123"
+        ],
         "asn": "AS26832"
     },
     {
@@ -21326,6 +21339,10 @@
         "asn": "AS63023"
     },
     {
+        "nickname": "geistslowysRelay2",
+        "asn": "AS8437"
+    },
+    {
         "nickname": "MoriartyGhost",
         "asn": "AS24961"
     },
@@ -22169,6 +22186,10 @@
     {
         "nickname": "eclipse23",
         "asn": "AS201670"
+    },
+    {
+        "nickname": "FishEye",
+        "asn": "AS270013"
     },
     {
         "nickname": "zerotrust",
@@ -24941,6 +24962,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "wubalubadubdubhoya",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "schnittlauch",
         "exit_address": [
             "109.70.100.4"
@@ -25788,10 +25813,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "FUCKUP01",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "Operation0817",
         "asn": "AS16276"
     },
@@ -26095,6 +26116,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "A111",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "MajorCadenceRelay2",
         "asn": "AS16276"
     },
@@ -26213,6 +26238,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "86.107.168.129"
+        ],
         "asn": "AS26832"
     },
     {
@@ -28235,6 +28263,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "86.107.168.117"
+        ],
         "asn": "AS26832"
     },
     {
@@ -37111,6 +37142,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "Z684",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "pdos00",
         "asn": "AS3"
     },
@@ -38152,6 +38187,10 @@
             "192.42.116.145"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Rumpelstiltskin",
+        "asn": "AS2586"
     },
     {
         "nickname": "NTH55R2",
@@ -41290,6 +41329,10 @@
     {
         "nickname": "defconrelay14",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "ClimbHigher",
+        "asn": "AS2856"
     },
     {
         "nickname": "artikel10ber78",
@@ -46012,6 +46055,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "86.107.168.31"
+        ],
         "asn": "AS26832"
     },
     {
@@ -47578,10 +47624,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "chinstrap",
-        "asn": "AS19994"
-    },
-    {
         "nickname": "ValveCover",
         "asn": "AS16276"
     },
@@ -47827,6 +47869,9 @@
     },
     {
         "nickname": "Pia",
+        "exit_address": [
+            "5.255.111.52"
+        ],
         "asn": "AS60404"
     },
     {
@@ -47995,6 +48040,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "78.17.93.194"
+        ],
         "asn": "AS26832"
     },
     {
@@ -48128,6 +48176,10 @@
         "asn": "AS1781"
     },
     {
+        "nickname": "roast",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "artikel10ber52",
         "exit_address": [
             "185.220.101.13"
@@ -48248,10 +48300,6 @@
     {
         "nickname": "skye",
         "asn": "AS215365"
-    },
-    {
-        "nickname": "WhatIfIamInUrPC",
-        "asn": "AS63023"
     },
     {
         "nickname": "Dingle",
@@ -49345,6 +49393,9 @@
     },
     {
         "nickname": "NotMyRelay",
+        "exit_address": [
+            "86.107.168.126"
+        ],
         "asn": "AS26832"
     },
     {
@@ -50361,6 +50412,10 @@
     {
         "nickname": "NTH64R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "mummy",
+        "asn": "AS20473"
     },
     {
         "nickname": "toodenwablesrelay",
