@@ -1400,6 +1400,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "Satoshi",
+        "asn": "AS401933"
+    },
+    {
         "nickname": "Quintex699",
         "asn": "AS146943"
     },
@@ -20242,6 +20246,9 @@
     },
     {
         "nickname": "prideoflions",
+        "exit_address": [
+            "186.240.149.160"
+        ],
         "asn": "AS47583"
     },
     {
@@ -24572,6 +24579,9 @@
     },
     {
         "nickname": "ibibUNC0",
+        "exit_address": [
+            "204.85.191.8"
+        ],
         "asn": "AS36850"
     },
     {
@@ -24900,6 +24910,10 @@
     {
         "nickname": "mygreatrelay",
         "asn": "AS51809"
+    },
+    {
+        "nickname": "contribnodeus",
+        "asn": "AS18450"
     },
     {
         "nickname": "Killix",
@@ -47306,7 +47320,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
