@@ -380,6 +380,10 @@
         "asn": "AS216071"
     },
     {
+        "nickname": "cleosrelay",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "TRANS01",
         "asn": "AS214677"
     },
@@ -7017,9 +7021,6 @@
     },
     {
         "nickname": "NeelTorExit2B",
-        "exit_address": [
-            "147.90.234.63"
-        ],
         "asn": "AS27284"
     },
     {
@@ -7820,6 +7821,9 @@
     },
     {
         "nickname": "comet811",
+        "exit_address": [
+            "136.244.65.243"
+        ],
         "asn": "AS20473"
     },
     {
@@ -11591,6 +11595,9 @@
     },
     {
         "nickname": "orbit527",
+        "exit_address": [
+            "64.95.11.62"
+        ],
         "asn": "AS399629"
     },
     {
@@ -15833,6 +15840,10 @@
     {
         "nickname": "ForDemocracy4",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "mnns09p8ll",
+        "asn": "AS20473"
     },
     {
         "nickname": "torrcgrouprelay",
@@ -20886,6 +20897,9 @@
     },
     {
         "nickname": "nova314",
+        "exit_address": [
+            "162.33.178.221"
+        ],
         "asn": "AS399629"
     },
     {
@@ -21508,6 +21522,9 @@
     },
     {
         "nickname": "steelowl3",
+        "exit_address": [
+            "202.182.101.229"
+        ],
         "asn": "AS20473"
     },
     {
@@ -25542,6 +25559,9 @@
     },
     {
         "nickname": "1135063853886489",
+        "exit_address": [
+            "185.132.53.11"
+        ],
         "asn": "AS211507"
     },
     {
@@ -28094,6 +28114,9 @@
     },
     {
         "nickname": "silverwolf4",
+        "exit_address": [
+            "193.149.176.93"
+        ],
         "asn": "AS399629"
     },
     {
@@ -33837,6 +33860,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "tormiddleRvaultcc2",
+        "asn": "AS202053"
+    },
+    {
         "nickname": "JustBingIt",
         "asn": "AS16276"
     },
@@ -36364,6 +36391,9 @@
     },
     {
         "nickname": "lunar246",
+        "exit_address": [
+            "45.77.69.144"
+        ],
         "asn": "AS20473"
     },
     {
@@ -48155,6 +48185,9 @@
     },
     {
         "nickname": "copperfox1",
+        "exit_address": [
+            "149.28.220.86"
+        ],
         "asn": "AS20473"
     },
     {
