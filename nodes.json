@@ -21330,10 +21330,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "thegreatgonzo",
-        "asn": "AS62365"
-    },
-    {
         "nickname": "7thheaven",
         "asn": "AS214209"
     },
@@ -25464,7 +25460,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.133",
             "198.167.206.250"
         ],
         "asn": "AS39287"
@@ -46462,10 +46457,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "MidnightEngine",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "mariana",
         "asn": "AS51765"
     },
@@ -47748,6 +47739,10 @@
             "104.244.78.233"
         ],
         "asn": "AS53667"
+    },
+    {
+        "nickname": "pruvodci03",
+        "asn": "AS40676"
     },
     {
         "nickname": "BlushOnion8",
