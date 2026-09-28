@@ -2648,6 +2648,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "lodrich2",
+        "asn": "AS13030"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "67.215.237.232"
@@ -9197,6 +9201,10 @@
     {
         "nickname": "ridin",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "lodrich",
+        "asn": "AS13030"
     },
     {
         "nickname": "belovachap10",
@@ -19914,9 +19922,6 @@
     },
     {
         "nickname": "TheBlur",
-        "exit_address": [
-            "5.255.123.164"
-        ],
         "asn": "AS60404"
     },
     {
