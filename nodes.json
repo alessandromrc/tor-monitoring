@@ -2216,6 +2216,9 @@
     },
     {
         "nickname": "darkcloud",
+        "exit_address": [
+            "96.9.124.223"
+        ],
         "asn": "AS399629"
     },
     {
@@ -16101,6 +16104,9 @@
     },
     {
         "nickname": "highpeak",
+        "exit_address": [
+            "144.202.23.116"
+        ],
         "asn": "AS20473"
     },
     {
@@ -17687,6 +17693,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "iblech",
         "asn": "AS51167"
     },
@@ -19205,6 +19215,9 @@
     },
     {
         "nickname": "coldriver",
+        "exit_address": [
+            "216.245.184.217"
+        ],
         "asn": "AS399629"
     },
     {
@@ -20319,6 +20332,9 @@
     },
     {
         "nickname": "swiftwind",
+        "exit_address": [
+            "45.77.112.40"
+        ],
         "asn": "AS20473"
     },
     {
@@ -25570,8 +25586,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.192",
-            "198.167.206.250"
+            "198.167.206.192"
         ],
         "asn": "AS39287"
     },
@@ -29688,6 +29703,9 @@
     },
     {
         "nickname": "golosa",
+        "exit_address": [
+            "176.58.121.177"
+        ],
         "asn": "AS63949"
     },
     {
@@ -39807,10 +39825,6 @@
         "asn": "AS206075"
     },
     {
-        "nickname": "MyMiddleRelay",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "roshar",
         "asn": "AS197540"
     },
@@ -39951,6 +39965,9 @@
     },
     {
         "nickname": "greyforest",
+        "exit_address": [
+            "45.63.38.22"
+        ],
         "asn": "AS20473"
     },
     {
