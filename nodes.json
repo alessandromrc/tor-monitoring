@@ -7020,6 +7020,9 @@
     },
     {
         "nickname": "NeelTorExit2B",
+        "exit_address": [
+            "147.90.234.63"
+        ],
         "asn": "AS27284"
     },
     {
@@ -18877,6 +18880,10 @@
         "asn": "AS59891"
     },
     {
+        "nickname": "papayaOwo",
+        "asn": "AS12479"
+    },
+    {
         "nickname": "freakpark",
         "asn": "AS202422"
     },
@@ -23771,6 +23778,9 @@
     },
     {
         "nickname": "staywokewokestay",
+        "exit_address": [
+            "149.202.79.101"
+        ],
         "asn": "AS16276"
     },
     {
@@ -24528,10 +24538,6 @@
             "188.68.49.235"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "agronomics",
-        "asn": "AS16276"
     },
     {
         "nickname": "dannenberg",
@@ -26992,6 +26998,10 @@
         "asn": "AS198930"
     },
     {
+        "nickname": "guano",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS20473"
     },
@@ -27923,10 +27933,6 @@
     {
         "nickname": "StJames",
         "asn": "AS394380"
-    },
-    {
-        "nickname": "Kangaroo",
-        "asn": "AS133159"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -28913,10 +28919,6 @@
         "asn": "AS136258"
     },
     {
-        "nickname": "RayMondDrakonRelay",
-        "asn": "AS20845"
-    },
-    {
         "nickname": "haveyoueatentoday",
         "asn": "AS3301"
     },
@@ -29674,6 +29676,9 @@
     },
     {
         "nickname": "BostonUCompSci",
+        "exit_address": [
+            "204.8.156.142"
+        ],
         "asn": "AS10961"
     },
     {
@@ -33444,6 +33449,10 @@
     {
         "nickname": "AgentSmith",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "JustARelay1",
+        "asn": "AS1267"
     },
     {
         "nickname": "relayon0156",
@@ -37339,10 +37348,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS10429"
-    },
-    {
         "nickname": "FatBoyPizzaTwo",
         "asn": "AS57269"
     },
@@ -38219,6 +38224,10 @@
             "192.42.116.145"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "myMiddleRelayTur",
+        "asn": "AS19318"
     },
     {
         "nickname": "Rumpelstiltskin",
@@ -39646,9 +39655,6 @@
     },
     {
         "nickname": "Satoshi",
-        "exit_address": [
-            "23.182.128.217"
-        ],
         "asn": "AS401933"
     },
     {
