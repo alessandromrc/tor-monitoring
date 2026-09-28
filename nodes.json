@@ -5203,6 +5203,10 @@
         "asn": "AS62240"
     },
     {
+        "nickname": "toradmin",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "punchtde",
         "asn": "AS36849"
     },
@@ -32799,9 +32803,6 @@
     },
     {
         "nickname": "UgreenExit9090",
-        "exit_address": [
-            "81.172.149.212"
-        ],
         "asn": "AS15435"
     },
     {
@@ -40186,10 +40187,6 @@
     {
         "nickname": "buddy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS44051"
     },
     {
         "nickname": "Quintex502",
