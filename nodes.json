@@ -29293,6 +29293,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "46.105.20.238"
+        ],
         "asn": "AS16276"
     },
     {
@@ -48897,6 +48900,10 @@
     {
         "nickname": "icespice",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Papul",
+        "asn": "AS137643"
     },
     {
         "nickname": "TangeNLV2",
