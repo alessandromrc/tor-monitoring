@@ -4566,7 +4566,6 @@
     {
         "nickname": "TorDola",
         "exit_address": [
-            "185.231.32.33",
             "185.56.83.2",
             "185.56.83.3"
         ],
@@ -34699,7 +34698,7 @@
     },
     {
         "nickname": "Itzsenu",
-        "asn": "AS211301"
+        "asn": "AS212000"
     },
     {
         "nickname": "as215248tor4b",
@@ -46662,6 +46661,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "NinaFlor0",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "enjutoMojamuto7",
         "asn": "AS12430"
     },
@@ -47486,10 +47489,6 @@
             "204.8.96.163"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
     },
     {
         "nickname": "XMRBest",
