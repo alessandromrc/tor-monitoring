@@ -7887,6 +7887,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "fr33domNod3",
+        "asn": "AS135600"
+    },
+    {
         "nickname": "TV676",
         "asn": "AS6167"
     },
@@ -16191,6 +16195,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "TorRelay",
+        "asn": "AS2516"
+    },
+    {
         "nickname": "ForDemocracy2",
         "asn": "AS16276"
     },
@@ -18360,10 +18368,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "toad",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "MyMiddleRelay3",
         "asn": "AS16276"
     },
@@ -19727,10 +19731,6 @@
     {
         "nickname": "rugerofficial",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TheBestServer",
-        "asn": "AS60781"
     },
     {
         "nickname": "TRANS02",
@@ -23068,6 +23068,10 @@
             "109.70.100.8"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "eageloven",
+        "asn": "AS399820"
     },
     {
         "nickname": "Assange013us3",
@@ -28004,6 +28008,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "TestTermux",
+        "asn": "AS153371"
+    },
+    {
         "nickname": "OSAprotest",
         "asn": "AS31898"
     },
@@ -32466,10 +32474,6 @@
     {
         "nickname": "rednecksouljers",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
     },
     {
         "nickname": "iuaudia6tdi",
@@ -37586,7 +37590,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "FatBoyPizzaTwo",
+        "nickname": "FatBoyPizzaOne",
         "asn": "AS57269"
     },
     {
@@ -47596,7 +47600,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47675,9 +47679,6 @@
     },
     {
         "nickname": "MoorishArt",
-        "exit_address": [
-            "194.53.137.42"
-        ],
         "asn": "AS9009"
     },
     {
@@ -48619,6 +48620,9 @@
     },
     {
         "nickname": "UnredactedSnowden",
+        "exit_address": [
+            "23.191.200.2"
+        ],
         "asn": "AS401401"
     },
     {
