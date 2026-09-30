@@ -5537,9 +5537,6 @@
     },
     {
         "nickname": "Exit1",
-        "exit_address": [
-            "45.76.74.56"
-        ],
         "asn": "AS20473"
     },
     {
@@ -31582,10 +31579,6 @@
         "asn": "AS30600"
     },
     {
-        "nickname": "CommonCloudRelay",
-        "asn": "AS14618"
-    },
-    {
         "nickname": "NTH101R2",
         "exit_address": [
             "192.42.116.101"
@@ -34923,9 +34916,6 @@
     },
     {
         "nickname": "eo221",
-        "exit_address": [
-            "23.129.64.221"
-        ],
         "asn": "AS396507"
     },
     {
@@ -40746,6 +40736,9 @@
     },
     {
         "nickname": "emberlion677",
+        "exit_address": [
+            "195.85.114.82"
+        ],
         "asn": "AS399629"
     },
     {
