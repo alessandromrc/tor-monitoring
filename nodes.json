@@ -9335,7 +9335,7 @@
     },
     {
         "nickname": "liveSE",
-        "asn": "AS29518"
+        "asn": "AS3301"
     },
     {
         "nickname": "louieray",
@@ -11464,10 +11464,6 @@
             "23.94.148.16"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "DipperPines",
-        "asn": "AS204876"
     },
     {
         "nickname": "superfoxrelay1",
@@ -25264,10 +25260,6 @@
         "asn": "AS42885"
     },
     {
-        "nickname": "Johand",
-        "asn": "AS56655"
-    },
-    {
         "nickname": "jerryrelay",
         "exit_address": [
             "220.135.36.173"
@@ -28846,6 +28838,9 @@
     },
     {
         "nickname": "kate414",
+        "exit_address": [
+            "72.5.43.160"
+        ],
         "asn": "AS399629"
     },
     {
@@ -37761,10 +37756,6 @@
         "asn": "AS215381"
     },
     {
-        "nickname": "SlowTurtleRelay",
-        "asn": "AS5410"
-    },
-    {
         "nickname": "Halcyon3v",
         "asn": "AS63949"
     },
@@ -38843,7 +38834,7 @@
     },
     {
         "nickname": "MainMaldiranCom",
-        "asn": "AS29167"
+        "asn": "AS42763"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -39149,6 +39140,10 @@
     {
         "nickname": "NTH60R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "TorDola3",
+        "asn": "AS211720"
     },
     {
         "nickname": "Caramelo",
@@ -45013,6 +45008,10 @@
             "204.8.96.181"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "mia897",
+        "asn": "AS399629"
     },
     {
         "nickname": "thecornersporerelay",
