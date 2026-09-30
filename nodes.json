@@ -1060,10 +1060,6 @@
         "asn": "AS39819"
     },
     {
-        "nickname": "nodejakarta",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "67.215.237.232"
@@ -2444,10 +2440,6 @@
         "asn": "AS50613"
     },
     {
-        "nickname": "nodesingapore",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "Johnson46243",
         "asn": "AS53667"
     },
@@ -3336,6 +3328,10 @@
             "192.42.116.63"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Anonymous",
+        "asn": "AS151660"
     },
     {
         "nickname": "BananaSplitTraffic",
@@ -9617,10 +9613,6 @@
     {
         "nickname": "KK311JPA1",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "nodetokyo",
-        "asn": "AS63949"
     },
     {
         "nickname": "hello",
@@ -16629,10 +16621,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "nodesydney",
-        "asn": "AS63949"
     },
     {
         "nickname": "NTH143R4",
@@ -24161,10 +24149,6 @@
         "asn": "AS47583"
     },
     {
-        "nickname": "nodeosaka",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "mynode31",
         "asn": "AS20473"
     },
@@ -28383,10 +28367,6 @@
     {
         "nickname": "ShadowRelay",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "nodesaopaulo",
-        "asn": "AS63949"
     },
     {
         "nickname": "UberSucks",
@@ -32962,10 +32942,6 @@
         "asn": "AS12355"
     },
     {
-        "nickname": "nodelondon",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "2mproc",
         "asn": "AS701"
     },
@@ -33464,9 +33440,6 @@
     },
     {
         "nickname": "amberexit",
-        "exit_address": [
-            "217.217.97.43"
-        ],
         "asn": "AS214961"
     },
     {
@@ -34624,10 +34597,6 @@
     {
         "nickname": "SODrelay",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "nodemumbai",
-        "asn": "AS63949"
     },
     {
         "nickname": "scrillazone4",
