@@ -4184,6 +4184,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "privasee2",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "artikel10ber92",
         "exit_address": [
             "185.220.101.23"
@@ -30627,6 +30631,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "privasee1",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -47470,6 +47478,9 @@
     },
     {
         "nickname": "OlgaStew1",
+        "exit_address": [
+            "45.77.140.122"
+        ],
         "asn": "AS20473"
     },
     {
@@ -48640,9 +48651,6 @@
     },
     {
         "nickname": "TheFraggles",
-        "exit_address": [
-            "217.60.237.75"
-        ],
         "asn": "AS200912"
     },
     {
