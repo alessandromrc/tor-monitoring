@@ -225,6 +225,9 @@
     },
     {
         "nickname": "mark103",
+        "exit_address": [
+            "216.245.184.197"
+        ],
         "asn": "AS399629"
     },
     {
@@ -4309,10 +4312,6 @@
     {
         "nickname": "bulkypirate5",
         "asn": "AS202422"
-    },
-    {
-        "nickname": "mullvad",
-        "asn": "AS17858"
     },
     {
         "nickname": "UnredactedKlein",
@@ -18546,6 +18545,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "Philippppp",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "masego",
         "asn": "AS36849"
     },
@@ -26007,10 +26010,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "chimuelo",
-        "asn": "AS60781"
-    },
-    {
         "nickname": "zgato",
         "asn": "AS213438"
     },
@@ -28484,10 +28483,6 @@
     {
         "nickname": "cheesetart",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "TheSilentField",
-        "asn": "AS28753"
     },
     {
         "nickname": "Quintex422",
@@ -32274,6 +32269,9 @@
     },
     {
         "nickname": "pruvodci02",
+        "exit_address": [
+            "147.90.235.154"
+        ],
         "asn": "AS27284"
     },
     {
@@ -32563,10 +32561,6 @@
     {
         "nickname": "fuchs5",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "JohnsonAsay",
-        "asn": "AS33588"
     },
     {
         "nickname": "elhaeatlanta",
@@ -33374,6 +33368,9 @@
     },
     {
         "nickname": "oakbrook754",
+        "exit_address": [
+            "104.156.237.165"
+        ],
         "asn": "AS20473"
     },
     {
@@ -35864,10 +35861,6 @@
     {
         "nickname": "DakotaEdge",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "socket1717",
-        "asn": "AS17858"
     },
     {
         "nickname": "PLUH",
@@ -42319,6 +42312,9 @@
     },
     {
         "nickname": "MarkWrig9",
+        "exit_address": [
+            "168.100.11.238"
+        ],
         "asn": "AS399629"
     },
     {
@@ -45832,6 +45828,10 @@
     {
         "nickname": "r0cket03i7",
         "asn": "AS214503"
+    },
+    {
+        "nickname": "KevinTayl9",
+        "asn": "AS20473"
     },
     {
         "nickname": "Digitalcourage4ipfb",
