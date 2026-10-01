@@ -40361,6 +40361,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "NightJul73",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -42358,6 +42362,9 @@
     },
     {
         "nickname": "titanicfalls",
+        "exit_address": [
+            "107.148.223.17"
+        ],
         "asn": "AS399486"
     },
     {
@@ -49674,6 +49681,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "EigerNord",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "Quintex551",
         "exit_address": [
             "204.8.96.140"
@@ -50613,10 +50624,6 @@
             "178.175.148.155"
         ],
         "asn": "AS43289"
-    },
-    {
-        "nickname": "juliansTorNode",
-        "asn": "AS3320"
     },
     {
         "nickname": "PinkLove",
