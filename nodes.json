@@ -1300,6 +1300,10 @@
         "asn": "AS5378"
     },
     {
+        "nickname": "EnilnoEnterprise",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "rico",
         "asn": "AS36849"
     },
@@ -1313,6 +1317,9 @@
     },
     {
         "nickname": "Delphos",
+        "exit_address": [
+            "23.137.255.85"
+        ],
         "asn": "AS40663"
     },
     {
@@ -11085,6 +11092,10 @@
         "asn": "AS207656"
     },
     {
+        "nickname": "KllxTest",
+        "asn": "AS47447"
+    },
+    {
         "nickname": "bifrostHighMoutain",
         "asn": "AS29222"
     },
@@ -15019,6 +15030,10 @@
     {
         "nickname": "lildread",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "AnhKagi",
+        "asn": "AS16276"
     },
     {
         "nickname": "NTH12R1",
@@ -18981,6 +18996,10 @@
             "185.220.101.8"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Ronaldo",
+        "asn": "AS14618"
     },
     {
         "nickname": "NTH105R2",
@@ -28370,6 +28389,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "anonymous",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "sciurus1",
         "asn": "AS29802"
     },
@@ -31239,6 +31262,10 @@
     {
         "nickname": "NTH301R2",
         "asn": "AS206238"
+    },
+    {
+        "nickname": "Osiris",
+        "asn": "AS31898"
     },
     {
         "nickname": "breadcan",
@@ -42279,6 +42306,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ProjectPrivacyX1",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "insula",
         "asn": "AS63949"
     },
@@ -43529,6 +43560,10 @@
     {
         "nickname": "TumblerOne",
         "asn": "AS3320"
+    },
+    {
+        "nickname": "KllxTest",
+        "asn": "AS47447"
     },
     {
         "nickname": "Piratenpartei06",
@@ -48716,6 +48751,10 @@
             "23.191.200.106"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "slxrd2",
+        "asn": "AS53006"
     },
     {
         "nickname": "lexluger",
