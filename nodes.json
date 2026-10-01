@@ -20937,6 +20937,9 @@
     },
     {
         "nickname": "jailbreakuriphone",
+        "exit_address": [
+            "167.179.117.50"
+        ],
         "asn": "AS20473"
     },
     {
@@ -25061,6 +25064,10 @@
             "204.8.96.71"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "itsamazing",
+        "asn": "AS24940"
     },
     {
         "nickname": "PommespanzerDE9",
@@ -39131,10 +39138,6 @@
     {
         "nickname": "mase",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "KissMyAES",
-        "asn": "AS1759"
     },
     {
         "nickname": "ibibUNC1",
