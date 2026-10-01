@@ -1441,9 +1441,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.96"
-        ],
         "asn": "AS399486"
     },
     {
@@ -3548,9 +3545,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.94"
-        ],
         "asn": "AS399486"
     },
     {
@@ -3889,9 +3883,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.95"
-        ],
         "asn": "AS399486"
     },
     {
@@ -3953,6 +3944,9 @@
     },
     {
         "nickname": "SaltyCookies",
+        "exit_address": [
+            "185.112.146.167"
+        ],
         "asn": "AS44925"
     },
     {
@@ -23847,9 +23841,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.90"
-        ],
         "asn": "AS399486"
     },
     {
@@ -27385,6 +27376,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "libermiddlerelay",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "RelayUli",
         "asn": "AS16276"
     },
@@ -27653,10 +27648,6 @@
             "192.42.116.117"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "DrauseRelay",
-        "asn": "AS12876"
     },
     {
         "nickname": "Unnamed",
@@ -36387,9 +36378,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.97"
-        ],
         "asn": "AS399486"
     },
     {
@@ -38401,9 +38389,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.92"
-        ],
         "asn": "AS399486"
     },
     {
@@ -42304,6 +42289,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
@@ -43768,9 +43756,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.91"
-        ],
         "asn": "AS399486"
     },
     {
@@ -45149,9 +45134,6 @@
     },
     {
         "nickname": "freetornode",
-        "exit_address": [
-            "217.60.198.93"
-        ],
         "asn": "AS399486"
     },
     {
