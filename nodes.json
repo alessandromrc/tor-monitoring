@@ -12532,9 +12532,6 @@
     },
     {
         "nickname": "MyTorExitNode",
-        "exit_address": [
-            "165.227.163.170"
-        ],
         "asn": "AS14061"
     },
     {
@@ -18523,9 +18520,6 @@
     },
     {
         "nickname": "anduinExit01",
-        "exit_address": [
-            "185.42.170.203"
-        ],
         "asn": "AS62248"
     },
     {
@@ -24571,6 +24565,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
