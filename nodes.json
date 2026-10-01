@@ -2639,6 +2639,10 @@
         "asn": "AS38074"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS22773"
+    },
+    {
         "nickname": "nfreal",
         "asn": "AS36849"
     },
@@ -11578,6 +11582,10 @@
         "asn": "AS29802"
     },
     {
+        "nickname": "tormentzone",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "NTH115R2",
         "exit_address": [
             "192.42.116.115"
@@ -18520,6 +18528,9 @@
     },
     {
         "nickname": "anduinExit01",
+        "exit_address": [
+            "185.42.170.203"
+        ],
         "asn": "AS62248"
     },
     {
@@ -19391,6 +19402,10 @@
     {
         "nickname": "beastzone",
         "asn": "AS40994"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS6206"
     },
     {
         "nickname": "artikel10ber17",
@@ -20926,9 +20941,6 @@
     },
     {
         "nickname": "jailbreakuriphone",
-        "exit_address": [
-            "167.179.117.50"
-        ],
         "asn": "AS20473"
     },
     {
