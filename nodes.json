@@ -12995,6 +12995,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "107.189.5.112"
+        ],
         "asn": "AS53667"
     },
     {
@@ -17460,6 +17463,10 @@
             "185.129.61.4"
         ],
         "asn": "AS210731"
+    },
+    {
+        "nickname": "M4ri0",
+        "asn": "AS23470"
     },
     {
         "nickname": "artikel10ber90",
@@ -23693,6 +23700,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Merlin",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "clarke",
         "asn": "AS208323"
     },
@@ -28338,6 +28349,10 @@
     },
     {
         "nickname": "thescribe",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "gibson44",
         "asn": "AS16276"
     },
     {
@@ -40305,9 +40320,6 @@
     },
     {
         "nickname": "2mplas",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -44576,6 +44588,9 @@
     },
     {
         "nickname": "c4sey",
+        "exit_address": [
+            "198.98.62.158"
+        ],
         "asn": "AS53667"
     },
     {
@@ -44599,6 +44614,9 @@
     },
     {
         "nickname": "blazeiron325",
+        "exit_address": [
+            "149.28.201.36"
+        ],
         "asn": "AS20473"
     },
     {
@@ -47553,7 +47571,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -49572,6 +49590,9 @@
     },
     {
         "nickname": "fatman",
+        "exit_address": [
+            "51.15.16.14"
+        ],
         "asn": "AS12876"
     },
     {
@@ -49828,9 +49849,6 @@
     },
     {
         "nickname": "MoksedurRahman",
-        "exit_address": [
-            "103.166.187.253"
-        ],
         "asn": "AS137967"
     },
     {
@@ -50014,6 +50032,9 @@
     },
     {
         "nickname": "PROXIMA778",
+        "exit_address": [
+            "202.181.177.92"
+        ],
         "asn": "AS211619"
     },
     {
