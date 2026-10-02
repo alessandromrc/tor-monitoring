@@ -5697,6 +5697,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS138754"
+    },
+    {
         "nickname": "BetonNode02",
         "asn": "AS16276"
     },
@@ -7203,6 +7207,10 @@
     {
         "nickname": "NFOrce",
         "asn": "AS43350"
+    },
+    {
+        "nickname": "john220",
+        "asn": "AS399629"
     },
     {
         "nickname": "sh97US103R",
@@ -16581,10 +16589,6 @@
         "asn": "AS20115"
     },
     {
-        "nickname": "AuthVA",
-        "asn": "AS14618"
-    },
-    {
         "nickname": "oviozlovesirius",
         "asn": "AS36352"
     },
@@ -21918,10 +21922,6 @@
     {
         "nickname": "ShiftLoveX",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "AuthIE",
-        "asn": "AS16509"
     },
     {
         "nickname": "SaltyFox",
@@ -28357,7 +28357,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "TRB",
+        "nickname": "Freedom",
         "asn": "AS20845"
     },
     {
@@ -33187,10 +33187,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "vanadium",
-        "asn": "AS20055"
-    },
-    {
         "nickname": "berenstainbears",
         "exit_address": [
             "179.43.182.58"
@@ -33498,10 +33494,6 @@
     {
         "nickname": "NoOnionES01",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "kmdd",
-        "asn": "AS3209"
     },
     {
         "nickname": "doboz",
@@ -34574,9 +34566,6 @@
     },
     {
         "nickname": "iambaidu",
-        "exit_address": [
-            "95.211.244.28"
-        ],
         "asn": "AS60781"
     },
     {
@@ -49353,6 +49342,9 @@
     },
     {
         "nickname": "brookridge502",
+        "exit_address": [
+            "216.203.21.26"
+        ],
         "asn": "AS399629"
     },
     {
@@ -50956,10 +50948,6 @@
     {
         "nickname": "technosyndical7",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "AuthDE",
-        "asn": "AS16509"
     },
     {
         "nickname": "yunggravy",
