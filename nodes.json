@@ -25555,7 +25555,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.134"
+            "198.167.206.134",
+            "198.167.206.250"
         ],
         "asn": "AS39287"
     },
@@ -30319,6 +30320,10 @@
     {
         "nickname": "DogeRelay2",
         "asn": "AS701"
+    },
+    {
+        "nickname": "Irelandbbb",
+        "asn": "AS5089"
     },
     {
         "nickname": "kendricklamar",
@@ -36497,10 +36502,6 @@
     {
         "nickname": "DontBeEllison",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS11878"
     },
     {
         "nickname": "shibuya",
