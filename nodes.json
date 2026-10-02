@@ -16286,10 +16286,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "DFRI24",
         "exit_address": [
             "171.25.193.25"
@@ -46850,6 +46846,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "mammoth",
+        "asn": "AS7029"
+    },
+    {
         "nickname": "NTH52R3",
         "exit_address": [
             "192.42.116.52"
@@ -49849,6 +49849,9 @@
     },
     {
         "nickname": "MoksedurRahman",
+        "exit_address": [
+            "103.166.187.253"
+        ],
         "asn": "AS137967"
     },
     {
