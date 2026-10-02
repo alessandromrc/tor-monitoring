@@ -32592,9 +32592,6 @@
     },
     {
         "nickname": "juliatorres1968",
-        "exit_address": [
-            "149.28.215.230"
-        ],
         "asn": "AS20473"
     },
     {
@@ -33604,9 +33601,6 @@
     },
     {
         "nickname": "oakbrook754",
-        "exit_address": [
-            "104.156.237.165"
-        ],
         "asn": "AS20473"
     },
     {
@@ -42606,9 +42600,6 @@
     },
     {
         "nickname": "MarkWrig9",
-        "exit_address": [
-            "168.100.11.238"
-        ],
         "asn": "AS399629"
     },
     {
@@ -44850,15 +44841,14 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
         "nickname": "dougieb",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "openbsdvmnode",
-        "asn": "AS7018"
     },
     {
         "nickname": "MiddleRelay",
@@ -46148,9 +46138,6 @@
     },
     {
         "nickname": "KevinTayl9",
-        "exit_address": [
-            "149.248.13.95"
-        ],
         "asn": "AS20473"
     },
     {
