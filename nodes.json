@@ -12441,9 +12441,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -26950,6 +26947,10 @@
         "asn": "AS1103"
     },
     {
+        "nickname": "RToRw",
+        "asn": "AS49453"
+    },
+    {
         "nickname": "verdunf",
         "asn": "AS214209"
     },
@@ -28572,10 +28573,6 @@
     {
         "nickname": "StygianEye01",
         "asn": "AS200736"
-    },
-    {
-        "nickname": "gadelat",
-        "asn": "AS6855"
     },
     {
         "nickname": "NTH60R8",
@@ -40145,6 +40142,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -47072,10 +47072,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "superamazingnode",
-        "asn": "AS402253"
-    },
-    {
         "nickname": "RelayKiritho",
         "asn": "AS31898"
     },
@@ -50052,6 +50048,10 @@
     {
         "nickname": "jeepingben",
         "asn": "AS11351"
+    },
+    {
+        "nickname": "PROXIMA778",
+        "asn": "AS211619"
     },
     {
         "nickname": "mikejones",
