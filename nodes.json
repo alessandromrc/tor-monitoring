@@ -10791,6 +10791,9 @@
     },
     {
         "nickname": "GuruKopi",
+        "exit_address": [
+            "118.163.74.160"
+        ],
         "asn": "AS3462"
     },
     {
@@ -16358,6 +16361,10 @@
     {
         "nickname": "sparky",
         "asn": "AS25697"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS20473"
     },
     {
         "nickname": "Quintex306",
@@ -26461,10 +26468,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "BlackBoxRelay1",
-        "asn": "AS19318"
-    },
-    {
         "nickname": "whyza2",
         "asn": "AS31898"
     },
@@ -29572,10 +29575,6 @@
             "141.239.158.222"
         ],
         "asn": "AS36149"
-    },
-    {
-        "nickname": "Killix",
-        "asn": "AS60781"
     },
     {
         "nickname": "ChristiansBlog",
@@ -42925,6 +42924,10 @@
     {
         "nickname": "DoubleTrouble",
         "asn": "AS204615"
+    },
+    {
+        "nickname": "Sophia12",
+        "asn": "AS51396"
     },
     {
         "nickname": "trueprivate",
