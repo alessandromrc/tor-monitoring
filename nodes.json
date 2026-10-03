@@ -6163,10 +6163,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "IWAITYOUINBIO",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "computorRelay",
         "asn": "AS16276"
     },
@@ -7642,6 +7638,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "EbpfLabRelay",
+        "asn": "AS8764"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "104.223.84.84"
@@ -8288,6 +8288,10 @@
     {
         "nickname": "IWAITYOUINBIO",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "ScottThom0",
+        "asn": "AS399629"
     },
     {
         "nickname": "UnredactedWylie",
@@ -11927,6 +11931,9 @@
     },
     {
         "nickname": "BlazeLeo18",
+        "exit_address": [
+            "149.28.202.88"
+        ],
         "asn": "AS20473"
     },
     {
@@ -47563,7 +47570,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47813,6 +47820,9 @@
     },
     {
         "nickname": "eric824",
+        "exit_address": [
+            "64.95.11.91"
+        ],
         "asn": "AS399629"
     },
     {
@@ -47949,10 +47959,6 @@
     {
         "nickname": "UFOAlien1",
         "asn": "AS62005"
-    },
-    {
-        "nickname": "CyberPanda",
-        "asn": "AS1267"
     },
     {
         "nickname": "9339379341483941",
