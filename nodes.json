@@ -19659,6 +19659,9 @@
     },
     {
         "nickname": "2mplas2",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -29763,6 +29766,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Max",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "KllxTest",
         "asn": "AS12876"
     },
@@ -32641,6 +32648,9 @@
     },
     {
         "nickname": "tony962",
+        "exit_address": [
+            "209.250.234.233"
+        ],
         "asn": "AS20473"
     },
     {
@@ -36319,6 +36329,10 @@
     {
         "nickname": "ZoddyTor",
         "asn": "AS1267"
+    },
+    {
+        "nickname": "HyperhostSolutions",
+        "asn": "AS965"
     },
     {
         "nickname": "catgirl",
