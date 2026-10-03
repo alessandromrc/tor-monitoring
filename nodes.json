@@ -4411,9 +4411,6 @@
     },
     {
         "nickname": "TheMadHackerSpinch",
-        "exit_address": [
-            "65.87.7.202"
-        ],
         "asn": "AS215659"
     },
     {
@@ -7811,6 +7808,9 @@
     },
     {
         "nickname": "MarioHall6",
+        "exit_address": [
+            "96.9.124.254"
+        ],
         "asn": "AS399629"
     },
     {
@@ -11920,6 +11920,10 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "BlazeLeo18",
+        "asn": "AS20473"
     },
     {
         "nickname": "Alberta",
@@ -28322,6 +28326,9 @@
     },
     {
         "nickname": "stormvalley674",
+        "exit_address": [
+            "149.248.5.194"
+        ],
         "asn": "AS20473"
     },
     {
@@ -45547,9 +45554,6 @@
     },
     {
         "nickname": "TheMadHackerNodeV3",
-        "exit_address": [
-            "152.53.170.213"
-        ],
         "asn": "AS214996"
     },
     {
@@ -47794,6 +47798,10 @@
     {
         "nickname": "mrdelchristiancrunk",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "eric824",
+        "asn": "AS399629"
     },
     {
         "nickname": "artikel10ber77",
