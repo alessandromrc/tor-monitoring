@@ -20315,9 +20315,6 @@
     },
     {
         "nickname": "prideoflions",
-        "exit_address": [
-            "186.240.149.160"
-        ],
         "asn": "AS47583"
     },
     {
@@ -24925,6 +24922,9 @@
     },
     {
         "nickname": "SophiaJohn3",
+        "exit_address": [
+            "45.77.166.60"
+        ],
         "asn": "AS20473"
     },
     {
@@ -33517,6 +33517,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "kmdd",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "doboz",
         "asn": "AS1257"
     },
@@ -33670,6 +33674,10 @@
     {
         "nickname": "technologic",
         "asn": "AS6128"
+    },
+    {
+        "nickname": "luke846",
+        "asn": "AS20473"
     },
     {
         "nickname": "TransRights",
