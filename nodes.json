@@ -50,6 +50,9 @@
     },
     {
         "nickname": "birchhawk557",
+        "exit_address": [
+            "45.77.63.199"
+        ],
         "asn": "AS20473"
     },
     {
@@ -6937,9 +6940,6 @@
     },
     {
         "nickname": "stonebirch242",
-        "exit_address": [
-            "162.252.199.128"
-        ],
         "asn": "AS399629"
     },
     {
@@ -8240,9 +8240,6 @@
     },
     {
         "nickname": "privatebrowsingorg",
-        "exit_address": [
-            "107.189.12.7"
-        ],
         "asn": "AS53667"
     },
     {
@@ -9878,6 +9875,10 @@
     {
         "nickname": "MyHomeRelayCH",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "kyle288",
+        "asn": "AS20473"
     },
     {
         "nickname": "stubbornoxenoracle",
