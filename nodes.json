@@ -174,6 +174,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "KikosNinja",
+        "asn": "AS399486"
+    },
+    {
         "nickname": "HandsofGoldSpa",
         "asn": "AS44486"
     },
@@ -1729,9 +1733,6 @@
     },
     {
         "nickname": "abusoustio46",
-        "exit_address": [
-            "46.8.113.170"
-        ],
         "asn": "AS215305"
     },
     {
@@ -9876,6 +9877,9 @@
     },
     {
         "nickname": "kyle288",
+        "exit_address": [
+            "207.246.65.92"
+        ],
         "asn": "AS20473"
     },
     {
@@ -13489,6 +13493,10 @@
     {
         "nickname": "r0cket11i2",
         "asn": "AS214503"
+    },
+    {
+        "nickname": "pineoak908",
+        "asn": "AS20473"
     },
     {
         "nickname": "kgXuCTCWVMALFMb74Ld",
@@ -21728,9 +21736,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.252"
-        ],
         "asn": "AS205100"
     },
     {
@@ -22832,9 +22837,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.252"
-        ],
         "asn": "AS205100"
     },
     {
@@ -25650,6 +25652,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.229",
             "198.167.206.250"
         ],
         "asn": "AS39287"
@@ -28798,10 +28801,6 @@
         "asn": "AS11426"
     },
     {
-        "nickname": "Zuckerboot",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "ididnteditheconfig",
         "asn": "AS200462"
     },
@@ -29623,9 +29622,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.253"
-        ],
         "asn": "AS205100"
     },
     {
@@ -30710,9 +30706,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.255"
-        ],
         "asn": "AS205100"
     },
     {
@@ -30812,9 +30805,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.254"
-        ],
         "asn": "AS205100"
     },
     {
@@ -33745,6 +33735,10 @@
     {
         "nickname": "Jyg1H9",
         "asn": "AS151660"
+    },
+    {
+        "nickname": "Manwe",
+        "asn": "AS21497"
     },
     {
         "nickname": "Quintex269",
@@ -46649,9 +46643,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.254"
-        ],
         "asn": "AS205100"
     },
     {
@@ -48645,6 +48636,10 @@
     {
         "nickname": "copperfox1",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "mar2RbAaCb",
+        "asn": "AS58397"
     },
     {
         "nickname": "lildouble0",
