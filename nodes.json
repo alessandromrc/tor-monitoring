@@ -16654,6 +16654,10 @@
         "asn": "AS60781"
     },
     {
+        "nickname": "CloudDia85",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "nemesis",
         "asn": "AS11426"
     },
@@ -20142,10 +20146,6 @@
             "204.8.96.115"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "gibox",
-        "asn": "AS6407"
     },
     {
         "nickname": "NTH162R1",
@@ -41676,6 +41676,9 @@
     },
     {
         "nickname": "kevinyoung1963",
+        "exit_address": [
+            "72.5.42.156"
+        ],
         "asn": "AS399629"
     },
     {
@@ -47223,6 +47226,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "BrixRelay",
+        "asn": "AS3215"
     },
     {
         "nickname": "brn",
