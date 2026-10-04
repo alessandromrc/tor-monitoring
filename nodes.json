@@ -1628,10 +1628,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "BlushOnion7",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "massari",
         "asn": "AS36849"
     },
@@ -3727,9 +3723,6 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
-        "exit_address": [
-            "23.137.253.113"
-        ],
         "asn": "AS40663"
     },
     {
@@ -11103,10 +11096,6 @@
     {
         "nickname": "begonia",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "BlushOnion1",
-        "asn": "AS13030"
     },
     {
         "nickname": "ToRussiaWithTruth",
@@ -18924,10 +18913,6 @@
     {
         "nickname": "StartOSRelay",
         "asn": "AS11426"
-    },
-    {
-        "nickname": "BlushOnion5",
-        "asn": "AS13030"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -31477,10 +31462,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "BlushOnion4",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "Diamondback",
         "asn": "AS24940"
     },
@@ -34897,10 +34878,6 @@
     {
         "nickname": "muchovisoy",
         "asn": "AS263812"
-    },
-    {
-        "nickname": "BlushOnion2",
-        "asn": "AS13030"
     },
     {
         "nickname": "eo221",
@@ -41960,10 +41937,6 @@
         "asn": "AS26832"
     },
     {
-        "nickname": "BlushOnion6",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "juggernautrelay",
         "asn": "AS197540"
     },
@@ -44377,6 +44350,10 @@
     {
         "nickname": "homik2",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "gualaychorele",
+        "asn": "AS36352"
     },
     {
         "nickname": "russ",
@@ -47223,6 +47200,9 @@
     },
     {
         "nickname": "DrofSpaceFrameBoats",
+        "exit_address": [
+            "192.240.198.189"
+        ],
         "asn": "AS19437"
     },
     {
@@ -48143,10 +48123,6 @@
     {
         "nickname": "pruvodci03",
         "asn": "AS40676"
-    },
-    {
-        "nickname": "BlushOnion8",
-        "asn": "AS13030"
     },
     {
         "nickname": "NTH103R6",
