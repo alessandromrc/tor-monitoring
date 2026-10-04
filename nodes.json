@@ -150,9 +150,6 @@
     },
     {
         "nickname": "anarchistcook",
-        "exit_address": [
-            "179.43.159.78"
-        ],
         "asn": "AS51852"
     },
     {
@@ -17046,10 +17043,6 @@
         "asn": "AS3356"
     },
     {
-        "nickname": "FFirewall",
-        "asn": "AS1221"
-    },
-    {
         "nickname": "DFRI87",
         "exit_address": [
             "171.25.193.40"
@@ -24910,6 +24903,10 @@
             "185.246.188.74"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "DockerObfs4Bridge",
+        "asn": "AS1257"
     },
     {
         "nickname": "brutus",
@@ -34418,9 +34415,6 @@
     },
     {
         "nickname": "torexitams12",
-        "exit_address": [
-            "45.66.35.32"
-        ],
         "asn": "AS61125"
     },
     {
@@ -43401,7 +43395,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS18881"
     },
     {
         "nickname": "Splinter",
@@ -47878,6 +47872,9 @@
     },
     {
         "nickname": "TorDola4",
+        "exit_address": [
+            "185.56.83.6"
+        ],
         "asn": "AS211720"
     },
     {
