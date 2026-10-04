@@ -6640,9 +6640,6 @@
     },
     {
         "nickname": "NinjaOrior",
-        "exit_address": [
-            "107.148.223.17"
-        ],
         "asn": "AS399486"
     },
     {
@@ -19706,9 +19703,6 @@
     },
     {
         "nickname": "2mplas2",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -26552,10 +26546,6 @@
             "147.90.235.17"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "torrrrr",
-        "asn": "AS24940"
     },
     {
         "nickname": "prsv",
@@ -34430,6 +34420,10 @@
     {
         "nickname": "renrpo26flowrecord",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "VocalZeroRelay",
+        "asn": "AS58087"
     },
     {
         "nickname": "UnshakledFreedom",
