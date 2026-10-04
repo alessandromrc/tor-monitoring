@@ -12500,9 +12500,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -16288,10 +16285,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS24961"
-    },
-    {
         "nickname": "wobble2",
         "asn": "AS31863"
     },
@@ -16368,6 +16361,10 @@
             "23.129.64.158"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "FrostyIgloo21",
+        "asn": "AS210644"
     },
     {
         "nickname": "DFRI119",
@@ -18691,10 +18688,6 @@
         "asn": "AS26599"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS24961"
-    },
-    {
         "nickname": "anduinExit01",
         "exit_address": [
             "185.42.170.203"
@@ -19038,10 +19031,6 @@
     {
         "nickname": "mackdre",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS24961"
     },
     {
         "nickname": "melon",
@@ -25328,10 +25317,6 @@
         "asn": "AS3301"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS24961"
-    },
-    {
         "nickname": "logic301",
         "asn": "AS36849"
     },
@@ -25638,10 +25623,6 @@
     {
         "nickname": "Damnation",
         "asn": "AS23655"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS24961"
     },
     {
         "nickname": "imJohnson",
@@ -33153,10 +33134,6 @@
     {
         "nickname": "RelayUli",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "UgreenExit9090",
-        "asn": "AS15435"
     },
     {
         "nickname": "Quintex44",
@@ -43745,10 +43722,6 @@
     {
         "nickname": "UmbrellaAcademy",
         "asn": "AS9050"
-    },
-    {
-        "nickname": "necron33",
-        "asn": "AS214902"
     },
     {
         "nickname": "lavabit",
