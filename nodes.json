@@ -150,6 +150,9 @@
     },
     {
         "nickname": "anarchistcook",
+        "exit_address": [
+            "179.43.159.78"
+        ],
         "asn": "AS51852"
     },
     {
@@ -4725,6 +4728,10 @@
         "asn": "AS62000"
     },
     {
+        "nickname": "GuilelNode3",
+        "asn": "AS30722"
+    },
+    {
         "nickname": "UnredactedLibra",
         "exit_address": [
             "23.191.200.24"
@@ -5880,6 +5887,10 @@
             "109.70.100.15"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "GuilelNode4",
+        "asn": "AS30722"
     },
     {
         "nickname": "TV1504",
@@ -20277,10 +20288,6 @@
         "asn": "AS852"
     },
     {
-        "nickname": "RelayToTheOpenWeb",
-        "asn": "AS58087"
-    },
-    {
         "nickname": "arlisRelay",
         "asn": "AS8560"
     },
@@ -21133,9 +21140,6 @@
     },
     {
         "nickname": "corewars",
-        "exit_address": [
-            "148.135.75.210"
-        ],
         "asn": "AS35916"
     },
     {
@@ -29699,10 +29703,6 @@
         "asn": "AS205100"
     },
     {
-        "nickname": "Satoshi2",
-        "asn": "AS401933"
-    },
-    {
         "nickname": "TORtelliniExit03",
         "exit_address": [
             "37.114.63.5"
@@ -30108,6 +30108,9 @@
     },
     {
         "nickname": "KikosNinja",
+        "exit_address": [
+            "143.198.175.211"
+        ],
         "asn": "AS14061"
     },
     {
@@ -34490,6 +34493,10 @@
     {
         "nickname": "LEGENDFUNPARK",
         "asn": "AS41108"
+    },
+    {
+        "nickname": "GuilelNode2",
+        "asn": "AS30722"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -39862,10 +39869,6 @@
     {
         "nickname": "jabberwock",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "Satoshi",
-        "asn": "AS401933"
     },
     {
         "nickname": "Lily",
