@@ -3086,6 +3086,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "myrelay",
+        "asn": "AS51396"
+    },
+    {
         "nickname": "terminaTOR",
         "asn": "AS8560"
     },
@@ -3672,10 +3676,6 @@
             "185.227.68.78"
         ],
         "asn": "AS206804"
-    },
-    {
-        "nickname": "tormetormetoryou",
-        "asn": "AS5089"
     },
     {
         "nickname": "UnredactedDrake",
@@ -7728,6 +7728,10 @@
     {
         "nickname": "aspen61",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "GoneTomorrow",
+        "asn": "AS61112"
     },
     {
         "nickname": "DFRI86",
@@ -13102,6 +13106,9 @@
     },
     {
         "nickname": "peaknight712",
+        "exit_address": [
+            "209.250.228.226"
+        ],
         "asn": "AS20473"
     },
     {
@@ -15257,6 +15264,10 @@
         "asn": "AS152565"
     },
     {
+        "nickname": "hotlousetruth",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -16663,6 +16674,9 @@
     },
     {
         "nickname": "CloudDia85",
+        "exit_address": [
+            "64.95.12.13"
+        ],
         "asn": "AS399629"
     },
     {
@@ -21563,6 +21577,10 @@
         "asn": "AS47066"
     },
     {
+        "nickname": "AspenNat82",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "code9n",
         "asn": "AS8560"
     },
@@ -25046,9 +25064,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -46577,9 +46592,6 @@
     },
     {
         "nickname": "FromHellWithLove",
-        "exit_address": [
-            "89.125.255.102"
-        ],
         "asn": "AS212477"
     },
     {
@@ -50698,6 +50710,10 @@
     {
         "nickname": "Killix",
         "asn": "AS49808"
+    },
+    {
+        "nickname": "HyperlaserRelay",
+        "asn": "AS41745"
     },
     {
         "nickname": "lw",
