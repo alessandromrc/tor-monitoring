@@ -8786,7 +8786,8 @@
     {
         "nickname": "thealgorithm",
         "exit_address": [
-            "82.197.182.161"
+            "82.197.182.161",
+            "84.74.242.24"
         ],
         "asn": "AS13030"
     },
@@ -9076,9 +9077,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.11.111"
-        ],
         "asn": "AS53667"
     },
     {
@@ -10797,6 +10795,9 @@
     },
     {
         "nickname": "GuruKopi",
+        "exit_address": [
+            "118.163.74.160"
+        ],
         "asn": "AS3462"
     },
     {
@@ -12036,9 +12037,6 @@
     },
     {
         "nickname": "torexitams26",
-        "exit_address": [
-            "45.66.35.46"
-        ],
         "asn": "AS61125"
     },
     {
@@ -25486,10 +25484,6 @@
     {
         "nickname": "ParadiseTorRelay3",
         "asn": "AS42675"
-    },
-    {
-        "nickname": "Damnation",
-        "asn": "AS23655"
     },
     {
         "nickname": "imJohnson",
@@ -46750,6 +46744,10 @@
         "asn": "AS16125"
     },
     {
+        "nickname": "Submaro",
+        "asn": "AS2527"
+    },
+    {
         "nickname": "slickrick",
         "asn": "AS36849"
     },
@@ -46871,6 +46869,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
