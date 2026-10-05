@@ -329,6 +329,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -717,9 +720,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.8.226"
-        ],
         "asn": "AS53667"
     },
     {
@@ -3704,10 +3704,6 @@
         "asn": "AS40663"
     },
     {
-        "nickname": "myRelay1",
-        "asn": "AS262391"
-    },
-    {
         "nickname": "BSDrelay09",
         "asn": "AS53667"
     },
@@ -4594,9 +4590,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.244.72.132"
-        ],
         "asn": "AS53667"
     },
     {
@@ -12611,6 +12604,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "NordikHosting",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "tor106",
         "asn": "AS214366"
     },
@@ -14523,9 +14520,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.102.93"
-        ],
         "asn": "AS197540"
     },
     {
@@ -16316,9 +16310,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.1.9"
-        ],
         "asn": "AS53667"
     },
     {
@@ -18326,9 +18317,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.183.157.214"
-        ],
         "asn": "AS197540"
     },
     {
@@ -19736,9 +19724,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.244.79.61"
-        ],
         "asn": "AS53667"
     },
     {
@@ -22442,9 +22427,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.95.169.32"
-        ],
         "asn": "AS211619"
     },
     {
@@ -25498,8 +25480,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.223",
-            "198.167.206.229"
+            "198.167.206.223"
         ],
         "asn": "AS39287"
     },
@@ -26424,9 +26405,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.14.4"
-        ],
         "asn": "AS53667"
     },
     {
@@ -26940,9 +26918,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "45.95.169.104"
-        ],
         "asn": "AS211619"
     },
     {
@@ -32383,9 +32358,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.244.79.44"
-        ],
         "asn": "AS53667"
     },
     {
@@ -34013,9 +33985,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "5.45.104.176"
-        ],
         "asn": "AS197540"
     },
     {
@@ -34070,9 +34039,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "46.250.243.29"
-        ],
         "asn": "AS141995"
     },
     {
@@ -35264,9 +35230,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "185.244.192.175"
-        ],
         "asn": "AS197540"
     },
     {
@@ -36147,9 +36110,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.244.79.61"
-        ],
         "asn": "AS53667"
     },
     {
@@ -39592,9 +39552,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "199.195.251.119"
-        ],
         "asn": "AS53667"
     },
     {
@@ -42912,6 +42869,9 @@
     },
     {
         "nickname": "6191910807813824",
+        "exit_address": [
+            "150.40.127.22"
+        ],
         "asn": "AS211619"
     },
     {
@@ -44318,9 +44278,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.10.175"
-        ],
         "asn": "AS53667"
     },
     {
@@ -46073,7 +46030,7 @@
         "asn": "AS1257"
     },
     {
-        "nickname": "NordikHosting",
+        "nickname": "NordikDev",
         "asn": "AS24940"
     },
     {
@@ -47661,9 +47618,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "107.189.14.4"
-        ],
         "asn": "AS53667"
     },
     {
@@ -49628,9 +49582,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "104.244.72.132"
-        ],
         "asn": "AS53667"
     },
     {
@@ -49723,9 +49674,6 @@
     },
     {
         "nickname": "MoksedurRahman",
-        "exit_address": [
-            "103.166.187.253"
-        ],
         "asn": "AS137967"
     },
     {
