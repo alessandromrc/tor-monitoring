@@ -1094,10 +1094,6 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "2mplas3",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "3822mNesthorn",
         "asn": "AS29222"
     },
@@ -10117,10 +10113,6 @@
         "asn": "AS52048"
     },
     {
-        "nickname": "NamilyRelay",
-        "asn": "AS215590"
-    },
-    {
         "nickname": "grafh",
         "asn": "AS36849"
     },
@@ -18171,10 +18163,6 @@
     {
         "nickname": "FloTheDev",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "depravedpacifier",
-        "asn": "AS3215"
     },
     {
         "nickname": "Unnamed",
@@ -50820,6 +50808,9 @@
     },
     {
         "nickname": "4715",
+        "exit_address": [
+            "104.244.73.136"
+        ],
         "asn": "AS53667"
     },
     {
