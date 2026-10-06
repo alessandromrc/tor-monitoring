@@ -12754,9 +12754,6 @@
     },
     {
         "nickname": "NotMyRelay",
-        "exit_address": [
-            "86.107.168.123"
-        ],
         "asn": "AS26832"
     },
     {
@@ -13561,6 +13558,10 @@
     {
         "nickname": "TV1907",
         "asn": "AS701"
+    },
+    {
+        "nickname": "blazeriver261",
+        "asn": "AS20473"
     },
     {
         "nickname": "whyza1",
@@ -15019,6 +15020,9 @@
     },
     {
         "nickname": "samcollins1985",
+        "exit_address": [
+            "149.248.79.248"
+        ],
         "asn": "AS399629"
     },
     {
@@ -18168,10 +18172,6 @@
         "asn": "AS11776"
     },
     {
-        "nickname": "Gabriel0GGR",
-        "asn": "AS26599"
-    },
-    {
         "nickname": "anduinExit01",
         "exit_address": [
             "185.42.170.203"
@@ -18195,9 +18195,6 @@
     },
     {
         "nickname": "youdontknowwhoiam",
-        "exit_address": [
-            "193.218.118.128"
-        ],
         "asn": "AS207656"
     },
     {
@@ -35174,9 +35171,6 @@
     },
     {
         "nickname": "FromHellWithLove",
-        "exit_address": [
-            "89.125.66.31"
-        ],
         "asn": "AS212477"
     },
     {
@@ -40737,9 +40731,6 @@
     },
     {
         "nickname": "BringBackSilkRo",
-        "exit_address": [
-            "141.98.11.62"
-        ],
         "asn": "AS209605"
     },
     {
@@ -42436,9 +42427,6 @@
     },
     {
         "nickname": "FromHellWithLove",
-        "exit_address": [
-            "162.35.242.250"
-        ],
         "asn": "AS212477"
     },
     {
@@ -47638,6 +47626,9 @@
     },
     {
         "nickname": "PinePau87",
+        "exit_address": [
+            "66.42.98.90"
+        ],
         "asn": "AS20473"
     },
     {
