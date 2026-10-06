@@ -14347,10 +14347,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "Cryptobot7",
         "asn": "AS44901"
     },
@@ -31629,6 +31625,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Torticolis",
+        "asn": "AS51269"
+    },
+    {
         "nickname": "Iheartbacon",
         "asn": "AS399820"
     },
@@ -35621,10 +35621,6 @@
         "asn": "AS48014"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "viaTOR",
         "asn": "AS31898"
     },
@@ -39472,6 +39468,9 @@
     },
     {
         "nickname": "dismal",
+        "exit_address": [
+            "150.40.117.43"
+        ],
         "asn": "AS0"
     },
     {
