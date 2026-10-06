@@ -1964,9 +1964,6 @@
     },
     {
         "nickname": "NotMyRelay",
-        "exit_address": [
-            "78.17.93.150"
-        ],
         "asn": "AS26832"
     },
     {
@@ -7082,10 +7079,6 @@
         "asn": "AS33705"
     },
     {
-        "nickname": "commufa",
-        "asn": "AS18126"
-    },
-    {
         "nickname": "TK778",
         "asn": "AS29169"
     },
@@ -10264,10 +10257,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "GermanCraft22",
-        "asn": "AS21336"
-    },
-    {
         "nickname": "DowntimePatrol1",
         "asn": "AS56655"
     },
@@ -12520,6 +12509,10 @@
     {
         "nickname": "bewilderbeest",
         "asn": "AS47066"
+    },
+    {
+        "nickname": "shekyltrc1",
+        "asn": "AS14061"
     },
     {
         "nickname": "DediRock2",
@@ -16855,10 +16848,6 @@
     {
         "nickname": "DontBeLarry",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "GermanCraft22",
-        "asn": "AS21336"
     },
     {
         "nickname": "void",
@@ -27250,6 +27239,9 @@
     },
     {
         "nickname": "DavidGree2",
+        "exit_address": [
+            "96.9.124.205"
+        ],
         "asn": "AS399629"
     },
     {
@@ -35002,7 +34994,7 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "Dell1555Relay",
+        "nickname": "TorRelay247",
         "asn": "AS8764"
     },
     {
@@ -37914,9 +37906,6 @@
     },
     {
         "nickname": "HelloWorld",
-        "exit_address": [
-            "78.17.70.247"
-        ],
         "asn": "AS212477"
     },
     {
@@ -47422,9 +47411,6 @@
     },
     {
         "nickname": "NotMyRelay",
-        "exit_address": [
-            "78.17.93.194"
-        ],
         "asn": "AS26832"
     },
     {
@@ -48150,6 +48136,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "OlgaStew5",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "MessyConf1g",
         "asn": "AS40021"
     },
@@ -48780,9 +48770,6 @@
     },
     {
         "nickname": "NotMyRelay",
-        "exit_address": [
-            "86.107.168.126"
-        ],
         "asn": "AS26832"
     },
     {
