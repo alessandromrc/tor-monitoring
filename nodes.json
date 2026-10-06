@@ -811,7 +811,7 @@
     },
     {
         "nickname": "myNiceRelay",
-        "asn": "AS208208"
+        "asn": "AS51202"
     },
     {
         "nickname": "Wildtwister",
@@ -26855,6 +26855,9 @@
     },
     {
         "nickname": "JamesMill1",
+        "exit_address": [
+            "149.28.100.184"
+        ],
         "asn": "AS20473"
     },
     {
@@ -28062,7 +28065,7 @@
     },
     {
         "nickname": "friedonions",
-        "asn": "AS2856"
+        "asn": "AS13285"
     },
     {
         "nickname": "ShardsOfNarsil",
@@ -39212,9 +39215,6 @@
     },
     {
         "nickname": "FromHellWithLove",
-        "exit_address": [
-            "89.125.187.188"
-        ],
         "asn": "AS212477"
     },
     {
@@ -44513,7 +44513,7 @@
     },
     {
         "nickname": "PresidentXi",
-        "asn": "AS208208"
+        "asn": "AS51202"
     },
     {
         "nickname": "cartwright",
@@ -45408,9 +45408,6 @@
     },
     {
         "nickname": "NotMyRelay",
-        "exit_address": [
-            "86.107.168.31"
-        ],
         "asn": "AS26832"
     },
     {
@@ -46431,7 +46428,7 @@
     },
     {
         "nickname": "toptor1",
-        "asn": "AS208208"
+        "asn": "AS51202"
     },
     {
         "nickname": "FAKER",
