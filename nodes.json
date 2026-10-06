@@ -313,10 +313,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "GermanCraft15",
-        "asn": "AS21336"
-    },
-    {
         "nickname": "DigiGesTor1e1",
         "exit_address": [
             "185.195.71.244"
@@ -4853,10 +4849,6 @@
     {
         "nickname": "tr33",
         "asn": "AS200303"
-    },
-    {
-        "nickname": "xmtx",
-        "asn": "AS12322"
     },
     {
         "nickname": "relayon0174",
@@ -20138,6 +20130,9 @@
     },
     {
         "nickname": "StormPet37",
+        "exit_address": [
+            "199.91.221.34"
+        ],
         "asn": "AS399629"
     },
     {
@@ -24248,6 +24243,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "StartOSRelay",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "DockerObfs4Bridge",
         "asn": "AS1257"
     },
@@ -26855,6 +26854,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "JamesMill1",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -27253,6 +27256,10 @@
     {
         "nickname": "mevolz2",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "DavidGree2",
+        "asn": "AS399629"
     },
     {
         "nickname": "renrpo26cellrecord",
@@ -32842,6 +32849,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "homesweethome",
+        "asn": "AS2856"
+    },
+    {
         "nickname": "vipertorrely1",
         "asn": "AS8560"
     },
@@ -32909,10 +32920,6 @@
     {
         "nickname": "AgentSmith",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "JustARelay1",
-        "asn": "AS1267"
     },
     {
         "nickname": "relayon0156",
@@ -44592,10 +44599,6 @@
     {
         "nickname": "cokezero",
         "asn": "AS47583"
-    },
-    {
-        "nickname": "RelayTR",
-        "asn": "AS209737"
     },
     {
         "nickname": "mekhiphifer",
