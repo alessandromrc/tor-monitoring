@@ -6126,6 +6126,9 @@
     },
     {
         "nickname": "CedarZoe57",
+        "exit_address": [
+            "66.42.112.124"
+        ],
         "asn": "AS20473"
     },
     {
@@ -7268,9 +7271,6 @@
     },
     {
         "nickname": "PRQseTORexit3",
-        "exit_address": [
-            "88.80.26.4"
-        ],
         "asn": "AS33837"
     },
     {
@@ -27766,6 +27766,10 @@
         "asn": "AS51852"
     },
     {
+        "nickname": "PeakNic71",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "ididnteditheconfig",
         "asn": "AS200462"
     },
@@ -38702,9 +38706,6 @@
     },
     {
         "nickname": "PRQseTORexit4",
-        "exit_address": [
-            "88.80.26.3"
-        ],
         "asn": "AS33837"
     },
     {
