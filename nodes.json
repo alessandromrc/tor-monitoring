@@ -4490,6 +4490,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "SwampRelay1",
+        "asn": "AS4609"
+    },
+    {
         "nickname": "fishnarc",
         "asn": "AS36849"
     },
@@ -14946,6 +14950,10 @@
             "46.232.251.191"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS16276"
     },
     {
         "nickname": "honeycomb",
@@ -31054,6 +31062,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "XeriRelay",
         "asn": "AS51167"
     },
@@ -32454,6 +32466,9 @@
     },
     {
         "nickname": "FlareKyl50",
+        "exit_address": [
+            "95.179.169.154"
+        ],
         "asn": "AS20473"
     },
     {
@@ -35287,6 +35302,10 @@
     {
         "nickname": "killermike",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "alex575",
+        "asn": "AS20473"
     },
     {
         "nickname": "Paphos",
