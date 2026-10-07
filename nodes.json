@@ -14383,6 +14383,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "cedarember541",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "tspx0",
         "asn": "AS36352"
     },
@@ -15134,6 +15138,9 @@
     },
     {
         "nickname": "john824",
+        "exit_address": [
+            "162.252.199.142"
+        ],
         "asn": "AS399629"
     },
     {
@@ -20345,6 +20352,10 @@
     {
         "nickname": "RussellHomeRelay",
         "asn": "AS3462"
+    },
+    {
+        "nickname": "anothertorrelay",
+        "asn": "AS3320"
     },
     {
         "nickname": "nixytor",
@@ -31800,6 +31811,10 @@
     {
         "nickname": "elhaeatlanta",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "OakBri76",
+        "asn": "AS20473"
     },
     {
         "nickname": "prsv",
@@ -46213,7 +46228,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
