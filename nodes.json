@@ -3565,6 +3565,9 @@
     },
     {
         "nickname": "SlugnetExitRelay01",
+        "exit_address": [
+            "23.137.253.113"
+        ],
         "asn": "AS40663"
     },
     {
@@ -21736,6 +21739,9 @@
     },
     {
         "nickname": "olga718",
+        "exit_address": [
+            "64.94.84.88"
+        ],
         "asn": "AS399629"
     },
     {
@@ -35113,10 +35119,6 @@
         "asn": "AS4766"
     },
     {
-        "nickname": "anonymoushippotamus",
-        "asn": "AS3223"
-    },
-    {
         "nickname": "SkyEarthWater38519",
         "asn": "AS20473"
     },
@@ -37450,6 +37452,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "MyTorRelay",
+        "asn": "AS1136"
+    },
+    {
         "nickname": "ThePlace",
         "asn": "AS60781"
     },
@@ -37541,6 +37547,10 @@
     {
         "nickname": "Esquie",
         "asn": "AS208226"
+    },
+    {
+        "nickname": "LionSar61",
+        "asn": "AS399629"
     },
     {
         "nickname": "TstrokeRelay",
