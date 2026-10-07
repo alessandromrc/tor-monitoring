@@ -8235,6 +8235,10 @@
         "asn": "AS212531"
     },
     {
+        "nickname": "OliviaMitc9",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "NTH115R7",
         "exit_address": [
             "192.42.116.115"
@@ -15770,6 +15774,10 @@
             "204.8.96.118"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "ididnteditheconfig",
+        "asn": "AS20473"
     },
     {
         "nickname": "DFRI24",
@@ -48529,6 +48537,9 @@
     },
     {
         "nickname": "SendMeSomeXMR",
+        "exit_address": [
+            "217.60.196.60"
+        ],
         "asn": "AS16276"
     },
     {
