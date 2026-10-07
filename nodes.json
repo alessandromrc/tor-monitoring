@@ -23570,10 +23570,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "anldrmsRelay",
-        "asn": "AS1403"
-    },
-    {
         "nickname": "tonybrown1986",
         "asn": "AS20473"
     },
@@ -30386,6 +30382,9 @@
     },
     {
         "nickname": "clan",
+        "exit_address": [
+            "205.185.123.93"
+        ],
         "asn": "AS53667"
     },
     {
@@ -38980,6 +38979,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -39152,6 +39154,9 @@
     },
     {
         "nickname": "2mplas",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -48740,7 +48745,7 @@
     },
     {
         "nickname": "thorion",
-        "asn": "AS197540"
+        "asn": "AS48314"
     },
     {
         "nickname": "BraveGiza",
