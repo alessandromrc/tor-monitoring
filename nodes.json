@@ -27526,10 +27526,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "NotMyRelay",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "as215248tor5b",
         "asn": "AS215248"
     },
@@ -28818,9 +28814,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "37.187.5.192"
-        ],
         "asn": "AS16276"
     },
     {
@@ -30386,6 +30379,10 @@
     {
         "nickname": "Trimblelink",
         "asn": "AS42708"
+    },
+    {
+        "nickname": "clan",
+        "asn": "AS53667"
     },
     {
         "nickname": "decicus",
