@@ -5780,6 +5780,10 @@
         "asn": "AS41075"
     },
     {
+        "nickname": "PouletNew2",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "luciousClay",
         "asn": "AS136052"
     },
@@ -13286,10 +13290,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "anion",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "FlashStag",
         "asn": "AS8254"
     },
@@ -16092,6 +16092,10 @@
             "192.42.116.143"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "PouletNew",
+        "asn": "AS197540"
     },
     {
         "nickname": "bluexile",
@@ -24586,10 +24590,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "2mpe2",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "QuintexAirVPN20",
         "exit_address": [
             "204.8.96.110"
@@ -32226,9 +32226,6 @@
     },
     {
         "nickname": "FlareKyl50",
-        "exit_address": [
-            "95.179.169.154"
-        ],
         "asn": "AS20473"
     },
     {
@@ -42850,9 +42847,6 @@
     },
     {
         "nickname": "foxstone653",
-        "exit_address": [
-            "96.9.125.114"
-        ],
         "asn": "AS399629"
     },
     {
@@ -47521,6 +47515,10 @@
     {
         "nickname": "benzomniac",
         "asn": "AS27823"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS1241"
     },
     {
         "nickname": "Hypervistor",
