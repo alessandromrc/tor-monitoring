@@ -2914,10 +2914,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "forest07",
         "asn": "AS26042"
     },
@@ -22384,9 +22380,6 @@
     },
     {
         "nickname": "distantwillow",
-        "exit_address": [
-            "91.206.169.22"
-        ],
         "asn": "AS210558"
     },
     {
@@ -37639,6 +37632,10 @@
     {
         "nickname": "lachrymator",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "apertures",
+        "asn": "AS35467"
     },
     {
         "nickname": "reallayer",
