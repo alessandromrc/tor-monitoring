@@ -1069,6 +1069,9 @@
     },
     {
         "nickname": "2mplas3",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -6145,10 +6148,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "CeibaNode",
-        "asn": "AS8151"
-    },
-    {
         "nickname": "Wolf359",
         "asn": "AS12989"
     },
@@ -10637,9 +10636,6 @@
     },
     {
         "nickname": "mcdonald",
-        "exit_address": [
-            "176.65.149.105"
-        ],
         "asn": "AS51396"
     },
     {
@@ -14521,10 +14517,6 @@
             "204.8.96.112"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "LegalDarkWeb",
-        "asn": "AS31898"
     },
     {
         "nickname": "Quintex134",
@@ -22332,9 +22324,6 @@
     },
     {
         "nickname": "Narcos",
-        "exit_address": [
-            "89.58.7.15"
-        ],
         "asn": "AS197540"
     },
     {
@@ -28030,6 +28019,10 @@
         "asn": "AS399629"
     },
     {
+        "nickname": "RayMondDrakonRelay",
+        "asn": "AS20845"
+    },
+    {
         "nickname": "haveyoueatentoday",
         "asn": "AS3301"
     },
@@ -31390,6 +31383,9 @@
     },
     {
         "nickname": "bepira",
+        "exit_address": [
+            "93.99.104.128"
+        ],
         "asn": "AS16019"
     },
     {
@@ -39030,6 +39026,9 @@
     },
     {
         "nickname": "2mplas",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -47223,10 +47222,6 @@
             "192.42.116.12"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "sux2succ1guess",
-        "asn": "AS1136"
     },
     {
         "nickname": "clubaura",
