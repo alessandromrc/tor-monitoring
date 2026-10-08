@@ -3676,6 +3676,10 @@
         "asn": "AS51765"
     },
     {
+        "nickname": "FEEDMESEYMOUR",
+        "asn": "AS59253"
+    },
+    {
         "nickname": "NTH61R4",
         "exit_address": [
             "192.42.116.61"
@@ -5512,10 +5516,6 @@
             "80.94.92.92"
         ],
         "asn": "AS47890"
-    },
-    {
-        "nickname": "MyTorRelayNode12345",
-        "asn": "AS41745"
     },
     {
         "nickname": "FreedomFries2",
@@ -11400,6 +11400,10 @@
     {
         "nickname": "mevolz2",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Pasquino3",
+        "asn": "AS10929"
     },
     {
         "nickname": "theTorDoor",
@@ -21547,7 +21551,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor5",
+        "nickname": "as214958tor4",
         "asn": "AS8283"
     },
     {
@@ -26004,10 +26008,6 @@
     {
         "nickname": "clara",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "Asgard",
-        "asn": "AS9009"
     },
     {
         "nickname": "prsv",
