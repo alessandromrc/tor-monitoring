@@ -585,9 +585,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.84.107.200"
-        ],
         "asn": "AS214503"
     },
     {
@@ -3508,6 +3505,10 @@
     {
         "nickname": "cham",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "GaziRelayTOR",
+        "asn": "AS215467"
     },
     {
         "nickname": "BunkTorRelay",
@@ -9854,10 +9855,6 @@
     {
         "nickname": "mullbinde6",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "scruffy",
-        "asn": "AS25400"
     },
     {
         "nickname": "rza",
@@ -21551,7 +21548,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -24033,6 +24030,10 @@
     {
         "nickname": "StartOSRelay",
         "asn": "AS47583"
+    },
+    {
+        "nickname": "luma",
+        "asn": "AS36352"
     },
     {
         "nickname": "DockerObfs4Bridge",
