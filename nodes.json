@@ -1068,6 +1068,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "2mplas3",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "3822mNesthorn",
         "asn": "AS29222"
     },
@@ -3678,6 +3682,9 @@
     },
     {
         "nickname": "FEEDMESEYMOUR",
+        "exit_address": [
+            "23.111.15.127"
+        ],
         "asn": "AS59253"
     },
     {
@@ -18687,10 +18694,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "sh97NL101R",
-        "asn": "AS214668"
-    },
-    {
         "nickname": "kCvMa0Y6UJsKJoCw",
         "asn": "AS8560"
     },
@@ -22934,9 +22937,6 @@
     },
     {
         "nickname": "HelloWorld",
-        "exit_address": [
-            "78.17.71.61"
-        ],
         "asn": "AS212477"
     },
     {
@@ -23966,10 +23966,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "iamanickname",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "Quintex319",
         "exit_address": [
             "204.8.96.109"
@@ -24585,6 +24581,10 @@
             "192.42.116.101"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "2mpe2",
+        "asn": "AS53667"
     },
     {
         "nickname": "QuintexAirVPN20",
@@ -30726,9 +30726,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.84.107.200"
-        ],
         "asn": "AS214503"
     },
     {
@@ -36357,9 +36354,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.84.107.200"
-        ],
         "asn": "AS214503"
     },
     {
@@ -42853,9 +42847,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "45.84.107.200"
-        ],
         "asn": "AS214503"
     },
     {
@@ -43466,10 +43457,6 @@
     {
         "nickname": "ub4nix",
         "asn": "AS12322"
-    },
-    {
-        "nickname": "lukast",
-        "asn": "AS214668"
     },
     {
         "nickname": "torrelayG",
@@ -46202,7 +46189,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -46237,10 +46224,6 @@
             "204.8.96.83"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "lukast",
-        "asn": "AS214668"
     },
     {
         "nickname": "rexOVH",
@@ -48394,9 +48377,6 @@
     },
     {
         "nickname": "MoksedurRahman",
-        "exit_address": [
-            "103.166.187.253"
-        ],
         "asn": "AS137967"
     },
     {
