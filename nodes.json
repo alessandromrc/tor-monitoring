@@ -1905,7 +1905,7 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "BinoNode",
+        "nickname": "BinoSrv8",
         "asn": "AS214677"
     },
     {
@@ -3741,9 +3741,6 @@
     },
     {
         "nickname": "tony881",
-        "exit_address": [
-            "45.32.18.189"
-        ],
         "asn": "AS20473"
     },
     {
@@ -7054,9 +7051,6 @@
     },
     {
         "nickname": "foxbrook110",
-        "exit_address": [
-            "149.28.93.184"
-        ],
         "asn": "AS20473"
     },
     {
@@ -7877,9 +7871,6 @@
     },
     {
         "nickname": "MariaMill5",
-        "exit_address": [
-            "104.238.136.250"
-        ],
         "asn": "AS20473"
     },
     {
@@ -12051,9 +12042,6 @@
     },
     {
         "nickname": "FoxJam23",
-        "exit_address": [
-            "162.33.177.3"
-        ],
         "asn": "AS399629"
     },
     {
@@ -12563,6 +12551,10 @@
             "192.42.116.66"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "PiholeRelay",
+        "asn": "AS7018"
     },
     {
         "nickname": "NTH76R1",
@@ -13216,10 +13208,6 @@
     {
         "nickname": "BaselStadt",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "mcjLinodeRelay",
-        "asn": "AS63949"
     },
     {
         "nickname": "priceisright",
@@ -30999,6 +30987,10 @@
     {
         "nickname": "lazerlondon",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "BinoSrv6",
+        "asn": "AS214677"
     },
     {
         "nickname": "lunar8",
