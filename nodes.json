@@ -13829,6 +13829,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "LottesTorRelay",
+        "asn": "AS207295"
+    },
+    {
         "nickname": "PlayInTraffic",
         "asn": "AS210558"
     },
@@ -15879,6 +15883,10 @@
             "171.25.193.20"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "StartOSRelay",
+        "asn": "AS12876"
     },
     {
         "nickname": "agnese",
@@ -26444,6 +26452,9 @@
     },
     {
         "nickname": "Aramis",
+        "exit_address": [
+            "45.83.104.137"
+        ],
         "asn": "AS197540"
     },
     {
@@ -40854,6 +40865,10 @@
     {
         "nickname": "HappyToServeYou04",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "MatrixUsaRelay",
+        "asn": "AS22295"
     },
     {
         "nickname": "Atomirotta",
