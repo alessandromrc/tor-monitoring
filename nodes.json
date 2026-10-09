@@ -5796,6 +5796,10 @@
         "asn": "AS41075"
     },
     {
+        "nickname": "dailydoodle",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "PouletNew2",
         "asn": "AS197540"
     },
@@ -9868,6 +9872,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "scruffy",
+        "asn": "AS25400"
+    },
+    {
         "nickname": "rza",
         "asn": "AS36849"
     },
@@ -10208,10 +10216,6 @@
     {
         "nickname": "famousoceans",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "FuckPutin",
-        "asn": "AS16276"
     },
     {
         "nickname": "ygtut",
@@ -12189,10 +12193,6 @@
     {
         "nickname": "rarelotus",
         "asn": "AS48900"
-    },
-    {
-        "nickname": "Mercybags",
-        "asn": "AS14061"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17803,6 +17803,9 @@
     },
     {
         "nickname": "turnt",
+        "exit_address": [
+            "82.221.131.71"
+        ],
         "asn": "AS50613"
     },
     {
@@ -27402,6 +27405,9 @@
     },
     {
         "nickname": "gfguihgrudifhguih",
+        "exit_address": [
+            "185.11.139.198"
+        ],
         "asn": "AS48823"
     },
     {
@@ -28937,6 +28943,10 @@
     {
         "nickname": "Victory",
         "asn": "AS208226"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS16276"
     },
     {
         "nickname": "TorIzNice",
