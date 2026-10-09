@@ -10609,6 +10609,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "TheRelay",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "mevolz2",
         "asn": "AS24940"
     },
@@ -12446,10 +12450,6 @@
         "asn": "AS42730"
     },
     {
-        "nickname": "FUTURISTA",
-        "asn": "AS57896"
-    },
-    {
         "nickname": "muddybits",
         "asn": "AS16276"
     },
@@ -13002,9 +13002,6 @@
     },
     {
         "nickname": "pangea06",
-        "exit_address": [
-            "46.167.244.241"
-        ],
         "asn": "AS16019"
     },
     {
@@ -38823,6 +38820,9 @@
     },
     {
         "nickname": "classicnode100",
+        "exit_address": [
+            "201.10.73.194"
+        ],
         "asn": "AS213877"
     },
     {
@@ -46148,7 +46148,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
