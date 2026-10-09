@@ -898,6 +898,9 @@
     },
     {
         "nickname": "TorDola3",
+        "exit_address": [
+            "185.56.83.9"
+        ],
         "asn": "AS211720"
     },
     {
@@ -2417,6 +2420,9 @@
     },
     {
         "nickname": "TorDola",
+        "exit_address": [
+            "185.56.83.7"
+        ],
         "asn": "AS211720"
     },
     {
@@ -5496,6 +5502,9 @@
     },
     {
         "nickname": "TorDola4",
+        "exit_address": [
+            "185.56.83.10"
+        ],
         "asn": "AS211720"
     },
     {
@@ -6222,7 +6231,7 @@
     },
     {
         "nickname": "OnionSisterAshley",
-        "asn": "AS11878"
+        "asn": "AS23470"
     },
     {
         "nickname": "fuchs4",
@@ -7993,10 +8002,6 @@
     {
         "nickname": "araabmuzik",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "privatebrowsingorg",
-        "asn": "AS53667"
     },
     {
         "nickname": "Born2BeBad",
@@ -15896,10 +15901,6 @@
     {
         "nickname": "sparky",
         "asn": "AS25697"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS20473"
     },
     {
         "nickname": "Quintex306",
@@ -24784,6 +24785,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.151",
             "198.167.206.175"
         ],
         "asn": "AS39287"
@@ -39905,6 +39907,9 @@
     },
     {
         "nickname": "TorDola2",
+        "exit_address": [
+            "185.56.83.8"
+        ],
         "asn": "AS211720"
     },
     {
