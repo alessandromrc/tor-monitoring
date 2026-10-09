@@ -1434,6 +1434,10 @@
         "asn": "AS205100"
     },
     {
+        "nickname": "Timex048",
+        "asn": "AS22773"
+    },
+    {
         "nickname": "diffie",
         "exit_address": [
             "23.129.64.154"
@@ -8216,6 +8220,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "haruto",
+        "asn": "AS215659"
+    },
+    {
         "nickname": "AnotherTorNode1202",
         "asn": "AS197540"
     },
@@ -8453,10 +8461,6 @@
     {
         "nickname": "paulnelson1968",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "relay6",
-        "asn": "AS9299"
     },
     {
         "nickname": "Quintex332",
@@ -11639,6 +11643,9 @@
     },
     {
         "nickname": "torexitams26",
+        "exit_address": [
+            "45.66.35.46"
+        ],
         "asn": "AS61125"
     },
     {
@@ -25207,6 +25214,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Perseverance",
+        "asn": "AS35592"
+    },
+    {
         "nickname": "when",
         "asn": "AS16276"
     },
@@ -25552,6 +25563,10 @@
             "192.42.116.53"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Determination",
+        "asn": "AS35592"
     },
     {
         "nickname": "Quintex574",
@@ -25926,6 +25941,10 @@
     {
         "nickname": "StatenEiwit",
         "asn": "AS57043"
+    },
+    {
+        "nickname": "forest55",
+        "asn": "AS49592"
     },
     {
         "nickname": "NTH107R2",
@@ -35352,10 +35371,6 @@
     {
         "nickname": "grimmloc",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "relay5",
-        "asn": "AS9299"
     },
     {
         "nickname": "TorSL",
