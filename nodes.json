@@ -4754,9 +4754,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -6878,6 +6875,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "AGA43",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -7945,10 +7946,6 @@
             "204.8.96.176"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "BulkyRelay1",
-        "asn": "AS6128"
     },
     {
         "nickname": "fuckedopspain",
@@ -10535,9 +10532,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -16940,10 +16934,6 @@
             "185.129.61.4"
         ],
         "asn": "AS210731"
-    },
-    {
-        "nickname": "M4ri0",
-        "asn": "AS23470"
     },
     {
         "nickname": "artikel10ber90",
@@ -26525,9 +26515,6 @@
     },
     {
         "nickname": "Aramis",
-        "exit_address": [
-            "45.83.104.137"
-        ],
         "asn": "AS197540"
     },
     {
@@ -35158,6 +35145,10 @@
     {
         "nickname": "blovee",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "simpletorrelay",
+        "asn": "AS6805"
     },
     {
         "nickname": "haystakwhitetrash",
@@ -45694,6 +45685,10 @@
         "asn": "AS7203"
     },
     {
+        "nickname": "hydroxide",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "QuintexAirVPN3",
         "exit_address": [
             "204.8.96.119"
@@ -48356,6 +48351,9 @@
     },
     {
         "nickname": "MoksedurRahman",
+        "exit_address": [
+            "103.166.187.253"
+        ],
         "asn": "AS137967"
     },
     {
