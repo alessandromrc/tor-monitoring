@@ -1887,10 +1887,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "GuardiansOfGalaxy",
-        "asn": "AS400587"
-    },
-    {
         "nickname": "TorHet3",
         "asn": "AS24940"
     },
@@ -4070,6 +4066,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "NimbleThistle76",
+        "asn": "AS5410"
     },
     {
         "nickname": "AlexGraywood",
@@ -22653,8 +22653,7 @@
     {
         "nickname": "sabotage",
         "exit_address": [
-            "45.66.35.13",
-            "45.66.35.35"
+            "45.66.35.13"
         ],
         "asn": "AS61125"
     },
@@ -28918,6 +28917,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "SwiftHeron37",
+        "asn": "AS21409"
+    },
+    {
         "nickname": "Quintex314",
         "exit_address": [
             "204.8.96.104"
@@ -33041,8 +33044,7 @@
     {
         "nickname": "torexitams15",
         "exit_address": [
-            "45.66.35.35",
-            "45.66.35.62"
+            "45.66.35.35"
         ],
         "asn": "AS61125"
     },
@@ -41924,6 +41926,9 @@
     },
     {
         "nickname": "ExitFromPL4Me",
+        "exit_address": [
+            "13.143.167.5"
+        ],
         "asn": "AS201988"
     },
     {
@@ -45060,10 +45065,6 @@
     {
         "nickname": "tengu",
         "asn": "AS852"
-    },
-    {
-        "nickname": "getrelayedon02",
-        "asn": "AS31898"
     },
     {
         "nickname": "router",
