@@ -3085,6 +3085,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "user1",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "nbrelay1",
         "exit_address": [
             "45.9.168.93"
@@ -9038,10 +9042,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "Hyperion",
-        "asn": "AS211619"
-    },
-    {
         "nickname": "torexitams08",
         "exit_address": [
             "45.66.35.28"
@@ -9515,6 +9515,10 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "TorDola1",
+        "asn": "AS211720"
     },
     {
         "nickname": "BrightDarknetBeacon",
@@ -11624,9 +11628,6 @@
     },
     {
         "nickname": "tidolindo3",
-        "exit_address": [
-            "185.117.250.97"
-        ],
         "asn": "AS8648"
     },
     {
@@ -15641,6 +15642,10 @@
     {
         "nickname": "crimemob",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "DollyParted",
+        "asn": "AS60117"
     },
     {
         "nickname": "artikel5ev13c",
@@ -20442,6 +20447,9 @@
     },
     {
         "nickname": "torexitams24a",
+        "exit_address": [
+            "45.66.35.44"
+        ],
         "asn": "AS61125"
     },
     {
@@ -32267,6 +32275,10 @@
         "asn": "AS16019"
     },
     {
+        "nickname": "vpnhub1",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS16276"
     },
@@ -37092,9 +37104,6 @@
     },
     {
         "nickname": "tidolindo2",
-        "exit_address": [
-            "185.117.250.245"
-        ],
         "asn": "AS8648"
     },
     {
@@ -43123,6 +43132,9 @@
     },
     {
         "nickname": "torexitams25a",
+        "exit_address": [
+            "45.66.35.45"
+        ],
         "asn": "AS61125"
     },
     {
@@ -44760,6 +44772,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "keepRelay",
+        "asn": "AS22612"
+    },
+    {
         "nickname": "DFRI34",
         "exit_address": [
             "171.25.193.20"
@@ -45494,9 +45510,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -47586,6 +47599,10 @@
             "185.220.101.187"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS7545"
     },
     {
         "nickname": "zer0bitz",
