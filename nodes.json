@@ -896,10 +896,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS6167"
-    },
-    {
         "nickname": "SmolNode1",
         "asn": "AS197540"
     },
@@ -18606,6 +18602,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "KtorRelay",
+        "asn": "AS23969"
+    },
+    {
         "nickname": "NTH97R7",
         "exit_address": [
             "192.42.116.97"
@@ -18622,6 +18622,9 @@
     },
     {
         "nickname": "torexitams05",
+        "exit_address": [
+            "45.66.35.25"
+        ],
         "asn": "AS61125"
     },
     {
@@ -32665,6 +32668,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "forest33",
+        "asn": "AS214481"
+    },
+    {
         "nickname": "NTH53R2",
         "exit_address": [
             "192.42.116.53"
@@ -36539,10 +36546,6 @@
             "176.65.134.8"
         ],
         "asn": "AS51396"
-    },
-    {
-        "nickname": "as214958tor4",
-        "asn": "AS8283"
     },
     {
         "nickname": "NTH51R3",
