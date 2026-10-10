@@ -5872,6 +5872,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "bytebybyte3319",
+        "asn": "AS701"
+    },
+    {
         "nickname": "forest48",
         "asn": "AS26383"
     },
@@ -12903,6 +12907,9 @@
     },
     {
         "nickname": "MaxKoTor92",
+        "exit_address": [
+            "45.9.168.92"
+        ],
         "asn": "AS211619"
     },
     {
@@ -15648,6 +15655,9 @@
     },
     {
         "nickname": "DollyParted",
+        "exit_address": [
+            "194.36.190.112"
+        ],
         "asn": "AS60117"
     },
     {
@@ -17857,7 +17867,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "senequerelay",
+        "nickname": "KallimaRelay",
         "asn": "AS577"
     },
     {
@@ -24182,10 +24192,6 @@
     {
         "nickname": "NTH85R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "ninjaturtle",
-        "asn": "AS60781"
     },
     {
         "nickname": "theTorDoor",
@@ -31606,6 +31612,9 @@
     },
     {
         "nickname": "MaxKoTor69",
+        "exit_address": [
+            "45.9.168.69"
+        ],
         "asn": "AS211619"
     },
     {
@@ -32571,6 +32580,9 @@
     },
     {
         "nickname": "MaxKoTor62",
+        "exit_address": [
+            "45.9.168.62"
+        ],
         "asn": "AS211619"
     },
     {
