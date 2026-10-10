@@ -5446,10 +5446,6 @@
         "asn": "AS6181"
     },
     {
-        "nickname": "agronomicsmini",
-        "asn": "AS1759"
-    },
-    {
         "nickname": "NTH305R4",
         "asn": "AS8283"
     },
@@ -6606,6 +6602,10 @@
     {
         "nickname": "menhera2c",
         "asn": "AS63806"
+    },
+    {
+        "nickname": "DietPiMiddle",
+        "asn": "AS6128"
     },
     {
         "nickname": "tamanegi",
@@ -23914,7 +23914,7 @@
     },
     {
         "nickname": "OptiHolo",
-        "asn": "AS6805"
+        "asn": "AS13101"
     },
     {
         "nickname": "CiiiTor",
@@ -41426,10 +41426,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "magalien",
-        "asn": "AS701"
-    },
-    {
         "nickname": "as215248tor3b",
         "asn": "AS215248"
     },
@@ -41917,6 +41913,10 @@
     {
         "nickname": "Quetzalcoatl",
         "asn": "AS141995"
+    },
+    {
+        "nickname": "ExitFromPL4Me",
+        "asn": "AS201988"
     },
     {
         "nickname": "LastDragonRelay",
@@ -48269,6 +48269,9 @@
     },
     {
         "nickname": "MoksedurRahman",
+        "exit_address": [
+            "103.166.187.253"
+        ],
         "asn": "AS137967"
     },
     {
