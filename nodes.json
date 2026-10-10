@@ -6433,10 +6433,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "NinjaOrior",
-        "asn": "AS399486"
-    },
-    {
         "nickname": "Leitungssprenger",
         "asn": "AS13030"
     },
@@ -7008,6 +7004,10 @@
     {
         "nickname": "devvulNY",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "SpartacusRelay01",
+        "asn": "AS3269"
     },
     {
         "nickname": "sh97US103R",
@@ -16178,10 +16178,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS1241"
-    },
-    {
         "nickname": "CyberSecuritySG",
         "exit_address": [
             "43.228.157.121"
@@ -24147,9 +24143,6 @@
     },
     {
         "nickname": "NadekoNet",
-        "exit_address": [
-            "95.135.208.24"
-        ],
         "asn": "AS214677"
     },
     {
@@ -24756,7 +24749,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.151"
+            "198.167.206.151",
+            "198.167.206.251"
         ],
         "asn": "AS39287"
     },
@@ -39813,6 +39807,10 @@
     {
         "nickname": "freewayphilly",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "FiloubumbumRelay",
+        "asn": "AS13030"
     },
     {
         "nickname": "fabod4l",
