@@ -6173,6 +6173,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "CeibaNode",
+        "asn": "AS8151"
+    },
+    {
         "nickname": "Wolf359",
         "asn": "AS12989"
     },
@@ -6667,6 +6671,10 @@
     {
         "nickname": "allTheSaints",
         "asn": "AS5089"
+    },
+    {
+        "nickname": "BinoSrv7",
+        "asn": "AS214677"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -17645,9 +17653,6 @@
     },
     {
         "nickname": "fabledview",
-        "exit_address": [
-            "212.73.134.204"
-        ],
         "asn": "AS34224"
     },
     {
@@ -24817,9 +24822,6 @@
     },
     {
         "nickname": "1135063853886489",
-        "exit_address": [
-            "185.132.53.11"
-        ],
         "asn": "AS211507"
     },
     {
@@ -29383,10 +29385,6 @@
     {
         "nickname": "DogeRelay2",
         "asn": "AS701"
-    },
-    {
-        "nickname": "Irelandbbb",
-        "asn": "AS5089"
     },
     {
         "nickname": "kendricklamar",
@@ -34246,6 +34244,10 @@
             "204.8.96.111"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "relay00",
+        "asn": "AS197540"
     },
     {
         "nickname": "TARDIS42",
