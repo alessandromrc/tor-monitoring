@@ -7556,10 +7556,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS6821"
-    },
-    {
         "nickname": "BurnRubbah",
         "exit_address": [
             "185.154.110.16"
@@ -9518,6 +9514,9 @@
     },
     {
         "nickname": "TorDola1",
+        "exit_address": [
+            "185.56.83.11"
+        ],
         "asn": "AS211720"
     },
     {
@@ -37917,7 +37916,7 @@
     },
     {
         "nickname": "MainMaldiranCom",
-        "asn": "AS42763"
+        "asn": "AS29167"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -40457,10 +40456,6 @@
     {
         "nickname": "DemonsysSEA",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "OrangeSGRelay1",
-        "asn": "AS134677"
     },
     {
         "nickname": "coffeeismtf",
@@ -48608,9 +48603,6 @@
     },
     {
         "nickname": "dismal",
-        "exit_address": [
-            "95.155.151.167"
-        ],
         "asn": "AS40662"
     },
     {
