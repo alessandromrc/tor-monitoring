@@ -5137,6 +5137,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "trotzigundfrei2026",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "SlimTor",
         "asn": "AS42652"
     },
@@ -11086,6 +11090,9 @@
     },
     {
         "nickname": "VirLineTor",
+        "exit_address": [
+            "158.94.211.57"
+        ],
         "asn": "AS202412"
     },
     {
@@ -46750,10 +46757,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "RADIOALBLASSERDAM",
-        "asn": "AS50266"
-    },
-    {
         "nickname": "moxie",
         "exit_address": [
             "23.129.64.144"
@@ -48311,9 +48314,6 @@
     },
     {
         "nickname": "SendMeSomeXMR",
-        "exit_address": [
-            "217.60.196.60"
-        ],
         "asn": "AS16276"
     },
     {
