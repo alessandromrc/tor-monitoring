@@ -2070,10 +2070,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "jiggy",
-        "asn": "AS136258"
-    },
-    {
         "nickname": "eo222",
         "exit_address": [
             "23.129.64.222"
@@ -20562,6 +20558,9 @@
     },
     {
         "nickname": "khikhi",
+        "exit_address": [
+            "188.226.192.107"
+        ],
         "asn": "AS14061"
     },
     {
@@ -39612,6 +39611,10 @@
             "37.228.129.162"
         ],
         "asn": "AS200651"
+    },
+    {
+        "nickname": "Polska",
+        "asn": "AS51290"
     },
     {
         "nickname": "NTH100R4",
