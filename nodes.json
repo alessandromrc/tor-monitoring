@@ -1762,10 +1762,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "forcetpu",
-        "asn": "AS16086"
-    },
-    {
         "nickname": "2mpe",
         "asn": "AS53667"
     },
@@ -24734,7 +24730,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.151",
             "198.167.206.251"
         ],
         "asn": "AS39287"
@@ -26175,6 +26170,10 @@
     {
         "nickname": "puerierstab",
         "asn": "AS24961"
+    },
+    {
+        "nickname": "QuietLantern",
+        "asn": "AS4609"
     },
     {
         "nickname": "dreary",
@@ -40583,6 +40582,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS2033"
+    },
+    {
+        "nickname": "r3l4y69",
+        "asn": "AS200019"
     },
     {
         "nickname": "Relay01",
