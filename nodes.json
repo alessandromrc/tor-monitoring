@@ -1373,10 +1373,6 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "Satoshi",
-        "asn": "AS401933"
-    },
-    {
         "nickname": "TORKeFFORG37",
         "exit_address": [
             "193.189.100.204"
@@ -17431,6 +17427,10 @@
         "asn": "AS8339"
     },
     {
+        "nickname": "relay2",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "SmallTownHosting",
         "asn": "AS395673"
     },
@@ -24389,10 +24389,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "MassSurveillance",
-        "asn": "AS3301"
-    },
-    {
         "nickname": "logic301",
         "asn": "AS36849"
     },
@@ -29260,10 +29256,6 @@
     {
         "nickname": "HappyBits",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "3faxMiddleRellay",
-        "asn": "AS48926"
     },
     {
         "nickname": "AdrianSimo",
@@ -36541,10 +36533,6 @@
         "asn": "AS2611"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "hubert2themax",
         "exit_address": [
             "190.103.179.5"
@@ -40512,7 +40500,7 @@
     },
     {
         "nickname": "ShinobiKyuuryuu",
-        "asn": "AS63473"
+        "asn": "AS43969"
     },
     {
         "nickname": "3660mBluemlisalp",
@@ -48537,7 +48525,7 @@
     },
     {
         "nickname": "Senftokyo",
-        "asn": "AS63473"
+        "asn": "AS43969"
     },
     {
         "nickname": "PPSStudios",
