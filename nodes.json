@@ -18548,9 +18548,6 @@
     },
     {
         "nickname": "vandergriff",
-        "exit_address": [
-            "185.100.85.132"
-        ],
         "asn": "AS200651"
     },
     {
@@ -22675,6 +22672,10 @@
     {
         "nickname": "mistahfab",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "ifsnodede04",
+        "asn": "AS3320"
     },
     {
         "nickname": "op2",
@@ -37205,6 +37206,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "SlayerRelay",
+        "asn": "AS19901"
+    },
+    {
         "nickname": "fi2andersio",
         "asn": "AS24940"
     },
@@ -38607,6 +38612,10 @@
             "62.133.45.2"
         ],
         "asn": "AS9009"
+    },
+    {
+        "nickname": "ifsnodede03",
+        "asn": "AS197540"
     },
     {
         "nickname": "017700000001",
