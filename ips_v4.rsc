@@ -776,7 +776,7 @@
 /ip firewall address-list add list=tor_ipv4 address=172.104.147.139 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=204.8.96.156 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=46.23.108.252 comment="tor_ipv4/tor-monitoring"
-/ip firewall address-list add list=tor_ipv4 address=71.178.246.8 comment="tor_ipv4/tor-monitoring"
+/ip firewall address-list add list=tor_ipv4 address=173.66.220.147 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=64.65.1.33 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=82.66.109.102 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=204.76.203.203 comment="tor_ipv4/tor-monitoring"
