@@ -5931,10 +5931,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "dn3a",
-        "asn": "AS399646"
-    },
-    {
         "nickname": "gotorDe5",
         "asn": "AS24940"
     },
@@ -13288,10 +13284,6 @@
             "192.42.116.114"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "1hand4you4privacy",
-        "asn": "AS6724"
     },
     {
         "nickname": "wiccaphase",
@@ -22850,6 +22842,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "AsterionRelay",
+        "asn": "AS5410"
+    },
+    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.176"
@@ -31717,9 +31713,6 @@
     },
     {
         "nickname": "TheMadHackerExit",
-        "exit_address": [
-            "216.9.225.157"
-        ],
         "asn": "AS44382"
     },
     {
@@ -39622,6 +39615,9 @@
     },
     {
         "nickname": "Polska",
+        "exit_address": [
+            "31.133.0.122"
+        ],
         "asn": "AS51290"
     },
     {
@@ -48723,6 +48719,10 @@
     {
         "nickname": "1blu4DEicebeer01",
         "asn": "AS42730"
+    },
+    {
+        "nickname": "GEPhoenix",
+        "asn": "AS31898"
     },
     {
         "nickname": "letsdoitUK",
