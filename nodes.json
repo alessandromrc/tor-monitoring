@@ -685,10 +685,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "klaxhex",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "Nobby",
         "asn": "AS20857"
     },
@@ -10364,10 +10360,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS9318"
-    },
-    {
         "nickname": "blegit",
         "asn": "AS36849"
     },
@@ -14619,6 +14611,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "raxoni",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "asn": "AS36352"
     },
@@ -18644,6 +18640,10 @@
     {
         "nickname": "riseup",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "sudoMax",
+        "asn": "AS131160"
     },
     {
         "nickname": "wrzkt0787",
@@ -25137,10 +25137,6 @@
         "asn": "AS26286"
     },
     {
-        "nickname": "rainbowdaash2",
-        "asn": "AS51852"
-    },
-    {
         "nickname": "NTH67R3",
         "exit_address": [
             "192.42.116.67"
@@ -25924,6 +25920,10 @@
     {
         "nickname": "Torrrrrrr",
         "asn": "AS205714"
+    },
+    {
+        "nickname": "StartOSRelay",
+        "asn": "AS20473"
     },
     {
         "nickname": "Lawkeeper",
@@ -39288,10 +39288,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "renrpo26",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "taxburrow",
         "exit_address": [
             "185.193.52.180"
@@ -44095,9 +44091,6 @@
     },
     {
         "nickname": "TheMadHackerNodeV3",
-        "exit_address": [
-            "152.53.170.213"
-        ],
         "asn": "AS214996"
     },
     {
@@ -47608,7 +47601,7 @@
     },
     {
         "nickname": "StickyRelay99",
-        "asn": "AS199218"
+        "asn": "AS208172"
     },
     {
         "nickname": "bigmoe",
