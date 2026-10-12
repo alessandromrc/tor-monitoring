@@ -2546,10 +2546,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "Polyphemus",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "TheSecondRelay",
         "asn": "AS53667"
     },
@@ -8497,10 +8493,6 @@
         "asn": "AS59729"
     },
     {
-        "nickname": "Aramis",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "zgato",
         "asn": "AS22295"
     },
@@ -8716,10 +8708,6 @@
     {
         "nickname": "lowEndBox2",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "Polyphemus14",
-        "asn": "AS53667"
     },
     {
         "nickname": "Unzane",
@@ -15167,10 +15155,6 @@
     {
         "nickname": "Maverick",
         "asn": "AS202585"
-    },
-    {
-        "nickname": "Aramis",
-        "asn": "AS53667"
     },
     {
         "nickname": "NTH142R6",
@@ -23084,10 +23068,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "mbserver",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "Estevez4893",
         "exit_address": [
             "104.244.76.237"
@@ -26518,10 +26498,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Polyphemus16",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "bustarhymes",
         "asn": "AS36849"
     },
@@ -29724,10 +29700,6 @@
             "178.17.170.225"
         ],
         "asn": "AS43289"
-    },
-    {
-        "nickname": "Quetzalcoatl",
-        "asn": "AS36352"
     },
     {
         "nickname": "water",
@@ -38833,6 +38805,9 @@
     },
     {
         "nickname": "2mplas",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -40719,10 +40694,6 @@
     {
         "nickname": "NTH75R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Aramis",
-        "asn": "AS53667"
     },
     {
         "nickname": "NaviStatus",
@@ -45661,7 +45632,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "masstortestor",
+        "nickname": "masstorssla",
         "asn": "AS26042"
     },
     {
@@ -45996,6 +45967,10 @@
             "171.25.193.132"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "Bosazi",
+        "asn": "AS136258"
     },
     {
         "nickname": "eo220",
@@ -47837,10 +47812,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Quetzalcoatl",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Freebird31",
         "asn": "AS35366"
     },
@@ -49078,10 +49049,6 @@
             "185.220.101.38"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Polyphemus13",
-        "asn": "AS53667"
     },
     {
         "nickname": "artikel10ber84",
