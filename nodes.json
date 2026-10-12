@@ -18660,6 +18660,9 @@
     },
     {
         "nickname": "Exit01",
+        "exit_address": [
+            "43.131.2.16"
+        ],
         "asn": "AS132203"
     },
     {
@@ -21433,9 +21436,6 @@
     },
     {
         "nickname": "RedneckRocketSci",
-        "exit_address": [
-            "207.104.193.107"
-        ],
         "asn": "AS7018"
     },
     {
@@ -28820,6 +28820,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Desertmtts33",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -29708,6 +29712,10 @@
     {
         "nickname": "NTH305R6",
         "asn": "AS8283"
+    },
+    {
+        "nickname": "sudoToMax",
+        "asn": "AS131160"
     },
     {
         "nickname": "churros",
@@ -41448,6 +41456,10 @@
             "192.42.116.15"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "commufa",
+        "asn": "AS18126"
     },
     {
         "nickname": "Quintex518",
