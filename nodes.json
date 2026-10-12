@@ -1741,10 +1741,6 @@
         "asn": "AS36149"
     },
     {
-        "nickname": "8lyWARGTU4wesrfy8i",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "chompski01",
         "asn": "AS6315"
     },
@@ -16862,6 +16858,10 @@
         "asn": "AS7922"
     },
     {
+        "nickname": "crazy8s",
+        "asn": "AS213354"
+    },
+    {
         "nickname": "SmallTownHosting",
         "asn": "AS395673"
     },
@@ -17955,6 +17955,9 @@
     },
     {
         "nickname": "vandergriff",
+        "exit_address": [
+            "185.100.85.132"
+        ],
         "asn": "AS200651"
     },
     {
@@ -30780,6 +30783,10 @@
         "asn": "AS29075"
     },
     {
+        "nickname": "crazy8s",
+        "asn": "AS213354"
+    },
+    {
         "nickname": "scrat",
         "asn": "AS3320"
     },
@@ -32243,6 +32250,10 @@
     {
         "nickname": "NetMonNetworksUK4",
         "asn": "AS5089"
+    },
+    {
+        "nickname": "crazy8s",
+        "asn": "AS213354"
     },
     {
         "nickname": "prsv",
@@ -35816,6 +35827,10 @@
     {
         "nickname": "BSDrelay10",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "ifsnodede04",
+        "asn": "AS3320"
     },
     {
         "nickname": "ltgk",
@@ -40159,6 +40174,10 @@
         "asn": "AS206170"
     },
     {
+        "nickname": "DaFonzRelay",
+        "asn": "AS7122"
+    },
+    {
         "nickname": "QuintexAirVPN28",
         "exit_address": [
             "204.8.96.81"
@@ -42201,6 +42220,9 @@
     },
     {
         "nickname": "Chupacabre",
+        "exit_address": [
+            "212.69.167.80"
+        ],
         "asn": "AS8218"
     },
     {
