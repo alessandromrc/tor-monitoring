@@ -3818,6 +3818,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "fiberblittverdstena",
+        "asn": "AS202422"
+    },
+    {
         "nickname": "DJh2o2Entry",
         "asn": "AS3209"
     },
@@ -7909,6 +7913,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "BulkyRelay1",
+        "asn": "AS6128"
+    },
+    {
         "nickname": "fuckedopspain",
         "asn": "AS8560"
     },
@@ -10386,9 +10394,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -16127,6 +16132,10 @@
             "204.8.96.88"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "LilithyaRelay",
+        "asn": "AS33387"
     },
     {
         "nickname": "NTH143R5",
@@ -23846,10 +23855,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "DockerObfs4Bridge",
-        "asn": "AS1257"
-    },
-    {
         "nickname": "brutus",
         "exit_address": [
             "173.255.198.243"
@@ -25534,6 +25539,9 @@
     },
     {
         "nickname": "agentsmith1",
+        "exit_address": [
+            "172.81.132.35"
+        ],
         "asn": "AS27176"
     },
     {
@@ -25737,10 +25745,6 @@
             "147.90.235.34"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "TorAt3906",
-        "asn": "AS3303"
     },
     {
         "nickname": "KavinRelay",
@@ -34788,6 +34792,10 @@
         "asn": "AS202053"
     },
     {
+        "nickname": "FreeUkraine",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "geadsbeytesm",
         "asn": "AS1136"
     },
@@ -38034,6 +38042,10 @@
     {
         "nickname": "echonetna4",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "badc9ded",
+        "asn": "AS38195"
     },
     {
         "nickname": "tembi",
@@ -45179,6 +45191,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
