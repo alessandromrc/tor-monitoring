@@ -12558,10 +12558,6 @@
         "asn": "AS12479"
     },
     {
-        "nickname": "NotMyRelay",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "peaknight712",
         "asn": "AS20473"
     },
@@ -12804,6 +12800,10 @@
     {
         "nickname": "BudSpencer",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "Hypermtts98",
+        "asn": "AS63949"
     },
     {
         "nickname": "MaxKoTor92",
@@ -14105,10 +14105,6 @@
     {
         "nickname": "Aethe",
         "asn": "AS40994"
-    },
-    {
-        "nickname": "HelloWorld",
-        "asn": "AS212477"
     },
     {
         "nickname": "WaterElementX",
@@ -22663,6 +22659,10 @@
         "asn": "AS35179"
     },
     {
+        "nickname": "Rivermtts11",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "b77e7286fef54bbc",
         "asn": "AS16276"
     },
@@ -23992,6 +23992,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -26238,9 +26241,6 @@
     },
     {
         "nickname": "yomi",
-        "exit_address": [
-            "104.244.74.97"
-        ],
         "asn": "AS53667"
     },
     {
@@ -27061,10 +27061,6 @@
     {
         "nickname": "AlliumAdPortum",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "FromHellWithLove",
-        "asn": "AS212477"
     },
     {
         "nickname": "NTH103R1",
@@ -34597,10 +34593,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "FromHellWithLove",
-        "asn": "AS212477"
-    },
-    {
         "nickname": "StartOSRelay",
         "asn": "AS198983"
     },
@@ -41722,10 +41714,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "FromHellWithLove",
-        "asn": "AS212477"
-    },
-    {
         "nickname": "peeweelongway",
         "asn": "AS36849"
     },
@@ -42052,6 +42040,10 @@
             "192.42.116.116"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Turbomtts40",
+        "asn": "AS63949"
     },
     {
         "nickname": "prsv",
@@ -46484,6 +46476,10 @@
     {
         "nickname": "Spychacz21",
         "asn": "AS5617"
+    },
+    {
+        "nickname": "Dragonmtts75753",
+        "asn": "AS63949"
     },
     {
         "nickname": "fatnick",
