@@ -20882,7 +20882,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor5",
+        "nickname": "as214958tor4",
         "asn": "AS8283"
     },
     {
@@ -23976,6 +23976,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.193",
             "198.167.206.205"
         ],
         "asn": "AS39287"
@@ -25466,6 +25467,10 @@
     {
         "nickname": "prsv",
         "asn": "AS213887"
+    },
+    {
+        "nickname": "AlpineTransit61",
+        "asn": "AS8445"
     },
     {
         "nickname": "Kn0wy0urEnemy",
@@ -32697,6 +32702,9 @@
     },
     {
         "nickname": "DigiGesTor1e2",
+        "exit_address": [
+            "185.195.71.244"
+        ],
         "asn": "AS56803"
     },
     {
@@ -46603,10 +46611,6 @@
     {
         "nickname": "StGallen",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "CarthageProject",
-        "asn": "AS3303"
     },
     {
         "nickname": "relayon0135",
