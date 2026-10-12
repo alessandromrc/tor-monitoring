@@ -17218,6 +17218,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "Guard01",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "NTH56R2",
         "exit_address": [
             "192.42.116.56"
@@ -18661,6 +18665,10 @@
             "204.8.96.122"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Exit01",
+        "asn": "AS132203"
     },
     {
         "nickname": "Limassol",
@@ -23992,6 +24000,10 @@
     {
         "nickname": "NTH85R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "ninjaturtle",
+        "asn": "AS60781"
     },
     {
         "nickname": "theTorDoor",
@@ -37237,10 +37249,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "HelloWorld",
-        "asn": "AS212477"
-    },
-    {
         "nickname": "eo200",
         "exit_address": [
             "23.129.64.200"
@@ -38507,10 +38515,6 @@
     {
         "nickname": "chaoshub",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "FromHellWithLove",
-        "asn": "AS212477"
     },
     {
         "nickname": "YouTubeSucks",
