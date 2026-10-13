@@ -7615,10 +7615,6 @@
         "asn": "AS7602"
     },
     {
-        "nickname": "WilaDortmund",
-        "asn": "AS31371"
-    },
-    {
         "nickname": "LebLibraries",
         "exit_address": [
             "66.220.242.222"
@@ -12035,6 +12031,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Brockie",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Zensursula",
         "asn": "AS16276"
     },
@@ -13309,6 +13309,9 @@
     },
     {
         "nickname": "trusted134anchor",
+        "exit_address": [
+            "134.209.157.140"
+        ],
         "asn": "AS14061"
     },
     {
@@ -13607,6 +13610,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.175.218.6"
+        ],
         "asn": "AS36352"
     },
     {
@@ -14941,10 +14947,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "MableFox",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -15799,6 +15801,10 @@
     {
         "nickname": "AppenzellInnerrhod",
         "asn": "AS29222"
+    },
+    {
+        "nickname": "405tor2",
+        "asn": "AS7018"
     },
     {
         "nickname": "apple",
@@ -18186,6 +18192,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "genericdnsname",
+        "asn": "AS2856"
+    },
+    {
         "nickname": "NTH64R2",
         "exit_address": [
             "192.42.116.64"
@@ -18987,6 +18997,10 @@
     {
         "nickname": "SmolNode2",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "405tor3",
+        "asn": "AS7018"
     },
     {
         "nickname": "Quintex323",
@@ -20730,10 +20744,6 @@
             "185.220.101.9"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "torrelay583481",
-        "asn": "AS24940"
     },
     {
         "nickname": "CloudyNode",
@@ -23972,6 +23982,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.187",
             "198.167.206.193"
         ],
         "asn": "AS39287"
@@ -24075,6 +24086,10 @@
     {
         "nickname": "HjelmEnterprises01",
         "asn": "AS199950"
+    },
+    {
+        "nickname": "MeinExitNode",
+        "asn": "AS24940"
     },
     {
         "nickname": "teaServer",
@@ -26145,6 +26160,9 @@
     },
     {
         "nickname": "renrpo26cellrecord",
+        "exit_address": [
+            "209.38.145.86"
+        ],
         "asn": "AS14061"
     },
     {
@@ -38161,6 +38179,9 @@
     },
     {
         "nickname": "renrpo26",
+        "exit_address": [
+            "170.64.129.106"
+        ],
         "asn": "AS14061"
     },
     {
@@ -39662,6 +39683,10 @@
     {
         "nickname": "HappyToServeYou04",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "405tor1",
+        "asn": "AS7018"
     },
     {
         "nickname": "MatrixUsaRelay",
@@ -44147,9 +44172,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
