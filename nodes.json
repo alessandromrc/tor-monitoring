@@ -23494,6 +23494,9 @@
     },
     {
         "nickname": "FaradayRelay26",
+        "exit_address": [
+            "78.159.121.136"
+        ],
         "asn": "AS28753"
     },
     {
@@ -37748,6 +37751,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.212.226.76"
+        ],
         "asn": "AS41652"
     },
     {
@@ -39164,6 +39170,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "BringBackSilkRo",
+        "asn": "AS209605"
+    },
+    {
         "nickname": "myRoRelay",
         "asn": "AS12302"
     },
@@ -39626,6 +39636,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "cairnes",
+        "asn": "AS60781"
+    },
+    {
         "nickname": "PolarBear12",
         "asn": "AS63949"
     },
@@ -39947,9 +39961,6 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
-        "exit_address": [
-            "67.219.109.141"
-        ],
         "asn": "AS20473"
     },
     {
@@ -41849,6 +41860,10 @@
     {
         "nickname": "xilia23",
         "asn": "AS56322"
+    },
+    {
+        "nickname": "AlphaSigmaPsi",
+        "asn": "AS153371"
     },
     {
         "nickname": "UnredactedShayler",
@@ -44961,10 +44976,6 @@
             "80.67.167.81"
         ],
         "asn": "AS2027"
-    },
-    {
-        "nickname": "RonvauRelay",
-        "asn": "AS701"
     },
     {
         "nickname": "v205",
