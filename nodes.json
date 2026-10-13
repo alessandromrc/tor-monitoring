@@ -2676,7 +2676,7 @@
         "asn": "AS1205"
     },
     {
-        "nickname": "mountaneer",
+        "nickname": "mountaineer",
         "asn": "AS3352"
     },
     {
@@ -10450,10 +10450,6 @@
         "asn": "AS47066"
     },
     {
-        "nickname": "iloveanonymity",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "Quintex325",
         "exit_address": [
             "204.8.96.78"
@@ -11280,6 +11276,10 @@
     {
         "nickname": "KllxTest",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "squ33z3Facility0001",
+        "asn": "AS7018"
     },
     {
         "nickname": "Superchango",
@@ -16742,9 +16742,6 @@
     },
     {
         "nickname": "Playstar01",
-        "exit_address": [
-            "192.121.44.26"
-        ],
         "asn": "AS199950"
     },
     {
@@ -32421,9 +32418,6 @@
     },
     {
         "nickname": "Playstar02",
-        "exit_address": [
-            "192.121.44.27"
-        ],
         "asn": "AS199950"
     },
     {
@@ -40035,9 +40029,6 @@
     },
     {
         "nickname": "Playstar04",
-        "exit_address": [
-            "192.121.44.34"
-        ],
         "asn": "AS199950"
     },
     {
