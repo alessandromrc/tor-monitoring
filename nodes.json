@@ -20880,7 +20880,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -25681,6 +25681,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Orionmtts2516",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "refan1",
         "asn": "AS57043"
     },
@@ -29128,6 +29132,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Arcticmtts20040",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "BeepBoop",
         "asn": "AS5378"
     },
@@ -32121,6 +32129,9 @@
     },
     {
         "nickname": "sartre2",
+        "exit_address": [
+            "185.246.191.53"
+        ],
         "asn": "AS200651"
     },
     {
