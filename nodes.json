@@ -1721,10 +1721,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "torrelay583482",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "2mpe",
         "asn": "AS53667"
     },
@@ -3075,6 +3071,10 @@
             "192.42.116.98"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MeinExitNode",
+        "asn": "AS24940"
     },
     {
         "nickname": "Unnamed",
@@ -12780,10 +12780,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "priceisright",
-        "asn": "AS197648"
-    },
-    {
         "nickname": "PotaPetobu",
         "asn": "AS24971"
     },
@@ -20874,7 +20870,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -36784,6 +36780,10 @@
         "asn": "AS215960"
     },
     {
+        "nickname": "405tor5",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "dim",
         "exit_address": [
             "45.137.201.5"
@@ -47790,6 +47790,10 @@
     {
         "nickname": "realprivate",
         "asn": "AS212238"
+    },
+    {
+        "nickname": "405tor4",
+        "asn": "AS7018"
     },
     {
         "nickname": "swaelee",
