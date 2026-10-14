@@ -13516,6 +13516,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -17503,6 +17506,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -23848,8 +23854,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.187",
-            "198.167.206.193"
+            "198.167.206.187"
         ],
         "asn": "AS39287"
     },
@@ -25119,6 +25124,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -31133,6 +31141,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -38184,6 +38195,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -44754,6 +44768,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -45991,6 +46008,10 @@
     {
         "nickname": "bigmoe",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS26832"
     },
     {
         "nickname": "flowjob07",
