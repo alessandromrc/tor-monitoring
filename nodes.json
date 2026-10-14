@@ -17717,6 +17717,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -34702,10 +34705,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "0x4242",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "NTH20R7",
         "exit_address": [
             "192.42.116.20"
@@ -37488,9 +37487,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
