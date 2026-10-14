@@ -10090,9 +10090,6 @@
     },
     {
         "nickname": "VictorCryptoUMich",
-        "exit_address": [
-            "35.0.127.52"
-        ],
         "asn": "AS36375"
     },
     {
@@ -29633,10 +29630,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "thegreatgonzo",
-        "asn": "AS62365"
-    },
-    {
         "nickname": "INSRelay42at5443",
         "asn": "AS1205"
     },
@@ -40802,8 +40795,8 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "TorSuperNodeMiddle",
-        "asn": "AS7018"
+        "nickname": "AlpheteTORRelay",
+        "asn": "AS22927"
     },
     {
         "nickname": "JohnthePhisherman",
@@ -44515,6 +44508,10 @@
     {
         "nickname": "digitalsquid4",
         "asn": "AS49981"
+    },
+    {
+        "nickname": "405tor6",
+        "asn": "AS7018"
     },
     {
         "nickname": "relayon0147",
