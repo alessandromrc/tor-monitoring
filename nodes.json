@@ -3074,6 +3074,9 @@
     },
     {
         "nickname": "MeinExitNode",
+        "exit_address": [
+            "49.12.224.110"
+        ],
         "asn": "AS24940"
     },
     {
@@ -3545,6 +3548,10 @@
     {
         "nickname": "badthread",
         "asn": "AS213230"
+    },
+    {
+        "nickname": "405tor8",
+        "asn": "AS7018"
     },
     {
         "nickname": "FZLBRelay",
@@ -7705,10 +7712,6 @@
     {
         "nickname": "privacyMatters",
         "asn": "AS200019"
-    },
-    {
-        "nickname": "worthwilegreen",
-        "asn": "AS62068"
     },
     {
         "nickname": "prsv",
@@ -13427,6 +13430,10 @@
             "192.42.116.100"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "405tor8",
+        "asn": "AS7018"
     },
     {
         "nickname": "hiddenubermensch",
@@ -19781,10 +19788,6 @@
         "asn": "AS51852"
     },
     {
-        "nickname": "mywifeisamazing",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "BananaJoe",
         "asn": "AS51167"
     },
@@ -22601,6 +22604,10 @@
         "asn": "AS47583"
     },
     {
+        "nickname": "kylesmom",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Quintex578",
         "exit_address": [
             "204.8.96.167"
@@ -22648,10 +22655,6 @@
     {
         "nickname": "shabaamsahdeeq",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "GauzeConsular",
-        "asn": "AS7018"
     },
     {
         "nickname": "citygirls",
@@ -33797,10 +33800,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "HappyToServeYou10",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "idontknowjeffery",
         "asn": "AS36849"
     },
@@ -38097,10 +38096,6 @@
     },
     {
         "nickname": "keep",
-        "asn": "AS16276"
-    },
-    {
-        "nickname": "udeserveprivacy",
         "asn": "AS16276"
     },
     {
@@ -44811,7 +44806,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
