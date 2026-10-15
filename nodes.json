@@ -11301,10 +11301,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "abir",
-        "asn": "AS137967"
-    },
-    {
         "nickname": "NTH113R4",
         "exit_address": [
             "192.42.116.113"
@@ -38806,6 +38802,10 @@
             "109.70.100.11"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "libermiddlerelay",
+        "asn": "AS14061"
     },
     {
         "nickname": "OROGOM",
