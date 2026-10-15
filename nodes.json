@@ -11271,6 +11271,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "AltNYC01",
+        "asn": "AS396356"
+    },
+    {
         "nickname": "carbonitos",
         "asn": "AS3"
     },
@@ -23235,9 +23239,6 @@
     },
     {
         "nickname": "ninjaturtle",
-        "exit_address": [
-            "178.162.175.5"
-        ],
         "asn": "AS60781"
     },
     {
@@ -34041,6 +34042,10 @@
     {
         "nickname": "Durst",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "shadowdancer",
+        "asn": "AS24940"
     },
     {
         "nickname": "SSDNodesSEA",
