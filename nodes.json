@@ -24623,6 +24623,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS4713"
+    },
+    {
         "nickname": "Determination",
         "asn": "AS35592"
     },
@@ -26949,6 +26953,9 @@
     },
     {
         "nickname": "drear",
+        "exit_address": [
+            "45.38.20.213"
+        ],
         "asn": "AS215659"
     },
     {
@@ -35947,6 +35954,10 @@
     {
         "nickname": "toriesfuckedtheuk",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Blinknet",
+        "asn": "AS20473"
     },
     {
         "nickname": "TorNode04dot3",
