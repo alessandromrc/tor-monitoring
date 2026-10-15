@@ -5319,6 +5319,10 @@
         "asn": "AS47890"
     },
     {
+        "nickname": "MyTorRelayNode12345",
+        "asn": "AS41745"
+    },
+    {
         "nickname": "FreedomFries2",
         "asn": "AS24940"
     },
@@ -15011,6 +15015,9 @@
     },
     {
         "nickname": "artikel5ev13c",
+        "exit_address": [
+            "51.15.59.15"
+        ],
         "asn": "AS12876"
     },
     {
@@ -25606,6 +25613,9 @@
     },
     {
         "nickname": "artikel5ev13",
+        "exit_address": [
+            "51.15.59.15"
+        ],
         "asn": "AS12876"
     },
     {
@@ -43508,6 +43518,10 @@
     {
         "nickname": "tengu",
         "asn": "AS852"
+    },
+    {
+        "nickname": "getrelayedon02",
+        "asn": "AS31898"
     },
     {
         "nickname": "router",
