@@ -9110,7 +9110,6 @@
 /ip firewall address-list add list=tor_ipv4 address=10.35.43.164 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.56.130.0 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.216.106.177 comment="tor_ipv4/tor-monitoring"
-/ip firewall address-list add list=tor_ipv4 address=10.232.71.67 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.11.115.129 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.255.122.25 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.231.79.193 comment="tor_ipv4/tor-monitoring"
