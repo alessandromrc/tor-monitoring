@@ -14139,10 +14139,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Vrikster",
-        "asn": "AS152565"
-    },
-    {
         "nickname": "hotlousetruth",
         "asn": "AS63949"
     },
@@ -19656,6 +19652,9 @@
     },
     {
         "nickname": "vanguardblackrock",
+        "exit_address": [
+            "82.47.0.200"
+        ],
         "asn": "AS50049"
     },
     {
@@ -23667,10 +23666,6 @@
             "204.8.96.165"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "StartOSRelay",
-        "asn": "AS33915"
     },
     {
         "nickname": "Unnamed",
@@ -36455,6 +36450,9 @@
     },
     {
         "nickname": "equwal",
+        "exit_address": [
+            "172.245.84.5"
+        ],
         "asn": "AS394738"
     },
     {
