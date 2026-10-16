@@ -1800,6 +1800,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "DFRI123",
         "exit_address": [
             "171.25.193.80"
@@ -11076,6 +11080,10 @@
     {
         "nickname": "Bastion",
         "asn": "AS202422"
+    },
+    {
+        "nickname": "FreedomVault",
+        "asn": "AS46690"
     },
     {
         "nickname": "n3m3515",
@@ -30415,9 +30423,6 @@
     },
     {
         "nickname": "AmsterdamExit",
-        "exit_address": [
-            "85.11.167.137"
-        ],
         "asn": "AS197170"
     },
     {
@@ -37374,10 +37379,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "LittleGauss",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "DemonsysEU",
         "asn": "AS16276"
     },
@@ -39124,10 +39125,6 @@
             "185.220.101.110"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "fluffypancakes001ca",
-        "asn": "AS26832"
     },
     {
         "nickname": "fluffypancakes001ca",
