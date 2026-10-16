@@ -7204,10 +7204,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "GoneTomorrow",
-        "asn": "AS61112"
-    },
-    {
         "nickname": "DFRI86",
         "exit_address": [
             "171.25.193.40"
@@ -10106,10 +10102,6 @@
     {
         "nickname": "peep",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "TacosAlPastor",
-        "asn": "AS8151"
     },
     {
         "nickname": "tsutor",
@@ -27878,6 +27870,9 @@
     },
     {
         "nickname": "mirage",
+        "exit_address": [
+            "91.219.237.39"
+        ],
         "asn": "AS56322"
     },
     {
@@ -34775,10 +34770,6 @@
     {
         "nickname": "Elore",
         "asn": "AS26832"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS48574"
     },
     {
         "nickname": "ellen2",
