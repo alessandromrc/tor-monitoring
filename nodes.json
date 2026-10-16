@@ -10963,6 +10963,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "vodafone",
+        "asn": "AS30722"
+    },
+    {
         "nickname": "foolio",
         "asn": "AS36849"
     },
@@ -12709,10 +12713,6 @@
             "171.25.193.46"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "tacosombrero",
-        "asn": "AS8560"
     },
     {
         "nickname": "BSDrelay02",
@@ -44386,6 +44386,9 @@
     },
     {
         "nickname": "Lain",
+        "exit_address": [
+            "45.9.156.144"
+        ],
         "asn": "AS211619"
     },
     {
