@@ -11283,6 +11283,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Torpille",
+        "asn": "AS215599"
+    },
+    {
         "nickname": "ZombieApocalypse428",
         "exit_address": [
             "104.244.75.140"
@@ -20464,10 +20468,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "HungaryFastDC2",
-        "asn": "AS41075"
-    },
-    {
         "nickname": "STYX",
         "asn": "AS24282"
     },
@@ -23254,6 +23254,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -33545,6 +33548,9 @@
     },
     {
         "nickname": "IWAITYOUINBIO",
+        "exit_address": [
+            "86.107.168.253"
+        ],
         "asn": "AS26832"
     },
     {
