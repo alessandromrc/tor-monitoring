@@ -11099,6 +11099,10 @@
         "asn": "AS8151"
     },
     {
+        "nickname": "Anckee",
+        "asn": "AS26832"
+    },
+    {
         "nickname": "Noname1572",
         "asn": "AS31898"
     },
@@ -17242,6 +17246,9 @@
     },
     {
         "nickname": "death",
+        "exit_address": [
+            "193.32.162.86"
+        ],
         "asn": "AS47890"
     },
     {
@@ -27850,6 +27857,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "mirage",
+        "asn": "AS56322"
+    },
+    {
         "nickname": "flowjob01",
         "asn": "AS197540"
     },
@@ -31754,6 +31765,10 @@
     {
         "nickname": "msnina",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "LocalsOnly",
+        "asn": "AS214209"
     },
     {
         "nickname": "HeadInTheClouds",
@@ -38577,10 +38592,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SaraEli",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "RelayGeek14",
         "asn": "AS44570"
     },
@@ -40102,6 +40113,10 @@
             "178.20.55.16"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "Meunvon",
+        "asn": "AS26832"
     },
     {
         "nickname": "porthill",
