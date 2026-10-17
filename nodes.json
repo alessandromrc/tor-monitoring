@@ -296,9 +296,6 @@
     },
     {
         "nickname": "DigiGesTor1e1",
-        "exit_address": [
-            "185.195.71.244"
-        ],
         "asn": "AS56803"
     },
     {
@@ -5401,6 +5398,10 @@
         "asn": "AS3209"
     },
     {
+        "nickname": "katetomato",
+        "asn": "AS43289"
+    },
+    {
         "nickname": "boxoffice207",
         "asn": "AS18460"
     },
@@ -5615,10 +5616,6 @@
             "23.129.64.174"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "bytebybyte3319",
-        "asn": "AS701"
     },
     {
         "nickname": "forest48",
@@ -9334,6 +9331,10 @@
     {
         "nickname": "FuckYouPutin",
         "asn": "AS6871"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
     },
     {
         "nickname": "Quintex111",
@@ -28386,6 +28387,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS60117"
+    },
+    {
         "nickname": "NTH55R4",
         "exit_address": [
             "192.42.116.55"
@@ -34073,6 +34078,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "aquamarinefederal",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "TorScale",
         "asn": "AS12876"
     },
@@ -34329,10 +34338,6 @@
     {
         "nickname": "masstorDALT",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "gettorred",
-        "asn": "AS16276"
     },
     {
         "nickname": "theTorDoor",
