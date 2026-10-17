@@ -1212,10 +1212,6 @@
         "asn": "AS5378"
     },
     {
-        "nickname": "EnilnoEnterprise",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "rico",
         "asn": "AS36849"
     },
@@ -15918,10 +15914,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TorRelay",
-        "asn": "AS63023"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -17934,6 +17926,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "HealwingRelay",
+        "asn": "AS31898"
     },
     {
         "nickname": "Moonhooc",
@@ -21012,9 +21008,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.159"
-        ],
         "asn": "AS27284"
     },
     {
@@ -23689,9 +23682,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.159"
-        ],
         "asn": "AS27284"
     },
     {
@@ -23908,9 +23898,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.34"
-        ],
         "asn": "AS27284"
     },
     {
@@ -29571,9 +29558,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.159"
-        ],
         "asn": "AS27284"
     },
     {
@@ -30352,6 +30336,9 @@
     },
     {
         "nickname": "AmsterdamExit",
+        "exit_address": [
+            "85.11.167.137"
+        ],
         "asn": "AS197170"
     },
     {
@@ -40062,9 +40049,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.159"
-        ],
         "asn": "AS27284"
     },
     {
@@ -41886,9 +41870,6 @@
     },
     {
         "nickname": "Lungutor",
-        "exit_address": [
-            "142.249.174.12"
-        ],
         "asn": "AS205941"
     },
     {
@@ -45839,9 +45820,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.34"
-        ],
         "asn": "AS27284"
     },
     {
