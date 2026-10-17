@@ -5403,6 +5403,9 @@
     },
     {
         "nickname": "katetomato",
+        "exit_address": [
+            "178.17.171.74"
+        ],
         "asn": "AS43289"
     },
     {
@@ -10694,9 +10697,6 @@
     },
     {
         "nickname": "VirLineTor",
-        "exit_address": [
-            "158.94.211.57"
-        ],
         "asn": "AS202412"
     },
     {
@@ -16355,9 +16355,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.16"
-        ],
         "asn": "AS27284"
     },
     {
@@ -17870,10 +17867,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "KtorRelay",
-        "asn": "AS23969"
-    },
-    {
         "nickname": "NTH97R7",
         "exit_address": [
             "192.42.116.97"
@@ -19045,6 +19038,9 @@
     },
     {
         "nickname": "demeterz",
+        "exit_address": [
+            "158.173.216.51"
+        ],
         "asn": "AS27284"
     },
     {
@@ -19143,10 +19139,6 @@
     {
         "nickname": "popsmoke",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Max555",
-        "asn": "AS131160"
     },
     {
         "nickname": "annoyingtoconfigure",
@@ -23813,8 +23805,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.235",
-            "198.167.206.245"
+            "198.167.206.235"
         ],
         "asn": "AS39287"
     },
@@ -30569,10 +30560,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "TheMadHackerExit",
-        "asn": "AS44382"
-    },
-    {
         "nickname": "mentoreth1",
         "exit_address": [
             "192.76.153.253"
@@ -33715,10 +33702,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "zgato",
-        "asn": "AS206996"
-    },
-    {
         "nickname": "NTH103R7",
         "exit_address": [
             "192.42.116.103"
@@ -34091,6 +34074,9 @@
     },
     {
         "nickname": "aquamarinefederal",
+        "exit_address": [
+            "45.9.168.116"
+        ],
         "asn": "AS211619"
     },
     {
@@ -39978,6 +39964,9 @@
     },
     {
         "nickname": "natasha52aye",
+        "exit_address": [
+            "45.9.2.77"
+        ],
         "asn": "AS214677"
     },
     {
@@ -43901,10 +43890,6 @@
     {
         "nickname": "botherdsoulrelay",
         "asn": "AS701"
-    },
-    {
-        "nickname": "SSDNodesLAX",
-        "asn": "AS29802"
     },
     {
         "nickname": "wrogregpx2",
