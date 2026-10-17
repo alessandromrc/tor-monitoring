@@ -2687,6 +2687,10 @@
         "asn": "AS2027"
     },
     {
+        "nickname": "BebeAndZen",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "yuripearl",
         "asn": "AS36849"
     },
@@ -5146,10 +5150,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS216071"
-    },
-    {
         "nickname": "artikel10ber54",
         "exit_address": [
             "185.220.101.14"
@@ -5621,10 +5621,6 @@
         "asn": "AS27651"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS51896"
-    },
-    {
         "nickname": "tor03",
         "asn": "AS8560"
     },
@@ -5788,6 +5784,10 @@
             "192.42.116.110"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MagicTorRelay",
+        "asn": "AS12322"
     },
     {
         "nickname": "knottedhair",
@@ -17413,10 +17413,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "redacted",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Philippppp",
         "asn": "AS3320"
     },
@@ -18193,6 +18189,10 @@
     {
         "nickname": "bigsyke",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS24940"
     },
     {
         "nickname": "InVinoVeritas1",
@@ -25291,6 +25291,10 @@
         "asn": "AS11426"
     },
     {
+        "nickname": "WolfgangAndDagmar",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "ParisNight",
         "asn": "AS209604"
     },
@@ -25417,10 +25421,6 @@
             "192.42.116.68"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "delfininterior",
-        "asn": "AS12479"
     },
     {
         "nickname": "MarkNKX",
@@ -27492,6 +27492,9 @@
     },
     {
         "nickname": "holybluds",
+        "exit_address": [
+            "185.116.94.234"
+        ],
         "asn": "AS39184"
     },
     {
@@ -29701,10 +29704,6 @@
     {
         "nickname": "DontTreadOnMe1",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "UnredactedWikiLeaks",
@@ -37374,10 +37373,6 @@
         "asn": "AS215248"
     },
     {
-        "nickname": "judith",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "zaytoven",
         "asn": "AS36849"
     },
@@ -37527,9 +37522,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "185.212.226.76"
-        ],
         "asn": "AS41652"
     },
     {
@@ -43706,10 +43698,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "SSDNodesCHI",
-        "asn": "AS29802"
-    },
-    {
         "nickname": "batate",
         "exit_address": [
             "109.70.100.7"
@@ -43978,10 +43966,6 @@
     {
         "nickname": "wrogregpx2",
         "asn": "AS59444"
-    },
-    {
-        "nickname": "MirukiiRelay",
-        "asn": "AS3462"
     },
     {
         "nickname": "RickyOnPrednisone",
