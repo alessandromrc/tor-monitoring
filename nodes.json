@@ -5787,6 +5787,9 @@
     },
     {
         "nickname": "MagicTorRelay",
+        "exit_address": [
+            "82.65.141.110"
+        ],
         "asn": "AS12322"
     },
     {
@@ -5991,9 +5994,6 @@
     },
     {
         "nickname": "3082549333589943",
-        "exit_address": [
-            "185.132.53.46"
-        ],
         "asn": "AS211507"
     },
     {
@@ -16037,7 +16037,7 @@
     },
     {
         "nickname": "freedomrelayzero",
-        "asn": "AS197524"
+        "asn": "AS212443"
     },
     {
         "nickname": "DontBeLarry",
@@ -27305,10 +27305,6 @@
         "asn": "AS52048"
     },
     {
-        "nickname": "405tor6",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "AntifaeVVPS",
         "asn": "AS24961"
     },
@@ -38395,9 +38391,6 @@
     },
     {
         "nickname": "r1sky",
-        "exit_address": [
-            "163.172.84.90"
-        ],
         "asn": "AS12876"
     },
     {
@@ -40897,7 +40890,7 @@
     },
     {
         "nickname": "StadisRelay",
-        "asn": "AS197524"
+        "asn": "AS212443"
     },
     {
         "nickname": "NTH116R3",
@@ -45959,10 +45952,6 @@
             "185.220.101.187"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS7545"
     },
     {
         "nickname": "zer0bitz",
