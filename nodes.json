@@ -17009,6 +17009,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "Raccoon13TorRelay",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "trauben",
         "exit_address": [
             "109.70.100.5"
@@ -23084,10 +23088,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS47583"
-    },
-    {
         "nickname": "luma",
         "asn": "AS36352"
     },
@@ -23873,9 +23873,6 @@
     },
     {
         "nickname": "1135063853886489",
-        "exit_address": [
-            "185.132.53.11"
-        ],
         "asn": "AS211507"
     },
     {
@@ -25207,9 +25204,6 @@
     },
     {
         "nickname": "1647429688731596",
-        "exit_address": [
-            "185.132.53.27"
-        ],
         "asn": "AS211507"
     },
     {
@@ -39696,6 +39690,10 @@
     {
         "nickname": "TannhauserGate",
         "asn": "AS202422"
+    },
+    {
+        "nickname": "forever2k38",
+        "asn": "AS215659"
     },
     {
         "nickname": "eo192",
