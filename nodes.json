@@ -13273,6 +13273,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "ovhchimaca",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "UnredactedChambers",
         "exit_address": [
             "23.191.200.104"
@@ -14886,9 +14890,6 @@
     },
     {
         "nickname": "8115485604742004",
-        "exit_address": [
-            "150.40.127.100"
-        ],
         "asn": "AS211619"
     },
     {
@@ -17339,9 +17340,6 @@
     },
     {
         "nickname": "death",
-        "exit_address": [
-            "193.32.162.86"
-        ],
         "asn": "AS47890"
     },
     {
@@ -23848,6 +23846,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.235",
             "198.167.206.245"
         ],
         "asn": "AS39287"
@@ -40523,7 +40522,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "Splinter",
