@@ -19979,6 +19979,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "thegreatgonzo",
+        "asn": "AS62365"
+    },
+    {
         "nickname": "7thheaven",
         "asn": "AS214209"
     },
@@ -21195,6 +21199,9 @@
     },
     {
         "nickname": "funeraldreams",
+        "exit_address": [
+            "45.133.73.10"
+        ],
         "asn": "AS211507"
     },
     {
@@ -23136,7 +23143,7 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "3m377relay",
+        "nickname": "MalcolmInTheMiddle",
         "asn": "AS27284"
     },
     {
@@ -23773,6 +23780,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.227",
             "198.167.206.235"
         ],
         "asn": "AS39287"
@@ -26284,6 +26292,9 @@
     },
     {
         "nickname": "gfguihgrudifhguih",
+        "exit_address": [
+            "185.11.139.198"
+        ],
         "asn": "AS48823"
     },
     {
@@ -29381,6 +29392,10 @@
     {
         "nickname": "elTORtuGa",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "thegreatgonzo",
+        "asn": "AS62365"
     },
     {
         "nickname": "INSRelay42at5443",
@@ -46590,10 +46605,6 @@
     {
         "nickname": "tor26",
         "asn": "AS5404"
-    },
-    {
-        "nickname": "SendMeSomeXMR",
-        "asn": "AS16276"
     },
     {
         "nickname": "BaumiMiddleRelays",
