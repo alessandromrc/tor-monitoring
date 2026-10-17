@@ -12144,6 +12144,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "holu",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "UnredactedFelt",
         "exit_address": [
             "23.191.200.32"
@@ -39109,9 +39113,6 @@
     },
     {
         "nickname": "LocalenbyCAExit",
-        "exit_address": [
-            "172.105.20.12"
-        ],
         "asn": "AS63949"
     },
     {
@@ -42622,10 +42623,6 @@
             "23.129.64.213"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "TheMadHackerNodeV3",
-        "asn": "AS214996"
     },
     {
         "nickname": "prsv",
