@@ -770,7 +770,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "FreeTheInternet",
+        "nickname": "AtoriRelay",
         "asn": "AS51167"
     },
     {
@@ -921,6 +921,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "ajourmag",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -1031,6 +1035,9 @@
     },
     {
         "nickname": "2mplas3",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -2019,6 +2026,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "YaCodeDev",
+        "asn": "AS203919"
+    },
+    {
         "nickname": "InnocenceTube",
         "asn": "AS212477"
     },
@@ -2550,10 +2561,6 @@
     {
         "nickname": "Bern",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "forest52",
-        "asn": "AS49592"
     },
     {
         "nickname": "ZionMonero",
@@ -11222,7 +11229,7 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "Superchango",
+        "nickname": "SuperchangoII",
         "asn": "AS5432"
     },
     {
@@ -17654,10 +17661,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Aardman3",
-        "asn": "AS15435"
-    },
-    {
         "nickname": "melon",
         "asn": "AS24940"
     },
@@ -19141,10 +19144,6 @@
     {
         "nickname": "popsmoke",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "annoyingtoconfigure",
-        "asn": "AS14061"
     },
     {
         "nickname": "artikel10ber122",
@@ -26257,10 +26256,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "opencommunity",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Quintex582",
         "exit_address": [
             "204.8.96.171"
@@ -30296,6 +30291,9 @@
     },
     {
         "nickname": "torzpi222",
+        "exit_address": [
+            "87.243.108.53"
+        ],
         "asn": "AS8866"
     },
     {
@@ -35911,10 +35909,6 @@
             "192.42.116.96"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Aardman8",
-        "asn": "AS15435"
     },
     {
         "nickname": "justblaze",
