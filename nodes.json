@@ -339,6 +339,10 @@
         "asn": "AS213438"
     },
     {
+        "nickname": "idideditheconfig",
+        "asn": "AS43341"
+    },
+    {
         "nickname": "insist",
         "asn": "AS59702"
     },
@@ -6028,10 +6032,6 @@
     {
         "nickname": "Hibernity",
         "asn": "AS26801"
-    },
-    {
-        "nickname": "StartOSRelay",
-        "asn": "AS14956"
     },
     {
         "nickname": "relayon1129",
@@ -18330,10 +18330,6 @@
         "asn": "AS50613"
     },
     {
-        "nickname": "pbranenettorrelay",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "NTH51R1",
         "asn": "AS215125"
     },
@@ -21328,9 +21324,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.15"
-        ],
         "asn": "AS27284"
     },
     {
@@ -22947,10 +22940,6 @@
     {
         "nickname": "gingerkeyboard",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "OptiHolo",
-        "asn": "AS13101"
     },
     {
         "nickname": "CiiiTor",
@@ -31902,10 +31891,6 @@
             "192.42.116.53"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "myNiceRelay1234",
-        "asn": "AS20001"
     },
     {
         "nickname": "tonyTOR",
