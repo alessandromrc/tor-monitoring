@@ -1687,6 +1687,10 @@
         "asn": "AS19504"
     },
     {
+        "nickname": "iDIDedittheconfig",
+        "asn": "AS215730"
+    },
+    {
         "nickname": "DFRI100",
         "exit_address": [
             "171.25.193.81"
@@ -24893,10 +24897,6 @@
         "asn": "AS205714"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "Lawkeeper",
         "asn": "AS206238"
     },
@@ -29410,10 +29410,6 @@
     {
         "nickname": "arsonaldarebel",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Relay",
-        "asn": "AS213449"
     },
     {
         "nickname": "Quintex237",
@@ -41814,6 +41810,9 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
@@ -45417,6 +45416,10 @@
     {
         "nickname": "PubliusAnonymous",
         "asn": "AS8758"
+    },
+    {
+        "nickname": "TorQOm7f",
+        "asn": "AS58487"
     },
     {
         "nickname": "ChaosRelay",
