@@ -6855,6 +6855,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "acid74middleguard2",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "koriander",
         "exit_address": [
             "109.70.100.14"
@@ -23658,10 +23662,6 @@
         "asn": "AS51396"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS11232"
-    },
-    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.166"
@@ -27428,9 +27428,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.228"
-        ],
         "asn": "AS27284"
     },
     {
@@ -31070,9 +31067,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.228"
-        ],
         "asn": "AS27284"
     },
     {
@@ -31554,6 +31548,9 @@
     },
     {
         "nickname": "ToringAround",
+        "exit_address": [
+            "139.162.208.30"
+        ],
         "asn": "AS63949"
     },
     {
@@ -35556,10 +35553,6 @@
     {
         "nickname": "hifi",
         "asn": "AS803"
-    },
-    {
-        "nickname": "OakCottage",
-        "asn": "AS3301"
     },
     {
         "nickname": "CandleInTheDark",
@@ -40066,9 +40059,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.228"
-        ],
         "asn": "AS27284"
     },
     {
@@ -43201,9 +43191,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.228"
-        ],
         "asn": "AS27284"
     },
     {
