@@ -11633,6 +11633,10 @@
         "asn": "AS199058"
     },
     {
+        "nickname": "5cmPerSeconds",
+        "asn": "AS215238"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS24961"
     },
@@ -41932,10 +41936,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "StartOSRelay",
-        "asn": "AS852"
-    },
-    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -46475,6 +46475,9 @@
     },
     {
         "nickname": "MoksedurRahman",
+        "exit_address": [
+            "103.166.187.253"
+        ],
         "asn": "AS137967"
     },
     {
@@ -47263,10 +47266,6 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "surfeasy",
-        "asn": "AS53667"
     },
     {
         "nickname": "PyotrTorpotkinOne",
