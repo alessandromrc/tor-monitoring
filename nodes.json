@@ -1569,9 +1569,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.226"
-        ],
         "asn": "AS27284"
     },
     {
@@ -7242,9 +7239,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.226"
-        ],
         "asn": "AS27284"
     },
     {
@@ -9986,9 +9980,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.226"
-        ],
         "asn": "AS27284"
     },
     {
@@ -17800,6 +17791,9 @@
     },
     {
         "nickname": "vandergriff",
+        "exit_address": [
+            "185.100.85.132"
+        ],
         "asn": "AS200651"
     },
     {
@@ -18292,10 +18286,6 @@
     {
         "nickname": "anuelaa",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "schreech",
-        "asn": "AS212508"
     },
     {
         "nickname": "StormyCloud",
@@ -18884,9 +18874,6 @@
     },
     {
         "nickname": "prideoflions",
-        "exit_address": [
-            "186.240.149.160"
-        ],
         "asn": "AS47583"
     },
     {
@@ -24589,9 +24576,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.226"
-        ],
         "asn": "AS27284"
     },
     {
@@ -25058,6 +25042,10 @@
             "192.42.116.115"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "ZeroXGSRelay",
+        "asn": "AS26832"
     },
     {
         "nickname": "FreedomForEveryone",
@@ -38893,10 +38881,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "independence",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Quintex527",
         "exit_address": [
             "204.8.96.80"
@@ -42024,10 +42008,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "BorkNode02",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Anony",
         "asn": "AS174"
     },
@@ -44207,9 +44187,6 @@
     },
     {
         "nickname": "torzpi222",
-        "exit_address": [
-            "82.118.248.205"
-        ],
         "asn": "AS45007"
     },
     {
@@ -45857,7 +45834,7 @@
     },
     {
         "nickname": "StickyRelay99",
-        "asn": "AS208172"
+        "asn": "AS199218"
     },
     {
         "nickname": "bigmoe",
