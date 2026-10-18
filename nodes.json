@@ -5757,9 +5757,6 @@
     },
     {
         "nickname": "MagicTorRelay",
-        "exit_address": [
-            "82.65.141.110"
-        ],
         "asn": "AS12322"
     },
     {
@@ -33793,10 +33790,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "guide",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "HPLovecraftCat",
         "asn": "AS151660"
     },
@@ -35261,6 +35254,9 @@
     },
     {
         "nickname": "TorExitNode219585",
+        "exit_address": [
+            "89.125.13.177"
+        ],
         "asn": "AS218731"
     },
     {
@@ -43878,6 +43874,10 @@
     {
         "nickname": "BrixRelay",
         "asn": "AS3215"
+    },
+    {
+        "nickname": "AzsRelay",
+        "asn": "AS35042"
     },
     {
         "nickname": "brn",
