@@ -12310,6 +12310,9 @@
     },
     {
         "nickname": "obzzYtRlpC",
+        "exit_address": [
+            "103.84.206.82"
+        ],
         "asn": "AS58487"
     },
     {
@@ -12920,7 +12923,7 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "EgerRelay",
         "asn": "AS21334"
     },
     {
@@ -21696,10 +21699,6 @@
             "192.42.116.118"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "sherlock",
-        "asn": "AS16509"
     },
     {
         "nickname": "longclaw",
@@ -33584,10 +33583,6 @@
     {
         "nickname": "Paphos",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "TotallyNotABTCMixer",
-        "asn": "AS174"
     },
     {
         "nickname": "iarer",
