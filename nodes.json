@@ -10076,6 +10076,9 @@
     },
     {
         "nickname": "GuruKopi",
+        "exit_address": [
+            "118.163.74.160"
+        ],
         "asn": "AS3462"
     },
     {
@@ -12212,7 +12215,10 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "quic",
+        "nickname": "DILDOBAGGINS420",
+        "exit_address": [
+            "118.67.198.54"
+        ],
         "asn": "AS64073"
     },
     {
@@ -29811,10 +29817,6 @@
             "204.8.96.174"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "Tordriver1",
-        "asn": "AS20115"
     },
     {
         "nickname": "Collateral",
