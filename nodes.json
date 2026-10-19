@@ -6056,10 +6056,6 @@
         "asn": "AS152992"
     },
     {
-        "nickname": "Hibernity",
-        "asn": "AS26801"
-    },
-    {
         "nickname": "relayon1129",
         "asn": "AS60729"
     },
@@ -6379,6 +6375,9 @@
     },
     {
         "nickname": "mITexit01",
+        "exit_address": [
+            "57.129.91.235"
+        ],
         "asn": "AS16276"
     },
     {
@@ -15043,7 +15042,7 @@
     },
     {
         "nickname": "AltSG01",
-        "asn": "AS396356"
+        "asn": "AS56038"
     },
     {
         "nickname": "ForDemocracy2",
@@ -18128,6 +18127,10 @@
         "asn": "AS174"
     },
     {
+        "nickname": "MyN150Relay",
+        "asn": "AS6730"
+    },
+    {
         "nickname": "thealgorithm1",
         "exit_address": [
             "82.197.182.161"
@@ -18236,7 +18239,7 @@
         "asn": "AS63806"
     },
     {
-        "nickname": "Scott0001",
+        "nickname": "Echomon49",
         "asn": "AS7922"
     },
     {
@@ -23733,8 +23736,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.155",
-            "198.167.206.227"
+            "198.167.206.155"
         ],
         "asn": "AS39287"
     },
@@ -40921,6 +40923,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "MyN150Relay",
+        "asn": "AS6730"
+    },
+    {
         "nickname": "digitalsquid2",
         "asn": "AS49981"
     },
@@ -42049,7 +42055,7 @@
     },
     {
         "nickname": "obersee",
-        "asn": "AS29066"
+        "asn": "AS30083"
     },
     {
         "nickname": "eutaxy",
