@@ -6880,7 +6880,7 @@
 /ip firewall address-list add list=tor_ipv4 address=184.8.7.16 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=94.103.188.164 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=174.179.160.159 comment="tor_ipv4/tor-monitoring"
-/ip firewall address-list add list=tor_ipv4 address=85.130.157.152 comment="tor_ipv4/tor-monitoring"
+/ip firewall address-list add list=tor_ipv4 address=94.159.249.77 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=23.95.240.61 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=96.9.98.70 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=193.168.144.76 comment="tor_ipv4/tor-monitoring"
