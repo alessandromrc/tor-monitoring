@@ -19601,9 +19601,6 @@
     },
     {
         "nickname": "corewars",
-        "exit_address": [
-            "148.135.75.210"
-        ],
         "asn": "AS35916"
     },
     {
@@ -33128,9 +33125,6 @@
     },
     {
         "nickname": "PSRdotTF",
-        "exit_address": [
-            "5.181.177.69"
-        ],
         "asn": "AS214677"
     },
     {
@@ -38948,6 +38942,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "RincesBSDRelay1",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "LocalenbyCAExit",
         "exit_address": [
             "172.105.20.12"
@@ -44403,7 +44401,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
