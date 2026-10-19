@@ -1031,9 +1031,6 @@
     },
     {
         "nickname": "2mplas3",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -12721,6 +12718,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "VortexiaRelay",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "artikel10buc06",
         "exit_address": [
             "185.100.85.24"
@@ -17731,10 +17732,6 @@
     {
         "nickname": "BienwaldKA06",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "Start9AuditTest",
-        "asn": "AS14061"
     },
     {
         "nickname": "torbogen52",
@@ -38322,6 +38319,9 @@
     },
     {
         "nickname": "Truancy",
+        "exit_address": [
+            "5.255.125.196"
+        ],
         "asn": "AS60404"
     },
     {
@@ -46487,9 +46487,6 @@
     },
     {
         "nickname": "MoksedurRahman",
-        "exit_address": [
-            "103.166.187.253"
-        ],
         "asn": "AS137967"
     },
     {
