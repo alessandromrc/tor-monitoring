@@ -770,10 +770,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "myNiceRelay",
-        "asn": "AS51202"
-    },
-    {
         "nickname": "Wildtwister",
         "asn": "AS213934"
     },
@@ -3361,6 +3357,9 @@
     },
     {
         "nickname": "SerbiaTorE0",
+        "exit_address": [
+            "150.40.126.164"
+        ],
         "asn": "AS211619"
     },
     {
@@ -12969,10 +12968,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "Storm",
-        "asn": "AS51396"
-    },
-    {
         "nickname": "NTH142R4",
         "exit_address": [
             "192.42.116.142"
@@ -20831,10 +20826,6 @@
     {
         "nickname": "wally55",
         "asn": "AS136258"
-    },
-    {
-        "nickname": "resistor",
-        "asn": "AS51396"
     },
     {
         "nickname": "jubei",
@@ -39557,6 +39548,9 @@
     },
     {
         "nickname": "SerbiaTorE2",
+        "exit_address": [
+            "150.40.126.34"
+        ],
         "asn": "AS211619"
     },
     {
@@ -39605,6 +39599,9 @@
     },
     {
         "nickname": "SerbiaTorE1",
+        "exit_address": [
+            "150.40.126.28"
+        ],
         "asn": "AS211619"
     },
     {
