@@ -9694,6 +9694,10 @@
         "asn": "AS49808"
     },
     {
+        "nickname": "OdradekNY",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -10042,10 +10046,6 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "VictorCryptoUMich",
-        "asn": "AS36375"
-    },
-    {
         "nickname": "Quintex415",
         "exit_address": [
             "204.8.96.105"
@@ -10253,6 +10253,10 @@
     {
         "nickname": "tor107",
         "asn": "AS214366"
+    },
+    {
+        "nickname": "30p87dbcoax",
+        "asn": "AS3209"
     },
     {
         "nickname": "roomformushroom",
@@ -32231,10 +32235,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "serpico",
-        "asn": "AS50360"
-    },
-    {
         "nickname": "SODrelay",
         "asn": "AS24940"
     },
@@ -34941,6 +34941,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "201.91.74.18"
+        ],
         "asn": "AS10429"
     },
     {
@@ -40940,6 +40943,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "10gbps",
+        "asn": "AS0"
+    },
+    {
         "nickname": "tr31",
         "asn": "AS200303"
     },
@@ -41874,6 +41881,10 @@
     {
         "nickname": "FlashApe2",
         "asn": "AS207083"
+    },
+    {
+        "nickname": "30p87bvcoax",
+        "asn": "AS3209"
     },
     {
         "nickname": "Lungutor",
@@ -44504,7 +44515,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -44616,9 +44627,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.213"
-        ],
         "asn": "AS27284"
     },
     {
