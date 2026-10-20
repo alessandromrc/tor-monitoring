@@ -7005,6 +7005,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.26.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -7274,6 +7277,10 @@
     {
         "nickname": "NTH160R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "rotfront",
+        "asn": "AS5483"
     },
     {
         "nickname": "prsv",
@@ -13902,10 +13909,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "tspx0",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS8422"
     },
@@ -14788,6 +14791,9 @@
     },
     {
         "nickname": "Dumbledore",
+        "exit_address": [
+            "45.61.188.15"
+        ],
         "asn": "AS53667"
     },
     {
@@ -15976,6 +15982,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "tor03kryptonit",
+        "asn": "AS39642"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -16668,6 +16678,10 @@
     {
         "nickname": "bankrollfresh",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "opencommunity",
+        "asn": "AS36352"
     },
     {
         "nickname": "Guard01",
@@ -26253,6 +26267,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "opencommunity",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Quintex582",
         "exit_address": [
             "204.8.96.171"
@@ -31740,6 +31758,10 @@
         "asn": "AS199950"
     },
     {
+        "nickname": "raretor",
+        "asn": "AS47890"
+    },
+    {
         "nickname": "parlaed4l",
         "asn": "AS36849"
     },
@@ -32265,6 +32287,10 @@
     {
         "nickname": "churrodawg",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "opencommunity",
+        "asn": "AS36352"
     },
     {
         "nickname": "Quintex503",
@@ -40976,6 +41002,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "paxtonvps02",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "bauruine",
         "exit_address": [
             "193.200.229.243"
@@ -41414,10 +41444,6 @@
     {
         "nickname": "eclipse08",
         "asn": "AS61424"
-    },
-    {
-        "nickname": "RKStudios01",
-        "asn": "AS203861"
     },
     {
         "nickname": "shine1k",
