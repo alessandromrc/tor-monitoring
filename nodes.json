@@ -7264,10 +7264,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "rotfront",
-        "asn": "AS5483"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS27284"
     },
@@ -14175,10 +14171,6 @@
     {
         "nickname": "tm88",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "hotlousetruth",
-        "asn": "AS63949"
     },
     {
         "nickname": "Tortellini",
@@ -25330,6 +25322,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "delfininterior",
+        "asn": "AS12479"
+    },
+    {
         "nickname": "MarkNKX",
         "asn": "AS36352"
     },
@@ -35424,6 +35420,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
