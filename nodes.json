@@ -743,6 +743,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "MkoBul1Gtor",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "Ichotolot61",
         "asn": "AS35366"
     },
@@ -3145,9 +3149,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.213"
-        ],
         "asn": "AS27284"
     },
     {
@@ -9107,10 +9108,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "HEY",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "ValThor",
         "asn": "AS31898"
     },
@@ -9147,6 +9144,10 @@
     {
         "nickname": "raekwon",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MkoBul1Gtor",
+        "asn": "AS211619"
     },
     {
         "nickname": "tor1",
@@ -11954,6 +11955,9 @@
     },
     {
         "nickname": "TorExitRomania",
+        "exit_address": [
+            "185.165.171.84"
+        ],
         "asn": "AS200651"
     },
     {
@@ -13029,9 +13033,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.213"
-        ],
         "asn": "AS27284"
     },
     {
@@ -17159,6 +17160,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "MkoBul1Gtor",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "KallimaRelay",
         "asn": "AS577"
     },
@@ -20034,10 +20039,6 @@
             "204.8.96.66"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "AndSomePussies",
-        "asn": "AS16276"
     },
     {
         "nickname": "TorNode03dot2",
@@ -40944,7 +40945,7 @@
     },
     {
         "nickname": "10gbps",
-        "asn": "AS0"
+        "asn": "AS200104"
     },
     {
         "nickname": "tr31",
@@ -46083,6 +46084,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "slavaukraini",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "NTH56R3",
         "exit_address": [
             "192.42.116.56"
@@ -46653,9 +46658,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.234.213"
-        ],
         "asn": "AS27284"
     },
     {
