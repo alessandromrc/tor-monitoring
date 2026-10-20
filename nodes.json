@@ -13217,7 +13217,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "NetBSDTestRelay",
+        "nickname": "BSDrelay11",
         "asn": "AS3209"
     },
     {
@@ -20059,10 +20059,6 @@
             "204.8.96.179"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "bffs4m8b5nrz5ax1",
-        "asn": "AS36352"
     },
     {
         "nickname": "jadakiss",
@@ -28646,6 +28642,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "asgard",
+        "asn": "AS15435"
+    },
+    {
         "nickname": "sunsetwaffle",
         "asn": "AS20473"
     },
@@ -33811,10 +33811,6 @@
             "192.42.116.55"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "HyperhostSolutions",
-        "asn": "AS965"
     },
     {
         "nickname": "catgirl",
