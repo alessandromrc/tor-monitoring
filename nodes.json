@@ -4017,9 +4017,6 @@
     },
     {
         "nickname": "wokestaywokestay",
-        "exit_address": [
-            "149.202.79.129"
-        ],
         "asn": "AS16276"
     },
     {
@@ -11415,6 +11412,10 @@
         "asn": "AS214639"
     },
     {
+        "nickname": "PingMeRelay231",
+        "asn": "AS1267"
+    },
+    {
         "nickname": "Unshakled004",
         "asn": "AS53914"
     },
@@ -17709,6 +17710,9 @@
     },
     {
         "nickname": "shhhNotSoLoud",
+        "exit_address": [
+            "65.38.109.3"
+        ],
         "asn": "AS394503"
     },
     {
@@ -22875,9 +22879,6 @@
     },
     {
         "nickname": "WYSWYG",
-        "exit_address": [
-            "109.228.160.190"
-        ],
         "asn": "AS8473"
     },
     {
@@ -45357,6 +45358,10 @@
             "192.42.116.68"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "PingMeRelay233",
+        "asn": "AS1267"
     },
     {
         "nickname": "prsv",
