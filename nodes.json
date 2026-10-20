@@ -7535,9 +7535,6 @@
     },
     {
         "nickname": "4205091860390074",
-        "exit_address": [
-            "185.132.53.58"
-        ],
         "asn": "AS211507"
     },
     {
@@ -17712,9 +17709,6 @@
     },
     {
         "nickname": "shhhNotSoLoud",
-        "exit_address": [
-            "65.38.109.3"
-        ],
         "asn": "AS394503"
     },
     {
@@ -34240,6 +34234,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "PingMeRelay232",
+        "asn": "AS1267"
+    },
+    {
         "nickname": "timmyTOR",
         "asn": "AS9009"
     },
@@ -40866,6 +40864,9 @@
     },
     {
         "nickname": "deepcurrent",
+        "exit_address": [
+            "194.15.216.102"
+        ],
         "asn": "AS197155"
     },
     {
@@ -44486,7 +44487,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
