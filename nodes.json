@@ -744,6 +744,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.182"
+        ],
         "asn": "AS211619"
     },
     {
@@ -6247,6 +6250,10 @@
         "asn": "AS15600"
     },
     {
+        "nickname": "JarvisMiddle",
+        "asn": "AS6167"
+    },
+    {
         "nickname": "ducktales12456",
         "asn": "AS40676"
     },
@@ -9147,6 +9154,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.184"
+        ],
         "asn": "AS211619"
     },
     {
@@ -17161,6 +17171,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.185"
+        ],
         "asn": "AS211619"
     },
     {
@@ -21991,6 +22004,10 @@
             "185.220.101.11"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "Wroooomie",
+        "asn": "AS8473"
     },
     {
         "nickname": "relayon0190",
@@ -26842,10 +26859,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "strait",
-        "asn": "AS16276"
     },
     {
         "nickname": "GamingWhoever",
@@ -32456,10 +32469,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "StartOSRelay",
-        "asn": "AS32244"
     },
     {
         "nickname": "daveb",
@@ -46085,6 +46094,9 @@
     },
     {
         "nickname": "slavaukraini",
+        "exit_address": [
+            "37.187.74.97"
+        ],
         "asn": "AS16276"
     },
     {
@@ -47234,10 +47246,6 @@
     {
         "nickname": "Shayepe",
         "asn": "AS204615"
-    },
-    {
-        "nickname": "Kn3tRelay001",
-        "asn": "AS212238"
     },
     {
         "nickname": "DirtyMoney",
