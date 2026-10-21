@@ -10021,6 +10021,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -13032,6 +13035,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -21382,6 +21388,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.15"
+        ],
         "asn": "AS27284"
     },
     {
@@ -23612,6 +23621,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -30385,10 +30397,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS4713"
-    },
-    {
         "nickname": "Albondigas",
         "asn": "AS8560"
     },
@@ -31247,10 +31255,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS62240"
-    },
-    {
         "nickname": "statquo",
         "asn": "AS36849"
     },
@@ -31383,10 +31387,6 @@
     {
         "nickname": "vipertorrely1",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "torRelayFIHEL01",
-        "asn": "AS24940"
     },
     {
         "nickname": "MaxKoTor62",
@@ -32120,6 +32120,10 @@
             "194.15.113.171"
         ],
         "asn": "AS213354"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
     },
     {
         "nickname": "prsv",
@@ -34800,6 +34804,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.40"
+        ],
         "asn": "AS27284"
     },
     {
@@ -40149,6 +40156,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.159"
+        ],
         "asn": "AS27284"
     },
     {
@@ -40203,6 +40213,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.228"
+        ],
         "asn": "AS27284"
     },
     {
@@ -40895,6 +40908,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.17"
+        ],
         "asn": "AS27284"
     },
     {
@@ -42812,6 +42828,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.20"
+        ],
         "asn": "AS27284"
     },
     {
@@ -47490,6 +47509,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "lunoxia",
+        "asn": "AS48314"
     },
     {
         "nickname": "PyotrTorpotkinOne",
