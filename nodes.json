@@ -18159,10 +18159,6 @@
         "asn": "AS40994"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS6206"
-    },
-    {
         "nickname": "artikel10ber17",
         "exit_address": [
             "185.220.101.5"
@@ -30287,6 +30283,9 @@
     },
     {
         "nickname": "Blameany1butme",
+        "exit_address": [
+            "193.105.134.254"
+        ],
         "asn": "AS42237"
     },
     {
@@ -33409,6 +33408,10 @@
     {
         "nickname": "AppenzellAusserrhod",
         "asn": "AS29222"
+    },
+    {
+        "nickname": "lonlinode",
+        "asn": "AS63949"
     },
     {
         "nickname": "CipherTrail",
@@ -39389,9 +39392,6 @@
     },
     {
         "nickname": "SiFiveHiFive",
-        "exit_address": [
-            "23.129.64.99"
-        ],
         "asn": "AS396507"
     },
     {
