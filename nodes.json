@@ -675,6 +675,9 @@
     },
     {
         "nickname": "shinybuggster",
+        "exit_address": [
+            "159.69.90.30"
+        ],
         "asn": "AS24940"
     },
     {
@@ -4409,10 +4412,6 @@
     {
         "nickname": "autumntwinuzis",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "torrelayAU",
-        "asn": "AS133159"
     },
     {
         "nickname": "AZY",
@@ -16997,6 +16996,10 @@
     {
         "nickname": "tor107",
         "asn": "AS214366"
+    },
+    {
+        "nickname": "nuiklost1",
+        "asn": "AS211619"
     },
     {
         "nickname": "CanisFamiliaris",
@@ -34015,6 +34018,10 @@
         "asn": "AS151660"
     },
     {
+        "nickname": "Neyo",
+        "asn": "AS197922"
+    },
+    {
         "nickname": "Artoo",
         "asn": "AS16276"
     },
@@ -44696,7 +44703,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
