@@ -10078,9 +10078,6 @@
     },
     {
         "nickname": "GuruKopi",
-        "exit_address": [
-            "118.163.74.160"
-        ],
         "asn": "AS3462"
     },
     {
@@ -11628,9 +11625,6 @@
     },
     {
         "nickname": "WepZone",
-        "exit_address": [
-            "44.30.4.69"
-        ],
         "asn": "AS210100"
     },
     {
@@ -19929,6 +19923,10 @@
         "asn": "AS215288"
     },
     {
+        "nickname": "yaler1",
+        "asn": "AS28753"
+    },
+    {
         "nickname": "atomcats2",
         "asn": "AS16276"
     },
@@ -23764,7 +23762,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.186"
+            "198.167.206.186",
+            "198.167.206.232"
         ],
         "asn": "AS39287"
     },
@@ -29154,6 +29153,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.183"
+        ],
         "asn": "AS211619"
     },
     {
@@ -31755,6 +31757,9 @@
     },
     {
         "nickname": "raretor",
+        "exit_address": [
+            "45.134.48.12"
+        ],
         "asn": "AS47890"
     },
     {
