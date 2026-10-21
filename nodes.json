@@ -597,6 +597,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -1566,6 +1569,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -3152,6 +3158,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.213"
+        ],
         "asn": "AS27284"
     },
     {
@@ -3489,6 +3498,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.16"
+        ],
         "asn": "AS27284"
     },
     {
@@ -4332,6 +4344,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.214"
+        ],
         "asn": "AS27284"
     },
     {
@@ -4565,6 +4580,10 @@
         "asn": "AS216405"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
+    },
+    {
         "nickname": "ferrarizSchumacher",
         "exit_address": [
             "193.105.134.150"
@@ -4743,10 +4762,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS9063"
-    },
-    {
-        "nickname": "4712",
-        "asn": "AS8560"
     },
     {
         "nickname": "popofficial",
@@ -5661,6 +5676,9 @@
     },
     {
         "nickname": "Exit01",
+        "exit_address": [
+            "43.131.2.16"
+        ],
         "asn": "AS132203"
     },
     {
@@ -7272,6 +7290,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.226"
+        ],
         "asn": "AS27284"
     },
     {
@@ -11075,10 +11096,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Tungsten",
-        "asn": "AS202422"
-    },
-    {
         "nickname": "BeTheChange",
         "asn": "AS6830"
     },
@@ -12403,6 +12420,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.15"
+        ],
         "asn": "AS27284"
     },
     {
@@ -13320,6 +13340,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -15119,6 +15142,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.16"
+        ],
         "asn": "AS27284"
     },
     {
@@ -16380,6 +16406,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.16"
+        ],
         "asn": "AS27284"
     },
     {
@@ -17223,6 +17252,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.234.34"
+        ],
         "asn": "AS27284"
     },
     {
@@ -17304,6 +17336,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -18719,6 +18754,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.15"
+        ],
         "asn": "AS27284"
     },
     {
@@ -22821,6 +22859,9 @@
     },
     {
         "nickname": "KingShadow3",
+        "exit_address": [
+            "104.167.242.118"
+        ],
         "asn": "AS26286"
     },
     {
@@ -24128,6 +24169,9 @@
     },
     {
         "nickname": "KingShadow2",
+        "exit_address": [
+            "104.167.242.117"
+        ],
         "asn": "AS26286"
     },
     {
@@ -34319,6 +34363,10 @@
             "192.42.116.59"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
     },
     {
         "nickname": "tinyrelay1",
