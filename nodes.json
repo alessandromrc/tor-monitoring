@@ -6864,7 +6864,8 @@
     {
         "nickname": "mentoreth7",
         "exit_address": [
-            "192.76.153.253"
+            "192.76.153.253",
+            "5.2.69.82"
         ],
         "asn": "AS60404"
     },
@@ -24307,6 +24308,10 @@
         "asn": "AS211507"
     },
     {
+        "nickname": "epicentre",
+        "asn": "AS13285"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -27202,6 +27207,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.207.107.216"
+        ],
         "asn": "AS197540"
     },
     {
@@ -30596,7 +30604,8 @@
     {
         "nickname": "mentoreth1",
         "exit_address": [
-            "192.76.153.253"
+            "192.76.153.253",
+            "5.2.69.82"
         ],
         "asn": "AS60404"
     },
@@ -33219,6 +33228,10 @@
     {
         "nickname": "idideditheconfig",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "artikel5ev13b",
+        "asn": "AS12876"
     },
     {
         "nickname": "scaramouche",
