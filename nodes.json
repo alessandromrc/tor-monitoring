@@ -2415,6 +2415,10 @@
         "asn": "AS22773"
     },
     {
+        "nickname": "StartOSRelay",
+        "asn": "AS11232"
+    },
+    {
         "nickname": "nfreal",
         "asn": "AS36849"
     },
@@ -5662,6 +5666,10 @@
     {
         "nickname": "DocTor",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "Exit01",
+        "asn": "AS132203"
     },
     {
         "nickname": "rapsodync",
@@ -28507,10 +28515,6 @@
     {
         "nickname": "mytornode",
         "asn": "AS57269"
-    },
-    {
-        "nickname": "forest22",
-        "asn": "AS399646"
     },
     {
         "nickname": "forest59",
