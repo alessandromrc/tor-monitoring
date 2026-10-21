@@ -3172,6 +3172,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "sahar",
+        "asn": "AS4766"
+    },
+    {
         "nickname": "artikel10ber49",
         "exit_address": [
             "185.220.101.13"
@@ -9520,6 +9524,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.206.202"
+        ],
         "asn": "AS25400"
     },
     {
@@ -20766,7 +20773,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -33268,6 +33275,10 @@
         "asn": "AS9371"
     },
     {
+        "nickname": "ariel",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "SigmaRelay01",
         "asn": "AS49581"
     },
@@ -35613,6 +35624,10 @@
     {
         "nickname": "ncbanerelay",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "sipebero",
+        "asn": "AS44486"
     },
     {
         "nickname": "NTH65R2",
