@@ -16817,6 +16817,10 @@
         "asn": "AS41075"
     },
     {
+        "nickname": "OneMoreTorRelay",
+        "asn": "AS395748"
+    },
+    {
         "nickname": "Quintex467",
         "exit_address": [
             "204.8.96.156"
@@ -18711,6 +18715,10 @@
     {
         "nickname": "Old4",
         "asn": "AS12876"
+    },
+    {
+        "nickname": "SCSRelay",
+        "asn": "AS398924"
     },
     {
         "nickname": "StormyCloud",
@@ -27523,9 +27531,6 @@
     },
     {
         "nickname": "Preacherjones",
-        "exit_address": [
-            "5.230.249.72"
-        ],
         "asn": "AS12586"
     },
     {
@@ -28197,10 +28202,6 @@
     {
         "nickname": "SpeakFriendAndEnter",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4713"
     },
     {
         "nickname": "loofawrld",
@@ -29788,6 +29789,9 @@
     },
     {
         "nickname": "9074149491597988",
+        "exit_address": [
+            "45.9.168.114"
+        ],
         "asn": "AS211619"
     },
     {
@@ -30371,6 +30375,10 @@
             "93.99.104.128"
         ],
         "asn": "AS16019"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
     },
     {
         "nickname": "BlackIce",
@@ -36699,6 +36707,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "FlashBoa",
         "asn": "AS215960"
     },
@@ -41846,6 +41858,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "DerrickJensen",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "DigiGesTor5e3",
         "exit_address": [
             "195.176.3.24"
@@ -42308,7 +42324,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "DaejeonR01",
+        "nickname": "tersestfishing97",
         "asn": "AS4766"
     },
     {
@@ -42507,9 +42523,6 @@
     },
     {
         "nickname": "TORKeFFORG19",
-        "exit_address": [
-            "193.189.100.199"
-        ],
         "asn": "AS41281"
     },
     {
