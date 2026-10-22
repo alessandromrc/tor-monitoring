@@ -1266,6 +1266,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "NextServ",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "Psyduck",
         "asn": "AS328364"
     },
@@ -4353,6 +4357,10 @@
     {
         "nickname": "boxoffice200",
         "asn": "AS18460"
+    },
+    {
+        "nickname": "NextServ",
+        "asn": "AS204464"
     },
     {
         "nickname": "NTH113R5",
@@ -9710,6 +9718,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "NextServ",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "GCRelay",
         "asn": "AS3269"
     },
@@ -14470,6 +14482,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "NextServ",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "Quintex441",
         "exit_address": [
             "204.8.96.64"
@@ -18396,6 +18412,10 @@
     {
         "nickname": "trafficnoise",
         "asn": "AS200019"
+    },
+    {
+        "nickname": "NextServ",
+        "asn": "AS204464"
     },
     {
         "nickname": "NTH54R6",
@@ -24732,6 +24752,10 @@
         "asn": "AS203003"
     },
     {
+        "nickname": "NextServ",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "edgeviz",
         "asn": "AS20473"
     },
@@ -25572,9 +25596,6 @@
     },
     {
         "nickname": "yomi",
-        "exit_address": [
-            "104.244.74.97"
-        ],
         "asn": "AS53667"
     },
     {
@@ -30568,9 +30589,6 @@
     },
     {
         "nickname": "TORNODE0909",
-        "exit_address": [
-            "185.236.24.248"
-        ],
         "asn": "AS50053"
     },
     {
@@ -34185,6 +34203,10 @@
         "asn": "AS395354"
     },
     {
+        "nickname": "lemurian",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "peteypablo",
         "asn": "AS36849"
     },
@@ -37105,6 +37127,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "NextServ",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "Brotfisch",
         "asn": "AS13030"
     },
@@ -37384,6 +37410,10 @@
     {
         "nickname": "frogmorton",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "NextServ",
+        "asn": "AS204464"
     },
     {
         "nickname": "rOckdAwg",
@@ -45063,6 +45093,10 @@
         "asn": "AS33255"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "mevolz2",
         "asn": "AS24940"
     },
@@ -45298,6 +45332,10 @@
     {
         "nickname": "noiddj",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
     },
     {
         "nickname": "HRMB",
