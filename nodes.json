@@ -5060,6 +5060,9 @@
     },
     {
         "nickname": "3GTor",
+        "exit_address": [
+            "193.200.221.85"
+        ],
         "asn": "AS56655"
     },
     {
@@ -13581,6 +13584,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "iscandar",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "richboy",
         "asn": "AS36849"
     },
@@ -16677,6 +16684,9 @@
     },
     {
         "nickname": "3GTor",
+        "exit_address": [
+            "193.200.221.85"
+        ],
         "asn": "AS56655"
     },
     {
@@ -17916,10 +17926,6 @@
         "asn": "AS63023"
     },
     {
-        "nickname": "dreary",
-        "asn": "AS51765"
-    },
-    {
         "nickname": "marvinmartian",
         "asn": "AS60404"
     },
@@ -18726,6 +18732,9 @@
     },
     {
         "nickname": "SCSRelay",
+        "exit_address": [
+            "78.141.219.102"
+        ],
         "asn": "AS398924"
     },
     {
@@ -22970,9 +22979,6 @@
     },
     {
         "nickname": "MyTorStar",
-        "exit_address": [
-            "185.100.86.181"
-        ],
         "asn": "AS200651"
     },
     {
@@ -23313,6 +23319,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -25190,10 +25199,6 @@
             "45.133.73.7"
         ],
         "asn": "AS211507"
-    },
-    {
-        "nickname": "GermanCraft18",
-        "asn": "AS31898"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -30386,6 +30391,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.98.162"
+        ],
         "asn": "AS197540"
     },
     {
@@ -33677,9 +33685,6 @@
     },
     {
         "nickname": "IWAITYOUINBIO",
-        "exit_address": [
-            "86.107.168.253"
-        ],
         "asn": "AS26832"
     },
     {
@@ -36716,6 +36721,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "5.45.98.162"
+        ],
         "asn": "AS197540"
     },
     {
@@ -39048,9 +39056,6 @@
     },
     {
         "nickname": "BringBackSilkRo",
-        "exit_address": [
-            "141.98.11.62"
-        ],
         "asn": "AS209605"
     },
     {
