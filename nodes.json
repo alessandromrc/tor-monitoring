@@ -30039,6 +30039,9 @@
     },
     {
         "nickname": "unbeatable",
+        "exit_address": [
+            "81.181.104.22"
+        ],
         "asn": "AS9009"
     },
     {
@@ -32321,6 +32324,10 @@
             "185.132.53.121"
         ],
         "asn": "AS211507"
+    },
+    {
+        "nickname": "sig9eva",
+        "asn": "AS6730"
     },
     {
         "nickname": "babybash",
@@ -36654,7 +36661,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "b0wlmanRelay",
+        "nickname": "relayNumber85793",
         "asn": "AS11427"
     },
     {
@@ -42005,6 +42012,9 @@
     },
     {
         "nickname": "DigcVvk",
+        "exit_address": [
+            "102.223.198.101"
+        ],
         "asn": "AS328888"
     },
     {
