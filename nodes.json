@@ -3784,10 +3784,6 @@
         "asn": "AS202422"
     },
     {
-        "nickname": "DJh2o2Entry",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "nyonyonyo2",
         "asn": "AS63770"
     },
@@ -11783,10 +11779,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "AritraRelay01",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "bauruine",
         "asn": "AS213438"
     },
@@ -12914,6 +12906,10 @@
             "204.8.96.77"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "AltBSZ01",
+        "asn": "AS56038"
     },
     {
         "nickname": "marcuse8",
@@ -19770,10 +19766,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "Olive",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "dotsrcExit9",
         "exit_address": [
             "185.129.61.9"
@@ -20779,7 +20771,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "myNiceRelay",
+        "nickname": "nerpa",
         "asn": "AS63949"
     },
     {
@@ -29717,10 +29709,6 @@
         "asn": "AS44925"
     },
     {
-        "nickname": "Miyano",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "lamarr",
         "asn": "AS208323"
     },
@@ -31601,6 +31589,10 @@
             "185.220.101.11"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "AltBKK03",
+        "asn": "AS56038"
     },
     {
         "nickname": "noack13i2",
@@ -42627,6 +42619,9 @@
     },
     {
         "nickname": "TORKeFFORG19",
+        "exit_address": [
+            "193.189.100.199"
+        ],
         "asn": "AS41281"
     },
     {
@@ -43187,10 +43182,6 @@
     {
         "nickname": "RelayUli",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "DJh2o2Mid",
-        "asn": "AS3209"
     },
     {
         "nickname": "Wakako",
