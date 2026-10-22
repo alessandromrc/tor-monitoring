@@ -13077,7 +13077,7 @@
         "asn": "AS35592"
     },
     {
-        "nickname": "zieselnetwork1",
+        "nickname": "zieselnetwork1A",
         "asn": "AS8283"
     },
     {
@@ -16506,10 +16506,6 @@
     {
         "nickname": "SchwarzeLocke5",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "alliumobserver",
-        "asn": "AS53667"
     },
     {
         "nickname": "DFRI89",
@@ -23944,6 +23940,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.135",
             "198.167.206.177"
         ],
         "asn": "AS39287"
@@ -35035,6 +35032,10 @@
     {
         "nickname": "clsmooth",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "tortron3000",
+        "asn": "AS3320"
     },
     {
         "nickname": "Bacon8ter",
@@ -46403,6 +46404,10 @@
             "204.8.96.86"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "gregtechrelay",
+        "asn": "AS197540"
     },
     {
         "nickname": "wedostor",
