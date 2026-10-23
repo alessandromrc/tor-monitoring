@@ -1765,6 +1765,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "piquant35118",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS41075"
     },
@@ -21710,7 +21714,7 @@
     },
     {
         "nickname": "crow",
-        "asn": "AS51167"
+        "asn": "AS200104"
     },
     {
         "nickname": "arapo",
@@ -45404,6 +45408,9 @@
     },
     {
         "nickname": "torexiteu10",
+        "exit_address": [
+            "62.144.62.10"
+        ],
         "asn": "AS204464"
     },
     {
