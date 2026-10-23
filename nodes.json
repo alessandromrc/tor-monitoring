@@ -12228,9 +12228,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "64.176.82.63"
-        ],
         "asn": "AS20473"
     },
     {
@@ -23995,8 +23992,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.135",
-            "198.167.206.177"
+            "198.167.206.135"
         ],
         "asn": "AS39287"
     },
@@ -32607,6 +32603,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "vDbafiffbyoypb",
+        "asn": "AS135377"
+    },
+    {
         "nickname": "kiloali",
         "asn": "AS36849"
     },
@@ -32663,6 +32663,10 @@
     {
         "nickname": "dumpsterfire1",
         "asn": "AS19148"
+    },
+    {
+        "nickname": "3k33pl2",
+        "asn": "AS203662"
     },
     {
         "nickname": "prsv",
