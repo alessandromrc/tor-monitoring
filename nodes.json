@@ -134,6 +134,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "pluto",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "anarchistcook",
         "exit_address": [
             "179.43.159.78"
@@ -3638,10 +3642,6 @@
         "asn": "AS30600"
     },
     {
-        "nickname": "badthread",
-        "asn": "AS213230"
-    },
-    {
         "nickname": "405tor8",
         "asn": "AS7018"
     },
@@ -4583,6 +4583,10 @@
     {
         "nickname": "pushypebble",
         "asn": "AS27176"
+    },
+    {
+        "nickname": "MyTempRelay",
+        "asn": "AS401443"
     },
     {
         "nickname": "relayon0179",
@@ -15158,6 +15162,10 @@
     {
         "nickname": "F24oSecondRelay",
         "asn": "AS44382"
+    },
+    {
+        "nickname": "BakedPotat0",
+        "asn": "AS29802"
     },
     {
         "nickname": "die",
@@ -42270,6 +42278,9 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
