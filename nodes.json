@@ -10058,6 +10058,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
@@ -30736,6 +30739,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "MaxRelay1",
+        "asn": "AS393577"
+    },
+    {
         "nickname": "pharcyde",
         "asn": "AS36849"
     },
@@ -36262,10 +36269,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "nbhkjoregf43",
-        "asn": "AS12479"
     },
     {
         "nickname": "thankssnowden1",
@@ -46075,6 +46078,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "185.183.157.214"
+        ],
         "asn": "AS197540"
     },
     {
