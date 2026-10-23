@@ -1479,6 +1479,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
+    },
+    {
         "nickname": "EUglowie",
         "asn": "AS8560"
     },
@@ -2492,10 +2496,6 @@
     {
         "nickname": "nfreal",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "LocalenbySGExit",
-        "asn": "AS63949"
     },
     {
         "nickname": "nsaPwned",
@@ -8061,7 +8061,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "nbgurt",
+        "nickname": "pussy",
         "asn": "AS24940"
     },
     {
@@ -10208,6 +10208,10 @@
     {
         "nickname": "Patator",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS3209"
     },
     {
         "nickname": "aphroditeRelay2",
@@ -17499,9 +17503,6 @@
     },
     {
         "nickname": "anduinExit01",
-        "exit_address": [
-            "185.42.170.203"
-        ],
         "asn": "AS62248"
     },
     {
@@ -17958,6 +17959,10 @@
             "192.42.116.105"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "CamiSlavRelay02",
+        "asn": "AS20473"
     },
     {
         "nickname": "lunay",
