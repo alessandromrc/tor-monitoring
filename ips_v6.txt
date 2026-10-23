@@ -864,6 +864,7 @@
 2620:7:6003::182
 2406:ef80:3:195e::1
 2a0f:cdc6:500:11e3::2
+2a01:4f8:1c1e:efcb::1
 2001:41d0:701:1100::c8bf
 2a01:4f9:c010:33ef::1
 2a0c:e300:b:b::b
@@ -1850,7 +1851,7 @@
 2a05:4140:3::2ac7
 2001:6b0:30:1000::100
 2001:bc8:6010:201:ae1f:6bff:fe27:3004
-2001:9e8:1a75:ac00:0:dead:beef:cafe
+2001:9e8:1a45:3e00:0:dead:beef:cafe
 2a01:239:369:e200::1
 2a09:be40:28ff:50:4c8d:fcff:fe52:e27d
 2a02:2479:58:be00::1
@@ -3334,7 +3335,6 @@ fd9f:2e19:3bcf::59:a8e6
 fd9f:2e19:3bcf::38:153c
 fd9f:2e19:3bcf::58:9208
 fd9f:2e19:3bcf::e4:8190
-fd9f:2e19:3bcf::d6:3216
 fd9f:2e19:3bcf::af:8a7d
 fd9f:2e19:3bcf::eb:60c7
 fd9f:2e19:3bcf::9d:3d3a
@@ -3724,6 +3724,7 @@ fd9f:2e19:3bcf::22:769f
 fd9f:2e19:3bcf::9b:86e2
 fd9f:2e19:3bcf::b6:eb5a
 fd9f:2e19:3bcf::b6:14ed
+fd9f:2e19:3bcf::a1:cf9d
 fd9f:2e19:3bcf::80:f42f
 fd9f:2e19:3bcf::db:60e1
 fd9f:2e19:3bcf::d6:2ee9
@@ -4382,7 +4383,7 @@ fd9f:2e19:3bcf::3b:a06b
 fd9f:2e19:3bcf::9f:1061
 fd9f:2e19:3bcf::72:2809
 fd9f:2e19:3bcf::50:d13c
-fd9f:2e19:3bcf::72:6b44
+fd9f:2e19:3bcf::d7:572a
 fd9f:2e19:3bcf::13:3cd9
 fd9f:2e19:3bcf::3e:5553
 fd9f:2e19:3bcf::4b:e042
