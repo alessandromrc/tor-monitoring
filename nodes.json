@@ -13164,9 +13164,6 @@
     },
     {
         "nickname": "H03S05Exit",
-        "exit_address": [
-            "138.226.239.88"
-        ],
         "asn": "AS44589"
     },
     {
@@ -18017,6 +18014,9 @@
     },
     {
         "nickname": "vandergriff",
+        "exit_address": [
+            "185.100.85.132"
+        ],
         "asn": "AS200651"
     },
     {
@@ -18052,10 +18052,6 @@
     {
         "nickname": "Bananenbakker",
         "asn": "AS1102"
-    },
-    {
-        "nickname": "none",
-        "asn": "AS3352"
     },
     {
         "nickname": "nuker",
@@ -18985,10 +18981,6 @@
     {
         "nickname": "pechgehabt",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "NetMonNetworksUK1",
-        "asn": "AS5089"
     },
     {
         "nickname": "NTH145R6",
@@ -30321,10 +30313,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "NetMonNetworksUK2",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "TorMsgqIO",
         "asn": "AS132986"
     },
@@ -31866,6 +31854,9 @@
     },
     {
         "nickname": "KoopaArmy",
+        "exit_address": [
+            "123.253.35.32"
+        ],
         "asn": "AS55720"
     },
     {
@@ -32342,10 +32333,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "NetMonNetworksUK4",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "crazy8s",
         "exit_address": [
             "194.15.113.171"
@@ -32669,6 +32656,9 @@
     },
     {
         "nickname": "3k33pl2",
+        "exit_address": [
+            "199.19.77.18"
+        ],
         "asn": "AS203662"
     },
     {
@@ -41504,10 +41494,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "NetMonNetworksUK3",
-        "asn": "AS5089"
-    },
-    {
         "nickname": "NTH18R3",
         "exit_address": [
             "192.42.116.18"
@@ -45672,6 +45658,9 @@
     },
     {
         "nickname": "HeyBroM",
+        "exit_address": [
+            "209.141.46.203"
+        ],
         "asn": "AS53667"
     },
     {
