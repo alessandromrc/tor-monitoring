@@ -23956,10 +23956,6 @@
         "asn": "AS215288"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "anonymityiscool",
         "exit_address": [
             "205.185.113.180"
@@ -30861,6 +30857,10 @@
     {
         "nickname": "nss",
         "asn": "AS393408"
+    },
+    {
+        "nickname": "uchoRelay",
+        "asn": "AS9318"
     },
     {
         "nickname": "torRelaySgp1",
@@ -46812,6 +46812,10 @@
     {
         "nickname": "TheBigShow",
         "asn": "AS399122"
+    },
+    {
+        "nickname": "torproxy02",
+        "asn": "AS12876"
     },
     {
         "nickname": "trigun",
