@@ -4144,10 +4144,6 @@
         "asn": "AS52048"
     },
     {
-        "nickname": "wrelay",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "Yam",
         "asn": "AS20473"
     },
@@ -5773,6 +5769,9 @@
     },
     {
         "nickname": "TakTor03",
+        "exit_address": [
+            "198.46.166.157"
+        ],
         "asn": "AS36352"
     },
     {
@@ -13571,6 +13570,9 @@
     },
     {
         "nickname": "jkimnot1",
+        "exit_address": [
+            "179.43.133.50"
+        ],
         "asn": "AS51852"
     },
     {
@@ -19772,10 +19774,6 @@
     {
         "nickname": "anothertorrelay",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "nixytor",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quintex516",
@@ -40523,10 +40521,6 @@
     {
         "nickname": "Satoshi",
         "asn": "AS52048"
-    },
-    {
-        "nickname": "ShaderNodeTx",
-        "asn": "AS63949"
     },
     {
         "nickname": "NTH61R6",
