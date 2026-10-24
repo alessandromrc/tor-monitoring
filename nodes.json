@@ -7274,10 +7274,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "torhaj",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "fmbdz",
         "asn": "AS36849"
     },
@@ -18358,6 +18354,9 @@
     },
     {
         "nickname": "america",
+        "exit_address": [
+            "79.99.78.99"
+        ],
         "asn": "AS212336"
     },
     {
@@ -19662,6 +19661,9 @@
     },
     {
         "nickname": "taiwan",
+        "exit_address": [
+            "213.210.4.3"
+        ],
         "asn": "AS212336"
     },
     {
@@ -23806,10 +23808,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS15704"
-    },
-    {
-        "nickname": "scummage",
-        "asn": "AS7018"
     },
     {
         "nickname": "TinCan",
@@ -29604,10 +29602,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "thegreatgonzo",
-        "asn": "AS62365"
-    },
-    {
         "nickname": "INSRelay42at5443",
         "asn": "AS1205"
     },
@@ -33817,10 +33811,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "a9scj8209pujnhr",
-        "asn": "AS64236"
-    },
-    {
         "nickname": "corruptedrangers",
         "asn": "AS51852"
     },
@@ -35131,6 +35121,9 @@
     },
     {
         "nickname": "japan",
+        "exit_address": [
+            "141.11.139.101"
+        ],
         "asn": "AS212336"
     },
     {
