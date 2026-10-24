@@ -439,10 +439,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "1272008509320607",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "largeprofessor",
         "asn": "AS36849"
     },
@@ -3703,6 +3699,10 @@
             "192.42.116.97"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Torchon",
+        "asn": "AS210535"
     },
     {
         "nickname": "SaltyCookies",
@@ -19653,10 +19653,6 @@
         "asn": "AS13030"
     },
     {
-        "nickname": "HALTor",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "khao",
         "asn": "AS35592"
     },
@@ -23958,7 +23954,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.135",
             "198.167.206.171"
         ],
         "asn": "AS39287"
