@@ -9267,9 +9267,6 @@
     },
     {
         "nickname": "MkoBul1Gtor",
-        "exit_address": [
-            "45.9.156.184"
-        ],
         "asn": "AS211619"
     },
     {
@@ -15218,9 +15215,6 @@
     },
     {
         "nickname": "DollyParted",
-        "exit_address": [
-            "194.36.190.112"
-        ],
         "asn": "AS60117"
     },
     {
@@ -43338,6 +43332,10 @@
     {
         "nickname": "seegurke",
         "asn": "AS3320"
+    },
+    {
+        "nickname": "hello",
+        "asn": "AS24940"
     },
     {
         "nickname": "BLAZIKEN",
