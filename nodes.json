@@ -280,6 +280,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "SickRelay",
+        "asn": "AS1221"
+    },
+    {
         "nickname": "NTH15R7",
         "exit_address": [
             "192.42.116.15"
@@ -5912,6 +5916,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "TorWaffleExit",
+        "asn": "AS21409"
+    },
+    {
         "nickname": "slotor03",
         "asn": "AS16276"
     },
@@ -9835,10 +9843,6 @@
     {
         "nickname": "LilleVemmelund",
         "asn": "AS9158"
-    },
-    {
-        "nickname": "LabMember004",
-        "asn": "AS19108"
     },
     {
         "nickname": "mims",
@@ -17388,9 +17392,6 @@
     },
     {
         "nickname": "MkoBul1Gtor",
-        "exit_address": [
-            "45.9.156.185"
-        ],
         "asn": "AS211619"
     },
     {
@@ -20388,6 +20389,10 @@
             "204.8.96.179"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "forestXX",
+        "asn": "AS15805"
     },
     {
         "nickname": "jadakiss",
@@ -29554,9 +29559,6 @@
     },
     {
         "nickname": "MkoBul1Gtor",
-        "exit_address": [
-            "45.9.156.183"
-        ],
         "asn": "AS211619"
     },
     {
@@ -40945,7 +40947,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -42461,9 +42463,6 @@
     },
     {
         "nickname": "Lungutor",
-        "exit_address": [
-            "142.249.174.12"
-        ],
         "asn": "AS205941"
     },
     {
