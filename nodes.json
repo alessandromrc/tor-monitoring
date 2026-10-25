@@ -2833,10 +2833,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "b8zs",
-        "asn": "AS33387"
-    },
-    {
         "nickname": "Quintex171",
         "exit_address": [
             "204.8.96.160"
@@ -4530,10 +4526,6 @@
         "asn": "AS8849"
     },
     {
-        "nickname": "5cmPerSeconds",
-        "asn": "AS215238"
-    },
-    {
         "nickname": "4546mDom",
         "asn": "AS29222"
     },
@@ -5716,10 +5708,6 @@
             "23.129.64.174"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "bytebybyte3319",
-        "asn": "AS701"
     },
     {
         "nickname": "forest48",
@@ -9258,6 +9246,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.184"
+        ],
         "asn": "AS211619"
     },
     {
@@ -10612,10 +10603,6 @@
             "185.181.61.203"
         ],
         "asn": "AS56655"
-    },
-    {
-        "nickname": "reblaze2",
-        "asn": "AS3209"
     },
     {
         "nickname": "anothertorrelay2",
@@ -12997,6 +12984,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "UltraVPS",
+        "asn": "AS53340"
     },
     {
         "nickname": "Freedom",
@@ -17381,6 +17372,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.185"
+        ],
         "asn": "AS211619"
     },
     {
@@ -25986,6 +25980,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "MonRelaiFramboise",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "berner",
         "asn": "AS36849"
     },
@@ -29543,6 +29541,9 @@
     },
     {
         "nickname": "MkoBul1Gtor",
+        "exit_address": [
+            "45.9.156.183"
+        ],
         "asn": "AS211619"
     },
     {
@@ -46494,6 +46495,10 @@
             "23.129.64.206"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "HighEndAdatikrit1",
+        "asn": "AS16276"
     },
     {
         "nickname": "TORKeFFORG33",
