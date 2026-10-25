@@ -5917,6 +5917,9 @@
     },
     {
         "nickname": "TorWaffleExit",
+        "exit_address": [
+            "178.170.25.112"
+        ],
         "asn": "AS21409"
     },
     {
@@ -25790,6 +25793,9 @@
     },
     {
         "nickname": "yomi",
+        "exit_address": [
+            "104.244.74.97"
+        ],
         "asn": "AS53667"
     },
     {
@@ -40941,7 +40947,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
