@@ -1882,9 +1882,6 @@
     },
     {
         "nickname": "stracchino",
-        "exit_address": [
-            "64.190.76.10"
-        ],
         "asn": "AS214094"
     },
     {
@@ -9673,10 +9670,6 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "Yenoki",
-        "asn": "AS216127"
-    },
-    {
         "nickname": "BananaNode03",
         "asn": "AS3301"
     },
@@ -15454,10 +15447,6 @@
             "171.25.193.20"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "StartOSRelay",
-        "asn": "AS12876"
     },
     {
         "nickname": "agnese",
@@ -29375,6 +29364,10 @@
             "204.8.96.155"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Enity",
+        "asn": "AS56971"
     },
     {
         "nickname": "LouneaGigabitFiber",
