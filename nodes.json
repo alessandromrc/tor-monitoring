@@ -3066,6 +3066,10 @@
         "asn": "AS202448"
     },
     {
+        "nickname": "FlutterTor",
+        "asn": "AS58087"
+    },
+    {
         "nickname": "thundercat",
         "asn": "AS36849"
     },
@@ -7347,6 +7351,10 @@
             "147.90.235.226"
         ],
         "asn": "AS27284"
+    },
+    {
+        "nickname": "aatebueli",
+        "asn": "AS24940"
     },
     {
         "nickname": "Curryrelay",
@@ -18286,6 +18294,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
+    },
+    {
         "nickname": "NTH64R2",
         "exit_address": [
             "192.42.116.64"
@@ -19831,9 +19843,6 @@
     },
     {
         "nickname": "corewars",
-        "exit_address": [
-            "148.135.75.210"
-        ],
         "asn": "AS35916"
     },
     {
@@ -27804,6 +27813,10 @@
     {
         "nickname": "masstordal",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
     },
     {
         "nickname": "ForPrivacyNET",
@@ -36917,6 +36930,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "sudoToMaxGiga0",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "mase",
         "asn": "AS36849"
     },
@@ -42700,10 +42717,6 @@
         "asn": "AS50304"
     },
     {
-        "nickname": "Ru13bR3aCk3R",
-        "asn": "AS40021"
-    },
-    {
         "nickname": "hashy1111",
         "asn": "AS38074"
     },
@@ -44832,7 +44845,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
