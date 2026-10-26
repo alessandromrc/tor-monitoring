@@ -9577,7 +9577,7 @@
 /ip firewall address-list add list=tor_ipv4 address=10.163.94.244 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.34.219.54 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.79.76.94 comment="tor_ipv4/tor-monitoring"
-/ip firewall address-list add list=tor_ipv4 address=10.218.98.58 comment="tor_ipv4/tor-monitoring"
+/ip firewall address-list add list=tor_ipv4 address=10.34.126.202 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.240.10.194 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.241.244.20 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.248.167.109 comment="tor_ipv4/tor-monitoring"
