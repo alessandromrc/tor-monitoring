@@ -4084,10 +4084,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "wokestaywokestay",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "JohnMcClane",
         "asn": "AS202422"
     },
@@ -4838,6 +4834,10 @@
     {
         "nickname": "estgee",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
     },
     {
         "nickname": "fumofumo",
@@ -5911,6 +5911,10 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
     },
     {
         "nickname": "XMRisGoldCrypto",
@@ -11800,6 +11804,10 @@
         "asn": "AS48900"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "floraison",
         "asn": "AS12586"
     },
@@ -14218,6 +14226,10 @@
         "asn": "AS48101"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "youngboyneverbroke",
         "asn": "AS36849"
     },
@@ -14910,6 +14922,10 @@
         "asn": "AS210731"
     },
     {
+        "nickname": "jeffsbaum",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "ForDemocracy4",
         "asn": "AS16276"
     },
@@ -14968,9 +14984,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.241"
-        ],
         "asn": "AS205100"
     },
     {
@@ -23178,6 +23191,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "DFRI73",
         "exit_address": [
             "171.25.193.38"
@@ -24306,6 +24323,10 @@
     {
         "nickname": "TheKid3",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS197540"
     },
     {
         "nickname": "BSDrelay03",
@@ -27662,6 +27683,9 @@
     },
     {
         "nickname": "Preacherjones",
+        "exit_address": [
+            "5.230.249.72"
+        ],
         "asn": "AS12586"
     },
     {
@@ -35448,6 +35472,9 @@
     },
     {
         "nickname": "Yeereereeim",
+        "exit_address": [
+            "172.81.132.94"
+        ],
         "asn": "AS27176"
     },
     {
@@ -39175,6 +39202,9 @@
     },
     {
         "nickname": "BringBackSilkRo",
+        "exit_address": [
+            "141.98.11.62"
+        ],
         "asn": "AS209605"
     },
     {
@@ -41333,10 +41363,6 @@
     {
         "nickname": "ForDemocracy7",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "MyN150Relay",
-        "asn": "AS6730"
     },
     {
         "nickname": "digitalsquid2",
