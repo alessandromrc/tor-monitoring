@@ -2760,10 +2760,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
-    },
-    {
         "nickname": "yuripearl",
         "asn": "AS36849"
     },
@@ -6884,10 +6880,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "Pizzahut",
         "asn": "AS3223"
     },
@@ -8274,10 +8266,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "nelly",
         "asn": "AS36849"
     },
@@ -9452,10 +9440,6 @@
     {
         "nickname": "FuckYouPutin",
         "asn": "AS6871"
-    },
-    {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
     },
     {
         "nickname": "Quintex111",
@@ -11719,6 +11703,9 @@
     },
     {
         "nickname": "WepZone",
+        "exit_address": [
+            "44.30.4.69"
+        ],
         "asn": "AS210100"
     },
     {
@@ -24210,10 +24197,6 @@
         "asn": "AS40029"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS3215"
     },
@@ -25855,6 +25838,10 @@
     {
         "nickname": "RunARelayTheySaid",
         "asn": "AS855"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS852"
     },
     {
         "nickname": "richhomie",
@@ -30506,10 +30493,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "torexitams10",
         "exit_address": [
             "45.66.35.30"
@@ -33924,10 +33907,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "IWAITYOUINBIO",
         "asn": "AS26832"
     },
@@ -34442,10 +34421,6 @@
             "171.25.193.80"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
     },
     {
         "nickname": "Durst",
@@ -41634,10 +41609,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "UnredactedXMR",
         "exit_address": [
             "23.191.200.29"
@@ -41650,10 +41621,6 @@
             "212.86.125.110"
         ],
         "asn": "AS43641"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS12876"
     },
     {
         "nickname": "SOL12net",
