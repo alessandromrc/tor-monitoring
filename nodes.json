@@ -7611,10 +7611,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "4205091860390074",
-        "asn": "AS211507"
-    },
-    {
         "nickname": "souljaboy",
         "asn": "AS36849"
     },
@@ -8046,6 +8042,9 @@
     },
     {
         "nickname": "clarkquay",
+        "exit_address": [
+            "185.225.69.214"
+        ],
         "asn": "AS41075"
     },
     {
@@ -16247,6 +16246,10 @@
         "asn": "AS400226"
     },
     {
+        "nickname": "DeathscythHell",
+        "asn": "AS56153"
+    },
+    {
         "nickname": "durkio",
         "asn": "AS36849"
     },
@@ -19287,10 +19290,6 @@
             "204.8.96.89"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "order",
-        "asn": "AS51852"
     },
     {
         "nickname": "torexiteu13b",
@@ -27847,9 +27846,6 @@
     },
     {
         "nickname": "F3Netze",
-        "exit_address": [
-            "185.220.100.242"
-        ],
         "asn": "AS205100"
     },
     {
@@ -31570,10 +31566,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "MyN150Relay",
-        "asn": "AS6730"
-    },
-    {
         "nickname": "mentoreth16",
         "exit_address": [
             "5.2.69.85"
@@ -34022,10 +34014,6 @@
     {
         "nickname": "geadsbeytesm",
         "asn": "AS1136"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4766"
     },
     {
         "nickname": "SkyEarthWater38519",
@@ -39776,6 +39764,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "schnookums",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "borg",
         "asn": "AS208323"
     },
@@ -39923,6 +39915,10 @@
             "46.232.251.191"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "frank",
+        "asn": "AS6718"
     },
     {
         "nickname": "FreedomAgainstPutin",
@@ -40475,6 +40471,10 @@
             "185.220.101.38"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "DoubleTrouble",
+        "asn": "AS204615"
     },
     {
         "nickname": "trueprivate",
@@ -45654,6 +45654,10 @@
             "178.20.55.182"
         ],
         "asn": "AS29075"
+    },
+    {
+        "nickname": "DoubleX",
+        "asn": "AS56153"
     },
     {
         "nickname": "NTH19R2",
