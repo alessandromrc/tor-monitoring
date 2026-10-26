@@ -13331,10 +13331,6 @@
         "asn": "AS3209"
     },
     {
-        "nickname": "runesandrelics",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "hellowebtun2",
         "asn": "AS20473"
     },
@@ -15008,6 +15004,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.241"
+        ],
         "asn": "AS205100"
     },
     {
@@ -17863,6 +17862,9 @@
     },
     {
         "nickname": "relayondagon",
+        "exit_address": [
+            "185.220.100.247"
+        ],
         "asn": "AS205100"
     },
     {
@@ -18805,6 +18807,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.241"
+        ],
         "asn": "AS205100"
     },
     {
@@ -19696,6 +19701,9 @@
     },
     {
         "nickname": "relayonfrazUrbluu",
+        "exit_address": [
+            "185.220.100.250"
+        ],
         "asn": "AS205100"
     },
     {
@@ -25483,6 +25491,9 @@
     },
     {
         "nickname": "1647429688731596",
+        "exit_address": [
+            "185.132.53.27"
+        ],
         "asn": "AS211507"
     },
     {
@@ -27907,6 +27918,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.242"
+        ],
         "asn": "AS205100"
     },
     {
@@ -29705,6 +29719,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.243"
+        ],
         "asn": "AS205100"
     },
     {
@@ -36104,6 +36121,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.242"
+        ],
         "asn": "AS205100"
     },
     {
@@ -38445,6 +38465,9 @@
     },
     {
         "nickname": "relayoneltab",
+        "exit_address": [
+            "185.220.100.249"
+        ],
         "asn": "AS205100"
     },
     {
@@ -40779,7 +40802,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -41884,6 +41907,9 @@
     },
     {
         "nickname": "relayongorellik",
+        "exit_address": [
+            "185.220.100.251"
+        ],
         "asn": "AS205100"
     },
     {
@@ -42283,6 +42309,9 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
@@ -43795,6 +43824,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.243"
+        ],
         "asn": "AS205100"
     },
     {
@@ -45575,6 +45607,9 @@
     },
     {
         "nickname": "relayondemogorgon",
+        "exit_address": [
+            "185.220.100.246"
+        ],
         "asn": "AS205100"
     },
     {
