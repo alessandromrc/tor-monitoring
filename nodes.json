@@ -7291,6 +7291,10 @@
         "asn": "AS8764"
     },
     {
+        "nickname": "TorExitRelay",
+        "asn": "AS399629"
+    },
+    {
         "nickname": "ioooi",
         "asn": "AS20473"
     },
@@ -16179,6 +16183,9 @@
     },
     {
         "nickname": "relayondiinkarazan",
+        "exit_address": [
+            "185.220.100.248"
+        ],
         "asn": "AS205100"
     },
     {
@@ -19332,6 +19339,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "order",
+        "asn": "AS51852"
+    },
+    {
         "nickname": "torexiteu13b",
         "asn": "AS204464"
     },
@@ -20218,10 +20229,6 @@
             "204.8.96.163"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "LibreGentoo",
-        "asn": "AS46109"
     },
     {
         "nickname": "OgresHaveLayers",
@@ -21576,6 +21583,10 @@
     {
         "nickname": "bornhack2",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "baronCV3",
+        "asn": "AS20860"
     },
     {
         "nickname": "TORKeFFORG24",
@@ -28163,6 +28174,9 @@
     },
     {
         "nickname": "ExitsAintEZ",
+        "exit_address": [
+            "51.91.18.151"
+        ],
         "asn": "AS16276"
     },
     {
@@ -35220,6 +35234,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "sprucegoose",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "Conomette",
         "asn": "AS26832"
     },
@@ -36785,6 +36803,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS39622"
+    },
+    {
+        "nickname": "StumpRoutes",
+        "asn": "AS210558"
     },
     {
         "nickname": "sorgerecht",
@@ -42423,6 +42445,10 @@
     {
         "nickname": "TangeNLV",
         "asn": "AS42541"
+    },
+    {
+        "nickname": "DS19TorRelay",
+        "asn": "AS9198"
     },
     {
         "nickname": "MetalRelay1",
