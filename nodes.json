@@ -5444,6 +5444,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "BlackboxNode",
+        "asn": "AS51290"
+    },
+    {
         "nickname": "myNiceRelay",
         "asn": "AS19799"
     },
@@ -5867,10 +5871,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MagicTorRelay",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "knottedhair",
         "asn": "AS36849"
     },
@@ -6078,9 +6078,6 @@
     },
     {
         "nickname": "initramfs",
-        "exit_address": [
-            "114.35.245.150"
-        ],
         "asn": "AS3462"
     },
     {
@@ -40797,7 +40794,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -43357,6 +43354,10 @@
     {
         "nickname": "LilPump",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "sh97JP101R",
+        "asn": "AS9009"
     },
     {
         "nickname": "usaIOtor1",
