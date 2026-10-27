@@ -5445,6 +5445,9 @@
     },
     {
         "nickname": "BlackboxNode",
+        "exit_address": [
+            "31.133.0.204"
+        ],
         "asn": "AS51290"
     },
     {
@@ -6078,6 +6081,9 @@
     },
     {
         "nickname": "initramfs",
+        "exit_address": [
+            "114.35.245.150"
+        ],
         "asn": "AS3462"
     },
     {
@@ -7452,6 +7458,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "MiRelayBGR",
+        "asn": "AS396982"
+    },
+    {
         "nickname": "xuezhang",
         "asn": "AS48266"
     },
@@ -7866,10 +7876,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "KllxxTest",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "milkywayz",
         "asn": "AS3209"
     },
@@ -8164,10 +8170,6 @@
             "23.137.254.244"
         ],
         "asn": "AS40663"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
     },
     {
         "nickname": "absturztaubetor",
@@ -13703,10 +13705,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "Zeph9Ward",
         "asn": "AS63949"
     },
@@ -15163,6 +15161,10 @@
     {
         "nickname": "murphylee",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MyObfs4Bridge",
+        "asn": "AS216071"
     },
     {
         "nickname": "surroundingechoes",
@@ -16993,10 +16995,6 @@
     {
         "nickname": "utf3funjckwg",
         "asn": "AS42708"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
     },
     {
         "nickname": "FreeExit",
@@ -20251,10 +20249,6 @@
         "asn": "AS204464"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "7thheaven",
         "asn": "AS214209"
     },
@@ -21310,10 +21304,6 @@
     {
         "nickname": "nanotor5",
         "asn": "AS63949"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
     },
     {
         "nickname": "Augustiner1328",
@@ -31541,10 +31531,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "NTH301R4",
         "asn": "AS206238"
     },
@@ -31614,10 +31600,6 @@
     {
         "nickname": "24hrs",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "KllxTest",
-        "asn": "AS16276"
     },
     {
         "nickname": "Unnamed",
@@ -32676,6 +32658,10 @@
     {
         "nickname": "Planetclaire62",
         "asn": "AS63023"
+    },
+    {
+        "nickname": "centorLyon",
+        "asn": "AS12322"
     },
     {
         "nickname": "ArcticFrost",
@@ -35353,10 +35339,6 @@
     {
         "nickname": "noack12i1",
         "asn": "AS30893"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS10429"
     },
     {
         "nickname": "FatBoyPizzaTwo",
