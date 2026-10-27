@@ -3112,10 +3112,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MeinExitNode",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS7018"
     },
@@ -6209,6 +6205,9 @@
     },
     {
         "nickname": "DingBerry",
+        "exit_address": [
+            "198.98.61.60"
+        ],
         "asn": "AS53667"
     },
     {
@@ -10374,9 +10373,6 @@
     },
     {
         "nickname": "Torsniff89d8f7",
-        "exit_address": [
-            "167.88.175.160"
-        ],
         "asn": "AS14956"
     },
     {
@@ -28190,6 +28186,10 @@
         "asn": "AS6517"
     },
     {
+        "nickname": "NTH92R",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "bauruine",
         "exit_address": [
             "185.243.218.232"
@@ -35134,9 +35134,6 @@
     },
     {
         "nickname": "japan",
-        "exit_address": [
-            "141.11.139.101"
-        ],
         "asn": "AS212336"
     },
     {
