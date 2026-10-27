@@ -2567,10 +2567,6 @@
         "asn": "AS40676"
     },
     {
-        "nickname": "VerdalabSGN01",
-        "asn": "AS7552"
-    },
-    {
         "nickname": "PrivacyComDeR4",
         "asn": "AS8560"
     },
@@ -3029,9 +3025,6 @@
     },
     {
         "nickname": "torjockel",
-        "exit_address": [
-            "149.56.44.47"
-        ],
         "asn": "AS16276"
     },
     {
@@ -3285,6 +3278,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.49.235"
+        ],
         "asn": "AS197540"
     },
     {
@@ -12321,7 +12317,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Tokoroa",
+        "nickname": "Sheeeeeeep",
         "exit_address": [
             "118.67.198.54"
         ],
@@ -15188,6 +15184,9 @@
     },
     {
         "nickname": "DollyParted",
+        "exit_address": [
+            "194.36.190.112"
+        ],
         "asn": "AS60117"
     },
     {
@@ -15295,10 +15294,6 @@
             "147.90.235.16"
         ],
         "asn": "AS27284"
-    },
-    {
-        "nickname": "demise",
-        "asn": "AS213250"
     },
     {
         "nickname": "syndicateguys",
@@ -23297,6 +23292,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "188.68.49.235"
+        ],
         "asn": "AS197540"
     },
     {
@@ -23957,9 +23955,6 @@
     },
     {
         "nickname": "Antisheep",
-        "exit_address": [
-            "5.255.117.56"
-        ],
         "asn": "AS60404"
     },
     {
@@ -46291,6 +46286,10 @@
     {
         "nickname": "theprivacyhaven",
         "asn": "AS21409"
+    },
+    {
+        "nickname": "XDefExit",
+        "asn": "AS20473"
     },
     {
         "nickname": "prsv",
