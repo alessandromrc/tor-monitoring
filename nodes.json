@@ -1317,6 +1317,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "608c7556fff2e",
+        "asn": "AS401701"
+    },
+    {
         "nickname": "WanderingDwarfMiner",
         "asn": "AS53667"
     },
@@ -5396,10 +5400,6 @@
     {
         "nickname": "Pumkor",
         "asn": "AS63949"
-    },
-    {
-        "nickname": "nobodly",
-        "asn": "AS12312"
     },
     {
         "nickname": "MyTorRelayNode12345",
@@ -25353,9 +25353,6 @@
     },
     {
         "nickname": "death",
-        "exit_address": [
-            "93.113.25.109"
-        ],
         "asn": "AS215659"
     },
     {
@@ -27224,9 +27221,6 @@
     },
     {
         "nickname": "drear",
-        "exit_address": [
-            "45.38.20.213"
-        ],
         "asn": "AS215659"
     },
     {
@@ -38361,9 +38355,6 @@
     },
     {
         "nickname": "dismal",
-        "exit_address": [
-            "150.40.117.43"
-        ],
         "asn": "AS215659"
     },
     {
@@ -40825,7 +40816,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
