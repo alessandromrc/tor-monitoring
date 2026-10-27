@@ -6856,10 +6856,6 @@
         "asn": "AS12322"
     },
     {
-        "nickname": "server17r1",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "NFOrce",
         "asn": "AS43350"
     },
@@ -7292,6 +7288,9 @@
     },
     {
         "nickname": "TorExitRelay",
+        "exit_address": [
+            "69.48.228.178"
+        ],
         "asn": "AS399629"
     },
     {
@@ -12561,10 +12560,6 @@
     {
         "nickname": "poussin",
         "asn": "AS197648"
-    },
-    {
-        "nickname": "Rotpo",
-        "asn": "AS14061"
     },
     {
         "nickname": "slugatm",
@@ -21586,6 +21581,9 @@
     },
     {
         "nickname": "baronCV3",
+        "exit_address": [
+            "212.38.189.186"
+        ],
         "asn": "AS20860"
     },
     {
@@ -31938,6 +31936,9 @@
     },
     {
         "nickname": "KoopaArmy",
+        "exit_address": [
+            "123.253.35.32"
+        ],
         "asn": "AS55720"
     },
     {
@@ -36325,7 +36326,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "GuardYourAS2",
+        "nickname": "GuardYourAs2",
         "asn": "AS46375"
     },
     {
@@ -39465,10 +39466,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "RincesBSDRelay1",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "LocalenbyCAExit",
         "exit_address": [
             "172.105.20.12"
@@ -42080,6 +42077,10 @@
         "asn": "AS41281"
     },
     {
+        "nickname": "despacitor",
+        "asn": "AS12876"
+    },
+    {
         "nickname": "nickiminaj",
         "asn": "AS36849"
     },
@@ -44214,10 +44215,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "server17r3",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "NTH164R1",
         "asn": "AS215125"
     },
@@ -44927,7 +44924,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -46843,10 +46840,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "server17r2",
-        "asn": "AS8560"
-    },
-    {
         "nickname": "AntsUnderMySkin",
         "asn": "AS199087"
     },
@@ -47494,10 +47487,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "lilyachty",
         "asn": "AS36849"
     },
@@ -47515,10 +47504,6 @@
     {
         "nickname": "LongLiveTheOnion",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "Torball",
-        "asn": "AS205021"
     },
     {
         "nickname": "1blu4DEicebeer01",
