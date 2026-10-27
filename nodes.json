@@ -12319,6 +12319,7 @@
     {
         "nickname": "Sheeeeeeep",
         "exit_address": [
+            "118.67.196.83",
             "118.67.198.54"
         ],
         "asn": "AS64073"
@@ -27502,9 +27503,6 @@
     },
     {
         "nickname": "vanzetti",
-        "exit_address": [
-            "185.39.207.83"
-        ],
         "asn": "AS215540"
     },
     {
@@ -27814,9 +27812,6 @@
     },
     {
         "nickname": "CtayExit2",
-        "exit_address": [
-            "45.9.156.131"
-        ],
         "asn": "AS211619"
     },
     {
@@ -36252,9 +36247,6 @@
     },
     {
         "nickname": "CtayExit",
-        "exit_address": [
-            "45.9.156.131"
-        ],
         "asn": "AS211619"
     },
     {
@@ -36635,10 +36627,6 @@
     {
         "nickname": "lachrymator",
         "asn": "AS7018"
-    },
-    {
-        "nickname": "apertures",
-        "asn": "AS35467"
     },
     {
         "nickname": "reallayer",
@@ -40816,7 +40804,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -46285,6 +46273,9 @@
     },
     {
         "nickname": "XDefExit",
+        "exit_address": [
+            "45.63.59.217"
+        ],
         "asn": "AS20473"
     },
     {
@@ -47815,6 +47806,10 @@
     {
         "nickname": "lunoxia",
         "asn": "AS48314"
+    },
+    {
+        "nickname": "surfeasy",
+        "asn": "AS53667"
     },
     {
         "nickname": "PyotrTorpotkinOne",
