@@ -12043,10 +12043,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS49447"
-    },
-    {
         "nickname": "TorExitRomania",
         "exit_address": [
             "185.165.171.84"
@@ -15348,10 +15344,6 @@
         "asn": "AS5466"
     },
     {
-        "nickname": "Nobody",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "shordieshordie",
         "asn": "AS36849"
     },
@@ -16176,6 +16168,9 @@
     },
     {
         "nickname": "syndicateguys",
+        "exit_address": [
+            "198.98.57.151"
+        ],
         "asn": "AS53667"
     },
     {
@@ -19021,6 +19016,10 @@
     {
         "nickname": "pechgehabt",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "NetMonNetworksUK1",
+        "asn": "AS5089"
     },
     {
         "nickname": "NTH145R6",
@@ -23693,10 +23692,6 @@
     {
         "nickname": "littlesimz",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "VaticanRelay",
-        "asn": "AS4181"
     },
     {
         "nickname": "schildkroete",
@@ -30358,6 +30353,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "NetMonNetworksUK2",
+        "asn": "AS5089"
+    },
+    {
         "nickname": "TorMsgqIO",
         "asn": "AS132986"
     },
@@ -31801,10 +31800,6 @@
     {
         "nickname": "FTPhalifaxRWTH",
         "asn": "AS47610"
-    },
-    {
-        "nickname": "BiostarRelay",
-        "asn": "AS52573"
     },
     {
         "nickname": "MZTE",
@@ -34065,10 +34060,6 @@
     {
         "nickname": "SkyEarthWater38519",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "TerenceHill",
-        "asn": "AS51167"
     },
     {
         "nickname": "NothePktsUrLooknFor",
@@ -41998,6 +41989,9 @@
     },
     {
         "nickname": "c4sey",
+        "exit_address": [
+            "198.98.62.158"
+        ],
         "asn": "AS53667"
     },
     {
