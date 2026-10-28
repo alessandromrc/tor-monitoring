@@ -2818,6 +2818,10 @@
         "asn": "AS26042"
     },
     {
+        "nickname": "myNiceRelay",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "bigmoochiegrape",
         "asn": "AS36849"
     },
@@ -6063,6 +6067,9 @@
     },
     {
         "nickname": "initramfs",
+        "exit_address": [
+            "114.35.245.150"
+        ],
         "asn": "AS3462"
     },
     {
@@ -8401,6 +8408,10 @@
     {
         "nickname": "storm",
         "asn": "AS63023"
+    },
+    {
+        "nickname": "LocalenbyNL",
+        "asn": "AS214677"
     },
     {
         "nickname": "1981",
@@ -12236,10 +12247,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "holu",
-        "asn": "AS24940"
     },
     {
         "nickname": "UnredactedFelt",
@@ -23278,6 +23285,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Brubaker9",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NFOrce",
         "asn": "AS43350"
     },
@@ -30660,10 +30671,6 @@
         "asn": "AS57811"
     },
     {
-        "nickname": "TORNODE0909",
-        "asn": "AS50053"
-    },
-    {
         "nickname": "lilskies",
         "asn": "AS36849"
     },
@@ -32307,6 +32314,10 @@
     {
         "nickname": "magic848relay",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "zerberusTor",
+        "asn": "AS15943"
     },
     {
         "nickname": "NTH62R6",
@@ -35687,6 +35698,10 @@
     {
         "nickname": "NightLantern01",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "wolverine",
+        "asn": "AS29802"
     },
     {
         "nickname": "TheShadowRoute15",
@@ -40723,9 +40738,6 @@
     },
     {
         "nickname": "ExitFromPL4Me",
-        "exit_address": [
-            "13.143.167.5"
-        ],
         "asn": "AS201988"
     },
     {
