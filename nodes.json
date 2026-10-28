@@ -2052,6 +2052,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "jiggy",
+        "asn": "AS136258"
+    },
+    {
         "nickname": "eo222",
         "exit_address": [
             "23.129.64.222"
@@ -8511,6 +8515,9 @@
     },
     {
         "nickname": "BifrostBridge",
+        "exit_address": [
+            "150.40.127.145"
+        ],
         "asn": "AS211619"
     },
     {
@@ -14252,6 +14259,9 @@
     },
     {
         "nickname": "Lungutor",
+        "exit_address": [
+            "142.249.174.12"
+        ],
         "asn": "AS205941"
     },
     {
@@ -33284,6 +33294,10 @@
         "asn": "AS204464"
     },
     {
+        "nickname": "ididntedittheconfig",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "getoboys",
         "asn": "AS36849"
     },
@@ -36024,10 +36038,6 @@
     {
         "nickname": "ryanlewis",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TorRelay7604161",
-        "asn": "AS7922"
     },
     {
         "nickname": "artikel10ber12",
