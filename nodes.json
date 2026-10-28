@@ -6067,9 +6067,6 @@
     },
     {
         "nickname": "initramfs",
-        "exit_address": [
-            "114.35.245.150"
-        ],
         "asn": "AS3462"
     },
     {
@@ -17243,10 +17240,6 @@
             "192.42.116.54"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "toad",
-        "asn": "AS24940"
     },
     {
         "nickname": "MyMiddleRelay3",
