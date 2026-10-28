@@ -4475,10 +4475,6 @@
         "asn": "AS200303"
     },
     {
-        "nickname": "hhInhibitorsDE",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "marcuse10",
         "exit_address": [
             "178.20.55.182"
@@ -12319,8 +12315,7 @@
     {
         "nickname": "Sheeeeeeep",
         "exit_address": [
-            "118.67.196.83",
-            "118.67.198.54"
+            "118.67.196.83"
         ],
         "asn": "AS64073"
     },
@@ -17837,6 +17832,10 @@
             "185.220.100.247"
         ],
         "asn": "AS205100"
+    },
+    {
+        "nickname": "KallimaRelay2",
+        "asn": "AS577"
     },
     {
         "nickname": "gimma",
@@ -40718,7 +40717,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -44821,7 +44820,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
