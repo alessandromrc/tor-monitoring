@@ -1867,6 +1867,9 @@
     },
     {
         "nickname": "stracchino",
+        "exit_address": [
+            "64.190.76.10"
+        ],
         "asn": "AS214094"
     },
     {
@@ -4323,10 +4326,6 @@
         "asn": "AS25795"
     },
     {
-        "nickname": "Piratenpartei01",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "TheSwampRelay1",
         "asn": "AS4609"
     },
@@ -6194,6 +6193,10 @@
     {
         "nickname": "SomeTorinAS200462",
         "asn": "AS200462"
+    },
+    {
+        "nickname": "goldensnitch",
+        "asn": "AS16276"
     },
     {
         "nickname": "Quintex270",
@@ -8955,6 +8958,10 @@
     {
         "nickname": "atrisqueladay",
         "asn": "AS6192"
+    },
+    {
+        "nickname": "quaffle",
+        "asn": "AS16276"
     },
     {
         "nickname": "VeniVidiVici",
@@ -20588,6 +20595,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS48161"
+    },
+    {
         "nickname": "Caramelo",
         "asn": "AS136258"
     },
@@ -25000,10 +25011,6 @@
         "asn": "AS27176"
     },
     {
-        "nickname": "Piratenpartei02",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "torexiteu05",
         "asn": "AS204464"
     },
@@ -25566,6 +25573,10 @@
             "45.66.35.38"
         ],
         "asn": "AS61125"
+    },
+    {
+        "nickname": "Art3mis",
+        "asn": "AS16276"
     },
     {
         "nickname": "lunar9",
@@ -28020,6 +28031,10 @@
         "asn": "AS24961"
     },
     {
+        "nickname": "cello",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "3hn92a",
         "asn": "AS41079"
     },
@@ -28640,10 +28655,6 @@
     {
         "nickname": "MyCore2Tor",
         "asn": "AS398242"
-    },
-    {
-        "nickname": "Piratenpartei03",
-        "asn": "AS197540"
     },
     {
         "nickname": "Unnamed",
@@ -29394,10 +29405,6 @@
     {
         "nickname": "smino",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Piratenpartei04",
-        "asn": "AS197540"
     },
     {
         "nickname": "QuintexAirVPN21",
@@ -30273,6 +30280,10 @@
     {
         "nickname": "maggo",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "violin",
+        "asn": "AS16276"
     },
     {
         "nickname": "2chainz",
@@ -31556,10 +31567,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "Piratenpartei12",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "24hrs",
         "asn": "AS36849"
     },
@@ -31717,6 +31724,9 @@
     },
     {
         "nickname": "gorgonzola",
+        "exit_address": [
+            "64.190.76.11"
+        ],
         "asn": "AS214094"
     },
     {
@@ -36674,10 +36684,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "Piratenpartei13",
-        "asn": "AS197540"
     },
     {
         "nickname": "relayNumber85793",
@@ -47430,6 +47436,10 @@
     {
         "nickname": "bizzybone",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "bludger2",
+        "asn": "AS16276"
     },
     {
         "nickname": "velarde",
