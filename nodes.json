@@ -306,9 +306,6 @@
     },
     {
         "nickname": "motauri",
-        "exit_address": [
-            "95.143.193.125"
-        ],
         "asn": "AS49770"
     },
     {
@@ -4390,10 +4387,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "guidemenow",
-        "asn": "AS209825"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.234.214"
@@ -4919,6 +4912,10 @@
     {
         "nickname": "ivasi",
         "asn": "AS207569"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS48753"
     },
     {
         "nickname": "Quintex442",
@@ -19780,9 +19777,6 @@
     },
     {
         "nickname": "jailbreakuriphone",
-        "exit_address": [
-            "167.179.117.50"
-        ],
         "asn": "AS20473"
     },
     {
@@ -23167,9 +23161,6 @@
     },
     {
         "nickname": "WYSWYG",
-        "exit_address": [
-            "109.228.160.190"
-        ],
         "asn": "AS8473"
     },
     {
@@ -23733,6 +23724,10 @@
     {
         "nickname": "forest09",
         "asn": "AS36352"
+    },
+    {
+        "nickname": "DeSSet",
+        "asn": "AS214481"
     },
     {
         "nickname": "Quintex290",
@@ -33351,6 +33346,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "alefwayod",
+        "asn": "AS28753"
+    },
+    {
         "nickname": "QuintexColinNSarah",
         "exit_address": [
             "204.8.96.111"
@@ -42478,6 +42477,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "t1btest",
+        "asn": "AS204770"
+    },
+    {
         "nickname": "sinilaukka",
         "asn": "AS719"
     },
@@ -44889,10 +44892,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "Chemsworth",
-        "asn": "AS42237"
     },
     {
         "nickname": "Quintex530",
