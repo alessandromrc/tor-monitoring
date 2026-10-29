@@ -19716,9 +19716,6 @@
     },
     {
         "nickname": "taiwan",
-        "exit_address": [
-            "213.210.4.3"
-        ],
         "asn": "AS212336"
     },
     {
@@ -40384,6 +40381,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Montelibero",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "sorry4nothing",
         "asn": "AS6730"
     },
@@ -42835,6 +42836,10 @@
             "45.66.35.46"
         ],
         "asn": "AS61125"
+    },
+    {
+        "nickname": "t1btest",
+        "asn": "AS204770"
     },
     {
         "nickname": "twista",
