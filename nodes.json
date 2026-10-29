@@ -10271,6 +10271,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "zrelay",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "djunkwalkit",
         "asn": "AS36849"
     },
@@ -22386,6 +22390,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "EgerRelay",
+        "asn": "AS21334"
+    },
+    {
         "nickname": "UnredactedVanBuitn",
         "exit_address": [
             "23.191.200.95"
@@ -27974,10 +27982,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "ExitsAintEZ",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "Quintex459",
         "exit_address": [
             "204.8.96.148"
@@ -33015,6 +33019,10 @@
     {
         "nickname": "UgreenTorRelay2926",
         "asn": "AS15435"
+    },
+    {
+        "nickname": "W4LS3R2",
+        "asn": "AS6730"
     },
     {
         "nickname": "prsv",
@@ -38712,6 +38720,9 @@
     },
     {
         "nickname": "TorExitForYou",
+        "exit_address": [
+            "107.189.29.8"
+        ],
         "asn": "AS53667"
     },
     {
@@ -44507,6 +44518,10 @@
         "asn": "AS9141"
     },
     {
+        "nickname": "lukast",
+        "asn": "AS56655"
+    },
+    {
         "nickname": "menhera2d",
         "asn": "AS63806"
     },
@@ -44834,7 +44849,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
