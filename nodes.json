@@ -14883,6 +14883,10 @@
         "asn": "AS35592"
     },
     {
+        "nickname": "nextservRelay",
+        "asn": "AS204464"
+    },
+    {
         "nickname": "Protocol73",
         "asn": "AS393238"
     },
@@ -25341,6 +25345,10 @@
     {
         "nickname": "steviedr",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "nextservExit",
+        "asn": "AS204464"
     },
     {
         "nickname": "s3sam",
@@ -40767,7 +40775,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -45253,10 +45261,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "tguard147235783413",
-        "asn": "AS34224"
-    },
-    {
         "nickname": "AsianaOnionDurian",
         "asn": "AS9286"
     },
@@ -47789,9 +47793,6 @@
     },
     {
         "nickname": "VrijHeid3",
-        "exit_address": [
-            "94.142.241.194"
-        ],
         "asn": "AS8283"
     },
     {
