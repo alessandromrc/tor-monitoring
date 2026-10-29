@@ -39119,10 +39119,6 @@
         "asn": "AS36149"
     },
     {
-        "nickname": "tracerwall",
-        "asn": "AS3301"
-    },
-    {
         "nickname": "TORfuExit04",
         "exit_address": [
             "37.114.50.142"
@@ -44415,6 +44411,10 @@
         "asn": "AS1257"
     },
     {
+        "nickname": "oldInJoke",
+        "asn": "AS2586"
+    },
+    {
         "nickname": "NeelTorExit1A",
         "exit_address": [
             "147.90.234.30"
@@ -44849,7 +44849,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
