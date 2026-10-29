@@ -3602,10 +3602,6 @@
         "asn": "AS214481"
     },
     {
-        "nickname": "SuperiyoreMiddle",
-        "asn": "AS30600"
-    },
-    {
         "nickname": "405tor8",
         "asn": "AS7018"
     },
@@ -14910,9 +14906,6 @@
     },
     {
         "nickname": "Dumbledore",
-        "exit_address": [
-            "45.61.188.15"
-        ],
         "asn": "AS53667"
     },
     {
@@ -18841,9 +18834,6 @@
     },
     {
         "nickname": "SCSRelay",
-        "exit_address": [
-            "78.141.219.102"
-        ],
         "asn": "AS398924"
     },
     {
@@ -30913,6 +30903,10 @@
         "asn": "AS62005"
     },
     {
+        "nickname": "PrivacyComDeR1",
+        "asn": "AS15943"
+    },
+    {
         "nickname": "marcuse1",
         "exit_address": [
             "178.20.55.16"
@@ -36745,10 +36739,6 @@
     {
         "nickname": "badc1ded",
         "asn": "AS38195"
-    },
-    {
-        "nickname": "OurHost1",
-        "asn": "AS213881"
     },
     {
         "nickname": "GEamsterdam",
@@ -47926,6 +47916,10 @@
             "204.8.96.154"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "PrivacyComDeR5",
+        "asn": "AS15943"
     },
     {
         "nickname": "lilyoungin",
