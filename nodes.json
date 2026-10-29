@@ -306,6 +306,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -15646,6 +15649,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS60117"
+    },
+    {
         "nickname": "Apollo",
         "asn": "AS32097"
     },
@@ -19777,6 +19784,9 @@
     },
     {
         "nickname": "jailbreakuriphone",
+        "exit_address": [
+            "167.179.117.50"
+        ],
         "asn": "AS20473"
     },
     {
@@ -22182,10 +22192,6 @@
     {
         "nickname": "b77e7286fef54bbc",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "SliverMiddle01",
-        "asn": "AS47583"
     },
     {
         "nickname": "ziggyhate",
@@ -30097,9 +30103,6 @@
     },
     {
         "nickname": "notamateurhour",
-        "exit_address": [
-            "192.34.80.176"
-        ],
         "asn": "AS33083"
     },
     {
