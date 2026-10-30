@@ -3879,6 +3879,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ZeroXGS",
+        "asn": "AS206533"
+    },
+    {
         "nickname": "NTH16R6",
         "exit_address": [
             "192.42.116.16"
@@ -10172,6 +10176,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "hellnetarm1",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "gaensebluemchen",
         "exit_address": [
             "109.70.100.14"
@@ -14776,6 +14784,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "freepress",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "NTH305R1",
         "asn": "AS8283"
     },
@@ -16304,6 +16316,10 @@
         "asn": "AS400226"
     },
     {
+        "nickname": "hellnetamd1",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "DeathscythHell",
         "asn": "AS56153"
     },
@@ -17634,6 +17650,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "hellnetamd2",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "nsaciabrb",
         "asn": "AS701"
     },
@@ -18564,10 +18584,6 @@
     {
         "nickname": "Datenschredder",
         "asn": "AS16097"
-    },
-    {
-        "nickname": "four",
-        "asn": "AS58423"
     },
     {
         "nickname": "UnshakledClaude",
@@ -23405,6 +23421,10 @@
             "192.42.116.110"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "hellnetarm2",
+        "asn": "AS31898"
     },
     {
         "nickname": "portoloin",
@@ -34982,10 +35002,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "frenchconnect",
-        "asn": "AS399629"
-    },
-    {
         "nickname": "Digitalcourage4ip2b",
         "exit_address": [
             "185.220.101.105"
@@ -44898,7 +44914,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
