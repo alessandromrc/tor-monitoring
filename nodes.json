@@ -18454,9 +18454,6 @@
     },
     {
         "nickname": "america",
-        "exit_address": [
-            "79.99.78.99"
-        ],
         "asn": "AS212336"
     },
     {
@@ -23227,6 +23224,9 @@
     },
     {
         "nickname": "WYSWYG",
+        "exit_address": [
+            "109.228.160.190"
+        ],
         "asn": "AS8473"
     },
     {
@@ -24418,6 +24418,9 @@
     },
     {
         "nickname": "ctayexit",
+        "exit_address": [
+            "45.9.156.131"
+        ],
         "asn": "AS211619"
     },
     {
@@ -27526,6 +27529,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "surge71",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "eclipse07",
         "asn": "AS44709"
     },
@@ -30044,10 +30051,6 @@
             "45.9.168.114"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "deduction",
-        "asn": "AS402253"
     },
     {
         "nickname": "Lapras",
@@ -39567,6 +39570,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "TorExitRelay",
+        "asn": "AS216071"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS2033"
     },
@@ -42256,6 +42263,9 @@
     },
     {
         "nickname": "Team1Inverse1LLC",
+        "exit_address": [
+            "216.86.69.11"
+        ],
         "asn": "AS201392"
     },
     {
