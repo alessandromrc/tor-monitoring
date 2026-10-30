@@ -2503,10 +2503,6 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "jorcali",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Capofigb900",
         "exit_address": [
             "185.100.87.140"
@@ -27809,6 +27805,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "94.16.115.121"
+        ],
         "asn": "AS197540"
     },
     {
@@ -33045,6 +33044,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "InnocenceTube",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "iwakura",
         "asn": "AS8560"
     },
@@ -33078,10 +33081,6 @@
     {
         "nickname": "anonicai",
         "asn": "AS3462"
-    },
-    {
-        "nickname": "hermanmutt",
-        "asn": "AS51852"
     },
     {
         "nickname": "artikel10ber87",
@@ -42462,6 +42461,9 @@
     },
     {
         "nickname": "artikel5ev9b",
+        "exit_address": [
+            "94.16.121.91"
+        ],
         "asn": "AS197540"
     },
     {
@@ -47361,6 +47363,9 @@
     },
     {
         "nickname": "artikel5ev9",
+        "exit_address": [
+            "94.16.121.91"
+        ],
         "asn": "AS197540"
     },
     {
