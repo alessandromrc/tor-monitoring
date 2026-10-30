@@ -9128,6 +9128,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "b33333f",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.172"
@@ -39510,10 +39514,6 @@
         "asn": "AS48753"
     },
     {
-        "nickname": "Kashmooter",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.15"
@@ -43705,6 +43705,9 @@
     },
     {
         "nickname": "artikel5ev42",
+        "exit_address": [
+            "188.68.36.28"
+        ],
         "asn": "AS197540"
     },
     {
