@@ -5260,10 +5260,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "torrelaymirror2",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "zgato",
         "asn": "AS26832"
     },
@@ -19128,6 +19124,10 @@
         "asn": "AS198825"
     },
     {
+        "nickname": "a41af45467",
+        "asn": "AS17676"
+    },
+    {
         "nickname": "forky",
         "asn": "AS396362"
     },
@@ -24093,6 +24093,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.134",
             "198.167.206.246"
         ],
         "asn": "AS39287"
@@ -33791,6 +33792,10 @@
     {
         "nickname": "Thurgau",
         "asn": "AS29222"
+    },
+    {
+        "nickname": "rathergonaked",
+        "asn": "AS3320"
     },
     {
         "nickname": "Quintex293",
