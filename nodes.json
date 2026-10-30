@@ -15833,10 +15833,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
-    },
-    {
         "nickname": "YesBaby",
         "asn": "AS3215"
     },
@@ -16733,10 +16729,6 @@
     {
         "nickname": "torrelaymirror",
         "asn": "AS13030"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "zwewwlNL1",
@@ -24120,7 +24112,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.192",
             "198.167.206.246"
         ],
         "asn": "AS39287"
@@ -39571,6 +39562,9 @@
     },
     {
         "nickname": "TorExitRelay",
+        "exit_address": [
+            "144.124.234.199"
+        ],
         "asn": "AS216071"
     },
     {
@@ -45604,10 +45598,6 @@
     {
         "nickname": "msbobo4",
         "asn": "AS48926"
-    },
-    {
-        "nickname": "shadowRelay01",
-        "asn": "AS36352"
     },
     {
         "nickname": "csUniHB",
