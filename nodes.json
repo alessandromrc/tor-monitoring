@@ -16290,7 +16290,7 @@
         "asn": "AS400226"
     },
     {
-        "nickname": "hellnetamd1",
+        "nickname": "willow",
         "asn": "AS31898"
     },
     {
@@ -17620,7 +17620,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "hellnetamd2",
+        "nickname": "ember",
         "asn": "AS31898"
     },
     {
@@ -32404,6 +32404,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "NetMonNetworksUK4",
+        "asn": "AS5089"
+    },
+    {
         "nickname": "crazy8s",
         "exit_address": [
             "194.15.113.171"
@@ -37169,6 +37173,10 @@
             "23.129.64.185"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "liongrass",
+        "asn": "AS174"
     },
     {
         "nickname": "NTH60R1",
