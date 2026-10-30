@@ -14385,6 +14385,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ctayexit",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "seniorrelay",
         "asn": "AS16276"
     },
@@ -19625,10 +19629,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "idideditheconfig",
-        "asn": "AS1759"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -22162,10 +22162,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "SSDNodesNYC",
-        "asn": "AS29802"
-    },
-    {
         "nickname": "fatstor7",
         "exit_address": [
             "161.97.160.86"
@@ -24423,6 +24419,10 @@
     {
         "nickname": "TheKid3",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "ctayexit",
+        "asn": "AS211619"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -42124,10 +42124,6 @@
         "asn": "AS204548"
     },
     {
-        "nickname": "DigcVvk",
-        "asn": "AS328888"
-    },
-    {
         "nickname": "NTH20R5",
         "exit_address": [
             "192.42.116.20"
@@ -42258,6 +42254,10 @@
             "91.208.75.178"
         ],
         "asn": "AS6718"
+    },
+    {
+        "nickname": "Team1Inverse1LLC",
+        "asn": "AS201392"
     },
     {
         "nickname": "MyRelay",
@@ -43412,6 +43412,10 @@
         "asn": "AS400304"
     },
     {
+        "nickname": "MinimalPiRelay",
+        "asn": "AS22516"
+    },
+    {
         "nickname": "pr1v1",
         "asn": "AS16276"
     },
@@ -43518,6 +43522,9 @@
     },
     {
         "nickname": "zarathustra",
+        "exit_address": [
+            "192.108.48.150"
+        ],
         "asn": "AS680"
     },
     {
@@ -45953,10 +45960,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "forest14",
-        "asn": "AS399646"
-    },
-    {
         "nickname": "Quintex496",
         "exit_address": [
             "204.8.96.185"
@@ -47255,10 +47258,6 @@
     {
         "nickname": "bishoplamont",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "GTFO",
-        "asn": "AS16086"
     },
     {
         "nickname": "relayon0191",
