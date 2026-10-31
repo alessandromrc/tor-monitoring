@@ -3718,10 +3718,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "HHrelay01",
-        "asn": "AS15943"
-    },
-    {
         "nickname": "QuakePHOBOS",
         "asn": "AS16125"
     },
@@ -16176,6 +16172,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "JamieThinkPad",
+        "asn": "AS5607"
+    },
+    {
         "nickname": "TorNode07dot2",
         "asn": "AS8560"
     },
@@ -16890,10 +16890,6 @@
     {
         "nickname": "zippyRelay",
         "asn": "AS7922"
-    },
-    {
-        "nickname": "AltZRH01",
-        "asn": "AS49915"
     },
     {
         "nickname": "toronada",
@@ -32159,6 +32155,9 @@
     },
     {
         "nickname": "raretor",
+        "exit_address": [
+            "45.134.48.12"
+        ],
         "asn": "AS47890"
     },
     {
@@ -43038,6 +43037,10 @@
     {
         "nickname": "fusion",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "completemagicdome",
+        "asn": "AS40663"
     },
     {
         "nickname": "torexitams06",
