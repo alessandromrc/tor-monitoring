@@ -7286,6 +7286,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "GEjeddah",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "EbpfLabRelay",
         "asn": "AS8764"
     },
@@ -29107,6 +29111,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "GEsantiago",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "privasee1",
         "asn": "AS16276"
     },
@@ -29140,6 +29148,10 @@
     {
         "nickname": "BZSZYQUINPBJTHE",
         "asn": "AS215311"
+    },
+    {
+        "nickname": "H4rv3stM00N",
+        "asn": "AS210083"
     },
     {
         "nickname": "theTorDoor",
@@ -47344,6 +47356,9 @@
     },
     {
         "nickname": "concretejungle",
+        "exit_address": [
+            "190.211.254.232"
+        ],
         "asn": "AS51852"
     },
     {
