@@ -20252,9 +20252,6 @@
     },
     {
         "nickname": "OgresHaveLayers",
-        "exit_address": [
-            "104.192.3.74"
-        ],
         "asn": "AS27176"
     },
     {
@@ -24951,9 +24948,6 @@
     },
     {
         "nickname": "OnionsHaveLayers",
-        "exit_address": [
-            "104.192.3.74"
-        ],
         "asn": "AS27176"
     },
     {
@@ -29105,6 +29099,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "dcon",
+        "asn": "AS29066"
     },
     {
         "nickname": "NTH305R6",
