@@ -1733,10 +1733,6 @@
         "asn": "AS19504"
     },
     {
-        "nickname": "iDIDedittheconfig",
-        "asn": "AS215730"
-    },
-    {
         "nickname": "DFRI100",
         "exit_address": [
             "171.25.193.81"
@@ -8565,6 +8561,10 @@
             "23.191.200.94"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "Nexus",
+        "asn": "AS197540"
     },
     {
         "nickname": "lilchuckee",
@@ -36638,10 +36638,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "notarget",
-        "asn": "AS136258"
-    },
-    {
         "nickname": "jdilla",
         "asn": "AS36849"
     },
@@ -39684,6 +39680,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "independence",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Quintex527",
         "exit_address": [
             "204.8.96.80"
@@ -42276,10 +42276,6 @@
             "185.220.100.251"
         ],
         "asn": "AS205100"
-    },
-    {
-        "nickname": "Meowrelay",
-        "asn": "AS43529"
     },
     {
         "nickname": "babylon",
