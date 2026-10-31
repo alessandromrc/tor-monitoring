@@ -1884,6 +1884,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "rawtestprobe",
+        "asn": "AS402253"
+    },
+    {
         "nickname": "TheKid2",
         "asn": "AS9009"
     },
@@ -26509,9 +26513,6 @@
     },
     {
         "nickname": "BeoWulftheMighty",
-        "exit_address": [
-            "193.105.134.155"
-        ],
         "asn": "AS42237"
     },
     {
