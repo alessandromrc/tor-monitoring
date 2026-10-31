@@ -12262,9 +12262,6 @@
     },
     {
         "nickname": "TorExitRelay",
-        "exit_address": [
-            "144.124.234.199"
-        ],
         "asn": "AS216071"
     },
     {
@@ -17874,6 +17871,10 @@
     {
         "nickname": "gimma",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "GEjohannesburg",
+        "asn": "AS31898"
     },
     {
         "nickname": "NTH137R1",
@@ -29998,6 +29999,10 @@
             "23.129.64.143"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "OldCup",
+        "asn": "AS63949"
     },
     {
         "nickname": "DontTreadOnMe1",
@@ -42290,6 +42295,10 @@
     {
         "nickname": "legoman",
         "asn": "AS200052"
+    },
+    {
+        "nickname": "GEbatam",
+        "asn": "AS31898"
     },
     {
         "nickname": "RelaysThatNoOneUses",
