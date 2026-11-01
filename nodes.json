@@ -3389,6 +3389,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "sh97CA101R",
+        "asn": "AS1002"
+    },
+    {
         "nickname": "NTH116R7",
         "exit_address": [
             "192.42.116.116"
@@ -17383,10 +17387,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "tmw01",
-        "asn": "AS215828"
-    },
-    {
         "nickname": "whitenoiseRLY",
         "asn": "AS14061"
     },
@@ -23447,6 +23447,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "NTH117R6",
         "exit_address": [
             "192.42.116.117"
@@ -23861,6 +23865,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -35892,10 +35899,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "tmw2",
-        "asn": "AS215828"
-    },
-    {
         "nickname": "NTH108R5",
         "exit_address": [
             "192.42.116.108"
@@ -41420,6 +41423,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "CyrrrtRelay",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "ExitFromPL4Me",
         "asn": "AS201988"
     },
@@ -45779,6 +45786,10 @@
             "193.200.229.243"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "dodson",
+        "asn": "AS7922"
     },
     {
         "nickname": "eupherious",
