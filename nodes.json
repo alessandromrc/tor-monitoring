@@ -1102,10 +1102,6 @@
         "asn": "AS212238"
     },
     {
-        "nickname": "AhtiTheJanitor",
-        "asn": "AS4773"
-    },
-    {
         "nickname": "Unnamed",
         "asn": "AS17676"
     },
@@ -7310,6 +7306,9 @@
     },
     {
         "nickname": "lqd71",
+        "exit_address": [
+            "185.246.190.196"
+        ],
         "asn": "AS200651"
     },
     {
@@ -11238,6 +11237,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "PrivacyNodeTeni",
+        "asn": "AS36352"
     },
     {
         "nickname": "vodafone",
@@ -37285,6 +37288,10 @@
         "asn": "AS39622"
     },
     {
+        "nickname": "ozarks0",
+        "asn": "AS5617"
+    },
+    {
         "nickname": "StumpRoutes",
         "asn": "AS210558"
     },
@@ -39708,6 +39715,10 @@
         "asn": "AS36149"
     },
     {
+        "nickname": "tracerwall",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "TORfuExit04",
         "exit_address": [
             "37.114.50.142"
@@ -41371,7 +41382,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
@@ -41407,10 +41418,6 @@
     {
         "nickname": "QuietHarbor",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "CyrrrtRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "ExitFromPL4Me",
@@ -41776,6 +41783,10 @@
     {
         "nickname": "Turbomtts40",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "lolaiur",
+        "asn": "AS7018"
     },
     {
         "nickname": "prsv",
@@ -44450,7 +44461,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "gustierfatales94",
         "asn": "AS8560"
     },
     {
@@ -47737,9 +47748,6 @@
     },
     {
         "nickname": "MoksedurRahman",
-        "exit_address": [
-            "103.166.187.253"
-        ],
         "asn": "AS137967"
     },
     {
