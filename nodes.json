@@ -11669,6 +11669,9 @@
     },
     {
         "nickname": "alertluxuriant",
+        "exit_address": [
+            "185.146.233.200"
+        ],
         "asn": "AS200651"
     },
     {
@@ -32213,6 +32216,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "redacted",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "lunar4",
         "exit_address": [
             "203.55.81.1"
@@ -41624,7 +41631,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
