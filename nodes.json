@@ -1722,6 +1722,9 @@
     },
     {
         "nickname": "pdntspa",
+        "exit_address": [
+            "185.246.130.62"
+        ],
         "asn": "AS42237"
     },
     {
@@ -5776,6 +5779,10 @@
     {
         "nickname": "SoulCairn",
         "asn": "AS27651"
+    },
+    {
+        "nickname": "2f3561f9ae",
+        "asn": "AS131160"
     },
     {
         "nickname": "tor03",
@@ -16035,6 +16042,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS211720"
+    },
+    {
         "nickname": "marcuse6",
         "exit_address": [
             "178.20.55.16"
@@ -19225,10 +19236,6 @@
         "asn": "AS204464"
     },
     {
-        "nickname": "SophiaIsCat",
-        "asn": "AS4788"
-    },
-    {
         "nickname": "SCSRelay",
         "exit_address": [
             "78.141.219.102"
@@ -22357,6 +22364,10 @@
             "185.67.82.114"
         ],
         "asn": "AS20904"
+    },
+    {
+        "nickname": "HTTPSCL",
+        "asn": "AS200912"
     },
     {
         "nickname": "Li",
@@ -27993,6 +28004,10 @@
     {
         "nickname": "lowFog",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "cleanguard",
+        "asn": "AS24940"
     },
     {
         "nickname": "NTH177R1",
@@ -37290,10 +37305,6 @@
         "asn": "AS7018"
     },
     {
-        "nickname": "reallayer",
-        "asn": "AS399486"
-    },
-    {
         "nickname": "fuckthefreeworld",
         "asn": "AS24940"
     },
@@ -45768,7 +45779,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
