@@ -1253,6 +1253,9 @@
     },
     {
         "nickname": "Delphos",
+        "exit_address": [
+            "23.137.255.85"
+        ],
         "asn": "AS40663"
     },
     {
@@ -3740,6 +3743,9 @@
     },
     {
         "nickname": "SaltyCookies",
+        "exit_address": [
+            "185.112.146.167"
+        ],
         "asn": "AS44925"
     },
     {
@@ -9264,6 +9270,9 @@
     },
     {
         "nickname": "wippvannwinkle",
+        "exit_address": [
+            "194.53.137.102"
+        ],
         "asn": "AS9009"
     },
     {
@@ -10508,10 +10517,6 @@
     {
         "nickname": "mevolz2",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "tor4aemadohw",
-        "asn": "AS31898"
     },
     {
         "nickname": "moliantegok",
@@ -13232,10 +13237,6 @@
         "asn": "AS53340"
     },
     {
-        "nickname": "Freedom",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "fpj5slhy",
         "asn": "AS199091"
     },
@@ -13498,6 +13499,9 @@
     },
     {
         "nickname": "CrazyGoood",
+        "exit_address": [
+            "5.231.3.63"
+        ],
         "asn": "AS12586"
     },
     {
@@ -19210,6 +19214,9 @@
     },
     {
         "nickname": "SCSRelay",
+        "exit_address": [
+            "78.141.219.102"
+        ],
         "asn": "AS398924"
     },
     {
@@ -40736,6 +40743,9 @@
     },
     {
         "nickname": "ProjectPrivacyX1",
+        "exit_address": [
+            "67.219.109.141"
+        ],
         "asn": "AS20473"
     },
     {
