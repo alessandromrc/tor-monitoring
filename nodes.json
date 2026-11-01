@@ -15248,6 +15248,9 @@
     },
     {
         "nickname": "Dumbledore",
+        "exit_address": [
+            "45.61.188.15"
+        ],
         "asn": "AS53667"
     },
     {
@@ -16047,6 +16050,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.231.32.32"
+        ],
         "asn": "AS211720"
     },
     {
@@ -17524,10 +17530,6 @@
             "185.220.101.141"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "LauchRelay",
-        "asn": "AS24940"
     },
     {
         "nickname": "fabledview",
@@ -22375,6 +22377,9 @@
     },
     {
         "nickname": "HTTPSCL",
+        "exit_address": [
+            "31.58.216.15"
+        ],
         "asn": "AS200912"
     },
     {
@@ -24031,10 +24036,6 @@
     {
         "nickname": "lilmarlo",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Echelon33000",
-        "asn": "AS12322"
     },
     {
         "nickname": "icanhazfunk",
@@ -33234,6 +33235,10 @@
         "asn": "AS51395"
     },
     {
+        "nickname": "4021671cae",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "toneloc",
         "asn": "AS36849"
     },
@@ -33945,6 +33950,10 @@
             "192.42.116.16"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "9c0457746b",
+        "asn": "AS131160"
     },
     {
         "nickname": "cltor",
@@ -35412,6 +35421,10 @@
             "192.42.116.59"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "tinyrelay1",
+        "asn": "AS54936"
     },
     {
         "nickname": "bonecrusher",
@@ -43759,6 +43772,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "HopiumRelay",
+        "asn": "AS16223"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS197540"
     },
@@ -44243,10 +44260,6 @@
             "185.100.85.25"
         ],
         "asn": "AS200651"
-    },
-    {
-        "nickname": "PaxyTorProxy",
-        "asn": "AS8400"
     },
     {
         "nickname": "prsv",
