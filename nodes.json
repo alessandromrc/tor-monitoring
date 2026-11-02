@@ -22815,6 +22815,10 @@
         "asn": "AS16591"
     },
     {
+        "nickname": "ErinsRelay",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.20"
@@ -24515,7 +24519,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.158",
             "198.167.206.194"
         ],
         "asn": "AS39287"
