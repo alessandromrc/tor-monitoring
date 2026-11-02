@@ -6379,6 +6379,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "refan2",
+        "asn": "AS212477"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.41"
@@ -25396,6 +25400,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "slopRelay",
+        "asn": "AS22611"
+    },
+    {
         "nickname": "NTH67R5",
         "exit_address": [
             "192.42.116.67"
@@ -28410,6 +28418,10 @@
             "204.8.96.111"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS135377"
     },
     {
         "nickname": "Minotaur8",
@@ -44386,6 +44398,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "BraveStar",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "tomskeemask",
         "asn": "AS36849"
     },
@@ -45665,7 +45681,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
