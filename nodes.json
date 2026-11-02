@@ -681,6 +681,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "AltHEL01",
+        "asn": "AS15830"
+    },
+    {
         "nickname": "Quintex481",
         "exit_address": [
             "204.8.96.170"
@@ -3202,6 +3206,10 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "relay6969",
+        "asn": "AS396356"
     },
     {
         "nickname": "bauruine",
@@ -9563,10 +9571,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "Thalassa",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "OysterReef",
         "asn": "AS206804"
     },
@@ -11449,6 +11453,10 @@
     {
         "nickname": "21savage",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Tungsten",
+        "asn": "AS202422"
     },
     {
         "nickname": "BeTheChange",
@@ -24541,7 +24549,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.194"
+            "198.167.206.194",
+            "198.167.206.215"
         ],
         "asn": "AS39287"
     },
@@ -25360,10 +25369,6 @@
     {
         "nickname": "bonethugs",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS51184"
     },
     {
         "nickname": "NTH53R6",
@@ -31560,10 +31565,6 @@
     {
         "nickname": "sklep",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "Chrono",
-        "asn": "AS197540"
     },
     {
         "nickname": "boxoffice208",
@@ -39489,6 +39490,10 @@
             "185.56.83.8"
         ],
         "asn": "AS211720"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS5769"
     },
     {
         "nickname": "taleggio",
