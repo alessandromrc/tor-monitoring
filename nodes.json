@@ -21030,10 +21030,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "LittlePi4",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "STYX",
         "asn": "AS24282"
     },
@@ -23285,6 +23281,10 @@
             "204.8.96.88"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "PrincessTor",
+        "asn": "AS62005"
     },
     {
         "nickname": "Quintex104",
@@ -38876,9 +38876,6 @@
     },
     {
         "nickname": "renrpo26",
-        "exit_address": [
-            "170.64.129.106"
-        ],
         "asn": "AS14061"
     },
     {
