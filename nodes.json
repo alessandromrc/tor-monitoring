@@ -459,6 +459,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "vm592tor",
+        "asn": "AS198734"
+    },
+    {
         "nickname": "Lamia11",
         "asn": "AS16276"
     },
@@ -13479,6 +13483,10 @@
         "asn": "AS59711"
     },
     {
+        "nickname": "PrivacyComDeR3",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "ronnyjbeats",
         "asn": "AS36849"
     },
@@ -14575,6 +14583,10 @@
     {
         "nickname": "tm88",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "c247d8c155",
+        "asn": "AS131160"
     },
     {
         "nickname": "Tortellini",
@@ -16406,6 +16418,10 @@
     {
         "nickname": "ckay",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "763e37d231",
+        "asn": "AS131160"
     },
     {
         "nickname": "wifisfuneral",
@@ -18637,10 +18653,6 @@
             "204.8.96.117"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
     },
     {
         "nickname": "NTH64R2",
@@ -28369,10 +28381,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -33392,10 +33400,6 @@
         "asn": "AS56803"
     },
     {
-        "nickname": "DockerTorRelay",
-        "asn": "AS45102"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -34122,6 +34126,10 @@
     {
         "nickname": "cry",
         "asn": "AS1103"
+    },
+    {
+        "nickname": "Dx7Relay",
+        "asn": "AS51809"
     },
     {
         "nickname": "DarkWebPigeon",
@@ -36112,6 +36120,9 @@
     },
     {
         "nickname": "Yeereereeim",
+        "exit_address": [
+            "172.81.132.94"
+        ],
         "asn": "AS27176"
     },
     {
@@ -45688,7 +45699,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47982,6 +47993,10 @@
             "89.58.26.216"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "KrazyG",
+        "asn": "AS1403"
     },
     {
         "nickname": "Killix",
