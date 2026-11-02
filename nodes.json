@@ -7169,10 +7169,6 @@
         "asn": "AS47583"
     },
     {
-        "nickname": "ValtaRelay2",
-        "asn": "AS20115"
-    },
-    {
         "nickname": "famousdex",
         "asn": "AS36849"
     },
@@ -14144,7 +14140,7 @@
     },
     {
         "nickname": "HellGuard",
-        "asn": "AS8881"
+        "asn": "AS3209"
     },
     {
         "nickname": "Quintex408",
@@ -15553,6 +15549,10 @@
     {
         "nickname": "notoriousgib",
         "asn": "AS133210"
+    },
+    {
+        "nickname": "b08ff6ee1f",
+        "asn": "AS131160"
     },
     {
         "nickname": "mycontribution",
@@ -19661,6 +19661,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "a00a04a163",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "order",
         "asn": "AS51852"
     },
@@ -21925,6 +21929,10 @@
     {
         "nickname": "lilwayne1",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "kurbastontor",
+        "asn": "AS12479"
     },
     {
         "nickname": "BraveTeotihuacan",
@@ -32955,10 +32963,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "sig9eva",
-        "asn": "AS6730"
-    },
-    {
         "nickname": "l1ber11",
         "asn": "AS12876"
     },
@@ -41588,6 +41592,9 @@
     },
     {
         "nickname": "Mjolnir",
+        "exit_address": [
+            "205.185.117.149"
+        ],
         "asn": "AS53667"
     },
     {
@@ -43257,6 +43264,10 @@
             "204.8.96.182"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "PrincessTor",
+        "asn": "AS62005"
     },
     {
         "nickname": "MyTorGuardRelay",
