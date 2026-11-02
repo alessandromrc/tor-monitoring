@@ -13973,6 +13973,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.244.74.51"
+        ],
         "asn": "AS53667"
     },
     {
@@ -31013,6 +31016,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.244.74.51"
+        ],
         "asn": "AS53667"
     },
     {
@@ -31550,6 +31556,10 @@
     {
         "nickname": "magnumharsh",
         "asn": "AS21859"
+    },
+    {
+        "nickname": "sklep",
+        "asn": "AS24940"
     },
     {
         "nickname": "Chrono",
@@ -36759,6 +36769,10 @@
     {
         "nickname": "TorRelay7604161",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS20473"
     },
     {
         "nickname": "artikel10ber12",
@@ -45721,6 +45735,10 @@
         "asn": "AS14061"
     },
     {
+        "nickname": "AltDE02",
+        "asn": "AS42695"
+    },
+    {
         "nickname": "NTH43R7",
         "exit_address": [
             "192.42.116.43"
@@ -48911,6 +48929,10 @@
             "185.130.47.58"
         ],
         "asn": "AS210083"
+    },
+    {
+        "nickname": "dalrelay",
+        "asn": "AS396356"
     },
     {
         "nickname": "archivalrelay1",
