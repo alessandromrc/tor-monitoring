@@ -444,9 +444,6 @@
     },
     {
         "nickname": "1272008509320607",
-        "exit_address": [
-            "185.132.53.45"
-        ],
         "asn": "AS211507"
     },
     {
@@ -7617,6 +7614,9 @@
     },
     {
         "nickname": "SecretDropNL",
+        "exit_address": [
+            "45.141.117.244"
+        ],
         "asn": "AS211507"
     },
     {
@@ -19521,6 +19521,9 @@
     },
     {
         "nickname": "flokiTor",
+        "exit_address": [
+            "185.100.87.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -32486,7 +32489,7 @@
         "asn": "AS47583"
     },
     {
-        "nickname": "claireUS",
+        "nickname": "ClaireUS",
         "asn": "AS56322"
     },
     {
@@ -40999,7 +41002,7 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "claire",
+        "nickname": "ClaireHU",
         "asn": "AS56322"
     },
     {
@@ -41434,7 +41437,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
