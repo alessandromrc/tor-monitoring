@@ -7591,10 +7591,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "MiRelayBGR",
-        "asn": "AS396982"
-    },
-    {
         "nickname": "xuezhang",
         "asn": "AS48266"
     },
@@ -15798,6 +15794,9 @@
     },
     {
         "nickname": "samictor",
+        "exit_address": [
+            "198.98.60.90"
+        ],
         "asn": "AS53667"
     },
     {
@@ -16471,6 +16470,10 @@
             "192.42.116.12"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Wroooomie",
+        "asn": "AS8473"
     },
     {
         "nickname": "lordjamar",
@@ -25577,6 +25580,9 @@
     },
     {
         "nickname": "e2bfe70cc1",
+        "exit_address": [
+            "185.186.76.110"
+        ],
         "asn": "AS136258"
     },
     {
@@ -26465,10 +26471,6 @@
             "204.8.96.72"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "MonRelaiFramboise",
-        "asn": "AS12322"
     },
     {
         "nickname": "berner",
