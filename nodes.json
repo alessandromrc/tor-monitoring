@@ -2031,10 +2031,6 @@
         "asn": "AS5617"
     },
     {
-        "nickname": "EmeraldValleyNet",
-        "asn": "AS36012"
-    },
-    {
         "nickname": "lilphat",
         "asn": "AS36849"
     },
@@ -7903,9 +7899,6 @@
     },
     {
         "nickname": "DXV7520",
-        "exit_address": [
-            "31.133.0.235"
-        ],
         "asn": "AS51290"
     },
     {
@@ -9287,6 +9280,10 @@
         "asn": "AS213873"
     },
     {
+        "nickname": "Ch1ll3dGh0st",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS852"
     },
@@ -10397,6 +10394,9 @@
     },
     {
         "nickname": "VictorCryptoUMich",
+        "exit_address": [
+            "35.0.127.52"
+        ],
         "asn": "AS36375"
     },
     {
@@ -13035,6 +13035,10 @@
     {
         "nickname": "WarheadRelay",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "dolemite",
+        "asn": "AS63023"
     },
     {
         "nickname": "3935mPizRoseg",
@@ -35874,10 +35878,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "japan",
-        "asn": "AS212336"
-    },
-    {
         "nickname": "doinks",
         "asn": "AS36352"
     },
@@ -42343,6 +42343,9 @@
     },
     {
         "nickname": "dnslgbtonion2",
+        "exit_address": [
+            "176.65.134.79"
+        ],
         "asn": "AS51396"
     },
     {
