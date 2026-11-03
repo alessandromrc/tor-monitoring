@@ -40055,10 +40055,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "coffeeismtf",
-        "asn": "AS3257"
-    },
-    {
         "nickname": "NTH56R6",
         "exit_address": [
             "192.42.116.56"
@@ -40240,6 +40236,9 @@
     },
     {
         "nickname": "KingShadow1",
+        "exit_address": [
+            "104.167.242.116"
+        ],
         "asn": "AS26286"
     },
     {
