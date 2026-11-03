@@ -13340,6 +13340,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "chonk",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "bosco1",
         "asn": "AS11878"
     },
@@ -23186,6 +23190,9 @@
     },
     {
         "nickname": "cryptosempai",
+        "exit_address": [
+            "91.208.75.203"
+        ],
         "asn": "AS6718"
     },
     {
@@ -35253,6 +35260,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "OnionSisterYuki",
+        "asn": "AS58325"
+    },
+    {
         "nickname": "PommespanzerDE7",
         "asn": "AS8560"
     },
@@ -44557,6 +44568,10 @@
             "204.8.96.65"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "PWKR",
+        "asn": "AS24940"
     },
     {
         "nickname": "beejesus",
