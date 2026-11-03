@@ -26232,6 +26232,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "antiregimerelay",
+        "asn": "AS202422"
+    },
+    {
         "nickname": "frolix8",
         "asn": "AS7684"
     },
@@ -33491,6 +33495,10 @@
         "asn": "AS263812"
     },
     {
+        "nickname": "CyrrrtRelay",
+        "asn": "AS47692"
+    },
+    {
         "nickname": "eo221",
         "exit_address": [
             "23.129.64.221"
@@ -39033,9 +39041,6 @@
     },
     {
         "nickname": "rokunana",
-        "exit_address": [
-            "150.251.32.142"
-        ],
         "asn": "AS200950"
     },
     {
