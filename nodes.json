@@ -4208,10 +4208,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Cap",
-        "asn": "AS56655"
-    },
-    {
         "nickname": "TorNode07dot3",
         "asn": "AS8560"
     },
@@ -34734,6 +34730,9 @@
     },
     {
         "nickname": "pinetree",
+        "exit_address": [
+            "66.252.54.34"
+        ],
         "asn": "AS11847"
     },
     {
@@ -48038,10 +48037,6 @@
     {
         "nickname": "PrivacyPal",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "7P9QkN7r62wxKJhR",
-        "asn": "AS29447"
     },
     {
         "nickname": "vulpes",
