@@ -1207,6 +1207,7 @@
 /ipv6 firewall address-list add list=tor_ipv6 address=2a04:204:52:3f00:2b96:ff41:35ef:6cff comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2603:c022:4:f301:5c08:1f3f:725e:8a1c comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a03:4000:2a:8d:846e:f4ff:fe85:e4d2 comment="tor_ipv6/tor-monitoring"
+/ipv6 firewall address-list add list=tor_ipv6 address=2600:3c00::f03c:95ff:fe19:6696 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a14:7581:9f20:1512::109 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:41d0:303:9c06::1 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:41d0:305:2100::cbc7 comment="tor_ipv6/tor-monitoring"
