@@ -1301,6 +1301,10 @@
         "asn": "AS8447"
     },
     {
+        "nickname": "YoungSister",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "yungbans",
         "asn": "AS36849"
     },
@@ -30723,9 +30727,6 @@
     },
     {
         "nickname": "DFRI88",
-        "exit_address": [
-            "171.25.193.40"
-        ],
         "asn": "AS198093"
     },
     {
@@ -33571,6 +33572,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.168.0.177"
+        ],
         "asn": "AS36352"
     },
     {
@@ -38363,6 +38367,10 @@
     {
         "nickname": "017700000001",
         "asn": "AS8708"
+    },
+    {
+        "nickname": "SlowServerForTor",
+        "asn": "AS47447"
     },
     {
         "nickname": "masstorams",
