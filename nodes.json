@@ -34050,10 +34050,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "hoahungward",
-        "asn": "AS7552"
-    },
-    {
         "nickname": "WildsofArkansas",
         "asn": "AS46979"
     },
@@ -40505,6 +40501,9 @@
     },
     {
         "nickname": "ARFExit1",
+        "exit_address": [
+            "157.131.34.164"
+        ],
         "asn": "AS46375"
     },
     {
@@ -41697,6 +41696,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "ithRelay",
+        "asn": "AS3462"
+    },
+    {
         "nickname": "fuchur",
         "asn": "AS197540"
     },
@@ -41941,10 +41944,6 @@
     {
         "nickname": "barrel",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "coldb0trelay",
-        "asn": "AS3320"
     },
     {
         "nickname": "RelayGeek10",
