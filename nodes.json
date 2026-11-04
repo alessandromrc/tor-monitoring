@@ -584,6 +584,10 @@
         "asn": "AS152992"
     },
     {
+        "nickname": "patchletter5",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "TRRelay2",
         "asn": "AS207326"
     },
@@ -1774,6 +1778,10 @@
     {
         "nickname": "torrelay583482",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "2mpe",
+        "asn": "AS53667"
     },
     {
         "nickname": "hnlexit5",
@@ -8080,6 +8088,10 @@
         "asn": "AS51290"
     },
     {
+        "nickname": "patchletter7",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
     },
@@ -8195,6 +8207,10 @@
     {
         "nickname": "clarkquay",
         "asn": "AS41075"
+    },
+    {
+        "nickname": "patchletter3",
+        "asn": "AS197540"
     },
     {
         "nickname": "estrade",
@@ -8614,6 +8630,9 @@
     },
     {
         "nickname": "anemia",
+        "exit_address": [
+            "150.40.117.43"
+        ],
         "asn": "AS215659"
     },
     {
@@ -19059,6 +19078,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "anyhitt",
+        "asn": "AS60068"
+    },
+    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.227"
@@ -21825,6 +21848,10 @@
         "asn": "AS57717"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS15557"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -22341,6 +22368,10 @@
     {
         "nickname": "OrionHentai0",
         "asn": "AS40029"
+    },
+    {
+        "nickname": "patchletter6",
+        "asn": "AS197540"
     },
     {
         "nickname": "NTH92R6",
@@ -23371,6 +23402,10 @@
     {
         "nickname": "Relay02MaskAD",
         "asn": "AS199950"
+    },
+    {
+        "nickname": "patchletter4",
+        "asn": "AS197540"
     },
     {
         "nickname": "AlphaQuadrant234623",
@@ -24471,7 +24506,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146"
+            "198.167.206.146",
+            "198.167.206.187"
         ],
         "asn": "AS39287"
     },
@@ -25641,6 +25677,10 @@
             "89.58.41.156"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "energia",
+        "asn": "AS136258"
     },
     {
         "nickname": "anonkaisx",
@@ -29210,6 +29250,10 @@
     {
         "nickname": "marukoRelay",
         "asn": "AS3269"
+    },
+    {
+        "nickname": "patchletter1",
+        "asn": "AS24961"
     },
     {
         "nickname": "wilton",
@@ -33712,6 +33756,10 @@
     {
         "nickname": "clydecarson",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "patchletter8",
+        "asn": "AS197540"
     },
     {
         "nickname": "maxb",
@@ -38323,6 +38371,10 @@
         "asn": "AS400226"
     },
     {
+        "nickname": "StealthSTOSE",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "Quintex532",
         "exit_address": [
             "204.8.96.112"
@@ -42834,6 +42886,10 @@
     {
         "nickname": "MyRelay",
         "asn": "AS396356"
+    },
+    {
+        "nickname": "patchletter2",
+        "asn": "AS24961"
     },
     {
         "nickname": "ezioauditore",
