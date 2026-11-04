@@ -272,10 +272,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "SickRelay",
-        "asn": "AS1221"
-    },
-    {
         "nickname": "NTH15R7",
         "exit_address": [
             "192.42.116.15"
@@ -2981,7 +2977,7 @@
     },
     {
         "nickname": "PikaSim",
-        "asn": "AS24940"
+        "asn": "AS63949"
     },
     {
         "nickname": "DingoFancy",
@@ -12790,6 +12786,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "fluffypancakes007ca",
+        "asn": "AS26832"
+    },
+    {
         "nickname": "BudSpencer",
         "asn": "AS51167"
     },
@@ -21404,6 +21404,10 @@
     {
         "nickname": "ohrly",
         "asn": "AS8881"
+    },
+    {
+        "nickname": "TorMiddleCJ",
+        "asn": "AS9299"
     },
     {
         "nickname": "Quintex226",
@@ -32626,10 +32630,6 @@
         "asn": "AS29695"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "MyRemoteRelay",
         "asn": "AS38195"
     },
@@ -34735,6 +34735,10 @@
     {
         "nickname": "FreeUkraine",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "pinetree",
+        "asn": "AS11847"
     },
     {
         "nickname": "SkyEarthWater38519",
