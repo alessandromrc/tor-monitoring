@@ -7375,10 +7375,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "pylonl",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "NeoXMR",
         "asn": "AS210558"
     },
@@ -19210,9 +19206,6 @@
     },
     {
         "nickname": "SCSRelay",
-        "exit_address": [
-            "78.141.219.102"
-        ],
         "asn": "AS398924"
     },
     {
@@ -24543,8 +24536,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146",
-            "198.167.206.215"
+            "198.167.206.146"
         ],
         "asn": "AS39287"
     },
@@ -40465,10 +40457,6 @@
     {
         "nickname": "Atomirotta",
         "asn": "AS31389"
-    },
-    {
-        "nickname": "myNiceRelay",
-        "asn": "AS32244"
     },
     {
         "nickname": "Quintex416",
