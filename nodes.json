@@ -5612,6 +5612,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Bishibosh",
+        "asn": "AS133159"
+    },
+    {
         "nickname": "Tanithil",
         "asn": "AS14061"
     },
@@ -6723,6 +6727,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "allTheSaints",
+        "asn": "AS5089"
     },
     {
         "nickname": "BinoSrv7",
@@ -10001,6 +10009,10 @@
     {
         "nickname": "sonrisas",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "oniong01",
+        "asn": "AS24940"
     },
     {
         "nickname": "TORKeFFORG11",
@@ -24667,7 +24679,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146",
             "198.167.206.187"
         ],
         "asn": "AS39287"
