@@ -5177,6 +5177,10 @@
         "asn": "AS328266"
     },
     {
+        "nickname": "torquera",
+        "asn": "AS12322"
+    },
+    {
         "nickname": "just746436456",
         "asn": "AS197540"
     },
@@ -15300,10 +15304,6 @@
         "asn": "AS35592"
     },
     {
-        "nickname": "nextservRelay",
-        "asn": "AS204464"
-    },
-    {
         "nickname": "Protocol73",
         "asn": "AS393238"
     },
@@ -23830,6 +23830,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "104.244.72.132"
+        ],
         "asn": "AS53667"
     },
     {
@@ -26022,10 +26025,6 @@
     {
         "nickname": "steviedr",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "nextservExit",
-        "asn": "AS204464"
     },
     {
         "nickname": "s3sam",
@@ -33554,6 +33553,10 @@
         "asn": "AS200019"
     },
     {
+        "nickname": "oxc4relay",
+        "asn": "AS57269"
+    },
+    {
         "nickname": "BrightHarbor",
         "asn": "AS20473"
     },
@@ -34270,6 +34273,10 @@
     {
         "nickname": "chuckinglish",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "MyDebianRelay",
+        "asn": "AS138746"
     },
     {
         "nickname": "WildsofArkansas",
@@ -40504,9 +40511,6 @@
     },
     {
         "nickname": "TorExitRelay",
-        "exit_address": [
-            "144.124.234.199"
-        ],
         "asn": "AS216071"
     },
     {
