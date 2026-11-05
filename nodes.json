@@ -12114,6 +12114,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "arctor",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "Jersey",
         "asn": "AS12876"
     },
@@ -15894,9 +15898,6 @@
     },
     {
         "nickname": "samictor",
-        "exit_address": [
-            "198.98.60.90"
-        ],
         "asn": "AS53667"
     },
     {
@@ -16091,10 +16092,6 @@
     {
         "nickname": "NTH117R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS60117"
     },
     {
         "nickname": "Apollo",
@@ -19173,6 +19170,9 @@
     },
     {
         "nickname": "node218316",
+        "exit_address": [
+            "2.26.122.108"
+        ],
         "asn": "AS201988"
     },
     {
@@ -21350,6 +21350,10 @@
     },
     {
         "nickname": "torrelay583481",
+        "asn": "AS24940"
+    },
+    {
+        "nickname": "sn0rlax",
         "asn": "AS24940"
     },
     {
@@ -24959,10 +24963,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "rotfront2",
-        "asn": "AS5483"
-    },
-    {
         "nickname": "TheKid3",
         "asn": "AS9009"
     },
@@ -26988,6 +26988,10 @@
         "asn": "AS2900"
     },
     {
+        "nickname": "RunningOnFumes1",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "artikel10ber127",
         "exit_address": [
             "185.220.101.0"
@@ -27495,6 +27499,10 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
+    },
+    {
+        "nickname": "anonymous",
+        "asn": "AS31898"
     },
     {
         "nickname": "sciurus1",
@@ -29682,6 +29690,10 @@
     {
         "nickname": "masterchief",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "asgard",
+        "asn": "AS15435"
     },
     {
         "nickname": "sunsetwaffle",
@@ -32462,10 +32474,6 @@
         "asn": "AS3223"
     },
     {
-        "nickname": "rofltor05",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "artikel10ber42",
         "exit_address": [
             "185.220.101.11"
@@ -33480,6 +33488,10 @@
     {
         "nickname": "kulcosictor",
         "asn": "AS2611"
+    },
+    {
+        "nickname": "oniong02",
+        "asn": "AS24940"
     },
     {
         "nickname": "BringMeToLife",
@@ -41746,7 +41758,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -45729,6 +45741,10 @@
     {
         "nickname": "sciurus2",
         "asn": "AS29802"
+    },
+    {
+        "nickname": "SecretDropUS",
+        "asn": "AS210558"
     },
     {
         "nickname": "SEC6xFreeBSD64",
