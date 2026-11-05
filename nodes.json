@@ -2876,10 +2876,6 @@
         "asn": "AS26042"
     },
     {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "bigmoochiegrape",
         "asn": "AS36849"
     },
@@ -3118,10 +3114,6 @@
     {
         "nickname": "thundercat",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "ywaifir",
-        "asn": "AS28753"
     },
     {
         "nickname": "NTH63R8",
@@ -6186,6 +6178,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "kinglos",
         "asn": "AS36849"
     },
@@ -7342,6 +7338,9 @@
     },
     {
         "nickname": "Illuminati",
+        "exit_address": [
+            "87.118.110.27"
+        ],
         "asn": "AS31103"
     },
     {
@@ -20900,6 +20899,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "188.137.153.122"
+        ],
         "asn": "AS216416"
     },
     {
@@ -21485,7 +21487,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -23827,6 +23829,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "DFRI73",
         "exit_address": [
             "171.25.193.38"
@@ -24790,6 +24796,10 @@
     {
         "nickname": "OrionHentai1",
         "asn": "AS40029"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS3215"
     },
     {
         "nickname": "cochise",
@@ -34600,6 +34610,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "oniong03",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Quintex293",
         "exit_address": [
             "204.8.96.182"
@@ -36087,6 +36101,10 @@
     {
         "nickname": "sprucegoose",
         "asn": "AS29802"
+    },
+    {
+        "nickname": "Conomette",
+        "asn": "AS26832"
     },
     {
         "nickname": "ellen2",
@@ -37678,6 +37696,10 @@
     {
         "nickname": "fivioforeign",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "vivaukraine",
+        "asn": "AS24940"
     },
     {
         "nickname": "socket1717",
@@ -41758,7 +41780,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
