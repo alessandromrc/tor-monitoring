@@ -1493,6 +1493,9 @@
     },
     {
         "nickname": "DFRI161",
+        "exit_address": [
+            "171.25.193.25"
+        ],
         "asn": "AS198093"
     },
     {
@@ -2947,6 +2950,9 @@
     },
     {
         "nickname": "DFRI78",
+        "exit_address": [
+            "171.25.193.39"
+        ],
         "asn": "AS198093"
     },
     {
@@ -12265,6 +12271,9 @@
     },
     {
         "nickname": "DFRI76",
+        "exit_address": [
+            "171.25.193.38"
+        ],
         "asn": "AS198093"
     },
     {
@@ -13640,6 +13649,9 @@
     },
     {
         "nickname": "DFRI49",
+        "exit_address": [
+            "171.25.193.35"
+        ],
         "asn": "AS198093"
     },
     {
@@ -24029,6 +24041,9 @@
     },
     {
         "nickname": "DFRI142",
+        "exit_address": [
+            "171.25.193.45"
+        ],
         "asn": "AS198093"
     },
     {
@@ -29552,6 +29567,9 @@
     },
     {
         "nickname": "DFRI54",
+        "exit_address": [
+            "171.25.193.36"
+        ],
         "asn": "AS198093"
     },
     {
@@ -31225,6 +31243,9 @@
     },
     {
         "nickname": "DFRI153",
+        "exit_address": [
+            "171.25.193.46"
+        ],
         "asn": "AS198093"
     },
     {
@@ -32810,6 +32831,10 @@
     {
         "nickname": "HjelmEnterprises02",
         "asn": "AS199950"
+    },
+    {
+        "nickname": "0xdeadbeef",
+        "asn": "AS29222"
     },
     {
         "nickname": "raretor",
@@ -37765,6 +37790,10 @@
     {
         "nickname": "fedoriansRelayTor",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "DefCon",
+        "asn": "AS3320"
     },
     {
         "nickname": "MassiveStealTime",
