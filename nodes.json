@@ -1800,6 +1800,10 @@
         "asn": "AS36149"
     },
     {
+        "nickname": "jtb05Relay01",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "chompski01",
         "asn": "AS6315"
     },
@@ -16561,10 +16565,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "tor03kryptonit",
-        "asn": "AS39642"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -18735,6 +18735,10 @@
         "asn": "AS63949"
     },
     {
+        "nickname": "Z0LTANTor",
+        "asn": "AS5617"
+    },
+    {
         "nickname": "NTH65R7",
         "exit_address": [
             "192.42.116.65"
@@ -18873,10 +18877,6 @@
     {
         "nickname": "InVinoVeritas1",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "america",
-        "asn": "AS212336"
     },
     {
         "nickname": "prsv",
@@ -26999,6 +26999,9 @@
     },
     {
         "nickname": "RunningOnFumes1",
+        "exit_address": [
+            "104.244.75.74"
+        ],
         "asn": "AS53667"
     },
     {
@@ -31766,6 +31769,10 @@
         "asn": "AS9318"
     },
     {
+        "nickname": "oniong04",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "torRelaySgp1",
         "asn": "AS14061"
     },
@@ -32926,9 +32933,6 @@
     },
     {
         "nickname": "same82",
-        "exit_address": [
-            "188.137.153.121"
-        ],
         "asn": "AS216416"
     },
     {
@@ -41482,10 +41486,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "anon1mous54",
-        "asn": "AS27176"
-    },
-    {
         "nickname": "homik3",
         "asn": "AS16276"
     },
@@ -44245,10 +44245,6 @@
     {
         "nickname": "seegurke",
         "asn": "AS3320"
-    },
-    {
-        "nickname": "hello",
-        "asn": "AS24940"
     },
     {
         "nickname": "BLAZIKEN",
