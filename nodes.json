@@ -16272,6 +16272,10 @@
         "asn": "AS2027"
     },
     {
+        "nickname": "MundoSinImpunidad",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "fugees",
         "asn": "AS36849"
     },
@@ -22373,10 +22377,6 @@
         "asn": "AS202422"
     },
     {
-        "nickname": "distantwillow",
-        "asn": "AS210558"
-    },
-    {
         "nickname": "NTH19R5",
         "exit_address": [
             "192.42.116.19"
@@ -24738,6 +24738,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.141",
             "198.167.206.217"
         ],
         "asn": "AS39287"
@@ -34099,6 +34100,10 @@
     },
     {
         "nickname": "Trismegistus",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "zcc09",
         "asn": "AS16276"
     },
     {
@@ -46634,6 +46639,10 @@
     {
         "nickname": "RelayUli",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "NetvynRelay",
+        "asn": "AS7018"
     },
     {
         "nickname": "keylock",
