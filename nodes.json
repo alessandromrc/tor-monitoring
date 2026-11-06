@@ -1998,6 +1998,10 @@
         "asn": "AS11878"
     },
     {
+        "nickname": "zcc08",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "W0LFF",
         "asn": "AS197540"
     },
@@ -12336,10 +12340,6 @@
         "asn": "AS136258"
     },
     {
-        "nickname": "masterchief",
-        "asn": "AS55720"
-    },
-    {
         "nickname": "DFRI16",
         "exit_address": [
             "171.25.193.77"
@@ -16518,10 +16518,6 @@
             "171.25.193.46"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "DeezNode3877619345",
-        "asn": "AS2119"
     },
     {
         "nickname": "GeorgetownRelay",
@@ -26259,6 +26255,10 @@
     {
         "nickname": "TruthSeeker",
         "asn": "AS393552"
+    },
+    {
+        "nickname": "kasper",
+        "asn": "AS197540"
     },
     {
         "nickname": "SyncCoreNode1",
