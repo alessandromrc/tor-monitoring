@@ -28335,6 +28335,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "Sakurack",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "AntifaeVVPS",
         "asn": "AS24961"
     },
@@ -43814,10 +43818,6 @@
         "asn": "AS42730"
     },
     {
-        "nickname": "764e151e9e",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "Quintex105",
         "exit_address": [
             "204.8.96.116"
@@ -48308,6 +48308,9 @@
     },
     {
         "nickname": "MoksedurRahman",
+        "exit_address": [
+            "103.166.187.253"
+        ],
         "asn": "AS137967"
     },
     {
