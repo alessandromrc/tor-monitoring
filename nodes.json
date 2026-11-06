@@ -3115,6 +3115,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "LittleFamily09",
+        "asn": "AS21859"
+    },
+    {
         "nickname": "RuiQianGuoTorRelay",
         "asn": "AS151660"
     },
@@ -4578,6 +4582,10 @@
     {
         "nickname": "tr13",
         "asn": "AS200303"
+    },
+    {
+        "nickname": "hhInhibitorsDE",
+        "asn": "AS3320"
     },
     {
         "nickname": "marcuse10",
@@ -6737,6 +6745,9 @@
     },
     {
         "nickname": "oldInJoke",
+        "exit_address": [
+            "81.90.116.177"
+        ],
         "asn": "AS2586"
     },
     {
@@ -6845,6 +6856,10 @@
     {
         "nickname": "PeterI",
         "asn": "AS400897"
+    },
+    {
+        "nickname": "LittleFamily07",
+        "asn": "AS21859"
     },
     {
         "nickname": "malechick",
@@ -19570,6 +19585,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS6327"
+    },
+    {
         "nickname": "UnredactedHaugen",
         "exit_address": [
             "23.191.200.64"
@@ -24690,6 +24709,10 @@
         "asn": "AS42237"
     },
     {
+        "nickname": "LittleFamily10",
+        "asn": "AS21859"
+    },
+    {
         "nickname": "AbracadabraRelay",
         "asn": "AS16276"
     },
@@ -24719,7 +24742,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.187",
             "198.167.206.217"
         ],
         "asn": "AS39287"
@@ -29599,6 +29621,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.83.3"
+        ],
         "asn": "AS36352"
     },
     {
@@ -35363,6 +35388,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "LittleFamily08",
+        "asn": "AS21859"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS11878"
     },
@@ -37390,6 +37419,9 @@
     },
     {
         "nickname": "bsdshell",
+        "exit_address": [
+            "45.66.35.122"
+        ],
         "asn": "AS61125"
     },
     {
@@ -40196,6 +40228,9 @@
     },
     {
         "nickname": "Darius",
+        "exit_address": [
+            "82.39.155.146"
+        ],
         "asn": "AS207295"
     },
     {
@@ -49233,6 +49268,10 @@
     },
     {
         "nickname": "BizarreWorkerKA02",
+        "asn": "AS197540"
+    },
+    {
+        "nickname": "nullptr",
         "asn": "AS197540"
     },
     {
