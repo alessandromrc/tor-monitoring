@@ -5705,6 +5705,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "2mpe3",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "majoran",
         "exit_address": [
             "109.70.100.15"
@@ -15138,6 +15142,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.3.146.243"
+        ],
         "asn": "AS36352"
     },
     {
@@ -20593,10 +20600,6 @@
         "asn": "AS24961"
     },
     {
-        "nickname": "greenlantern",
-        "asn": "AS51852"
-    },
-    {
         "nickname": "relay1",
         "asn": "AS7922"
     },
@@ -20769,10 +20772,6 @@
     {
         "nickname": "LibreGentoo",
         "asn": "AS46109"
-    },
-    {
-        "nickname": "OgresHaveLayers",
-        "asn": "AS27176"
     },
     {
         "nickname": "Unnamed",
@@ -24581,6 +24580,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "2mpe2",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "Novastation",
         "asn": "AS24940"
     },
@@ -25619,10 +25622,6 @@
             "185.220.101.7"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "OnionsHaveLayers",
-        "asn": "AS27176"
     },
     {
         "nickname": "CommunityXMRbest",
@@ -27931,7 +27930,7 @@
         "asn": "AS34779"
     },
     {
-        "nickname": "Pi5SoBroRelay",
+        "nickname": "NebulaNode",
         "asn": "AS7018"
     },
     {
@@ -43695,6 +43694,10 @@
         "asn": "AS52048"
     },
     {
+        "nickname": "ShijiuRelay",
+        "asn": "AS51847"
+    },
+    {
         "nickname": "VaginaDick",
         "exit_address": [
             "185.181.60.204"
@@ -49021,10 +49024,6 @@
             "171.25.193.38"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "cidSensor",
-        "asn": "AS14061"
     },
     {
         "nickname": "Digitalcourage4ip4a",
