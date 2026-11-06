@@ -7119,6 +7119,10 @@
         "asn": "AS2027"
     },
     {
+        "nickname": "Eunode01",
+        "asn": "AS52048"
+    },
+    {
         "nickname": "soP49mzpYUFEwVdiFN3",
         "asn": "AS33705"
     },
@@ -15233,6 +15237,10 @@
         "asn": "AS211619"
     },
     {
+        "nickname": "MyRockyRelay",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "NTH305R1",
         "asn": "AS8283"
     },
@@ -17639,9 +17647,6 @@
     },
     {
         "nickname": "nuiklost1",
-        "exit_address": [
-            "45.9.156.156"
-        ],
         "asn": "AS211619"
     },
     {
@@ -36120,6 +36125,10 @@
     {
         "nickname": "onionmatic",
         "asn": "AS63018"
+    },
+    {
+        "nickname": "Eunode02",
+        "asn": "AS9009"
     },
     {
         "nickname": "NTH104R6",
