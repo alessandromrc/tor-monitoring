@@ -3945,6 +3945,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "moneymule",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "Quintex153",
         "exit_address": [
             "204.8.96.142"
@@ -35050,9 +35054,6 @@
     },
     {
         "nickname": "pinetree",
-        "exit_address": [
-            "66.252.54.34"
-        ],
         "asn": "AS11847"
     },
     {
@@ -49255,6 +49256,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.83.15"
+        ],
         "asn": "AS36352"
     },
     {
