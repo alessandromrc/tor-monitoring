@@ -1069,9 +1069,6 @@
     },
     {
         "nickname": "2mplas3",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -2412,6 +2409,10 @@
     {
         "nickname": "quark",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS43541"
     },
     {
         "nickname": "Quintex179",
@@ -13246,6 +13247,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "rochelle",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "BSDrelay02",
         "asn": "AS8560"
     },
@@ -15546,6 +15551,10 @@
             "192.42.116.47"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MichaelAngelo",
+        "asn": "AS24940"
     },
     {
         "nickname": "WOPR4",
@@ -19091,9 +19100,6 @@
     },
     {
         "nickname": "2mplas2",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
@@ -21702,9 +21708,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -26925,6 +26928,10 @@
             "171.25.193.78"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "AestetiumRelay",
+        "asn": "AS1267"
     },
     {
         "nickname": "Neuchatel",
@@ -34287,6 +34294,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.236.157.54"
+        ],
         "asn": "AS36352"
     },
     {
@@ -39105,9 +39115,6 @@
     },
     {
         "nickname": "2mplas",
-        "exit_address": [
-            "205.185.113.210"
-        ],
         "asn": "AS53667"
     },
     {
