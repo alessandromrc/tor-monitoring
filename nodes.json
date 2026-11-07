@@ -9610,9 +9610,6 @@
     },
     {
         "nickname": "artikel10ber24",
-        "exit_address": [
-            "185.220.101.6"
-        ],
         "asn": "AS60729"
     },
     {
@@ -11246,6 +11243,9 @@
     },
     {
         "nickname": "3k33us",
+        "exit_address": [
+            "65.87.223.26"
+        ],
         "asn": "AS203662"
     },
     {
@@ -14453,6 +14453,10 @@
             "185.233.100.23"
         ],
         "asn": "AS198985"
+    },
+    {
+        "nickname": "mosimosi",
+        "asn": "AS46841"
     },
     {
         "nickname": "tormachine",
@@ -42718,9 +42722,6 @@
     },
     {
         "nickname": "PirateyMatey",
-        "exit_address": [
-            "212.86.125.110"
-        ],
         "asn": "AS43641"
     },
     {
