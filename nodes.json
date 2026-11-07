@@ -9075,10 +9075,6 @@
         "asn": "AS213250"
     },
     {
-        "nickname": "Nexus",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "MyPrivateExit",
         "asn": "AS215311"
     },
@@ -20406,6 +20402,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "0x12345",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "nixytor",
         "asn": "AS63949"
     },
@@ -23769,7 +23769,7 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "PrivatRelay",
         "asn": "AS212477"
     },
     {
@@ -34274,6 +34274,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Killix",
         "asn": "AS56655"
     },
@@ -37787,9 +37791,6 @@
     },
     {
         "nickname": "artikel10ber23",
-        "exit_address": [
-            "185.220.101.6"
-        ],
         "asn": "AS60729"
     },
     {
