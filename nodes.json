@@ -10927,6 +10927,9 @@
     },
     {
         "nickname": "Aatrox",
+        "exit_address": [
+            "31.56.4.49"
+        ],
         "asn": "AS213693"
     },
     {
@@ -12341,6 +12344,9 @@
     },
     {
         "nickname": "TORKeFFORG32",
+        "exit_address": [
+            "193.189.100.199"
+        ],
         "asn": "AS41281"
     },
     {
@@ -15706,10 +15712,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Zoppo1",
-        "asn": "AS9136"
-    },
-    {
         "nickname": "CTtor03",
         "asn": "AS403065"
     },
@@ -16658,10 +16660,6 @@
     {
         "nickname": "0xdeadbeef",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "JamieThinkPad",
-        "asn": "AS5607"
     },
     {
         "nickname": "TorNode07dot2",
@@ -21540,7 +21538,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -23162,6 +23160,10 @@
             "92.246.84.133"
         ],
         "asn": "AS44592"
+    },
+    {
+        "nickname": "zcc10",
+        "asn": "AS16276"
     },
     {
         "nickname": "sunandfun02",
@@ -25777,6 +25779,9 @@
     },
     {
         "nickname": "TORKeFFORG29",
+        "exit_address": [
+            "193.189.100.196"
+        ],
         "asn": "AS41281"
     },
     {
@@ -36416,6 +36421,10 @@
         "asn": "AS559"
     },
     {
+        "nickname": "TorRelayXtz2",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "metricspace",
         "asn": "AS701"
     },
@@ -40936,10 +40945,6 @@
     {
         "nickname": "zgato",
         "asn": "AS40156"
-    },
-    {
-        "nickname": "NaviStatus",
-        "asn": "AS211507"
     },
     {
         "nickname": "ididntedithecofnig",
@@ -47660,6 +47665,9 @@
     },
     {
         "nickname": "TORKeFFORG33",
+        "exit_address": [
+            "193.189.100.200"
+        ],
         "asn": "AS41281"
     },
     {
