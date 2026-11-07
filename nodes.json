@@ -2085,10 +2085,6 @@
         "asn": "AS213929"
     },
     {
-        "nickname": "nodejer",
-        "asn": "AS29222"
-    },
-    {
         "nickname": "hondoyouknowwho4",
         "asn": "AS204957"
     },
@@ -6770,8 +6766,7 @@
     {
         "nickname": "oldInJoke",
         "exit_address": [
-            "81.90.116.120",
-            "81.90.116.177"
+            "81.90.116.120"
         ],
         "asn": "AS2586"
     },
@@ -15372,6 +15367,10 @@
         "asn": "AS60404"
     },
     {
+        "nickname": "TorryBridgeV2",
+        "asn": "AS201988"
+    },
+    {
         "nickname": "SSDNodesNLexit2",
         "exit_address": [
             "185.246.190.136"
@@ -15902,9 +15901,6 @@
     },
     {
         "nickname": "BronkCroatia02",
-        "exit_address": [
-            "45.95.169.119"
-        ],
         "asn": "AS211619"
     },
     {
@@ -16358,6 +16354,10 @@
     {
         "nickname": "eclipse22",
         "asn": "AS151873"
+    },
+    {
+        "nickname": "MKDDT",
+        "asn": "AS63023"
     },
     {
         "nickname": "toreczkowo4",
@@ -20979,6 +20979,10 @@
             "188.137.153.122"
         ],
         "asn": "AS216416"
+    },
+    {
+        "nickname": "djiplot",
+        "asn": "AS197540"
     },
     {
         "nickname": "DFRI82",
@@ -36188,7 +36192,7 @@
     },
     {
         "nickname": "Eunode02",
-        "asn": "AS9009"
+        "asn": "AS6206"
     },
     {
         "nickname": "NTH104R6",
@@ -45199,7 +45203,7 @@
     },
     {
         "nickname": "Cassandra",
-        "asn": "AS56478"
+        "asn": "AS6871"
     },
     {
         "nickname": "networksupporter652",
