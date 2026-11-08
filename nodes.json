@@ -67,6 +67,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "b864707d8c",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "chali2na",
         "asn": "AS36849"
     },
@@ -5881,10 +5885,6 @@
         "asn": "AS27651"
     },
     {
-        "nickname": "2f3561f9ae",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "tor03",
         "asn": "AS8560"
     },
@@ -9841,6 +9841,10 @@
             "23.129.64.134"
         ],
         "asn": "AS396507"
+    },
+    {
+        "nickname": "e46f0e7880",
+        "asn": "AS131160"
     },
     {
         "nickname": "1976404580676792",
@@ -17046,10 +17050,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "e97df330c0",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "TiemanniteHGL04",
         "asn": "AS20847"
     },
@@ -21721,6 +21721,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -25771,10 +25774,6 @@
     {
         "nickname": "fatpat",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "GiveawayMiddle",
-        "asn": "AS16509"
     },
     {
         "nickname": "prsv",
@@ -30470,10 +30469,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "InnocenceTube",
-        "asn": "AS53667"
-    },
-    {
         "nickname": "Quintex584",
         "exit_address": [
             "204.8.96.173"
@@ -33876,6 +33871,9 @@
     },
     {
         "nickname": "whydragonsfly",
+        "exit_address": [
+            "45.138.12.70"
+        ],
         "asn": "AS218785"
     },
     {
@@ -38317,10 +38315,6 @@
         "asn": "AS44570"
     },
     {
-        "nickname": "RandomRelay",
-        "asn": "AS1257"
-    },
-    {
         "nickname": "ponygirl",
         "asn": "AS48314"
     },
@@ -40059,6 +40053,10 @@
     {
         "nickname": "hetzman",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "37e3c31be9",
+        "asn": "AS131160"
     },
     {
         "nickname": "bubblegum",
@@ -44410,10 +44408,6 @@
     {
         "nickname": "sugafree",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "e1cc5c0acf",
-        "asn": "AS131160"
     },
     {
         "nickname": "prsv",
