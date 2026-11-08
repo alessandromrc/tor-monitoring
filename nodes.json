@@ -673,6 +673,10 @@
         "asn": "AS8758"
     },
     {
+        "nickname": "relVX",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "jeruthedamaja",
         "asn": "AS36849"
     },
@@ -5030,6 +5034,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "a1a4fb4958",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "marcuse9",
         "exit_address": [
             "178.20.55.182"
@@ -5218,6 +5226,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.255.201.6"
+        ],
         "asn": "AS36352"
     },
     {
@@ -11575,6 +11586,9 @@
     },
     {
         "nickname": "Nlexit183",
+        "exit_address": [
+            "150.40.127.183"
+        ],
         "asn": "AS211619"
     },
     {
@@ -12573,10 +12587,6 @@
     {
         "nickname": "NTH302R5",
         "asn": "AS8283"
-    },
-    {
-        "nickname": "betsyarmy",
-        "asn": "AS36352"
     },
     {
         "nickname": "SSDNodesFIexit",
@@ -20977,6 +20987,9 @@
     },
     {
         "nickname": "Nlexit148",
+        "exit_address": [
+            "150.40.127.148"
+        ],
         "asn": "AS211619"
     },
     {
@@ -22000,6 +22013,10 @@
     {
         "nickname": "bushwickbill",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "TeslaX",
+        "asn": "AS20473"
     },
     {
         "nickname": "tor01",
@@ -27914,6 +27931,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -35663,6 +35683,9 @@
     },
     {
         "nickname": "Nlexit186",
+        "exit_address": [
+            "150.40.127.186"
+        ],
         "asn": "AS211619"
     },
     {
@@ -39105,6 +39128,10 @@
             "103.109.101.105"
         ],
         "asn": "AS206264"
+    },
+    {
+        "nickname": "dd2b21071b",
+        "asn": "AS131160"
     },
     {
         "nickname": "murvisgay",
@@ -47806,10 +47833,6 @@
     {
         "nickname": "AntonPann6",
         "asn": "AS207083"
-    },
-    {
-        "nickname": "betsyarmy",
-        "asn": "AS36352"
     },
     {
         "nickname": "travesty",
