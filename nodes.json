@@ -1774,6 +1774,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.83.6"
+        ],
         "asn": "AS36352"
     },
     {
@@ -2376,10 +2379,6 @@
     {
         "nickname": "Albis",
         "asn": "AS52423"
-    },
-    {
-        "nickname": "Test",
-        "asn": "AS213316"
     },
     {
         "nickname": "Quintex378",
@@ -11681,6 +11680,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "de4d",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "CrimPacTorRelay05",
         "asn": "AS401903"
     },
@@ -13679,9 +13682,6 @@
     },
     {
         "nickname": "CrazyGoood",
-        "exit_address": [
-            "5.231.3.63"
-        ],
         "asn": "AS12586"
     },
     {
@@ -33800,6 +33800,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "F6F",
+        "asn": "AS51202"
+    },
+    {
         "nickname": "Assange008fr",
         "asn": "AS12876"
     },
@@ -39405,10 +39409,6 @@
     {
         "nickname": "PanamaSecureNode",
         "asn": "AS27956"
-    },
-    {
-        "nickname": "renrpo26",
-        "asn": "AS14061"
     },
     {
         "nickname": "PapaJohns",
