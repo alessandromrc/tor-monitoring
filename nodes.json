@@ -12031,6 +12031,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.3.73.147"
+        ],
         "asn": "AS36352"
     },
     {
@@ -30464,10 +30467,6 @@
         "asn": "AS206238"
     },
     {
-        "nickname": "Osiris",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "breadcan",
         "asn": "AS8881"
     },
@@ -43955,9 +43954,6 @@
     },
     {
         "nickname": "terNOicebeer16",
-        "exit_address": [
-            "185.243.218.225"
-        ],
         "asn": "AS56655"
     },
     {
