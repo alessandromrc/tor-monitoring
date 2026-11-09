@@ -771,10 +771,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "ZwiebelPrivacy",
-        "asn": "AS58212"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -9643,6 +9639,10 @@
         "asn": "AS5089"
     },
     {
+        "nickname": "1a4d5f58c8",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "TORtelliniExit02",
         "exit_address": [
             "45.13.225.78"
@@ -15795,10 +15795,6 @@
         "asn": "AS133210"
     },
     {
-        "nickname": "b08ff6ee1f",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "mycontribution",
         "exit_address": [
             "87.106.76.226"
@@ -19061,6 +19057,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "a92f4c0b17",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "castelmagno",
         "exit_address": [
             "64.190.76.14"
@@ -19927,10 +19927,6 @@
             "204.8.96.89"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "a00a04a163",
-        "asn": "AS131160"
     },
     {
         "nickname": "order",
@@ -27804,6 +27800,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -27972,9 +27971,6 @@
     },
     {
         "nickname": "eden",
-        "exit_address": [
-            "194.55.167.14"
-        ],
         "asn": "AS197648"
     },
     {
@@ -39531,6 +39527,9 @@
     },
     {
         "nickname": "FreeExitd2902403",
+        "exit_address": [
+            "82.163.7.221"
+        ],
         "asn": "AS213929"
     },
     {
@@ -44357,10 +44356,6 @@
     {
         "nickname": "kittybrand",
         "asn": "AS11232"
-    },
-    {
-        "nickname": "FlashPuma",
-        "asn": "AS208226"
     },
     {
         "nickname": "fusion",
