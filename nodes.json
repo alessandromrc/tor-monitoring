@@ -1221,6 +1221,10 @@
         "asn": "AS13036"
     },
     {
+        "nickname": "justanotherrelay",
+        "asn": "AS8866"
+    },
+    {
         "nickname": "tr25",
         "asn": "AS200303"
     },
@@ -1334,10 +1338,6 @@
             "192.42.116.49"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "608c7556fff2e",
-        "asn": "AS401701"
     },
     {
         "nickname": "WanderingDwarfMiner",
@@ -39561,10 +39561,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "NodeToAlphaMale",
-        "asn": "AS7602"
-    },
-    {
         "nickname": "murs316",
         "asn": "AS36849"
     },
@@ -42472,10 +42468,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "NodeToAlphaMale",
-        "asn": "AS7602"
-    },
-    {
         "nickname": "waxcs4edb69m7yh",
         "asn": "AS24940"
     },
@@ -42834,6 +42826,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.3.173.85"
+        ],
         "asn": "AS36352"
     },
     {
@@ -43575,9 +43570,6 @@
     },
     {
         "nickname": "Team1Inverse1LLC",
-        "exit_address": [
-            "216.86.69.11"
-        ],
         "asn": "AS201392"
     },
     {
