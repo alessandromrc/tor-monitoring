@@ -14771,6 +14771,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "Solsticist",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "RelayUli",
         "asn": "AS8560"
     },
@@ -17732,6 +17736,10 @@
             "185.220.101.141"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "LauchRelay",
+        "asn": "AS24940"
     },
     {
         "nickname": "fabledview",
@@ -32060,6 +32068,9 @@
     },
     {
         "nickname": "cloudwaddieExit",
+        "exit_address": [
+            "94.249.178.227"
+        ],
         "asn": "AS215365"
     },
     {
@@ -39497,6 +39508,10 @@
     {
         "nickname": "PanamaSecureNode",
         "asn": "AS27956"
+    },
+    {
+        "nickname": "TorBSD",
+        "asn": "AS7018"
     },
     {
         "nickname": "PapaJohns",
