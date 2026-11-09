@@ -8997,6 +8997,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.3.212.126"
+        ],
         "asn": "AS36352"
     },
     {
@@ -14465,7 +14468,7 @@
     },
     {
         "nickname": "mosimosi",
-        "asn": "AS46841"
+        "asn": "AS215659"
     },
     {
         "nickname": "tormachine",
@@ -31906,6 +31909,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Reunion",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "PlebsTogetherStrong",
         "asn": "AS197540"
     },
@@ -43646,7 +43653,8 @@
     {
         "nickname": "Lungutor",
         "exit_address": [
-            "142.249.174.12"
+            "142.249.174.12",
+            "142.249.174.14"
         ],
         "asn": "AS205941"
     },
