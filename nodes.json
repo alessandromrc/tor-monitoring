@@ -1946,10 +1946,6 @@
         "asn": "AS13045"
     },
     {
-        "nickname": "skinwalker",
-        "asn": "AS14956"
-    },
-    {
         "nickname": "ChesterQueen",
         "asn": "AS20473"
     },
@@ -3304,6 +3300,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "0d80297053",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "PoochySloochy",
         "asn": "AS12876"
     },
@@ -4235,6 +4235,10 @@
     {
         "nickname": "Oracle",
         "asn": "AS52048"
+    },
+    {
+        "nickname": "e168772520",
+        "asn": "AS131160"
     },
     {
         "nickname": "Yam",
@@ -11758,6 +11762,9 @@
     },
     {
         "nickname": "FreeExitc66905d0",
+        "exit_address": [
+            "82.163.7.223"
+        ],
         "asn": "AS213929"
     },
     {
@@ -16237,6 +16244,9 @@
     },
     {
         "nickname": "FreeExita8cc37d5",
+        "exit_address": [
+            "82.163.7.222"
+        ],
         "asn": "AS213929"
     },
     {
@@ -21636,7 +21646,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor5",
+        "nickname": "as214958tor4",
         "asn": "AS8283"
     },
     {
@@ -23619,10 +23629,6 @@
             "204.8.96.88"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "PrincessTor",
-        "asn": "AS62005"
     },
     {
         "nickname": "Quintex104",
@@ -36108,6 +36114,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "ITAtor",
+        "asn": "AS24608"
+    },
+    {
         "nickname": "kaynewest",
         "asn": "AS36849"
     },
@@ -39885,6 +39895,9 @@
     },
     {
         "nickname": "FreeExit8bc61584",
+        "exit_address": [
+            "82.163.7.220"
+        ],
         "asn": "AS213929"
     },
     {
@@ -41612,10 +41625,6 @@
     {
         "nickname": "slarty2",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "natasha52aye",
-        "asn": "AS214677"
     },
     {
         "nickname": "NTH59R2",
@@ -46613,6 +46622,10 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
+    },
+    {
+        "nickname": "REEEEEEEEEEEELAY",
+        "asn": "AS8560"
     },
     {
         "nickname": "dizzeerascal",
