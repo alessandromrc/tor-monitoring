@@ -7969,10 +7969,6 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "AlphaDom",
-        "asn": "AS7602"
-    },
-    {
         "nickname": "LebLibraries",
         "exit_address": [
             "66.220.242.222"
@@ -32056,6 +32052,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "cloudwaddieExit",
+        "asn": "AS215365"
+    },
+    {
         "nickname": "unoloso",
         "asn": "AS36849"
     },
@@ -41792,6 +41792,10 @@
     {
         "nickname": "homik3",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "MyRelay",
+        "asn": "AS48282"
     },
     {
         "nickname": "arbitraryKenzie1",
