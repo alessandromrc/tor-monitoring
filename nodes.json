@@ -7441,6 +7441,10 @@
         "asn": "AS209"
     },
     {
+        "nickname": "onionsoup",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "agoking91",
         "asn": "AS6739"
     },
@@ -11749,6 +11753,10 @@
         "asn": "AS200019"
     },
     {
+        "nickname": "FreeExitc66905d0",
+        "asn": "AS213929"
+    },
+    {
         "nickname": "posner",
         "asn": "AS36849"
     },
@@ -13831,6 +13839,10 @@
     {
         "nickname": "middy",
         "asn": "AS64073"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS14061"
     },
     {
         "nickname": "ovhchimaca",
@@ -16214,6 +16226,10 @@
     {
         "nickname": "narp",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "FreeExita8cc37d5",
+        "asn": "AS213929"
     },
     {
         "nickname": "DFRI128",
@@ -27777,9 +27793,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -29547,9 +29560,6 @@
     },
     {
         "nickname": "ClubPhantom",
-        "exit_address": [
-            "84.239.46.144"
-        ],
         "asn": "AS201308"
     },
     {
@@ -39505,6 +39515,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "FreeExitd2902403",
+        "asn": "AS213929"
+    },
+    {
         "nickname": "NFOrce",
         "asn": "AS43350"
     },
@@ -39863,6 +39877,10 @@
     {
         "nickname": "vaseline",
         "asn": "AS7992"
+    },
+    {
+        "nickname": "FreeExit8bc61584",
+        "asn": "AS213929"
     },
     {
         "nickname": "rotorstator",
@@ -43632,7 +43650,6 @@
     {
         "nickname": "Lungutor",
         "exit_address": [
-            "142.249.174.12",
             "142.249.174.14"
         ],
         "asn": "AS205941"
@@ -47882,10 +47899,6 @@
     {
         "nickname": "AntonPann6",
         "asn": "AS207083"
-    },
-    {
-        "nickname": "travesty",
-        "asn": "AS31898"
     },
     {
         "nickname": "dryfish",
