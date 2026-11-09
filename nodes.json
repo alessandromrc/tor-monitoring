@@ -3742,6 +3742,10 @@
         "asn": "AS1653"
     },
     {
+        "nickname": "ClaireIT",
+        "asn": "AS57043"
+    },
+    {
         "nickname": "NukeRelay1",
         "asn": "AS812"
     },
@@ -8996,6 +9000,10 @@
         "asn": "AS5089"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "dairy",
         "asn": "AS51167"
     },
@@ -12214,10 +12222,6 @@
     {
         "nickname": "dhrlytwofive",
         "asn": "AS44716"
-    },
-    {
-        "nickname": "rbran0server0tor",
-        "asn": "AS263108"
     },
     {
         "nickname": "pharrellwilliams",
@@ -21621,7 +21625,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -36981,6 +36985,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -37991,6 +37998,10 @@
             "204.8.96.75"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "MorazanNodo504",
+        "asn": "AS262234"
     },
     {
         "nickname": "theTorDoor",
@@ -42442,6 +42453,10 @@
     {
         "nickname": "conceitedwildnout",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "redvader",
+        "asn": "AS24940"
     },
     {
         "nickname": "NodeToAlphaMale",
