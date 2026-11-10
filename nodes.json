@@ -5618,10 +5618,6 @@
         "asn": "AS61493"
     },
     {
-        "nickname": "rochusberg",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "toniroma",
         "asn": "AS36849"
     },
@@ -7385,6 +7381,10 @@
     {
         "nickname": "NTH98R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "spexeah",
+        "asn": "AS5089"
     },
     {
         "nickname": "NTH58R2",
@@ -9377,9 +9377,6 @@
     },
     {
         "nickname": "Runaz2",
-        "exit_address": [
-            "192.253.248.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -23322,10 +23319,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "idideditheconfig",
-        "asn": "AS10796"
-    },
-    {
         "nickname": "TacticalAtom",
         "asn": "AS8560"
     },
@@ -24895,6 +24888,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.143",
             "198.167.206.238"
         ],
         "asn": "AS39287"
@@ -27176,6 +27170,9 @@
     },
     {
         "nickname": "renrpo26cellrecord",
+        "exit_address": [
+            "209.38.145.86"
+        ],
         "asn": "AS14061"
     },
     {
@@ -29601,6 +29598,9 @@
     },
     {
         "nickname": "ClubPhantom",
+        "exit_address": [
+            "84.239.46.144"
+        ],
         "asn": "AS201308"
     },
     {
@@ -39544,6 +39544,9 @@
     },
     {
         "nickname": "renrpo26",
+        "exit_address": [
+            "170.64.129.106"
+        ],
         "asn": "AS14061"
     },
     {
@@ -40350,10 +40353,6 @@
             "204.8.96.71"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "mytorrelay",
-        "asn": "AS13101"
     },
     {
         "nickname": "Seoull",
@@ -42144,7 +42143,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -42670,10 +42669,6 @@
     {
         "nickname": "shawnjayfieldmob",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "trevrelay",
-        "asn": "AS12129"
     },
     {
         "nickname": "kardinaloffishall",
