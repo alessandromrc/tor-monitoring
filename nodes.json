@@ -14850,10 +14850,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3399"
-    },
-    {
         "nickname": "Relay",
         "asn": "AS7552"
     },
@@ -17238,6 +17234,10 @@
             "171.25.193.235"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "RoyTorNode0",
+        "asn": "AS3462"
     },
     {
         "nickname": "natanaelcano",
@@ -27173,6 +27173,10 @@
     {
         "nickname": "mevolz2",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "renrpo26cellrecord",
+        "asn": "AS14061"
     },
     {
         "nickname": "kingray",
@@ -39536,6 +39540,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "renrpo26",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "PapaJohns",
         "asn": "AS3223"
     },
@@ -41680,6 +41688,9 @@
     },
     {
         "nickname": "PrutShield",
+        "exit_address": [
+            "178.17.171.88"
+        ],
         "asn": "AS43289"
     },
     {
@@ -49287,6 +49298,10 @@
     },
     {
         "nickname": "prsv",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "cybertehr4n6",
         "asn": "AS16276"
     },
     {
