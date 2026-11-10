@@ -21494,10 +21494,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "GlowyFreeway",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "telerelay",
         "asn": "AS24940"
     },
@@ -25692,9 +25688,6 @@
     },
     {
         "nickname": "xinchaovit",
-        "exit_address": [
-            "125.212.241.131"
-        ],
         "asn": "AS7552"
     },
     {
@@ -26444,6 +26437,10 @@
     {
         "nickname": "kasper",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "DETL0002",
+        "asn": "AS8881"
     },
     {
         "nickname": "SyncCoreNode1",
@@ -32367,6 +32364,10 @@
     {
         "nickname": "jcstamos",
         "asn": "AS16019"
+    },
+    {
+        "nickname": "vpnhub1",
+        "asn": "AS24940"
     },
     {
         "nickname": "Unnamed",
@@ -42127,7 +42128,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
