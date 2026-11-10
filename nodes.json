@@ -302,6 +302,9 @@
     },
     {
         "nickname": "motauri",
+        "exit_address": [
+            "95.143.193.125"
+        ],
         "asn": "AS49770"
     },
     {
@@ -23769,6 +23772,10 @@
     {
         "nickname": "npnpnp",
         "asn": "AS213520"
+    },
+    {
+        "nickname": "osodoevrelay",
+        "asn": "AS63473"
     },
     {
         "nickname": "vogerlsalat",
