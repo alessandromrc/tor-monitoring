@@ -302,9 +302,6 @@
     },
     {
         "nickname": "motauri",
-        "exit_address": [
-            "95.143.193.125"
-        ],
         "asn": "AS49770"
     },
     {
@@ -17083,6 +17080,9 @@
     },
     {
         "nickname": "agentsmith1",
+        "exit_address": [
+            "172.81.132.35"
+        ],
         "asn": "AS27176"
     },
     {
@@ -34703,6 +34703,9 @@
     },
     {
         "nickname": "DarkRadish",
+        "exit_address": [
+            "84.3.219.251"
+        ],
         "asn": "AS5483"
     },
     {
@@ -35251,7 +35254,6 @@
     {
         "nickname": "MyExitRelay",
         "exit_address": [
-            "91.188.254.22",
             "91.244.197.217"
         ],
         "asn": "AS213772"
@@ -48824,6 +48826,10 @@
     },
     {
         "nickname": "HeliosReaper",
+        "asn": "AS16276"
+    },
+    {
+        "nickname": "cybertehr4n3",
         "asn": "AS16276"
     },
     {
