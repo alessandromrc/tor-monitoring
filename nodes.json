@@ -10604,10 +10604,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "aphroditeRelay2",
         "asn": "AS8560"
     },
@@ -12930,6 +12926,10 @@
     {
         "nickname": "RelayUli",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "voidgb0",
+        "asn": "AS14061"
     },
     {
         "nickname": "NTH175R1",
@@ -29193,6 +29193,10 @@
         "asn": "AS212531"
     },
     {
+        "nickname": "SuperUser",
+        "asn": "AS201988"
+    },
+    {
         "nickname": "RelayGeek09",
         "asn": "AS924"
     },
@@ -36670,10 +36674,6 @@
         "asn": "AS35244"
     },
     {
-        "nickname": "regar42",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "CuriousLoophole",
         "asn": "AS16276"
     },
@@ -39240,6 +39240,9 @@
     },
     {
         "nickname": "2mplas",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
