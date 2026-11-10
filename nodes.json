@@ -2936,6 +2936,10 @@
         "asn": "AS812"
     },
     {
+        "nickname": "ua321",
+        "asn": "AS207656"
+    },
+    {
         "nickname": "Liberation",
         "asn": "AS35592"
     },
@@ -11616,10 +11620,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Tungsten",
-        "asn": "AS202422"
-    },
-    {
         "nickname": "BeTheChange",
         "asn": "AS6830"
     },
@@ -18578,6 +18578,9 @@
     },
     {
         "nickname": "trey",
+        "exit_address": [
+            "169.239.183.249"
+        ],
         "asn": "AS329184"
     },
     {
@@ -20077,7 +20080,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "SeekAndDestroy",
+        "nickname": "ColdWindsWhisperWar",
         "asn": "AS16276"
     },
     {
@@ -30909,7 +30912,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "9074149491597988",
+        "nickname": "8824841879124734",
         "exit_address": [
             "45.9.168.114"
         ],
@@ -31769,6 +31772,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "Query",
+        "asn": "AS394695"
+    },
+    {
         "nickname": "NTH104R5",
         "exit_address": [
             "192.42.116.104"
@@ -32398,6 +32405,10 @@
             "5.2.69.82"
         ],
         "asn": "AS60404"
+    },
+    {
+        "nickname": "DETL0001",
+        "asn": "AS8881"
     },
     {
         "nickname": "jstone",
@@ -37014,6 +37025,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -37110,6 +37124,10 @@
             "204.8.96.68"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "NTH101R4",
@@ -47971,7 +47989,7 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "2922941767207310",
+        "nickname": "3143441801748917",
         "exit_address": [
             "185.132.53.37"
         ],
