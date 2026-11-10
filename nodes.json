@@ -3664,6 +3664,9 @@
     },
     {
         "nickname": "FEEDMESEYMOUR",
+        "exit_address": [
+            "23.111.15.127"
+        ],
         "asn": "AS59253"
     },
     {
@@ -5328,6 +5331,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "XMRbestcoin",
+        "asn": "AS215960"
+    },
+    {
         "nickname": "Ichotolot60",
         "asn": "AS35366"
     },
@@ -6763,9 +6770,6 @@
     },
     {
         "nickname": "oldInJoke",
-        "exit_address": [
-            "81.90.116.120"
-        ],
         "asn": "AS2586"
     },
     {
@@ -14519,6 +14523,10 @@
         "asn": "AS1257"
     },
     {
+        "nickname": "cybertehr4n5",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "BungeeNet3",
         "asn": "AS16276"
     },
@@ -21051,9 +21059,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "188.137.153.122"
-        ],
         "asn": "AS216416"
     },
     {
@@ -24883,7 +24888,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.213",
             "198.167.206.238"
         ],
         "asn": "AS39287"
@@ -25884,9 +25888,6 @@
     },
     {
         "nickname": "agentsmith1",
-        "exit_address": [
-            "172.81.132.35"
-        ],
         "asn": "AS27176"
     },
     {
@@ -27960,7 +27961,7 @@
         "asn": "AS218877"
     },
     {
-        "nickname": "hyyrelay01",
+        "nickname": "NaiLong",
         "asn": "AS36352"
     },
     {
@@ -28000,9 +28001,6 @@
     },
     {
         "nickname": "eden",
-        "exit_address": [
-            "194.55.167.14"
-        ],
         "asn": "AS197648"
     },
     {
@@ -39610,6 +39608,10 @@
         "asn": "AS32"
     },
     {
+        "nickname": "XmrTimeBuy",
+        "asn": "AS26383"
+    },
+    {
         "nickname": "jackharlowkfc",
         "asn": "AS36849"
     },
@@ -41668,6 +41670,10 @@
             "109.70.100.11"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "PrutShield",
+        "asn": "AS43289"
     },
     {
         "nickname": "magalien",
