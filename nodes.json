@@ -6551,10 +6551,6 @@
         "asn": "AS15366"
     },
     {
-        "nickname": "MidRelayG4me",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "EpicTor4",
         "asn": "AS30860"
     },
@@ -28846,10 +28842,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "DockerTorRelay",
-        "asn": "AS135377"
-    },
-    {
         "nickname": "Minotaur8",
         "asn": "AS398101"
     },
@@ -34850,6 +34842,10 @@
         "asn": "AS214677"
     },
     {
+        "nickname": "FacadeAliceBob",
+        "asn": "AS403102"
+    },
+    {
         "nickname": "TorchWood",
         "asn": "AS24940"
     },
@@ -37119,6 +37115,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.210.214.64"
+        ],
         "asn": "AS36352"
     },
     {
@@ -38668,7 +38667,7 @@
         "asn": "AS45045"
     },
     {
-        "nickname": "3470164392652025",
+        "nickname": "4717336102355195",
         "exit_address": [
             "150.40.127.243"
         ],
@@ -39621,10 +39620,6 @@
     {
         "nickname": "elp",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "UploadRip",
-        "asn": "AS60781"
     },
     {
         "nickname": "echonetna1",
@@ -41940,7 +41935,7 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "6191910807813824",
+        "nickname": "7302711321013992",
         "exit_address": [
             "150.40.127.22"
         ],
@@ -47981,7 +47976,7 @@
         "asn": "AS31103"
     },
     {
-        "nickname": "2922941767207310",
+        "nickname": "3143441801748917",
         "exit_address": [
             "185.132.53.37"
         ],
