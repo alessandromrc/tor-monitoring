@@ -3004,6 +3004,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "96.44.167.216"
+        ],
         "asn": "AS36352"
     },
     {
@@ -5979,6 +5982,9 @@
     },
     {
         "nickname": "TORKeFFORG4",
+        "exit_address": [
+            "193.189.100.197"
+        ],
         "asn": "AS41281"
     },
     {
@@ -9971,9 +9977,6 @@
     },
     {
         "nickname": "scruffy",
-        "exit_address": [
-            "84.212.206.202"
-        ],
         "asn": "AS25400"
     },
     {
@@ -15809,10 +15812,6 @@
         "asn": "AS31863"
     },
     {
-        "nickname": "minator",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "Quintex492",
         "exit_address": [
             "204.8.96.181"
@@ -20440,6 +20439,9 @@
     },
     {
         "nickname": "TORKeFFORG2",
+        "exit_address": [
+            "193.189.100.195"
+        ],
         "asn": "AS41281"
     },
     {
@@ -24084,6 +24086,9 @@
     },
     {
         "nickname": "TORKeFFORG3",
+        "exit_address": [
+            "193.189.100.196"
+        ],
         "asn": "AS41281"
     },
     {
@@ -31145,6 +31150,9 @@
     },
     {
         "nickname": "TORKeFFORG6",
+        "exit_address": [
+            "193.189.100.199"
+        ],
         "asn": "AS41281"
     },
     {
@@ -44639,6 +44647,9 @@
     },
     {
         "nickname": "TORKeFFORG7",
+        "exit_address": [
+            "193.189.100.200"
+        ],
         "asn": "AS41281"
     },
     {
@@ -49304,6 +49315,9 @@
     },
     {
         "nickname": "TORKeFFORG5",
+        "exit_address": [
+            "193.189.100.198"
+        ],
         "asn": "AS41281"
     },
     {
