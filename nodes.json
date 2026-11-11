@@ -197,10 +197,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "UnshakledLiberty",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "TorRelayHetzFree",
         "asn": "AS24940"
     },
@@ -448,6 +444,9 @@
     },
     {
         "nickname": "9946714025193774",
+        "exit_address": [
+            "185.132.53.45"
+        ],
         "asn": "AS211507"
     },
     {
@@ -2298,6 +2297,10 @@
     {
         "nickname": "ruffletor",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "NTH94R7",
@@ -5253,6 +5256,9 @@
     },
     {
         "nickname": "OrrinExitMaxko",
+        "exit_address": [
+            "45.95.169.128"
+        ],
         "asn": "AS211619"
     },
     {
@@ -15655,10 +15661,6 @@
         "asn": "AS399820"
     },
     {
-        "nickname": "limewire",
-        "asn": "AS48314"
-    },
-    {
         "nickname": "Fantomas",
         "asn": "AS16276"
     },
@@ -18377,9 +18379,6 @@
     },
     {
         "nickname": "okade",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -24975,7 +24974,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.143"
+            "198.167.206.143",
+            "198.167.206.146"
         ],
         "asn": "AS39287"
     },
@@ -26755,10 +26755,6 @@
             "192.42.116.46"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "UnshakledKraken",
-        "asn": "AS16276"
     },
     {
         "nickname": "kingvon",
@@ -41634,10 +41630,6 @@
         "asn": "AS396507"
     },
     {
-        "nickname": "zerda",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "yusefthecat",
         "asn": "AS36849"
     },
@@ -42189,7 +42181,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -42875,6 +42867,10 @@
     {
         "nickname": "rickflowed",
         "asn": "AS136052"
+    },
+    {
+        "nickname": "ProjectRelay438",
+        "asn": "AS12271"
     },
     {
         "nickname": "as215248tor8b",
@@ -43939,10 +43935,6 @@
     {
         "nickname": "shawnna",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "UnshakledJSON",
-        "asn": "AS16276"
     },
     {
         "nickname": "NvorDarkdrop",
@@ -49169,6 +49161,9 @@
     },
     {
         "nickname": "SuperUser",
+        "exit_address": [
+            "31.76.103.207"
+        ],
         "asn": "AS201988"
     },
     {
