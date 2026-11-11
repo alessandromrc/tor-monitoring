@@ -35315,6 +35315,10 @@
         "asn": "AS46690"
     },
     {
+        "nickname": "HKExitAtomic",
+        "asn": "AS149440"
+    },
+    {
         "nickname": "QuintexAirVPN10",
         "exit_address": [
             "204.8.96.100"
@@ -46487,9 +46491,6 @@
     },
     {
         "nickname": "MoorishArt",
-        "exit_address": [
-            "194.53.137.42"
-        ],
         "asn": "AS9009"
     },
     {
