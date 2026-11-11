@@ -2349,9 +2349,6 @@
     },
     {
         "nickname": "suesslupine",
-        "exit_address": [
-            "109.70.100.8"
-        ],
         "asn": "AS208323"
     },
     {
@@ -6416,10 +6413,6 @@
     {
         "nickname": "nexwoof",
         "asn": "AS152992"
-    },
-    {
-        "nickname": "Hibernity",
-        "asn": "AS26801"
     },
     {
         "nickname": "relayon1129",
@@ -17363,6 +17356,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "GermanCraft25",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "mimira14",
         "asn": "AS211507"
     },
@@ -17902,6 +17899,10 @@
     {
         "nickname": "ADoorToTor",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS212238"
     },
     {
         "nickname": "Raccoon13TorRelay",
@@ -18786,6 +18787,10 @@
             "204.8.96.85"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "GermanCraft25",
+        "asn": "AS16276"
     },
     {
         "nickname": "eyedea",
@@ -24937,9 +24942,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -25483,6 +25485,10 @@
             "192.42.116.58"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Torpille",
+        "asn": "AS215599"
     },
     {
         "nickname": "anythingggggg",
@@ -27495,9 +27501,6 @@
     },
     {
         "nickname": "endivie",
-        "exit_address": [
-            "109.70.100.9"
-        ],
         "asn": "AS208323"
     },
     {
@@ -32153,6 +32156,10 @@
         "asn": "AS701"
     },
     {
+        "nickname": "rockyrelaytor",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "Sidewinder",
         "asn": "AS24940"
     },
@@ -33110,9 +33117,6 @@
     },
     {
         "nickname": "romanesco",
-        "exit_address": [
-            "109.70.100.9"
-        ],
         "asn": "AS208323"
     },
     {
@@ -42201,10 +42205,6 @@
         "asn": "AS16019"
     },
     {
-        "nickname": "Tardis",
-        "asn": "AS57169"
-    },
-    {
         "nickname": "RobotDevil",
         "asn": "AS16276"
     },
@@ -46457,7 +46457,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -46540,6 +46540,9 @@
     },
     {
         "nickname": "MoorishArt",
+        "exit_address": [
+            "194.53.137.42"
+        ],
         "asn": "AS9009"
     },
     {
