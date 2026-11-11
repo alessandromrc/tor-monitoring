@@ -7568,10 +7568,6 @@
         "asn": "AS8764"
     },
     {
-        "nickname": "TorExitRelay",
-        "asn": "AS399629"
-    },
-    {
         "nickname": "ioooi",
         "asn": "AS20473"
     },
@@ -21621,6 +21617,9 @@
     },
     {
         "nickname": "brazo",
+        "exit_address": [
+            "91.219.238.235"
+        ],
         "asn": "AS56322"
     },
     {
@@ -29308,6 +29307,9 @@
     },
     {
         "nickname": "vol2",
+        "exit_address": [
+            "136.244.111.163"
+        ],
         "asn": "AS20473"
     },
     {
@@ -32441,9 +32443,6 @@
     },
     {
         "nickname": "okade",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -42152,7 +42151,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
@@ -49417,6 +49416,10 @@
     {
         "nickname": "nauzome",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "shrdrelay01",
+        "asn": "AS204464"
     },
     {
         "nickname": "forest56",
