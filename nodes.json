@@ -2300,6 +2300,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "167.160.177.122"
+        ],
         "asn": "AS36352"
     },
     {
@@ -8318,10 +8321,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "haruto",
-        "asn": "AS215659"
-    },
-    {
         "nickname": "AnotherTorNode1202",
         "asn": "AS197540"
     },
@@ -12511,10 +12510,6 @@
     {
         "nickname": "DediRock2",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "Stealthstose",
-        "asn": "AS8473"
     },
     {
         "nickname": "KavinRelay",
@@ -18220,9 +18215,6 @@
     },
     {
         "nickname": "youdontknowwhoiam",
-        "exit_address": [
-            "193.218.118.128"
-        ],
         "asn": "AS207656"
     },
     {
@@ -20308,6 +20300,9 @@
     },
     {
         "nickname": "SwedenNewNew",
+        "exit_address": [
+            "82.39.155.148"
+        ],
         "asn": "AS207295"
     },
     {
@@ -38225,10 +38220,6 @@
         "asn": "AS5432"
     },
     {
-        "nickname": "ALHARAGrrelay",
-        "asn": "AS26832"
-    },
-    {
         "nickname": "gravediggaz",
         "asn": "AS36849"
     },
@@ -45168,6 +45159,10 @@
     {
         "nickname": "BaseOne",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "P3r14Sh4d0w",
+        "asn": "AS24940"
     },
     {
         "nickname": "conwaythemc",
