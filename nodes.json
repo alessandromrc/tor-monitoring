@@ -2377,6 +2377,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS2516"
+    },
+    {
         "nickname": "masstornyc",
         "asn": "AS36352"
     },
@@ -29699,9 +29703,6 @@
     },
     {
         "nickname": "OMICRON",
-        "exit_address": [
-            "86.54.28.49"
-        ],
         "asn": "AS12989"
     },
     {
@@ -35322,6 +35323,9 @@
     },
     {
         "nickname": "HKExitAtomic",
+        "exit_address": [
+            "50.114.180.153"
+        ],
         "asn": "AS149440"
     },
     {
@@ -42076,10 +42080,6 @@
     {
         "nickname": "tryler",
         "asn": "AS200533"
-    },
-    {
-        "nickname": "SanketsuShoujo",
-        "asn": "AS28573"
     },
     {
         "nickname": "zmoney",
