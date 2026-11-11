@@ -5267,6 +5267,10 @@
         "asn": "AS27411"
     },
     {
+        "nickname": "OrrinExitMaxko",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "slotor04",
         "asn": "AS16276"
     },
@@ -5413,6 +5417,10 @@
     {
         "nickname": "troubledte",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "torchlitehost3",
+        "asn": "AS215362"
     },
     {
         "nickname": "NTH17R6",
@@ -8473,9 +8481,6 @@
     },
     {
         "nickname": "BigLoop",
-        "exit_address": [
-            "23.137.254.244"
-        ],
         "asn": "AS40663"
     },
     {
@@ -15283,6 +15288,9 @@
     },
     {
         "nickname": "w000000h000004",
+        "exit_address": [
+            "185.246.84.179"
+        ],
         "asn": "AS21409"
     },
     {
@@ -26017,6 +26025,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Chmurka",
         "asn": "AS5617"
     },
@@ -26542,6 +26554,10 @@
     {
         "nickname": "DETL0002",
         "asn": "AS8881"
+    },
+    {
+        "nickname": "torchlitehost2",
+        "asn": "AS215362"
     },
     {
         "nickname": "SyncCoreNode1",
@@ -34301,6 +34317,10 @@
         "asn": "AS15435"
     },
     {
+        "nickname": "PyratekRelay",
+        "asn": "AS5410"
+    },
+    {
         "nickname": "sleepyrelay",
         "asn": "AS200950"
     },
@@ -37116,9 +37136,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "89.58.41.156"
-        ],
         "asn": "AS197540"
     },
     {
@@ -46440,7 +46457,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
