@@ -648,6 +648,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "KoopaRelay",
+        "asn": "AS13030"
+    },
+    {
         "nickname": "Quintex372",
         "exit_address": [
             "204.8.96.161"
@@ -13406,10 +13410,6 @@
             "192.42.116.114"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "1hand4you4privacy",
-        "asn": "AS6724"
     },
     {
         "nickname": "wiccaphase",
@@ -27562,6 +27562,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "96.44.159.142"
+        ],
         "asn": "AS36352"
     },
     {
@@ -28045,6 +28048,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -36802,10 +36808,6 @@
             "192.42.116.51"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "torbirdfalcon",
-        "asn": "AS36352"
     },
     {
         "nickname": "UNamurCS01",
