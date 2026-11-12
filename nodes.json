@@ -36551,9 +36551,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.21"
-        ],
         "asn": "AS27284"
     },
     {
@@ -43293,6 +43290,10 @@
         "asn": "AS202585"
     },
     {
+        "nickname": "leviatan00rtz",
+        "asn": "AS19318"
+    },
+    {
         "nickname": "relayongorellik",
         "exit_address": [
             "185.220.100.251"
@@ -45389,6 +45390,10 @@
         "asn": "AS213281"
     },
     {
+        "nickname": "penhan",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Quintex321",
         "exit_address": [
             "204.8.96.74"
@@ -45724,9 +45729,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -47223,7 +47225,7 @@
         "asn": "AS8881"
     },
     {
-        "nickname": "D3ntist1",
+        "nickname": "D3ntist",
         "asn": "AS13036"
     },
     {
@@ -48424,6 +48426,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
