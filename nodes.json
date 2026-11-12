@@ -623,9 +623,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.21"
-        ],
         "asn": "AS27284"
     },
     {
@@ -5616,10 +5613,6 @@
     {
         "nickname": "Pumkor",
         "asn": "AS63949"
-    },
-    {
-        "nickname": "MyTorRelayNode12345",
-        "asn": "AS41745"
     },
     {
         "nickname": "FreedomFries2",
@@ -13860,10 +13853,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Rem",
-        "asn": "AS197540"
-    },
-    {
         "nickname": "default",
         "asn": "AS9378"
     },
@@ -13968,9 +13957,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.22"
-        ],
         "asn": "AS27284"
     },
     {
@@ -18163,9 +18149,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.21"
-        ],
         "asn": "AS27284"
     },
     {
@@ -24769,9 +24752,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.21"
-        ],
         "asn": "AS27284"
     },
     {
@@ -27773,6 +27753,10 @@
         "asn": "AS42730"
     },
     {
+        "nickname": "eusebioNostrRelay",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "Destroyer",
         "asn": "AS10796"
     },
@@ -28546,9 +28530,6 @@
     },
     {
         "nickname": "0xdeadbeef",
-        "exit_address": [
-            "46.105.20.238"
-        ],
         "asn": "AS16276"
     },
     {
@@ -32083,6 +32064,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "1016",
+        "asn": "AS6805"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.49"
@@ -33471,9 +33456,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.22"
-        ],
         "asn": "AS27284"
     },
     {
@@ -44905,9 +44887,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "147.90.235.22"
-        ],
         "asn": "AS27284"
     },
     {
@@ -47335,9 +47314,6 @@
     },
     {
         "nickname": "NeelTorExit5B",
-        "exit_address": [
-            "147.90.234.115"
-        ],
         "asn": "AS27284"
     },
     {
@@ -47810,9 +47786,6 @@
     },
     {
         "nickname": "NeelTorExit5A",
-        "exit_address": [
-            "147.90.234.115"
-        ],
         "asn": "AS27284"
     },
     {
