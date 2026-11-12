@@ -1016,6 +1016,10 @@
         "asn": "AS211619"
     },
     {
+        "nickname": "Relais3921",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "youngdro",
         "asn": "AS36849"
     },
@@ -19893,10 +19897,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "flokiTor",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "Fastnet03",
         "asn": "AS52048"
     },
@@ -25209,6 +25209,10 @@
     {
         "nickname": "kryptov",
         "asn": "AS12586"
+    },
+    {
+        "nickname": "3962649292162490",
+        "asn": "AS200651"
     },
     {
         "nickname": "NTH50R7",
@@ -36460,10 +36464,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "japan",
-        "asn": "AS212336"
-    },
-    {
         "nickname": "doinks",
         "asn": "AS36352"
     },
@@ -44626,6 +44626,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "HermesExitAMS",
+        "asn": "AS26383"
+    },
+    {
         "nickname": "bytes33x",
         "asn": "AS24940"
     },
@@ -44638,6 +44642,9 @@
     },
     {
         "nickname": "AdamExit",
+        "exit_address": [
+            "51.38.37.21"
+        ],
         "asn": "AS16276"
     },
     {
