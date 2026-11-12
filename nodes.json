@@ -21541,10 +21541,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "sacco",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "Velocistar237",
         "asn": "AS8560"
     },
@@ -24397,6 +24393,9 @@
     },
     {
         "nickname": "ninjaturtle",
+        "exit_address": [
+            "178.162.175.5"
+        ],
         "asn": "AS60781"
     },
     {
@@ -26900,10 +26899,6 @@
             "171.25.193.234"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "theqube",
-        "asn": "AS209605"
     },
     {
         "nickname": "tor8388608",
