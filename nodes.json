@@ -4924,6 +4924,10 @@
         "asn": "AS200019"
     },
     {
+        "nickname": "lanternkeeper",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "D9agonfly",
         "asn": "AS24940"
     },
@@ -25220,6 +25224,9 @@
     },
     {
         "nickname": "3962649292162490",
+        "exit_address": [
+            "37.228.129.191"
+        ],
         "asn": "AS200651"
     },
     {
@@ -43528,10 +43535,6 @@
     {
         "nickname": "TheGraySentry",
         "asn": "AS204957"
-    },
-    {
-        "nickname": "qwerty12345",
-        "asn": "AS206238"
     },
     {
         "nickname": "ieditedtheconfig",
