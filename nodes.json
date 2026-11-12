@@ -4485,10 +4485,6 @@
         "asn": "AS25795"
     },
     {
-        "nickname": "TheSwampRelay1",
-        "asn": "AS4609"
-    },
-    {
         "nickname": "Mondeo",
         "asn": "AS202585"
     },
@@ -18416,6 +18412,9 @@
     },
     {
         "nickname": "artikel10ber128",
+        "exit_address": [
+            "185.220.101.0"
+        ],
         "asn": "AS60729"
     },
     {
@@ -44627,6 +44626,10 @@
         "asn": "AS56655"
     },
     {
+        "nickname": "AdamExit",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "rem023",
         "asn": "AS51167"
     },
@@ -48345,6 +48348,10 @@
             "192.42.116.92"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Basalt",
+        "asn": "AS8473"
     },
     {
         "nickname": "NTH109R3",
