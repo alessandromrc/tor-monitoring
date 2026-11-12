@@ -1805,9 +1805,6 @@
     },
     {
         "nickname": "2mpe",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -4244,6 +4241,10 @@
     {
         "nickname": "paxtonvps01c",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "MeinProxmoxRelay",
+        "asn": "AS200924"
     },
     {
         "nickname": "ziorufus",
@@ -7043,7 +7044,7 @@
     },
     {
         "nickname": "CarltonsRevenge",
-        "asn": "AS6698"
+        "asn": "AS30860"
     },
     {
         "nickname": "forest30",
@@ -21286,6 +21287,10 @@
         "asn": "AS1267"
     },
     {
+        "nickname": "gtyrhiro",
+        "asn": "AS34689"
+    },
+    {
         "nickname": "chubbrock",
         "asn": "AS36849"
     },
@@ -21322,9 +21327,6 @@
     },
     {
         "nickname": "forest63",
-        "exit_address": [
-            "178.83.122.52"
-        ],
         "asn": "AS207847"
     },
     {
@@ -26810,6 +26812,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.72.56"
+        ],
         "asn": "AS36352"
     },
     {
@@ -37131,7 +37136,7 @@
     },
     {
         "nickname": "Escape2Space",
-        "asn": "AS20115"
+        "asn": "AS14615"
     },
     {
         "nickname": "Unnamed",
@@ -37885,6 +37890,10 @@
     {
         "nickname": "lachrymator",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "reallayer",
+        "asn": "AS399486"
     },
     {
         "nickname": "fuckthefreeworld",
@@ -43719,6 +43728,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "FreeBSD2344",
+        "asn": "AS3303"
+    },
+    {
         "nickname": "kelechi",
         "asn": "AS36849"
     },
@@ -45749,9 +45762,6 @@
     },
     {
         "nickname": "TORKeFFORG31",
-        "exit_address": [
-            "193.189.100.198"
-        ],
         "asn": "AS41281"
     },
     {
