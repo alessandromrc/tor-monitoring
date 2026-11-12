@@ -9278,7 +9278,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "TheMadHackerv3",
+        "nickname": "TheMadHackerVeilG",
         "asn": "AS8560"
     },
     {
@@ -28093,6 +28093,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -46337,6 +46340,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -46388,7 +46394,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
