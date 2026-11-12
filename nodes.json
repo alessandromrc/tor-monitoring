@@ -10658,6 +10658,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "aphroditeRelay2",
         "asn": "AS8560"
     },
@@ -13074,6 +13078,10 @@
     {
         "nickname": "Rotpo",
         "asn": "AS14061"
+    },
+    {
+        "nickname": "WelcomeHomeStranger",
+        "asn": "AS8412"
     },
     {
         "nickname": "slugatm",
@@ -25565,6 +25573,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "4PrivacyInTheEu",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "GentooLibre",
         "asn": "AS4764"
     },
@@ -34627,10 +34639,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "MyDebianRelay",
-        "asn": "AS138746"
-    },
-    {
         "nickname": "WildsofArkansas",
         "asn": "AS46979"
     },
@@ -36804,6 +36812,9 @@
     },
     {
         "nickname": "Yeereereeim",
+        "exit_address": [
+            "172.81.132.94"
+        ],
         "asn": "AS27176"
     },
     {
@@ -44210,6 +44221,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "BattleProgShirase",
         "asn": "AS3215"
     },
@@ -46457,7 +46472,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
