@@ -4096,6 +4096,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "setupRelayPrivate",
+        "asn": "AS62005"
+    },
+    {
         "nickname": "NimbleThistle76",
         "asn": "AS5410"
     },
@@ -20208,10 +20212,6 @@
         "asn": "AS61125"
     },
     {
-        "nickname": "milkrelay1",
-        "asn": "AS4181"
-    },
-    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.32"
@@ -23978,9 +23978,6 @@
     },
     {
         "nickname": "KingShadow3",
-        "exit_address": [
-            "104.167.242.118"
-        ],
         "asn": "AS26286"
     },
     {
@@ -24918,6 +24915,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "89.58.41.156"
+        ],
         "asn": "AS197540"
     },
     {
@@ -25267,9 +25267,6 @@
     },
     {
         "nickname": "ctayexit",
-        "exit_address": [
-            "45.9.156.131"
-        ],
         "asn": "AS211619"
     },
     {
@@ -25372,9 +25369,6 @@
     },
     {
         "nickname": "KingShadow2",
-        "exit_address": [
-            "104.167.242.117"
-        ],
         "asn": "AS26286"
     },
     {
@@ -28037,10 +28031,6 @@
     {
         "nickname": "as215248tor7d",
         "asn": "AS215248"
-    },
-    {
-        "nickname": "friedonions",
-        "asn": "AS13285"
     },
     {
         "nickname": "ShardsOfNarsil",
@@ -40888,9 +40878,6 @@
     },
     {
         "nickname": "KingShadow1",
-        "exit_address": [
-            "104.167.242.116"
-        ],
         "asn": "AS26286"
     },
     {
@@ -43653,6 +43640,10 @@
             "192.42.116.145"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "relaySafeYou",
+        "asn": "AS62005"
     },
     {
         "nickname": "forest27",
@@ -48965,6 +48956,10 @@
     {
         "nickname": "torcatgirlcloud",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Bastion",
+        "asn": "AS202422"
     },
     {
         "nickname": "lancelot",
