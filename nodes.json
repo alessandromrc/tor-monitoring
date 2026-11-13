@@ -3516,6 +3516,10 @@
         "asn": "AS51167"
     },
     {
+        "nickname": "sartre1",
+        "asn": "AS200651"
+    },
+    {
         "nickname": "cham",
         "asn": "AS36849"
     },
@@ -7184,6 +7188,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.141"
+        ],
         "asn": "AS36352"
     },
     {
@@ -13767,10 +13774,6 @@
     {
         "nickname": "toritounam",
         "asn": "AS278"
-    },
-    {
-        "nickname": "SzponPi",
-        "asn": "AS50606"
     },
     {
         "nickname": "alisceondotcom",
@@ -27334,6 +27337,9 @@
     },
     {
         "nickname": "renrpo26cellrecord",
+        "exit_address": [
+            "209.38.145.86"
+        ],
         "asn": "AS14061"
     },
     {
@@ -31890,10 +31896,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "NoToAllTaxIncrease",
-        "asn": "AS2518"
-    },
-    {
         "nickname": "MaxRelay1",
         "asn": "AS393577"
     },
@@ -33400,6 +33402,10 @@
             "23.128.248.169"
         ],
         "asn": "AS400226"
+    },
+    {
+        "nickname": "sartre2",
+        "asn": "AS200651"
     },
     {
         "nickname": "vielschichtig",
@@ -42217,7 +42223,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
