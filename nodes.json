@@ -10068,6 +10068,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.206.202"
+        ],
         "asn": "AS25400"
     },
     {
@@ -32161,6 +32164,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "112233445566",
+        "asn": "AS33915"
+    },
+    {
         "nickname": "Chrono",
         "asn": "AS197540"
     },
@@ -42326,7 +42333,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
