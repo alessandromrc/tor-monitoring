@@ -915,6 +915,10 @@
     },
     {
         "nickname": "Unnamed",
+        "asn": "AS43641"
+    },
+    {
+        "nickname": "Unnamed",
         "asn": "AS6167"
     },
     {
@@ -4244,6 +4248,10 @@
     {
         "nickname": "IRL",
         "asn": "AS15502"
+    },
+    {
+        "nickname": "FuzzyVoltage",
+        "asn": "AS12586"
     },
     {
         "nickname": "poitras",
@@ -13347,6 +13355,9 @@
     },
     {
         "nickname": "limitededition",
+        "exit_address": [
+            "89.147.111.87"
+        ],
         "asn": "AS44925"
     },
     {
@@ -21742,6 +21753,10 @@
             "107.175.202.162"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "zankoku",
+        "asn": "AS35487"
     },
     {
         "nickname": "UnredactedElmer",
@@ -42330,7 +42345,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
