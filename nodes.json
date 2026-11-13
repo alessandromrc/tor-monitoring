@@ -4449,10 +4449,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "salsedo",
-        "asn": "AS215540"
-    },
-    {
         "nickname": "onionjamdeux",
         "asn": "AS24940"
     },
@@ -22112,9 +22108,6 @@
     },
     {
         "nickname": "TORKeFFORG28",
-        "exit_address": [
-            "193.189.100.195"
-        ],
         "asn": "AS41281"
     },
     {
@@ -36161,6 +36154,10 @@
             "204.8.96.141"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "HacklabMondoviPL",
+        "asn": "AS16276"
     },
     {
         "nickname": "bute",
