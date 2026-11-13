@@ -3884,9 +3884,6 @@
     },
     {
         "nickname": "fiberblittverdstena",
-        "exit_address": [
-            "180.149.45.134"
-        ],
         "asn": "AS202422"
     },
     {
@@ -7184,6 +7181,10 @@
     {
         "nickname": "Ceres",
         "asn": "AS2027"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "Eunode01",
@@ -12095,10 +12096,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "VeniVidiVici",
-        "asn": "AS212219"
-    },
-    {
         "nickname": "plsDontDDoSMe",
         "asn": "AS202520"
     },
@@ -16978,6 +16975,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "fresnellens",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "blumenkohl",
         "exit_address": [
             "109.70.100.1"
@@ -19314,6 +19315,9 @@
     },
     {
         "nickname": "schreech",
+        "exit_address": [
+            "178.218.144.64"
+        ],
         "asn": "AS212508"
     },
     {
@@ -22365,6 +22369,10 @@
     {
         "nickname": "desync",
         "asn": "AS30217"
+    },
+    {
+        "nickname": "bodgerbodger",
+        "asn": "AS5607"
     },
     {
         "nickname": "giesskanne",
@@ -44214,6 +44222,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.64.123"
+        ],
         "asn": "AS36352"
     },
     {
