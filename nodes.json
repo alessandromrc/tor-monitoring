@@ -19624,10 +19624,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "SCSRelay",
-        "asn": "AS398924"
-    },
-    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.165"
@@ -39237,6 +39233,10 @@
             "192.42.116.114"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "HugPenguinsNotWar",
+        "asn": "AS7018"
     },
     {
         "nickname": "harryfraud",
