@@ -1184,6 +1184,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "ClaireES",
+        "asn": "AS0"
+    },
+    {
         "nickname": "relayon0142",
         "exit_address": [
             "185.220.101.142"
@@ -21371,6 +21375,10 @@
         "asn": "AS8283"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS219229"
+    },
+    {
         "nickname": "TorminatorFL",
         "asn": "AS3320"
     },
@@ -25224,10 +25232,6 @@
         "asn": "AS40029"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3215"
-    },
-    {
         "nickname": "cochise",
         "asn": "AS36849"
     },
@@ -28887,10 +28891,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS398101"
-    },
-    {
         "nickname": "PremiumTorExit",
         "exit_address": [
             "185.100.87.136"
@@ -30979,9 +30979,6 @@
     },
     {
         "nickname": "keepingfaith",
-        "exit_address": [
-            "93.95.231.88"
-        ],
         "asn": "AS44925"
     },
     {
