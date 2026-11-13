@@ -3521,6 +3521,9 @@
     },
     {
         "nickname": "sartre1",
+        "exit_address": [
+            "185.246.191.53"
+        ],
         "asn": "AS200651"
     },
     {
@@ -33405,6 +33408,9 @@
     },
     {
         "nickname": "sartre2",
+        "exit_address": [
+            "185.246.191.53"
+        ],
         "asn": "AS200651"
     },
     {
@@ -38284,10 +38290,6 @@
     {
         "nickname": "fedoriansRelayTor",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "DefCon",
-        "asn": "AS3320"
     },
     {
         "nickname": "MassiveStealTime",
