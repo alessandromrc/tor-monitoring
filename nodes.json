@@ -915,6 +915,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "45.135.180.129"
+        ],
         "asn": "AS43641"
     },
     {
@@ -19496,6 +19499,10 @@
     {
         "nickname": "ekanu",
         "asn": "AS44133"
+    },
+    {
+        "nickname": "TimelessTahiniMl2",
+        "asn": "AS202422"
     },
     {
         "nickname": "frayserboy",
@@ -45691,6 +45698,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "TimelessTahiniDc2",
+        "asn": "AS202422"
+    },
+    {
         "nickname": "bruisedhammer",
         "asn": "AS214790"
     },
@@ -46563,7 +46574,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
