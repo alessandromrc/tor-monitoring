@@ -7188,10 +7188,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "doudoubridge",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "NFOrce",
         "asn": "AS43350"
     },
@@ -25117,7 +25113,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.146",
             "198.167.206.224"
         ],
         "asn": "AS39287"
@@ -36926,7 +36921,7 @@
     },
     {
         "nickname": "maatuska",
-        "asn": "AS198093"
+        "asn": "AS210648"
     },
     {
         "nickname": "Aargau",
@@ -40757,6 +40752,9 @@
     },
     {
         "nickname": "BringBackSilkRo",
+        "exit_address": [
+            "141.98.11.62"
+        ],
         "asn": "AS209605"
     },
     {
@@ -46598,7 +46596,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
