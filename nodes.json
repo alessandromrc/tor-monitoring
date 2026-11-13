@@ -3782,6 +3782,10 @@
         "asn": "AS19437"
     },
     {
+        "nickname": "NURVrelay",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "mdfnet1",
         "asn": "AS1653"
     },
@@ -9441,9 +9445,6 @@
     },
     {
         "nickname": "Runaz2",
-        "exit_address": [
-            "192.253.248.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -25640,6 +25641,10 @@
         "asn": "AS213438"
     },
     {
+        "nickname": "Rivermtts53101",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "R2D2",
         "asn": "AS204957"
     },
@@ -39707,6 +39712,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "stacyreid",
+        "asn": "AS9009"
+    },
+    {
         "nickname": "EasytoUsed",
         "asn": "AS30893"
     },
@@ -41110,6 +41119,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Ravenmtts5338",
+        "asn": "AS63949"
+    },
+    {
         "nickname": "NYCBUG0",
         "asn": "AS11403"
     },
@@ -42211,6 +42224,10 @@
             "204.8.96.121"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Pulsarmtts90",
+        "asn": "AS63949"
     },
     {
         "nickname": "UnredactedTLS",
