@@ -3618,6 +3618,10 @@
         "asn": "AS53667"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS41966"
+    },
+    {
         "nickname": "Torpille",
         "asn": "AS215599"
     },
@@ -4251,6 +4255,9 @@
     },
     {
         "nickname": "FuzzyVoltage",
+        "exit_address": [
+            "5.83.158.7"
+        ],
         "asn": "AS12586"
     },
     {
@@ -7551,10 +7558,6 @@
             "152.53.32.167"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "lqd71",
-        "asn": "AS200651"
     },
     {
         "nickname": "sogidanet",
@@ -11979,10 +11982,6 @@
         "asn": "AS58087"
     },
     {
-        "nickname": "alertluxuriant",
-        "asn": "AS200651"
-    },
-    {
         "nickname": "relayon0175",
         "exit_address": [
             "185.220.101.175"
@@ -15688,10 +15687,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS216416"
-    },
-    {
         "nickname": "F3Netze",
         "exit_address": [
             "185.220.100.241"
@@ -16391,10 +16386,6 @@
             "192.42.116.99"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS211720"
     },
     {
         "nickname": "marcuse6",
@@ -25541,10 +25532,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS216416"
-    },
-    {
         "nickname": "fairner",
         "asn": "AS8708"
     },
@@ -33352,10 +33339,6 @@
         "asn": "AS400304"
     },
     {
-        "nickname": "same82",
-        "asn": "AS216416"
-    },
-    {
         "nickname": "ConeOfLIGHT",
         "asn": "AS16276"
     },
@@ -40388,10 +40371,6 @@
         "asn": "AS214036"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS50613"
-    },
-    {
         "nickname": "NTH130R1",
         "asn": "AS215125"
     },
@@ -42179,10 +42158,6 @@
     {
         "nickname": "Meunvon",
         "asn": "AS26832"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS200651"
     },
     {
         "nickname": "porthill",
