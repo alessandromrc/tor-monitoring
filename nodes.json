@@ -3760,7 +3760,7 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS136258"
     },
     {
@@ -5360,6 +5360,10 @@
             "185.252.232.218"
         ],
         "asn": "AS51167"
+    },
+    {
+        "nickname": "JohnFilch123",
+        "asn": "AS16276"
     },
     {
         "nickname": "fenchel",
@@ -8510,9 +8514,6 @@
     },
     {
         "nickname": "BigLoop",
-        "exit_address": [
-            "23.137.254.244"
-        ],
         "asn": "AS40663"
     },
     {
@@ -22802,10 +22803,6 @@
         "asn": "AS20904"
     },
     {
-        "nickname": "HTTPSCL",
-        "asn": "AS200912"
-    },
-    {
         "nickname": "Li",
         "asn": "AS16276"
     },
@@ -28184,6 +28181,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -41665,7 +41665,7 @@
         "asn": "AS213934"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS136258"
     },
     {
@@ -48011,7 +48011,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Killix",
+        "nickname": "KllxTest",
         "asn": "AS136258"
     },
     {
