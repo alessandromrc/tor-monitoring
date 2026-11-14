@@ -15716,7 +15716,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "UgreenTorRelay2925",
+        "nickname": "Aardwolf3",
         "asn": "AS15435"
     },
     {
@@ -18821,10 +18821,6 @@
         "asn": "AS26383"
     },
     {
-        "nickname": "CamiSlavRelay02",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "lunay",
         "asn": "AS36849"
     },
@@ -20505,7 +20501,7 @@
         "asn": "AS21859"
     },
     {
-        "nickname": "UgreenTorRelay2927",
+        "nickname": "Aardwolf5",
         "asn": "AS15435"
     },
     {
@@ -20721,7 +20717,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "UgreenTorRelay2929",
+        "nickname": "Aardwolf7",
         "asn": "AS15435"
     },
     {
@@ -25124,6 +25120,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.159",
             "198.167.206.167"
         ],
         "asn": "AS39287"
@@ -31869,7 +31866,7 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "UgreenTorRelay2928",
+        "nickname": "Aardwolf6",
         "asn": "AS15435"
     },
     {
@@ -32894,7 +32891,7 @@
         "asn": "AS30893"
     },
     {
-        "nickname": "UgreenTorRelay2924",
+        "nickname": "Aardwolf2",
         "asn": "AS15435"
     },
     {
@@ -34319,7 +34316,7 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "UgreenTorRelay2926",
+        "nickname": "Aardwolf4",
         "asn": "AS15435"
     },
     {
@@ -34456,7 +34453,7 @@
         "asn": "AS201670"
     },
     {
-        "nickname": "UgreenTorRelay2923",
+        "nickname": "Aardwolf1",
         "asn": "AS15435"
     },
     {
@@ -37449,6 +37446,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "OakCottage",
+        "asn": "AS3301"
+    },
+    {
         "nickname": "CandleInTheDark",
         "asn": "AS197540"
     },
@@ -37508,7 +37509,7 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "UgreenTorRelay2930",
+        "nickname": "Aardwolf8",
         "asn": "AS15435"
     },
     {
@@ -39783,6 +39784,9 @@
     },
     {
         "nickname": "renrpo26",
+        "exit_address": [
+            "170.64.129.106"
+        ],
         "asn": "AS14061"
     },
     {
@@ -45288,10 +45292,6 @@
     {
         "nickname": "as215248tor4d",
         "asn": "AS215248"
-    },
-    {
-        "nickname": "deb1105",
-        "asn": "AS8767"
     },
     {
         "nickname": "prsv",
