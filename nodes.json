@@ -7952,9 +7952,6 @@
     },
     {
         "nickname": "xks",
-        "exit_address": [
-            "176.65.149.96"
-        ],
         "asn": "AS51396"
     },
     {
@@ -15430,10 +15427,6 @@
         "asn": "AS7922"
     },
     {
-        "nickname": "jesterrelay",
-        "asn": "AS701"
-    },
-    {
         "nickname": "artikel10buc23",
         "exit_address": [
             "185.100.87.250"
@@ -20552,6 +20545,10 @@
     {
         "nickname": "ChocolateBit",
         "asn": "AS13030"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS4713"
     },
     {
         "nickname": "HALTor",
@@ -27947,10 +27944,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "n0d3",
-        "asn": "AS63949"
-    },
-    {
         "nickname": "NTH302R4",
         "asn": "AS8283"
     },
@@ -29306,6 +29299,10 @@
             "51.91.18.151"
         ],
         "asn": "AS16276"
+    },
+    {
+        "nickname": "rnNODE",
+        "asn": "AS36352"
     },
     {
         "nickname": "NTH103R3",
@@ -31567,10 +31564,6 @@
     {
         "nickname": "inhonourofecho",
         "asn": "AS2119"
-    },
-    {
-        "nickname": "poge",
-        "asn": "AS31898"
     },
     {
         "nickname": "masstorsj",
@@ -42055,6 +42048,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "ProbablyVPNcomR01",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "89.58.26.216"
@@ -46620,7 +46617,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -48671,7 +48668,7 @@
         "asn": "AS7418"
     },
     {
-        "nickname": "ProbablyVPNE01",
+        "nickname": "ProbablyVPNcomE01",
         "exit_address": [
             "5.255.118.36"
         ],
