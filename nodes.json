@@ -21860,7 +21860,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor5",
+        "nickname": "as214958tor4",
         "asn": "AS8283"
     },
     {
@@ -22375,10 +22375,6 @@
     {
         "nickname": "loudandproud",
         "asn": "AS57717"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS15557"
     },
     {
         "nickname": "theTorDoor",
@@ -30572,10 +30568,6 @@
     {
         "nickname": "MyNiceRelay",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "AnonRelay0021",
-        "asn": "AS5650"
     },
     {
         "nickname": "UnredactedAhmed",
@@ -41509,10 +41501,6 @@
         "asn": "AS200651"
     },
     {
-        "nickname": "dnb4ever",
-        "asn": "AS8881"
-    },
-    {
         "nickname": "ZhetaRoute",
         "asn": "AS8455"
     },
@@ -46124,10 +46112,6 @@
         "asn": "AS3215"
     },
     {
-        "nickname": "AzsRelay",
-        "asn": "AS35042"
-    },
-    {
         "nickname": "brn",
         "asn": "AS36849"
     },
@@ -47814,6 +47798,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "origan",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "IchBinHobbylosDA",
         "asn": "AS29222"
     },
@@ -48701,6 +48689,9 @@
     },
     {
         "nickname": "ProbablyVPNE01",
+        "exit_address": [
+            "5.255.118.36"
+        ],
         "asn": "AS60404"
     },
     {
