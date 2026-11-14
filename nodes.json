@@ -1906,10 +1906,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "DFRI123",
         "exit_address": [
             "171.25.193.80"
@@ -2696,6 +2692,10 @@
     {
         "nickname": "BahnhufPowah4",
         "asn": "AS8473"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS5645"
     },
     {
         "nickname": "dsahj321sa",
@@ -3536,6 +3536,9 @@
     },
     {
         "nickname": "yams",
+        "exit_address": [
+            "109.70.100.8"
+        ],
         "asn": "AS208323"
     },
     {
@@ -23855,10 +23858,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "Quintex39",
         "exit_address": [
             "204.8.96.88"
@@ -27078,6 +27077,9 @@
     },
     {
         "nickname": "meerrettich",
+        "exit_address": [
+            "109.70.100.9"
+        ],
         "asn": "AS208323"
     },
     {
@@ -36442,6 +36444,9 @@
     },
     {
         "nickname": "spitzkohl",
+        "exit_address": [
+            "109.70.100.8"
+        ],
         "asn": "AS208323"
     },
     {
@@ -46639,7 +46644,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -48305,9 +48310,6 @@
     },
     {
         "nickname": "Bogdan",
-        "exit_address": [
-            "5.253.247.27"
-        ],
         "asn": "AS58087"
     },
     {
@@ -48690,6 +48692,10 @@
     {
         "nickname": "mrtorpedin",
         "asn": "AS7418"
+    },
+    {
+        "nickname": "ProbablyVPNE01",
+        "asn": "AS60404"
     },
     {
         "nickname": "StormyCloud",
@@ -49084,10 +49090,6 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
-    },
-    {
-        "nickname": "maroonion",
-        "asn": "AS160"
     },
     {
         "nickname": "DonTheMessenger",
