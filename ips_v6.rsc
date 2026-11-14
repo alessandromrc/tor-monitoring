@@ -1950,6 +1950,7 @@
 /ipv6 firewall address-list add list=tor_ipv6 address=2602:fd6f:100:1f::1337:c0de comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a0a:4cc0:c0:94d9:643c:bdff:fe64:71b1 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2605:6400:30:f986:f96a:3b4d:e117:2050 comment="tor_ipv6/tor-monitoring"
+/ipv6 firewall address-list add list=tor_ipv6 address=2001:8b0:bb47::71 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a01:4f8:10b:3357::2 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:67c:2888:2000::9003 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2602:f7d8:0:1337::67 comment="tor_ipv6/tor-monitoring"

@@ -1906,6 +1906,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "DFRI123",
         "exit_address": [
             "171.25.193.80"
@@ -10379,10 +10383,6 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "magic848relay",
-        "asn": "AS210558"
-    },
-    {
         "nickname": "Quintex376",
         "exit_address": [
             "204.8.96.165"
@@ -11927,9 +11927,6 @@
     },
     {
         "nickname": "TORKeFFORG30",
-        "exit_address": [
-            "193.189.100.197"
-        ],
         "asn": "AS41281"
     },
     {
@@ -14138,6 +14135,10 @@
     {
         "nickname": "405tor8",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "hiddenubermensch",
+        "asn": "AS209"
     },
     {
         "nickname": "kittybrand",
@@ -24893,6 +24894,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS53667"
+    },
+    {
+        "nickname": "Zelay",
+        "asn": "AS20712"
     },
     {
         "nickname": "BienwaldKA05",
@@ -36634,9 +36639,6 @@
     },
     {
         "nickname": "japan",
-        "exit_address": [
-            "141.11.139.101"
-        ],
         "asn": "AS212336"
     },
     {
@@ -37719,10 +37721,6 @@
         "asn": "AS214036"
     },
     {
-        "nickname": "BuzzMeeks",
-        "asn": "AS701"
-    },
-    {
         "nickname": "toriesfuckedtheuk",
         "asn": "AS8560"
     },
@@ -37904,6 +37902,10 @@
             "185.220.101.145"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "beaAachenRelay",
+        "asn": "AS8422"
     },
     {
         "nickname": "sammysam",
@@ -46618,7 +46620,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
