@@ -13864,10 +13864,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "CrazyGoood",
-        "asn": "AS12586"
-    },
-    {
         "nickname": "pnfsn1tor001",
         "asn": "AS24940"
     },
@@ -25935,6 +25931,9 @@
     },
     {
         "nickname": "xinchaovit",
+        "exit_address": [
+            "125.212.241.131"
+        ],
         "asn": "AS7552"
     },
     {
