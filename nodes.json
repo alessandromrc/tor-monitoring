@@ -2172,6 +2172,10 @@
         "asn": "AS213438"
     },
     {
+        "nickname": "snorpdorp",
+        "asn": "AS26832"
+    },
+    {
         "nickname": "NTH63R3",
         "exit_address": [
             "192.42.116.63"
@@ -17009,10 +17013,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "tsutorac",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "xrl5tjdevde",
         "asn": "AS197540"
     },
@@ -19237,6 +19237,10 @@
     {
         "nickname": "HelloTorWorld",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "PrivacyFTW",
+        "asn": "AS3320"
     },
     {
         "nickname": "PostGuard",
@@ -41372,9 +41376,6 @@
     },
     {
         "nickname": "ARFExit1",
-        "exit_address": [
-            "157.131.34.164"
-        ],
         "asn": "AS46375"
     },
     {
@@ -48173,9 +48174,6 @@
     },
     {
         "nickname": "TORKeFFORG33",
-        "exit_address": [
-            "193.189.100.200"
-        ],
         "asn": "AS41281"
     },
     {
