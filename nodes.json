@@ -20144,10 +20144,6 @@
         "asn": "AS12605"
     },
     {
-        "nickname": "abe075fe0a",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "NTH13R2",
         "exit_address": [
             "192.42.116.13"
@@ -23468,6 +23464,10 @@
         "asn": "AS29580"
     },
     {
+        "nickname": "lolaiur",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "hnlexit2",
         "exit_address": [
             "141.239.158.222"
@@ -24293,9 +24293,6 @@
     },
     {
         "nickname": "TORKeFFORG3",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -38896,10 +38893,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "37e27e9f3c",
-        "asn": "AS131160"
-    },
-    {
         "nickname": "NTH113R8",
         "exit_address": [
             "192.42.116.113"
@@ -42790,10 +42783,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "lolaiur",
-        "asn": "AS7018"
-    },
-    {
         "nickname": "prsv",
         "exit_address": [
             "147.90.235.17"
@@ -46616,7 +46605,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47856,10 +47845,6 @@
     {
         "nickname": "Li",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "ClosedSpaceRelay",
-        "asn": "AS8412"
     },
     {
         "nickname": "mnlth",
