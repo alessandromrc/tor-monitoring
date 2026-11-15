@@ -3494,10 +3494,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "rochusberg",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "necron45",
         "asn": "AS26042"
     },
@@ -15566,10 +15562,6 @@
         "asn": "AS60404"
     },
     {
-        "nickname": "TorryBridgeV2",
-        "asn": "AS201988"
-    },
-    {
         "nickname": "SSDNodesNLexit2",
         "exit_address": [
             "185.246.190.136"
@@ -21454,6 +21446,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "yonk",
+        "asn": "AS136258"
+    },
+    {
         "nickname": "PommespanzerGB1",
         "asn": "AS8560"
     },
@@ -27329,6 +27325,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "segv",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "MoscoviaMustBurn",
         "asn": "AS43067"
     },
@@ -27425,9 +27425,6 @@
     },
     {
         "nickname": "renrpo26cellrecord",
-        "exit_address": [
-            "209.38.145.86"
-        ],
         "asn": "AS14061"
     },
     {
@@ -32490,6 +32487,10 @@
     {
         "nickname": "ekadagami",
         "asn": "AS3320"
+    },
+    {
+        "nickname": "marcusn01",
+        "asn": "AS206987"
     },
     {
         "nickname": "TorIceCreamExit",
@@ -42392,7 +42393,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
