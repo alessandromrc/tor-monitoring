@@ -9510,9 +9510,6 @@
     },
     {
         "nickname": "Runaz2",
-        "exit_address": [
-            "192.253.248.96"
-        ],
         "asn": "AS213790"
     },
     {
@@ -12305,6 +12302,10 @@
     {
         "nickname": "Aurora",
         "asn": "AS199058"
+    },
+    {
+        "nickname": "MalwareColombia",
+        "asn": "AS3816"
     },
     {
         "nickname": "Unnamed",
@@ -20547,6 +20548,9 @@
     },
     {
         "nickname": "taiwan",
+        "exit_address": [
+            "213.210.4.3"
+        ],
         "asn": "AS212336"
     },
     {
@@ -33343,9 +33347,6 @@
     },
     {
         "nickname": "raretor",
-        "exit_address": [
-            "45.134.48.12"
-        ],
         "asn": "AS47890"
     },
     {
@@ -46622,7 +46623,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
