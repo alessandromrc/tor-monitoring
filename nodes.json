@@ -9530,6 +9530,10 @@
         "asn": "AS8412"
     },
     {
+        "nickname": "NightRelay",
+        "asn": "AS6206"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS39798"
     },
@@ -19569,10 +19573,6 @@
             "204.8.96.83"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "anyhitt",
-        "asn": "AS60068"
     },
     {
         "nickname": "prsv",
@@ -29989,9 +29989,6 @@
     },
     {
         "nickname": "vol1",
-        "exit_address": [
-            "108.61.189.136"
-        ],
         "asn": "AS20473"
     },
     {
@@ -36418,7 +36415,7 @@
     },
     {
         "nickname": "FrizzyTOR",
-        "asn": "AS24608"
+        "asn": "AS1267"
     },
     {
         "nickname": "kaynewest",
@@ -48175,7 +48172,7 @@
     },
     {
         "nickname": "StickyRelay99",
-        "asn": "AS208172"
+        "asn": "AS43350"
     },
     {
         "nickname": "bigmoe",
