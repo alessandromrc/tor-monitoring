@@ -21380,6 +21380,10 @@
         "asn": "AS219229"
     },
     {
+        "nickname": "TorminatorFL",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NTH96R3",
         "exit_address": [
             "192.42.116.96"
@@ -24758,6 +24762,9 @@
     },
     {
         "nickname": "DrevixExit02",
+        "exit_address": [
+            "217.154.92.188"
+        ],
         "asn": "AS8560"
     },
     {
@@ -48738,6 +48745,9 @@
     },
     {
         "nickname": "bliss",
+        "exit_address": [
+            "193.218.118.178"
+        ],
         "asn": "AS207656"
     },
     {
