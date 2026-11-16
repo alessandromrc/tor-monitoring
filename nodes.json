@@ -2067,10 +2067,6 @@
         "asn": "AS39798"
     },
     {
-        "nickname": "Hermes",
-        "asn": "AS701"
-    },
-    {
         "nickname": "grindmodedade",
         "asn": "AS36849"
     },
@@ -6433,10 +6429,6 @@
             "114.35.245.150"
         ],
         "asn": "AS3462"
-    },
-    {
-        "nickname": "0x255dotdev",
-        "asn": "AS5378"
     },
     {
         "nickname": "3655277477490805",
@@ -10979,6 +10971,10 @@
         "asn": "AS207656"
     },
     {
+        "nickname": "teuropa",
+        "asn": "AS19255"
+    },
+    {
         "nickname": "KllxTest",
         "asn": "AS47447"
     },
@@ -12240,9 +12236,6 @@
     },
     {
         "nickname": "demise",
-        "exit_address": [
-            "77.90.185.93"
-        ],
         "asn": "AS213790"
     },
     {
@@ -14828,10 +14821,6 @@
             "204.8.96.112"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "LegalDarkWeb",
-        "asn": "AS394695"
     },
     {
         "nickname": "Quintex134",
@@ -21864,7 +21853,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -24134,6 +24123,9 @@
     },
     {
         "nickname": "KingShadow3",
+        "exit_address": [
+            "104.167.242.118"
+        ],
         "asn": "AS26286"
     },
     {
@@ -25537,6 +25529,9 @@
     },
     {
         "nickname": "KingShadow2",
+        "exit_address": [
+            "104.167.242.117"
+        ],
         "asn": "AS26286"
     },
     {
@@ -29867,6 +29862,10 @@
             "82.153.138.184"
         ],
         "asn": "AS215659"
+    },
+    {
+        "nickname": "steevelandcleemers",
+        "asn": "AS59741"
     },
     {
         "nickname": "ClubPhantom",
@@ -41123,6 +41122,9 @@
     },
     {
         "nickname": "KingShadow1",
+        "exit_address": [
+            "104.167.242.116"
+        ],
         "asn": "AS26286"
     },
     {
@@ -46673,7 +46675,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -49164,6 +49166,10 @@
     {
         "nickname": "Senftokyo",
         "asn": "AS43969"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS135377"
     },
     {
         "nickname": "Quintex592",
