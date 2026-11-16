@@ -5900,6 +5900,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "DragonHouseRelay",
+        "asn": "AS40021"
+    },
+    {
         "nickname": "NTH93R7",
         "exit_address": [
             "192.42.116.93"
@@ -12236,6 +12240,9 @@
     },
     {
         "nickname": "demise",
+        "exit_address": [
+            "77.90.185.93"
+        ],
         "asn": "AS213790"
     },
     {
@@ -21853,7 +21860,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor5",
+        "nickname": "as214958tor4",
         "asn": "AS8283"
     },
     {
@@ -25556,10 +25563,6 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "fairner",
-        "asn": "AS8708"
     },
     {
         "nickname": "artikel10ber93",
