@@ -3877,10 +3877,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "NodeToAlphaMale0",
-        "asn": "AS401701"
-    },
-    {
         "nickname": "9thwonder",
         "asn": "AS36849"
     },
@@ -14093,6 +14089,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -18278,6 +18277,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -26172,9 +26174,6 @@
     },
     {
         "nickname": "e2bfe70cc1",
-        "exit_address": [
-            "185.186.76.110"
-        ],
         "asn": "AS136258"
     },
     {
@@ -29999,6 +29998,9 @@
     },
     {
         "nickname": "vol1",
+        "exit_address": [
+            "108.61.189.136"
+        ],
         "asn": "AS20473"
     },
     {
@@ -33654,6 +33656,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -36762,6 +36767,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -36782,6 +36790,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -45149,6 +45160,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
