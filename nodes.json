@@ -30970,10 +30970,6 @@
         "asn": "AS197540"
     },
     {
-        "nickname": "BeattheHeat",
-        "asn": "AS41075"
-    },
-    {
         "nickname": "phobos",
         "asn": "AS16276"
     },
@@ -31190,9 +31186,6 @@
     },
     {
         "nickname": "8824841879124734",
-        "exit_address": [
-            "45.9.168.114"
-        ],
         "asn": "AS211619"
     },
     {
@@ -35010,9 +35003,6 @@
     },
     {
         "nickname": "DarkRadish",
-        "exit_address": [
-            "84.3.219.251"
-        ],
         "asn": "AS5483"
     },
     {
@@ -42864,6 +42854,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "Notebook",
+        "asn": "AS59414"
+    },
+    {
         "nickname": "shrdrelay04",
         "asn": "AS204464"
     },
@@ -46040,6 +46034,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -46308,10 +46305,6 @@
             "185.220.101.132"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "cpanneeda",
-        "asn": "AS41075"
     },
     {
         "nickname": "zgato",
@@ -49154,6 +49147,10 @@
     {
         "nickname": "prsv",
         "asn": "AS20860"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS135377"
     },
     {
         "nickname": "DonTheMessenger",
