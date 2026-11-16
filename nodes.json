@@ -4287,9 +4287,6 @@
     },
     {
         "nickname": "FuzzyVoltage",
-        "exit_address": [
-            "5.83.158.7"
-        ],
         "asn": "AS215365"
     },
     {
@@ -14371,6 +14368,10 @@
         "asn": "AS36352"
     },
     {
+        "nickname": "torvantor",
+        "asn": "AS12312"
+    },
+    {
         "nickname": "cashkidd",
         "asn": "AS36849"
     },
@@ -14579,6 +14580,10 @@
     {
         "nickname": "HjelmEnterprises05",
         "asn": "AS199950"
+    },
+    {
+        "nickname": "magixff07",
+        "asn": "AS24940"
     },
     {
         "nickname": "Aarsdale",
@@ -25677,9 +25682,6 @@
     },
     {
         "nickname": "chimuelo",
-        "exit_address": [
-            "37.48.70.156"
-        ],
         "asn": "AS60781"
     },
     {
@@ -33898,10 +33900,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "vDbafiffbyoypb",
-        "asn": "AS135377"
-    },
-    {
         "nickname": "kiloali",
         "asn": "AS36849"
     },
@@ -40294,6 +40292,9 @@
     },
     {
         "nickname": "TorExitForYou",
+        "exit_address": [
+            "107.189.29.8"
+        ],
         "asn": "AS53667"
     },
     {
@@ -49571,9 +49572,6 @@
     },
     {
         "nickname": "TORKeFFORG5",
-        "exit_address": [
-            "193.189.100.198"
-        ],
         "asn": "AS41281"
     },
     {
