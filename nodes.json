@@ -189,6 +189,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "UnshakledLiberty",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "TorRelayHetzFree",
         "asn": "AS24940"
     },
@@ -4283,6 +4287,9 @@
     },
     {
         "nickname": "FuzzyVoltage",
+        "exit_address": [
+            "5.83.158.7"
+        ],
         "asn": "AS215365"
     },
     {
@@ -26401,6 +26408,10 @@
         "asn": "AS204464"
     },
     {
+        "nickname": "oldInJoke",
+        "asn": "AS2586"
+    },
+    {
         "nickname": "uovobw",
         "asn": "AS24940"
     },
@@ -26892,6 +26903,10 @@
             "192.42.116.46"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "UnshakledKraken",
+        "asn": "AS16276"
     },
     {
         "nickname": "kingvon",
@@ -29404,6 +29419,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "mirage",
+        "asn": "AS56322"
+    },
+    {
         "nickname": "flowjob01",
         "asn": "AS197540"
     },
@@ -30493,10 +30512,6 @@
         "asn": "AS39699"
     },
     {
-        "nickname": "TotallyNotABTCMixer",
-        "asn": "AS174"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -30732,6 +30747,10 @@
     {
         "nickname": "noipv6",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "RdpExit01",
+        "asn": "AS214961"
     },
     {
         "nickname": "gibby",
@@ -33108,10 +33127,6 @@
     {
         "nickname": "max2webRelay",
         "asn": "AS47583"
-    },
-    {
-        "nickname": "bartmoss",
-        "asn": "AS197540"
     },
     {
         "nickname": "Quintex70",
@@ -44138,6 +44153,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "UnshakledJSON",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "NvorDarkdrop",
         "asn": "AS14061"
     },
@@ -49140,6 +49159,10 @@
     {
         "nickname": "helmsdeepNO",
         "asn": "AS34087"
+    },
+    {
+        "nickname": "Swain",
+        "asn": "AS203953"
     },
     {
         "nickname": "BizarreWorkerKA08",
