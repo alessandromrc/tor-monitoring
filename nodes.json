@@ -11398,6 +11398,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "squirtle",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "NTH102R1",
         "asn": "AS215125"
     },
@@ -24604,10 +24608,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "Lynx1",
-        "asn": "AS9141"
-    },
-    {
         "nickname": "okade",
         "asn": "AS7418"
     },
@@ -25170,6 +25170,7 @@
         "nickname": "europeantgah",
         "exit_address": [
             "198.167.206.136",
+            "198.167.206.207",
             "198.167.206.251"
         ],
         "asn": "AS39287"
@@ -36898,10 +36899,6 @@
     {
         "nickname": "NoOnionSG01",
         "asn": "AS204957"
-    },
-    {
-        "nickname": "crmh",
-        "asn": "AS3320"
     },
     {
         "nickname": "SVIasbl",
