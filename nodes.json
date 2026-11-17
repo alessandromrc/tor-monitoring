@@ -8593,6 +8593,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "marquisardtrois",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "uelideschwert",
         "asn": "AS13030"
     },
@@ -28718,6 +28722,10 @@
         "asn": "AS202585"
     },
     {
+        "nickname": "sparkaiRelay",
+        "asn": "AS22773"
+    },
+    {
         "nickname": "Cypher",
         "asn": "AS52048"
     },
@@ -32363,6 +32371,10 @@
     {
         "nickname": "2mproc",
         "asn": "AS701"
+    },
+    {
+        "nickname": "secondMeerkat",
+        "asn": "AS132203"
     },
     {
         "nickname": "rockyrelaytor",
@@ -44287,6 +44299,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "66.63.170.103"
+        ],
         "asn": "AS36352"
     },
     {
