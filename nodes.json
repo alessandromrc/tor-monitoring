@@ -28322,9 +28322,6 @@
     },
     {
         "nickname": "eden",
-        "exit_address": [
-            "194.55.167.14"
-        ],
         "asn": "AS197648"
     },
     {
@@ -29697,6 +29694,10 @@
     {
         "nickname": "atoratvm",
         "asn": "AS47172"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "1000011",
@@ -31572,6 +31573,10 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "myUglyRelay",
+        "asn": "AS5483"
     },
     {
         "nickname": "maggo",
@@ -45918,6 +45923,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS20860"
     },
@@ -46738,7 +46747,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "opencommunity",
@@ -47852,6 +47861,10 @@
             "192.42.116.12"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "privasee3",
+        "asn": "AS16276"
     },
     {
         "nickname": "clubaura",
