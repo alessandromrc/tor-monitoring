@@ -28744,6 +28744,9 @@
     },
     {
         "nickname": "0xdeadbeef",
+        "exit_address": [
+            "46.105.20.238"
+        ],
         "asn": "AS16276"
     },
     {
@@ -32816,10 +32819,6 @@
     {
         "nickname": "alxu2",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "frumentumzeus",
-        "asn": "AS216107"
     },
     {
         "nickname": "blackbucket",
@@ -46242,10 +46241,6 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
-    },
-    {
-        "nickname": "BrixRelay",
-        "asn": "AS3215"
     },
     {
         "nickname": "brn",
