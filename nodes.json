@@ -5043,6 +5043,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "commufa",
+        "asn": "AS18126"
+    },
+    {
         "nickname": "Planet",
         "asn": "AS12876"
     },
@@ -13595,6 +13599,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "EPOCH",
+        "asn": "AS50979"
+    },
+    {
         "nickname": "cryonoxnet",
         "asn": "AS63949"
     },
@@ -21240,10 +21248,6 @@
         "asn": "AS396420"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS216416"
-    },
-    {
         "nickname": "djiplot",
         "asn": "AS197540"
     },
@@ -25154,7 +25158,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.136",
             "198.167.206.207"
         ],
         "asn": "AS39287"
@@ -36539,10 +36542,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Mistralis",
-        "asn": "AS62336"
-    },
-    {
         "nickname": "relayon0128",
         "exit_address": [
             "185.220.101.128"
@@ -36974,10 +36973,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "PingmeRelay01",
-        "asn": "AS31898"
     },
     {
         "nickname": "jermainedupri",
