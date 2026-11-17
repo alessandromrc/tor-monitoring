@@ -253,6 +253,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "toradmin",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "Cadelanne",
         "asn": "AS26832"
     },
@@ -9761,10 +9765,6 @@
         "asn": "AS5089"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS41436"
-    },
-    {
         "nickname": "TORtelliniExit02",
         "exit_address": [
             "45.13.225.78"
@@ -10511,10 +10511,6 @@
     {
         "nickname": "MetalsAG",
         "asn": "AS44925"
-    },
-    {
-        "nickname": "TotallyNotABTCMixer",
-        "asn": "AS174"
     },
     {
         "nickname": "MathijsRelay",
@@ -31240,6 +31236,10 @@
         "asn": "AS7018"
     },
     {
+        "nickname": "SubspaceRelay",
+        "asn": "AS47272"
+    },
+    {
         "nickname": "fumofumo",
         "asn": "AS57043"
     },
@@ -42526,7 +42526,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
