@@ -7175,10 +7175,6 @@
         "asn": "AS33915"
     },
     {
-        "nickname": "Veng",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "relayon0134",
         "exit_address": [
             "185.220.101.134"
@@ -7623,10 +7619,6 @@
     {
         "nickname": "NeoXMR",
         "asn": "AS210558"
-    },
-    {
-        "nickname": "zgato",
-        "asn": "AS7489"
     },
     {
         "nickname": "3638mDoldenhorn",
@@ -21480,6 +21472,9 @@
     },
     {
         "nickname": "forest63",
+        "exit_address": [
+            "178.83.122.52"
+        ],
         "asn": "AS207847"
     },
     {
@@ -31212,10 +31207,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "myNiceRelay",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "UnredactedWikiLeaks",
         "exit_address": [
             "23.191.200.10"
@@ -35346,6 +35337,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Dipoli",
+        "asn": "AS13037"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -37014,6 +37009,10 @@
     {
         "nickname": "tornode1",
         "asn": "AS197448"
+    },
+    {
+        "nickname": "firewalk",
+        "asn": "AS197540"
     },
     {
         "nickname": "idideditheconfig",
