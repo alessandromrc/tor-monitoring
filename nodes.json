@@ -1142,6 +1142,10 @@
         "asn": "AS212238"
     },
     {
+        "nickname": "AhtiTheJanitor",
+        "asn": "AS4773"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS17676"
     },
@@ -8459,9 +8463,6 @@
     },
     {
         "nickname": "clarkquay",
-        "exit_address": [
-            "185.225.69.214"
-        ],
         "asn": "AS41075"
     },
     {
@@ -19987,10 +19988,6 @@
         "asn": "AS924"
     },
     {
-        "nickname": "slushfund",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "NTH56R4",
         "exit_address": [
             "192.42.116.56"
@@ -22776,10 +22773,6 @@
             "23.129.64.184"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "DockerTorRelay",
-        "asn": "AS135377"
     },
     {
         "nickname": "Killix",
@@ -35319,6 +35312,10 @@
     {
         "nickname": "magic848relay",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "nobodly",
+        "asn": "AS12312"
     },
     {
         "nickname": "prsv",
