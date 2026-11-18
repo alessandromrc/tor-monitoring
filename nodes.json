@@ -10517,10 +10517,6 @@
         "asn": "AS1136"
     },
     {
-        "nickname": "aergia",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "SycamoFairvale",
         "asn": "AS213373"
     },
@@ -18494,6 +18490,9 @@
     },
     {
         "nickname": "okade",
+        "exit_address": [
+            "152.53.210.165"
+        ],
         "asn": "AS214996"
     },
     {
@@ -33718,6 +33717,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "NetMonNetworksUK4",
+        "asn": "AS5089"
+    },
+    {
         "nickname": "crazy8s",
         "exit_address": [
             "194.15.113.171"
@@ -43227,6 +43230,10 @@
     {
         "nickname": "chaosDelroth",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "NetMonNetworksUK3",
+        "asn": "AS5089"
     },
     {
         "nickname": "NTH18R3",
