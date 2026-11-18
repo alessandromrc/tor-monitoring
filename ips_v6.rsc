@@ -2983,6 +2983,7 @@
 /ipv6 firewall address-list add list=tor_ipv6 address=2c0f:6c0:0:1d::6d92 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2a0a:4cc0:c0:5e48:9887:30ff:fef8:f4c8 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2402:d0c0:21::2df5:510a comment="tor_ipv6/tor-monitoring"
+/ipv6 firewall address-list add list=tor_ipv6 address=2a09:be40:28ff:50:be24:11ff:fe7d:fe66 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2001:41d0:304:200::cea1 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2600:3c03::2000:27ff:fe89:c949 comment="tor_ipv6/tor-monitoring"
 /ipv6 firewall address-list add list=tor_ipv6 address=2607:5300:60:6a85::46 comment="tor_ipv6/tor-monitoring"
