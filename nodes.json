@@ -6897,6 +6897,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "secondMeerkat",
+        "asn": "AS132203"
+    },
+    {
         "nickname": "NTH15R3",
         "exit_address": [
             "192.42.116.15"
@@ -14077,10 +14081,6 @@
     {
         "nickname": "prsv",
         "asn": "AS27284"
-    },
-    {
-        "nickname": "LottesTorRelay",
-        "asn": "AS207295"
     },
     {
         "nickname": "PlayInTraffic",
@@ -37352,6 +37352,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "SerbiaTorE3",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "as215248tor3a",
         "asn": "AS215248"
     },
@@ -48617,6 +48621,10 @@
     {
         "nickname": "pecord",
         "asn": "AS16591"
+    },
+    {
+        "nickname": "MkoBul1Gtor",
+        "asn": "AS211619"
     },
     {
         "nickname": "DrevixMiddle01",
