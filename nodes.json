@@ -5520,10 +5520,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "HappyToServeYou03",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Mixmaster",
         "asn": "AS211619"
     },
@@ -19513,9 +19509,6 @@
     },
     {
         "nickname": "node218316",
-        "exit_address": [
-            "2.26.122.108"
-        ],
         "asn": "AS201988"
     },
     {
@@ -21855,7 +21848,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -25454,10 +25447,6 @@
         "asn": "AS9009"
     },
     {
-        "nickname": "ctayexit",
-        "asn": "AS211619"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "185.244.192.184"
@@ -27138,6 +27127,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "69.12.83.131"
+        ],
         "asn": "AS36352"
     },
     {
@@ -50062,10 +50054,6 @@
     {
         "nickname": "AbsoluteCinema",
         "asn": "AS3215"
-    },
-    {
-        "nickname": "560003101a51",
-        "asn": "AS20473"
     },
     {
         "nickname": "ForPrivacyNET",
