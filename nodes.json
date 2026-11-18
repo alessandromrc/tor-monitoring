@@ -5932,6 +5932,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.173.9.76"
+        ],
         "asn": "AS36352"
     },
     {
@@ -17524,7 +17527,7 @@
         "asn": "AS20860"
     },
     {
-        "nickname": "3GTorr",
+        "nickname": "3GTorRR",
         "exit_address": [
             "193.200.221.85"
         ],
@@ -20469,6 +20472,10 @@
         "asn": "AS39798"
     },
     {
+        "nickname": "Ember",
+        "asn": "AS56655"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -21506,6 +21513,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "andr788k",
+        "asn": "AS53667"
+    },
+    {
         "nickname": "tommasch22",
         "asn": "AS43341"
     },
@@ -22155,6 +22166,10 @@
             "204.8.96.149"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Dune",
+        "asn": "AS56655"
     },
     {
         "nickname": "nanotor8",
@@ -23682,6 +23697,10 @@
     {
         "nickname": "Razor",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "Aurora",
+        "asn": "AS56655"
     },
     {
         "nickname": "pumpkin",
@@ -27362,6 +27381,10 @@
         "asn": "AS5645"
     },
     {
+        "nickname": "ooooXXXXoXXXXXoooo",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS26832"
     },
@@ -29356,10 +29379,6 @@
     {
         "nickname": "mustardonthebeat",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "TorIFNSS",
-        "asn": "AS63949"
     },
     {
         "nickname": "Quintex267",
@@ -33511,6 +33530,10 @@
         "asn": "AS24940"
     },
     {
+        "nickname": "Basalt",
+        "asn": "AS56655"
+    },
+    {
         "nickname": "SM1DT03",
         "asn": "AS51396"
     },
@@ -36859,10 +36882,6 @@
             "204.8.96.101"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "dismal",
-        "asn": "AS200912"
     },
     {
         "nickname": "MDX",
@@ -45032,6 +45051,10 @@
     {
         "nickname": "bytes33x",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "fabischwtorrelay",
+        "asn": "AS200062"
     },
     {
         "nickname": "illusion",
