@@ -5923,6 +5923,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "Quintex385",
         "exit_address": [
             "204.8.96.174"
@@ -6224,10 +6228,6 @@
     {
         "nickname": "prsv",
         "asn": "AS207992"
-    },
-    {
-        "nickname": "tspxrc1",
-        "asn": "AS9009"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -12468,6 +12468,10 @@
     {
         "nickname": "MeinDebianRelay",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "middlerelay0x1",
+        "asn": "AS30722"
     },
     {
         "nickname": "myNiceRelay",
@@ -25140,7 +25144,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.207",
             "198.167.206.248"
         ],
         "asn": "AS39287"
@@ -25506,6 +25509,10 @@
     {
         "nickname": "NFOrce",
         "asn": "AS43350"
+    },
+    {
+        "nickname": "3",
+        "asn": "AS60117"
     },
     {
         "nickname": "Digitalcourage4ipfa",
@@ -30068,6 +30075,10 @@
             "69.12.83.3"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "YesIdidTheConfig",
+        "asn": "AS6772"
     },
     {
         "nickname": "Quintex360",
@@ -41418,6 +41429,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "2",
+        "asn": "AS60117"
+    },
+    {
         "nickname": "ARFExit1",
         "exit_address": [
             "142.254.112.221"
@@ -49182,6 +49197,10 @@
             "185.220.101.191"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "1",
+        "asn": "AS60117"
     },
     {
         "nickname": "Small",
