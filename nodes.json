@@ -2599,10 +2599,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "vipermint",
-        "asn": "AS136258"
-    },
-    {
         "nickname": "cray",
         "asn": "AS16276"
     },
@@ -6922,6 +6918,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "198.55.103.199"
+        ],
         "asn": "AS36352"
     },
     {
@@ -9505,7 +9504,7 @@
     },
     {
         "nickname": "NightRelay",
-        "asn": "AS6206"
+        "asn": "AS49453"
     },
     {
         "nickname": "Unnamed",
@@ -41868,10 +41867,6 @@
             "96.44.159.204"
         ],
         "asn": "AS36352"
-    },
-    {
-        "nickname": "sumone",
-        "asn": "AS16276"
     },
     {
         "nickname": "torexitams25",
