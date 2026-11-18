@@ -3347,6 +3347,10 @@
         "asn": "AS31898"
     },
     {
+        "nickname": "mikrogravitation4",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "lakeyah",
         "asn": "AS36849"
     },
@@ -3842,6 +3846,10 @@
     {
         "nickname": "sasuke",
         "asn": "AS19437"
+    },
+    {
+        "nickname": "torarch",
+        "asn": "AS63949"
     },
     {
         "nickname": "NURVrelay",
@@ -4563,6 +4571,9 @@
     },
     {
         "nickname": "3GTorCC",
+        "exit_address": [
+            "151.242.104.14"
+        ],
         "asn": "AS56655"
     },
     {
@@ -5359,6 +5370,10 @@
             "193.200.221.85"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "mikrogravitation9",
+        "asn": "AS206236"
     },
     {
         "nickname": "youngbloodz",
@@ -6300,6 +6315,10 @@
     {
         "nickname": "Doedelkiste16",
         "asn": "AS35366"
+    },
+    {
+        "nickname": "mikrogravitationE",
+        "asn": "AS206236"
     },
     {
         "nickname": "TorRelayDE",
@@ -10292,10 +10311,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "justbytes",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "BahnhufPowah",
         "asn": "AS8473"
     },
@@ -10344,6 +10359,10 @@
             "185.220.101.2"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "mikrogravitation1",
+        "asn": "AS206236"
     },
     {
         "nickname": "Tuchmatalala",
@@ -13354,6 +13373,10 @@
         "asn": "AS41075"
     },
     {
+        "nickname": "mikrogravitationF",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "OnionSisterSophia",
         "asn": "AS16276"
     },
@@ -14862,6 +14885,10 @@
     {
         "nickname": "DeepOceanRelay",
         "asn": "AS40663"
+    },
+    {
+        "nickname": "mikrogravitation5",
+        "asn": "AS206236"
     },
     {
         "nickname": "fumo",
@@ -17944,6 +17971,10 @@
             "185.220.101.141"
         ],
         "asn": "AS60729"
+    },
+    {
+        "nickname": "mikrogravitation6",
+        "asn": "AS206236"
     },
     {
         "nickname": "LauchRelay",
@@ -21426,9 +21457,6 @@
     },
     {
         "nickname": "gtyrhiro",
-        "exit_address": [
-            "162.254.84.123"
-        ],
         "asn": "AS34689"
     },
     {
@@ -23250,6 +23278,9 @@
     },
     {
         "nickname": "3GTorBB",
+        "exit_address": [
+            "193.200.221.86"
+        ],
         "asn": "AS56655"
     },
     {
@@ -25184,6 +25215,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.183",
             "198.167.206.248"
         ],
         "asn": "AS39287"
@@ -25409,6 +25441,10 @@
     {
         "nickname": "risk7",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "mikrogravitation3",
+        "asn": "AS206236"
     },
     {
         "nickname": "kryptov",
@@ -28527,10 +28563,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "cluysa",
-        "asn": "AS8866"
-    },
-    {
         "nickname": "fieldmob",
         "asn": "AS36849"
     },
@@ -28797,6 +28829,9 @@
     },
     {
         "nickname": "CavEmpt",
+        "exit_address": [
+            "92.118.39.123"
+        ],
         "asn": "AS47890"
     },
     {
@@ -30626,6 +30661,10 @@
         "asn": "AS12322"
     },
     {
+        "nickname": "mikrogravitationD",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -31819,6 +31858,10 @@
         "asn": "AS2856"
     },
     {
+        "nickname": "mikrogravitation7",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "DFRI153",
         "exit_address": [
             "171.25.193.46"
@@ -32689,6 +32732,9 @@
     },
     {
         "nickname": "3GTorAA",
+        "exit_address": [
+            "193.200.221.84"
+        ],
         "asn": "AS56655"
     },
     {
@@ -34220,6 +34266,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "mikrogravitation2",
+        "asn": "AS206236"
     },
     {
         "nickname": "daveb",
@@ -42604,6 +42654,10 @@
         "asn": "AS8560"
     },
     {
+        "nickname": "mikrogravitationB",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "TheShadowRoute18",
         "asn": "AS215288"
     },
@@ -44041,6 +44095,9 @@
     },
     {
         "nickname": "3GTorEE",
+        "exit_address": [
+            "151.242.104.20"
+        ],
         "asn": "AS56655"
     },
     {
@@ -46810,7 +46867,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -47191,6 +47248,10 @@
     {
         "nickname": "chinstrap",
         "asn": "AS19994"
+    },
+    {
+        "nickname": "mikrogravitationC",
+        "asn": "AS206236"
     },
     {
         "nickname": "ValveCover",
@@ -48471,6 +48532,10 @@
         "asn": "AS197019"
     },
     {
+        "nickname": "mikrogravitation8",
+        "asn": "AS206236"
+    },
+    {
         "nickname": "profi",
         "asn": "AS214798"
     },
@@ -48963,6 +49028,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "mikrogravitationA",
+        "asn": "AS206236"
     },
     {
         "nickname": "mindzero9",
