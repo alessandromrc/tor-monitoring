@@ -5902,7 +5902,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "MkoBul1Gtor",
+        "nickname": "MkoBul1Gtor2",
         "exit_address": [
             "45.9.156.183"
         ],
@@ -9232,10 +9232,6 @@
     {
         "nickname": "aphroditeRelay1",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "BrandNewNiceRelay",
-        "asn": "AS210558"
     },
     {
         "nickname": "hkrelaytorproject",
@@ -17994,10 +17990,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS212238"
-    },
-    {
         "nickname": "trauben",
         "exit_address": [
             "109.70.100.5"
@@ -19494,7 +19486,7 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "MkoBul1Gtor",
+        "nickname": "MkoBul1Gtor1",
         "exit_address": [
             "45.9.156.182"
         ],
@@ -25624,10 +25616,6 @@
             "192.42.116.58"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Torpille",
-        "asn": "AS215599"
     },
     {
         "nickname": "anythingggggg",
@@ -37364,6 +37352,9 @@
     },
     {
         "nickname": "SerbiaTorE3",
+        "exit_address": [
+            "150.40.126.42"
+        ],
         "asn": "AS211619"
     },
     {
@@ -41840,7 +41831,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "MkoBul1Gtor",
+        "nickname": "MkoBul1Gtor3",
         "exit_address": [
             "45.9.156.184"
         ],
@@ -48638,7 +48629,10 @@
         "asn": "AS16591"
     },
     {
-        "nickname": "MkoBul1Gtor",
+        "nickname": "MkoBul1Gtor4",
+        "exit_address": [
+            "45.9.156.185"
+        ],
         "asn": "AS211619"
     },
     {
