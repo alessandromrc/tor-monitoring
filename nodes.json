@@ -3374,10 +3374,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "PoochySloochy",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "nomen",
         "asn": "AS9009"
     },
@@ -9385,10 +9381,6 @@
             "192.42.116.18"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "TheMadHackerVeilG",
-        "asn": "AS8560"
     },
     {
         "nickname": "relayon0154",
@@ -21273,10 +21265,6 @@
         "asn": "AS701"
     },
     {
-        "nickname": "StealthVortexLumen",
-        "asn": "AS1759"
-    },
-    {
         "nickname": "SteinchesTORRelay",
         "asn": "AS8560"
     },
@@ -24782,10 +24770,6 @@
             "23.191.200.39"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "ParetoTransit",
-        "asn": "AS16276"
     },
     {
         "nickname": "ShinobiHouou",
@@ -39269,10 +39253,6 @@
         "asn": "AS8708"
     },
     {
-        "nickname": "SlowServerForTor",
-        "asn": "AS47447"
-    },
-    {
         "nickname": "masstorams",
         "asn": "AS36352"
     },
@@ -42847,6 +42827,9 @@
     },
     {
         "nickname": "TorBaconExit",
+        "exit_address": [
+            "159.195.137.114"
+        ],
         "asn": "AS197540"
     },
     {
@@ -43822,10 +43805,6 @@
             "193.189.100.198"
         ],
         "asn": "AS41281"
-    },
-    {
-        "nickname": "despacitor",
-        "asn": "AS12876"
     },
     {
         "nickname": "nickiminaj",
