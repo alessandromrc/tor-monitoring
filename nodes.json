@@ -4740,10 +4740,6 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "RelayTheFuckOutOfIt",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH19R6",
         "exit_address": [
             "192.42.116.19"
@@ -5139,6 +5135,10 @@
     {
         "nickname": "InVinoVeritas2",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "nodeofmarceldavis",
+        "asn": "AS3209"
     },
     {
         "nickname": "Quintex355",
@@ -11115,6 +11115,10 @@
             "23.191.200.121"
         ],
         "asn": "AS401401"
+    },
+    {
+        "nickname": "gaeta",
+        "asn": "AS24940"
     },
     {
         "nickname": "bauruine",
@@ -18123,6 +18127,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "ClairePL",
+        "asn": "AS57043"
+    },
+    {
         "nickname": "NTH117R2",
         "exit_address": [
             "192.42.116.117"
@@ -21004,10 +21012,6 @@
     {
         "nickname": "lovelace",
         "asn": "AS208323"
-    },
-    {
-        "nickname": "HappyToServeYou07",
-        "asn": "AS36352"
     },
     {
         "nickname": "EntropyEngine",
@@ -24220,9 +24224,6 @@
     },
     {
         "nickname": "MyTorStar",
-        "exit_address": [
-            "185.100.86.181"
-        ],
         "asn": "AS200651"
     },
     {
@@ -26608,10 +26609,6 @@
             "192.42.116.115"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "FreedomForEveryone",
-        "asn": "AS200019"
     },
     {
         "nickname": "TORKeFFORG13",
@@ -35066,6 +35063,10 @@
     {
         "nickname": "sakura",
         "asn": "AS9371"
+    },
+    {
+        "nickname": "ariel",
+        "asn": "AS16276"
     },
     {
         "nickname": "berlin82828282",
@@ -44634,6 +44635,9 @@
     },
     {
         "nickname": "Cedar",
+        "exit_address": [
+            "45.88.200.76"
+        ],
         "asn": "AS56655"
     },
     {
