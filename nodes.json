@@ -117,9 +117,6 @@
     },
     {
         "nickname": "FcukGOP1",
-        "exit_address": [
-            "23.134.76.27"
-        ],
         "asn": "AS27284"
     },
     {
@@ -928,6 +925,10 @@
     {
         "nickname": "fatboysse",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
     },
     {
         "nickname": "EliteRelay1",
@@ -10101,9 +10102,6 @@
     },
     {
         "nickname": "flokinet1n10",
-        "exit_address": [
-            "185.100.87.42"
-        ],
         "asn": "AS200651"
     },
     {
@@ -20388,9 +20386,6 @@
     },
     {
         "nickname": "SwedenNewNew",
-        "exit_address": [
-            "82.39.155.148"
-        ],
         "asn": "AS207295"
     },
     {
@@ -20702,9 +20697,6 @@
     },
     {
         "nickname": "vanguardblackrock",
-        "exit_address": [
-            "82.47.0.200"
-        ],
         "asn": "AS50049"
     },
     {
@@ -22549,6 +22541,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "TheStorm",
+        "asn": "AS200651"
     },
     {
         "nickname": "Unshakled005",
@@ -37111,10 +37107,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "NLOscillator1",
-        "asn": "AS43350"
-    },
-    {
         "nickname": "chilli",
         "exit_address": [
             "109.70.100.2"
@@ -37483,10 +37475,6 @@
     {
         "nickname": "BSDrelay10",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "ifsnodede04",
-        "asn": "AS3320"
     },
     {
         "nickname": "ltgk",
@@ -40726,6 +40714,9 @@
     },
     {
         "nickname": "clover1888",
+        "exit_address": [
+            "103.193.179.22"
+        ],
         "asn": "AS136052"
     },
     {
@@ -42453,7 +42444,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -43564,6 +43555,9 @@
     },
     {
         "nickname": "jarvis1892",
+        "exit_address": [
+            "103.193.179.213"
+        ],
         "asn": "AS136052"
     },
     {
@@ -44601,9 +44595,6 @@
     },
     {
         "nickname": "FcukGOP2",
-        "exit_address": [
-            "23.134.76.27"
-        ],
         "asn": "AS27284"
     },
     {
