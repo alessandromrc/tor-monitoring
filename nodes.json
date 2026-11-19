@@ -15452,6 +15452,10 @@
         "asn": "AS7922"
     },
     {
+        "nickname": "jesterrelay",
+        "asn": "AS701"
+    },
+    {
         "nickname": "artikel10buc23",
         "exit_address": [
             "185.100.87.250"
@@ -18117,6 +18121,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.172.114.88"
+        ],
         "asn": "AS36352"
     },
     {
@@ -29354,10 +29361,6 @@
     {
         "nickname": "llorona",
         "asn": "AS263812"
-    },
-    {
-        "nickname": "whispersatlas",
-        "asn": "AS31898"
     },
     {
         "nickname": "NTH117R3",
@@ -49292,6 +49295,10 @@
     {
         "nickname": "bishoplamont",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "egdim3",
+        "asn": "AS20473"
     },
     {
         "nickname": "relayon0191",
