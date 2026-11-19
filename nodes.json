@@ -152,6 +152,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "venenata",
+        "asn": "AS47066"
+    },
+    {
         "nickname": "NTH66R4",
         "exit_address": [
             "192.42.116.66"
@@ -598,10 +602,6 @@
     {
         "nickname": "shrdrelay46",
         "asn": "AS204464"
-    },
-    {
-        "nickname": "TRRelay2",
-        "asn": "AS207326"
     },
     {
         "nickname": "LV426",
@@ -8674,9 +8674,6 @@
     },
     {
         "nickname": "TORKeFFORG16",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -10302,10 +10299,6 @@
     {
         "nickname": "ayrastarr",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "LilleVemmelund",
-        "asn": "AS9158"
     },
     {
         "nickname": "mims",
@@ -26724,9 +26717,6 @@
     },
     {
         "nickname": "TORKeFFORG17",
-        "exit_address": [
-            "193.189.100.197"
-        ],
         "asn": "AS41281"
     },
     {
@@ -42856,6 +42846,10 @@
         "asn": "AS32338"
     },
     {
+        "nickname": "TorBaconExit",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "lavabit",
         "asn": "AS31898"
     },
@@ -45171,10 +45165,6 @@
     {
         "nickname": "BaumiMiddleRelays",
         "asn": "AS3209"
-    },
-    {
-        "nickname": "XenuAms",
-        "asn": "AS33915"
     },
     {
         "nickname": "wintrymix",
