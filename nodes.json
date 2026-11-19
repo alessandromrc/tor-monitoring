@@ -3746,6 +3746,9 @@
     },
     {
         "nickname": "FEEDMESEYMOUR",
+        "exit_address": [
+            "23.111.15.127"
+        ],
         "asn": "AS59253"
     },
     {
@@ -25128,7 +25131,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.183"
+            "198.167.206.183",
+            "198.167.206.224"
         ],
         "asn": "AS39287"
     },
@@ -35830,6 +35834,10 @@
     {
         "nickname": "anarcheire",
         "asn": "AS6830"
+    },
+    {
+        "nickname": "YukkiAsuna",
+        "asn": "AS31898"
     },
     {
         "nickname": "TheGRelay",
