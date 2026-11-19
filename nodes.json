@@ -675,10 +675,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "toradmin",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "NTH48R2",
         "exit_address": [
             "192.42.116.48"
@@ -3970,10 +3966,6 @@
     {
         "nickname": "queertorpasstransit",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "fiberblittverdstena",
-        "asn": "AS202422"
     },
     {
         "nickname": "nyonyonyo2",
@@ -9759,9 +9751,6 @@
     },
     {
         "nickname": "TorDola1",
-        "exit_address": [
-            "185.56.83.11"
-        ],
         "asn": "AS211720"
     },
     {
@@ -10413,10 +10402,6 @@
     {
         "nickname": "muffintop",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "TheGoonies",
-        "asn": "AS60404"
     },
     {
         "nickname": "sTORMUR3",
@@ -16080,10 +16065,6 @@
             "204.8.96.118"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS20473"
     },
     {
         "nickname": "DFRI24",
@@ -24630,6 +24611,9 @@
     },
     {
         "nickname": "Resilient",
+        "exit_address": [
+            "193.218.118.137"
+        ],
         "asn": "AS207656"
     },
     {
@@ -26737,6 +26721,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "sexytiem",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "toradol",
         "asn": "AS11426"
     },
@@ -28373,6 +28361,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -48691,6 +48682,10 @@
     {
         "nickname": "hardcode",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "CONNECT",
+        "asn": "AS215311"
     },
     {
         "nickname": "Taurus",
