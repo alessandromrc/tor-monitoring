@@ -7852,6 +7852,10 @@
         "asn": "AS3399"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Felicette",
         "asn": "AS16276"
     },
@@ -9515,6 +9519,9 @@
     },
     {
         "nickname": "Runaz2",
+        "exit_address": [
+            "192.253.248.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -13624,6 +13631,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "UKrelay",
+        "asn": "AS215311"
     },
     {
         "nickname": "UltraVPS",
@@ -27353,6 +27364,9 @@
     },
     {
         "nickname": "glide",
+        "exit_address": [
+            "179.43.178.83"
+        ],
         "asn": "AS51852"
     },
     {
@@ -32937,10 +32951,6 @@
     {
         "nickname": "ShinobiTora",
         "asn": "AS20473"
-    },
-    {
-        "nickname": "redacted",
-        "asn": "AS36352"
     },
     {
         "nickname": "lunar4",
