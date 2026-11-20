@@ -9581,9 +9581,6 @@
     },
     {
         "nickname": "wippvannwinkle",
-        "exit_address": [
-            "194.53.137.102"
-        ],
         "asn": "AS9009"
     },
     {
@@ -18791,10 +18788,6 @@
             "185.220.101.8"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Ronaldo",
-        "asn": "AS14618"
     },
     {
         "nickname": "NTH105R2",
@@ -34354,10 +34347,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "InnocenceTube",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "iwakura",
         "asn": "AS8560"
     },
@@ -42516,6 +42505,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.173.47.117"
+        ],
         "asn": "AS36352"
     },
     {
