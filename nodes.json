@@ -7141,7 +7141,7 @@
     },
     {
         "nickname": "CarltonsRevenge",
-        "asn": "AS30860"
+        "asn": "AS6698"
     },
     {
         "nickname": "forest30",
@@ -16370,6 +16370,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "ClaireNL",
+        "asn": "AS57043"
+    },
+    {
         "nickname": "SerbiaTorE1",
         "exit_address": [
             "150.40.126.28"
@@ -17453,10 +17457,6 @@
         "asn": "AS20473"
     },
     {
-        "nickname": "GermanCraft25",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "mimira14",
         "asn": "AS211507"
     },
@@ -17847,6 +17847,9 @@
     },
     {
         "nickname": "mentoreth25",
+        "exit_address": [
+            "5.2.69.83"
+        ],
         "asn": "AS60404"
     },
     {
@@ -18884,10 +18887,6 @@
             "204.8.96.85"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "GermanCraft25",
-        "asn": "AS16276"
     },
     {
         "nickname": "eyedea",
@@ -23535,6 +23534,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "192.227.196.183"
+        ],
         "asn": "AS36352"
     },
     {
@@ -28055,6 +28057,9 @@
     },
     {
         "nickname": "mentoreth24",
+        "exit_address": [
+            "5.2.69.83"
+        ],
         "asn": "AS60404"
     },
     {
@@ -28655,10 +28660,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "cleanguard",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "NTH177R1",
         "asn": "AS215125"
     },
@@ -28935,6 +28936,10 @@
             "204.8.96.119"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Preacherjones",
+        "asn": "AS12586"
     },
     {
         "nickname": "PremiumTorExit",
@@ -42795,10 +42800,6 @@
     {
         "nickname": "ceojizzle",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "fire",
-        "asn": "AS16276"
     },
     {
         "nickname": "relayon0173",
