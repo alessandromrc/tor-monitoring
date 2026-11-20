@@ -703,9 +703,6 @@
     },
     {
         "nickname": "SerbiaTorE2",
-        "exit_address": [
-            "150.40.126.34"
-        ],
         "asn": "AS211619"
     },
     {
@@ -4375,6 +4372,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS8764"
+    },
+    {
         "nickname": "QuintexAirVPN18",
         "exit_address": [
             "204.8.96.108"
@@ -5883,9 +5884,6 @@
     },
     {
         "nickname": "MkoBul1Gtor2",
-        "exit_address": [
-            "45.9.156.183"
-        ],
         "asn": "AS211619"
     },
     {
@@ -13460,6 +13458,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "kn3mg8ct7g",
+        "asn": "AS149440"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS3320"
     },
@@ -13958,6 +13960,10 @@
     {
         "nickname": "BSDrelay11",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "runesandrelics",
+        "asn": "AS16276"
     },
     {
         "nickname": "hellowebtun2",
@@ -14766,6 +14772,10 @@
     {
         "nickname": "NTH101R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "q7m2xr9k4t",
+        "asn": "AS149440"
     },
     {
         "nickname": "prsv",
@@ -16360,9 +16370,6 @@
     },
     {
         "nickname": "SerbiaTorE1",
-        "exit_address": [
-            "150.40.126.28"
-        ],
         "asn": "AS211619"
     },
     {
@@ -19470,9 +19477,6 @@
     },
     {
         "nickname": "MkoBul1Gtor1",
-        "exit_address": [
-            "45.9.156.182"
-        ],
         "asn": "AS211619"
     },
     {
@@ -24091,10 +24095,6 @@
         "asn": "AS3320"
     },
     {
-        "nickname": "myPiFly",
-        "asn": "AS8881"
-    },
-    {
         "nickname": "NTH98R3",
         "exit_address": [
             "192.42.116.98"
@@ -25261,6 +25261,10 @@
         "asn": "AS199950"
     },
     {
+        "nickname": "qc4rrhia8x",
+        "asn": "AS149440"
+    },
+    {
         "nickname": "teaServer",
         "asn": "AS8560"
     },
@@ -25811,10 +25815,6 @@
     {
         "nickname": "Totoro4220",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "fviridis",
-        "asn": "AS3209"
     },
     {
         "nickname": "MajorCadenceRelay2",
@@ -35018,6 +35018,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "marquisardsept",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "AlarisPrime",
         "asn": "AS399122"
     },
@@ -37516,9 +37520,6 @@
     },
     {
         "nickname": "SerbiaTorE0",
-        "exit_address": [
-            "150.40.126.164"
-        ],
         "asn": "AS211619"
     },
     {
@@ -41811,9 +41812,6 @@
     },
     {
         "nickname": "MkoBul1Gtor3",
-        "exit_address": [
-            "45.9.156.184"
-        ],
         "asn": "AS211619"
     },
     {
@@ -46794,9 +46792,6 @@
     },
     {
         "nickname": "MoorishArt",
-        "exit_address": [
-            "194.53.137.42"
-        ],
         "asn": "AS9009"
     },
     {
@@ -48636,9 +48631,6 @@
     },
     {
         "nickname": "MkoBul1Gtor4",
-        "exit_address": [
-            "45.9.156.185"
-        ],
         "asn": "AS211619"
     },
     {
