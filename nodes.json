@@ -1102,6 +1102,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "gergernet2",
+        "asn": "AS43150"
+    },
+    {
         "nickname": "as214958tor8",
         "asn": "AS8283"
     },
@@ -10182,10 +10186,6 @@
         "asn": "AS3301"
     },
     {
-        "nickname": "Nerdcompany",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -12945,9 +12945,6 @@
     },
     {
         "nickname": "smasher",
-        "exit_address": [
-            "91.92.109.126"
-        ],
         "asn": "AS34224"
     },
     {
@@ -21540,6 +21537,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS138754"
+    },
+    {
         "nickname": "Assange026fi",
         "asn": "AS51765"
     },
@@ -22724,6 +22725,9 @@
     },
     {
         "nickname": "F3Netze",
+        "exit_address": [
+            "185.220.100.255"
+        ],
         "asn": "AS205100"
     },
     {
@@ -23741,9 +23745,6 @@
     },
     {
         "nickname": "Aurora",
-        "exit_address": [
-            "45.88.200.95"
-        ],
         "asn": "AS56655"
     },
     {
@@ -24780,10 +24781,6 @@
     {
         "nickname": "ARCNetWork",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "wubalubadubdubhoya",
-        "asn": "AS3320"
     },
     {
         "nickname": "schnittlauch",
@@ -30606,10 +30603,6 @@
     {
         "nickname": "UxCLsaferelay0",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "Nerdcompany2",
-        "asn": "AS24940"
     },
     {
         "nickname": "prsv",
@@ -39813,10 +39806,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "TotallyNotABTCMixer",
-        "asn": "AS174"
-    },
-    {
         "nickname": "artikel10ber85",
         "exit_address": [
             "185.220.101.22"
@@ -41558,9 +41547,6 @@
     },
     {
         "nickname": "2",
-        "exit_address": [
-            "185.141.24.115"
-        ],
         "asn": "AS60117"
     },
     {
@@ -42701,10 +42687,6 @@
     {
         "nickname": "LostSahara",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "MyMiddle",
-        "asn": "AS8764"
     },
     {
         "nickname": "letsdoitUS",
@@ -48695,6 +48677,10 @@
         "asn": "AS26832"
     },
     {
+        "nickname": "BlueGene",
+        "asn": "AS3292"
+    },
+    {
         "nickname": "highwaytohoell",
         "asn": "AS6724"
     },
@@ -49368,9 +49354,6 @@
     },
     {
         "nickname": "1",
-        "exit_address": [
-            "185.141.24.110"
-        ],
         "asn": "AS60117"
     },
     {
