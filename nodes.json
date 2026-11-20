@@ -1845,6 +1845,10 @@
         "asn": "AS204464"
     },
     {
+        "nickname": "NoodlePowered",
+        "asn": "AS135377"
+    },
+    {
         "nickname": "bananenmuffin",
         "asn": "AS24940"
     },
@@ -3165,6 +3169,10 @@
     {
         "nickname": "thundercat",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "marquisardhuit",
+        "asn": "AS16276"
     },
     {
         "nickname": "NTH63R8",
@@ -13966,6 +13974,9 @@
     },
     {
         "nickname": "runesandrelics",
+        "exit_address": [
+            "54.36.108.162"
+        ],
         "asn": "AS16276"
     },
     {
@@ -26995,10 +27006,6 @@
     {
         "nickname": "shyglizzy",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Dumbvider",
-        "asn": "AS62240"
     },
     {
         "nickname": "NTH66R2",
@@ -45500,6 +45507,9 @@
     },
     {
         "nickname": "Nibelungen",
+        "exit_address": [
+            "45.142.106.208"
+        ],
         "asn": "AS58087"
     },
     {
@@ -47724,10 +47734,6 @@
     {
         "nickname": "lildouble0",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "anong33",
-        "asn": "AS197540"
     },
     {
         "nickname": "kidink",
