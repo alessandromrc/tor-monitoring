@@ -6278,10 +6278,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "theinvincibletorx",
-        "asn": "AS8708"
-    },
-    {
         "nickname": "Doedelkiste16",
         "asn": "AS35366"
     },
@@ -8005,6 +8001,9 @@
     },
     {
         "nickname": "b00b135",
+        "exit_address": [
+            "107.189.1.175"
+        ],
         "asn": "AS53667"
     },
     {
@@ -9243,6 +9242,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.175.218.3"
+        ],
         "asn": "AS36352"
     },
     {
@@ -11558,10 +11560,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "PrivacyNodeTeni",
-        "asn": "AS36352"
     },
     {
         "nickname": "as215248tor8d",
@@ -17836,6 +17834,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "mentoreth25",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "whitenoiseRLY",
         "asn": "AS14061"
     },
@@ -23512,6 +23514,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "artikel5ev12",
         "exit_address": [
             "92.246.84.133"
@@ -28024,6 +28030,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "mentoreth24",
+        "asn": "AS60404"
+    },
+    {
         "nickname": "2fer",
         "asn": "AS24940"
     },
@@ -31907,6 +31917,9 @@
     },
     {
         "nickname": "AmsterdamExit",
+        "exit_address": [
+            "85.11.167.137"
+        ],
         "asn": "AS197170"
     },
     {
@@ -37956,6 +37969,10 @@
         "asn": "AS208323"
     },
     {
+        "nickname": "Nesox",
+        "asn": "AS215685"
+    },
+    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -39180,10 +39197,6 @@
             "185.220.101.155"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "nakRelay",
-        "asn": "AS8881"
     },
     {
         "nickname": "TheShadowRoute09",
@@ -42341,10 +42354,6 @@
     {
         "nickname": "carnitas",
         "asn": "AS12876"
-    },
-    {
-        "nickname": "bluford",
-        "asn": "AS42730"
     },
     {
         "nickname": "RelayGeek12",
@@ -46671,7 +46680,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
