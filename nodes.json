@@ -4319,10 +4319,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "MeinProxmoxRelay",
-        "asn": "AS200924"
-    },
-    {
         "nickname": "ziorufus",
         "asn": "AS49367"
     },
@@ -34237,6 +34233,10 @@
         "asn": "AS12479"
     },
     {
+        "nickname": "chippygabe",
+        "asn": "AS20845"
+    },
+    {
         "nickname": "wondagurl",
         "asn": "AS36849"
     },
@@ -39223,6 +39223,10 @@
         "asn": "AS8708"
     },
     {
+        "nickname": "SlowServerForTor",
+        "asn": "AS47447"
+    },
+    {
         "nickname": "masstorams",
         "asn": "AS36352"
     },
@@ -42014,6 +42018,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "107.174.63.120"
+        ],
         "asn": "AS36352"
     },
     {
@@ -43743,9 +43750,6 @@
     },
     {
         "nickname": "TORKeFFORG18",
-        "exit_address": [
-            "193.189.100.198"
-        ],
         "asn": "AS41281"
     },
     {
