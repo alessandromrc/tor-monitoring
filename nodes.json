@@ -730,9 +730,6 @@
     },
     {
         "nickname": "TORKeFFORG9",
-        "exit_address": [
-            "193.189.100.202"
-        ],
         "asn": "AS41281"
     },
     {
@@ -1413,9 +1410,6 @@
     },
     {
         "nickname": "TORKeFFORG37",
-        "exit_address": [
-            "193.189.100.204"
-        ],
         "asn": "AS41281"
     },
     {
@@ -1996,10 +1990,6 @@
             "192.42.116.48"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "Bogfish",
-        "asn": "AS63473"
     },
     {
         "nickname": "Relay444aaaf5",
@@ -3679,9 +3669,6 @@
     },
     {
         "nickname": "TORKeFFORG34",
-        "exit_address": [
-            "193.189.100.201"
-        ],
         "asn": "AS41281"
     },
     {
@@ -4547,9 +4534,6 @@
     },
     {
         "nickname": "3GTorCC",
-        "exit_address": [
-            "151.242.104.14"
-        ],
         "asn": "AS56655"
     },
     {
@@ -5350,9 +5334,6 @@
     },
     {
         "nickname": "3GTor",
-        "exit_address": [
-            "193.200.221.85"
-        ],
         "asn": "AS56655"
     },
     {
@@ -5816,9 +5797,6 @@
     },
     {
         "nickname": "TORKeFFORG39",
-        "exit_address": [
-            "193.189.100.206"
-        ],
         "asn": "AS41281"
     },
     {
@@ -6078,9 +6056,6 @@
     },
     {
         "nickname": "TORKeFFORG4",
-        "exit_address": [
-            "193.189.100.197"
-        ],
         "asn": "AS41281"
     },
     {
@@ -6878,9 +6853,6 @@
     },
     {
         "nickname": "TORKeFFORG27",
-        "exit_address": [
-            "193.189.100.194"
-        ],
         "asn": "AS41281"
     },
     {
@@ -7436,9 +7408,6 @@
     },
     {
         "nickname": "TORKeFFORG38",
-        "exit_address": [
-            "193.189.100.205"
-        ],
         "asn": "AS41281"
     },
     {
@@ -9012,6 +8981,10 @@
         "asn": "AS211507"
     },
     {
+        "nickname": "marshrutizator0x46",
+        "asn": "AS43317"
+    },
+    {
         "nickname": "stefanbentenrelay01",
         "asn": "AS24940"
     },
@@ -10119,9 +10092,6 @@
     },
     {
         "nickname": "TORKeFFORG8",
-        "exit_address": [
-            "193.189.100.201"
-        ],
         "asn": "AS41281"
     },
     {
@@ -10251,9 +10221,6 @@
     },
     {
         "nickname": "TORKeFFORG11",
-        "exit_address": [
-            "193.189.100.204"
-        ],
         "asn": "AS41281"
     },
     {
@@ -11730,9 +11697,6 @@
     },
     {
         "nickname": "Nlexit183",
-        "exit_address": [
-            "150.40.127.183"
-        ],
         "asn": "AS211619"
     },
     {
@@ -11920,9 +11884,6 @@
     },
     {
         "nickname": "TORKeFFORG30",
-        "exit_address": [
-            "193.189.100.197"
-        ],
         "asn": "AS41281"
     },
     {
@@ -12541,9 +12502,6 @@
     },
     {
         "nickname": "TORKeFFORG32",
-        "exit_address": [
-            "193.189.100.199"
-        ],
         "asn": "AS41281"
     },
     {
@@ -13348,6 +13306,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "96.44.160.134"
+        ],
         "asn": "AS36352"
     },
     {
@@ -13487,6 +13448,10 @@
             "23.27.169.42"
         ],
         "asn": "AS149440"
+    },
+    {
+        "nickname": "Gacek",
+        "asn": "AS12912"
     },
     {
         "nickname": "Unnamed",
@@ -14410,9 +14375,6 @@
     },
     {
         "nickname": "TORKeFFORG36",
-        "exit_address": [
-            "193.189.100.203"
-        ],
         "asn": "AS41281"
     },
     {
@@ -17537,9 +17499,6 @@
     },
     {
         "nickname": "3GTorRR",
-        "exit_address": [
-            "193.200.221.85"
-        ],
         "asn": "AS56655"
     },
     {
@@ -17862,9 +17821,6 @@
     },
     {
         "nickname": "TORKeFFORG25",
-        "exit_address": [
-            "193.189.100.205"
-        ],
         "asn": "AS41281"
     },
     {
@@ -18831,9 +18787,6 @@
     },
     {
         "nickname": "TORKeFFORG21",
-        "exit_address": [
-            "193.189.100.201"
-        ],
         "asn": "AS41281"
     },
     {
@@ -19636,9 +19589,6 @@
     },
     {
         "nickname": "TORKeFFORG10",
-        "exit_address": [
-            "193.189.100.203"
-        ],
         "asn": "AS41281"
     },
     {
@@ -20475,9 +20425,6 @@
     },
     {
         "nickname": "Ember",
-        "exit_address": [
-            "151.242.104.8"
-        ],
         "asn": "AS56655"
     },
     {
@@ -20635,9 +20582,6 @@
     },
     {
         "nickname": "TORKeFFORG2",
-        "exit_address": [
-            "193.189.100.195"
-        ],
         "asn": "AS41281"
     },
     {
@@ -21242,9 +21186,6 @@
     },
     {
         "nickname": "Nlexit148",
-        "exit_address": [
-            "150.40.127.148"
-        ],
         "asn": "AS211619"
     },
     {
@@ -21657,9 +21598,6 @@
     },
     {
         "nickname": "TORKeFFORG1",
-        "exit_address": [
-            "193.189.100.194"
-        ],
         "asn": "AS41281"
     },
     {
@@ -22150,9 +22088,6 @@
     },
     {
         "nickname": "TORKeFFORG28",
-        "exit_address": [
-            "193.189.100.195"
-        ],
         "asn": "AS41281"
     },
     {
@@ -22171,9 +22106,6 @@
     },
     {
         "nickname": "Dune",
-        "exit_address": [
-            "151.242.104.220"
-        ],
         "asn": "AS56655"
     },
     {
@@ -22281,9 +22213,6 @@
     },
     {
         "nickname": "TORKeFFORG35",
-        "exit_address": [
-            "193.189.100.202"
-        ],
         "asn": "AS41281"
     },
     {
@@ -22533,9 +22462,6 @@
     },
     {
         "nickname": "TORKeFFORG24",
-        "exit_address": [
-            "193.189.100.204"
-        ],
         "asn": "AS41281"
     },
     {
@@ -23285,9 +23211,6 @@
     },
     {
         "nickname": "3GTorBB",
-        "exit_address": [
-            "193.200.221.86"
-        ],
         "asn": "AS56655"
     },
     {
@@ -24393,9 +24316,6 @@
     },
     {
         "nickname": "TORKeFFORG3",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -24580,9 +24500,6 @@
     },
     {
         "nickname": "TORKeFFORG15",
-        "exit_address": [
-            "193.189.100.195"
-        ],
         "asn": "AS41281"
     },
     {
@@ -24979,6 +24896,10 @@
     {
         "nickname": "REDACTED",
         "asn": "AS44925"
+    },
+    {
+        "nickname": "FuckTheSystem",
+        "asn": "AS14061"
     },
     {
         "nickname": "prsv",
@@ -25604,9 +25525,6 @@
     },
     {
         "nickname": "3",
-        "exit_address": [
-            "185.244.149.73"
-        ],
         "asn": "AS60117"
     },
     {
@@ -25727,6 +25645,10 @@
     {
         "nickname": "anythingggggg",
         "asn": "AS138754"
+    },
+    {
+        "nickname": "FuckTheSystem2",
+        "asn": "AS14061"
     },
     {
         "nickname": "toryolo",
@@ -26239,9 +26161,6 @@
     },
     {
         "nickname": "TORKeFFORG29",
-        "exit_address": [
-            "193.189.100.196"
-        ],
         "asn": "AS41281"
     },
     {
@@ -26529,9 +26448,6 @@
     },
     {
         "nickname": "TORKeFFORG12",
-        "exit_address": [
-            "193.189.100.205"
-        ],
         "asn": "AS41281"
     },
     {
@@ -26628,9 +26544,6 @@
     },
     {
         "nickname": "TORKeFFORG13",
-        "exit_address": [
-            "193.189.100.206"
-        ],
         "asn": "AS41281"
     },
     {
@@ -27879,9 +27792,6 @@
     },
     {
         "nickname": "depression",
-        "exit_address": [
-            "45.133.73.6"
-        ],
         "asn": "AS211507"
     },
     {
@@ -29219,6 +29129,9 @@
     },
     {
         "nickname": "Mongolwarrior",
+        "exit_address": [
+            "37.221.209.150"
+        ],
         "asn": "AS41075"
     },
     {
@@ -31541,9 +31454,6 @@
     },
     {
         "nickname": "TORKeFFORG6",
-        "exit_address": [
-            "193.189.100.199"
-        ],
         "asn": "AS41281"
     },
     {
@@ -32780,9 +32690,6 @@
     },
     {
         "nickname": "3GTorAA",
-        "exit_address": [
-            "193.200.221.84"
-        ],
         "asn": "AS56655"
     },
     {
@@ -33622,9 +33529,6 @@
     },
     {
         "nickname": "Basalt",
-        "exit_address": [
-            "45.88.200.78"
-        ],
         "asn": "AS56655"
     },
     {
@@ -36215,9 +36119,6 @@
     },
     {
         "nickname": "Nlexit186",
-        "exit_address": [
-            "150.40.127.186"
-        ],
         "asn": "AS211619"
     },
     {
@@ -37180,9 +37081,6 @@
     },
     {
         "nickname": "TORKeFFORG23",
-        "exit_address": [
-            "193.189.100.203"
-        ],
         "asn": "AS41281"
     },
     {
@@ -37514,9 +37412,6 @@
     },
     {
         "nickname": "SerbiaTorE3",
-        "exit_address": [
-            "150.40.126.42"
-        ],
         "asn": "AS211619"
     },
     {
@@ -38378,10 +38273,6 @@
         "asn": "AS2027"
     },
     {
-        "nickname": "sipedelux",
-        "asn": "AS214677"
-    },
-    {
         "nickname": "prsv",
         "asn": "AS16276"
     },
@@ -39214,10 +39105,6 @@
     {
         "nickname": "charon",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "HappyToServeYou02",
-        "asn": "AS36352"
     },
     {
         "nickname": "moshtay",
@@ -41501,10 +41388,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "HappyToServeYou04",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "bluecool6899",
         "asn": "AS215381"
     },
@@ -41819,9 +41702,6 @@
     },
     {
         "nickname": "TORKeFFORG22",
-        "exit_address": [
-            "193.189.100.202"
-        ],
         "asn": "AS41281"
     },
     {
@@ -44076,9 +43956,6 @@
     },
     {
         "nickname": "3GTorEE",
-        "exit_address": [
-            "151.242.104.20"
-        ],
         "asn": "AS56655"
     },
     {
@@ -44558,9 +44435,6 @@
     },
     {
         "nickname": "TORKeFFORG19",
-        "exit_address": [
-            "193.189.100.199"
-        ],
         "asn": "AS41281"
     },
     {
@@ -44613,9 +44487,6 @@
     },
     {
         "nickname": "Cedar",
-        "exit_address": [
-            "45.88.200.76"
-        ],
         "asn": "AS56655"
     },
     {
@@ -45127,9 +44998,6 @@
     },
     {
         "nickname": "TORKeFFORG7",
-        "exit_address": [
-            "193.189.100.200"
-        ],
         "asn": "AS41281"
     },
     {
@@ -46226,9 +46094,6 @@
     },
     {
         "nickname": "TORKeFFORG31",
-        "exit_address": [
-            "193.189.100.198"
-        ],
         "asn": "AS41281"
     },
     {
@@ -48410,9 +48275,6 @@
     },
     {
         "nickname": "TORKeFFORG33",
-        "exit_address": [
-            "193.189.100.200"
-        ],
         "asn": "AS41281"
     },
     {
@@ -48974,9 +48836,6 @@
     },
     {
         "nickname": "TORKeFFORG26",
-        "exit_address": [
-            "193.189.100.206"
-        ],
         "asn": "AS41281"
     },
     {
@@ -49866,9 +49725,6 @@
     },
     {
         "nickname": "TORKeFFORG5",
-        "exit_address": [
-            "193.189.100.198"
-        ],
         "asn": "AS41281"
     },
     {
