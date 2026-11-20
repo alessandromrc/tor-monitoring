@@ -14072,6 +14072,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -22071,6 +22074,10 @@
         "asn": "AS42532"
     },
     {
+        "nickname": "HermesRelay01",
+        "asn": "AS203003"
+    },
+    {
         "nickname": "Sin",
         "asn": "AS14061"
     },
@@ -25154,6 +25161,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.213",
             "198.167.206.224"
         ],
         "asn": "AS39287"
@@ -28624,6 +28632,10 @@
     {
         "nickname": "jazzepha",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "pinerelay01",
+        "asn": "AS5089"
     },
     {
         "nickname": "IWorshipHisShadow",
@@ -33753,6 +33765,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -35612,10 +35627,6 @@
         "asn": "AS51167"
     },
     {
-        "nickname": "NothePktsUrLooknFor",
-        "asn": "AS5650"
-    },
-    {
         "nickname": "loquendo",
         "asn": "AS5483"
     },
@@ -36859,6 +36870,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -41411,6 +41425,10 @@
         "asn": "AS9009"
     },
     {
+        "nickname": "FuckGoogle",
+        "asn": "AS31103"
+    },
+    {
         "nickname": "artikel10ber68",
         "exit_address": [
             "185.220.101.17"
@@ -45239,6 +45257,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.22"
+        ],
         "asn": "AS27284"
     },
     {
@@ -45790,10 +45811,6 @@
     {
         "nickname": "vm593tor",
         "asn": "AS198734"
-    },
-    {
-        "nickname": "SSDNodesCHI",
-        "asn": "AS29802"
     },
     {
         "nickname": "batate",
@@ -48005,10 +48022,6 @@
             "23.191.200.106"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "slxrd2",
-        "asn": "AS53006"
     },
     {
         "nickname": "node",
