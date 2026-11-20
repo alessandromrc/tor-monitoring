@@ -11889,10 +11889,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS200019"
-    },
-    {
         "nickname": "FreeExitc66905d0",
         "exit_address": [
             "82.163.7.223"
@@ -21206,9 +21202,6 @@
     },
     {
         "nickname": "level9000",
-        "exit_address": [
-            "194.53.137.156"
-        ],
         "asn": "AS9009"
     },
     {
@@ -24080,6 +24073,10 @@
     {
         "nickname": "HwSystems",
         "asn": "AS852"
+    },
+    {
+        "nickname": "zeygateway",
+        "asn": "AS211507"
     },
     {
         "nickname": "UnredactedGualtieri",
@@ -36687,10 +36684,6 @@
         "asn": "AS63018"
     },
     {
-        "nickname": "Eunode02",
-        "asn": "AS6206"
-    },
-    {
         "nickname": "NTH104R6",
         "exit_address": [
             "192.42.116.104"
@@ -37847,10 +37840,6 @@
     {
         "nickname": "toriesfuckedtheuk",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "Blinknet",
-        "asn": "AS20473"
     },
     {
         "nickname": "TorNode04dot3",
@@ -45677,10 +45666,6 @@
     {
         "nickname": "SlowlySoul",
         "asn": "AS8560"
-    },
-    {
-        "nickname": "foghorn",
-        "asn": "AS34971"
     },
     {
         "nickname": "cjwhoopty",
