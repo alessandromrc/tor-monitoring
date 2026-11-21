@@ -8727,10 +8727,6 @@
         "asn": "AS14061"
     },
     {
-        "nickname": "Raptorist",
-        "asn": "AS7922"
-    },
-    {
         "nickname": "torbogen3",
         "asn": "AS197540"
     },
@@ -13278,10 +13274,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "LysatorRelay2",
-        "asn": "AS1653"
-    },
-    {
         "nickname": "E12TorRelay",
         "asn": "AS22987"
     },
@@ -17774,6 +17766,10 @@
         "asn": "AS16019"
     },
     {
+        "nickname": "eldosrelay",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "relayon0141",
         "exit_address": [
             "185.220.101.141"
@@ -19523,10 +19519,6 @@
             "109.70.100.6"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "LysatorRelay3",
-        "asn": "AS1653"
     },
     {
         "nickname": "WOPR5",
@@ -29272,6 +29264,9 @@
     },
     {
         "nickname": "TorExitHostwerk24",
+        "exit_address": [
+            "5.175.176.101"
+        ],
         "asn": "AS198590"
     },
     {
@@ -47478,10 +47473,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "LysatorRelay1",
-        "asn": "AS1653"
-    },
-    {
         "nickname": "gurke",
         "exit_address": [
             "109.70.100.3"
@@ -48815,6 +48806,10 @@
             "203.55.81.1"
         ],
         "asn": "AS213873"
+    },
+    {
+        "nickname": "MYDSOR4675",
+        "asn": "AS12322"
     },
     {
         "nickname": "tor26",
