@@ -6165,6 +6165,10 @@
         "asn": "AS43350"
     },
     {
+        "nickname": "Quetzalcoatl",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "marquisardneuf",
         "asn": "AS16276"
     },
@@ -7175,6 +7179,9 @@
     },
     {
         "nickname": "Platon01",
+        "exit_address": [
+            "94.249.177.63"
+        ],
         "asn": "AS215365"
     },
     {
@@ -27570,6 +27577,9 @@
     },
     {
         "nickname": "Quetzalcoatl",
+        "exit_address": [
+            "198.144.178.155"
+        ],
         "asn": "AS36352"
     },
     {
