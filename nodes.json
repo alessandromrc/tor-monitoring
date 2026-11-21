@@ -4154,6 +4154,10 @@
         "asn": "AS214481"
     },
     {
+        "nickname": "systm32relay",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "fumo",
         "exit_address": [
             "45.137.69.13"
@@ -16886,10 +16890,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "tsutorac",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "xrl5tjdevde",
         "asn": "AS197540"
     },
@@ -20575,6 +20575,10 @@
     {
         "nickname": "darickmemphis",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "perpleto9asia",
+        "asn": "AS200052"
     },
     {
         "nickname": "Digitalcourage4ip2a",
@@ -24979,6 +24983,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.201",
             "198.167.206.213"
         ],
         "asn": "AS39287"
