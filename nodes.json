@@ -33,6 +33,10 @@
         "asn": "AS212508"
     },
     {
+        "nickname": "Hooyah2",
+        "asn": "AS212238"
+    },
+    {
         "nickname": "9g4net3",
         "asn": "AS49683"
     },
@@ -11485,10 +11489,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "EAPRelay",
-        "asn": "AS58791"
-    },
-    {
         "nickname": "Intrepid",
         "asn": "AS35592"
     },
@@ -18717,10 +18717,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "FasterRelay",
-        "asn": "AS26383"
-    },
-    {
         "nickname": "lunay",
         "asn": "AS36849"
     },
@@ -21311,6 +21307,9 @@
     },
     {
         "nickname": "forest63",
+        "exit_address": [
+            "178.83.122.52"
+        ],
         "asn": "AS207847"
     },
     {
