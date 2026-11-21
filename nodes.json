@@ -2960,10 +2960,6 @@
         "asn": "AS35592"
     },
     {
-        "nickname": "BGPNetwork214329",
-        "asn": "AS214329"
-    },
-    {
         "nickname": "cappadonna",
         "asn": "AS36849"
     },
@@ -3846,10 +3842,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "RelayMRDS46110",
-        "asn": "AS12322"
-    },
-    {
         "nickname": "SaltyCookies",
         "asn": "AS44925"
     },
@@ -4422,6 +4414,10 @@
     {
         "nickname": "WowieZowie",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "MYDSOR467525",
+        "asn": "AS12322"
     },
     {
         "nickname": "NTH93R2",
@@ -11742,6 +11738,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "dkBorderRouter9",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "UnredactedMcCoy",
         "exit_address": [
             "23.191.200.111"
@@ -14331,6 +14331,10 @@
         "asn": "AS40994"
     },
     {
+        "nickname": "dkBorderRouter3",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "WaterElementX",
         "asn": "AS133210"
     },
@@ -15026,6 +15030,10 @@
             "204.8.96.84"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "dkBorderRouter6",
+        "asn": "AS8473"
     },
     {
         "nickname": "Taco",
@@ -21790,6 +21798,10 @@
         "asn": "AS136258"
     },
     {
+        "nickname": "TsukinuWa",
+        "asn": "AS215439"
+    },
+    {
         "nickname": "jubei",
         "asn": "AS701"
     },
@@ -23051,6 +23063,10 @@
             "204.8.96.68"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "dkBorderRouter5",
+        "asn": "AS8473"
     },
     {
         "nickname": "StormyCloud",
@@ -30400,6 +30416,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "dkBorderRouter7",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "LouneaGigabitFiber",
         "asn": "AS39699"
     },
@@ -30784,6 +30804,10 @@
     {
         "nickname": "Yo9",
         "asn": "AS60602"
+    },
+    {
+        "nickname": "dkBorderRouter2",
+        "asn": "AS8473"
     },
     {
         "nickname": "F3Netze",
@@ -37525,6 +37549,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "dkBorderRouter8",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "waschbaer",
         "exit_address": [
             "109.70.100.12"
@@ -38121,10 +38149,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "relayNumber85793",
-        "asn": "AS11427"
     },
     {
         "nickname": "Quintex413",
@@ -47369,10 +47393,6 @@
             "192.42.116.19"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "tormalain",
-        "asn": "AS3215"
     },
     {
         "nickname": "badc5ded",
