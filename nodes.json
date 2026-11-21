@@ -1961,6 +1961,10 @@
         "asn": "AS13045"
     },
     {
+        "nickname": "skinwalker",
+        "asn": "AS14956"
+    },
+    {
         "nickname": "ChesterQueen",
         "asn": "AS20473"
     },
@@ -7102,10 +7106,6 @@
         "asn": "AS29222"
     },
     {
-        "nickname": "IlvesTampere",
-        "asn": "AS719"
-    },
-    {
         "nickname": "NTH47R4",
         "exit_address": [
             "192.42.116.47"
@@ -8401,6 +8401,9 @@
     },
     {
         "nickname": "gotthatindo",
+        "exit_address": [
+            "103.146.203.14"
+        ],
         "asn": "AS136052"
     },
     {
@@ -36700,6 +36703,9 @@
     },
     {
         "nickname": "Bacon8ter",
+        "exit_address": [
+            "217.156.49.33"
+        ],
         "asn": "AS9009"
     },
     {
@@ -38023,7 +38029,8 @@
     {
         "nickname": "bsdshell",
         "exit_address": [
-            "45.66.35.122"
+            "45.66.35.122",
+            "45.66.35.14"
         ],
         "asn": "AS61125"
     },
