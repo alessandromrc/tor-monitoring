@@ -4488,10 +4488,6 @@
         "asn": "AS56655"
     },
     {
-        "nickname": "berli18818181",
-        "asn": "AS207295"
-    },
-    {
         "nickname": "torexitams03",
         "exit_address": [
             "45.66.35.23"
@@ -20346,9 +20342,6 @@
     },
     {
         "nickname": "taiwan",
-        "exit_address": [
-            "213.210.4.3"
-        ],
         "asn": "AS212336"
     },
     {
@@ -44364,6 +44357,10 @@
     {
         "nickname": "YHminipc",
         "asn": "AS7018"
+    },
+    {
+        "nickname": "PresidentXi",
+        "asn": "AS51202"
     },
     {
         "nickname": "Freedom4All",
