@@ -20118,6 +20118,10 @@
         "asn": "AS61125"
     },
     {
+        "nickname": "Orac13",
+        "asn": "AS2856"
+    },
+    {
         "nickname": "ForPrivacyNET",
         "exit_address": [
             "185.220.101.32"
@@ -28110,9 +28114,6 @@
     },
     {
         "nickname": "eden",
-        "exit_address": [
-            "194.55.167.14"
-        ],
         "asn": "AS197648"
     },
     {
