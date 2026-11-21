@@ -43084,6 +43084,10 @@
         "asn": "AS49808"
     },
     {
+        "nickname": "x610",
+        "asn": "AS8560"
+    },
+    {
         "nickname": "BronkCroatia",
         "exit_address": [
             "45.95.169.119"
@@ -45879,14 +45883,7 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
-    },
-    {
-        "nickname": "MirukiiRelay",
-        "asn": "AS3462"
     },
     {
         "nickname": "RickyOnPrednisone",
