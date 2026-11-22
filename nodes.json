@@ -988,6 +988,10 @@
         "asn": "AS8412"
     },
     {
+        "nickname": "Mikoshi4",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "summerwalkertl",
         "asn": "AS36849"
     },
@@ -3718,9 +3722,6 @@
     },
     {
         "nickname": "FEEDMESEYMOUR",
-        "exit_address": [
-            "23.111.15.127"
-        ],
         "asn": "AS59253"
     },
     {
@@ -5767,10 +5768,6 @@
             "109.70.100.15"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "GuilelNode4",
-        "asn": "AS30722"
     },
     {
         "nickname": "TV1504",
@@ -23923,6 +23920,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "myPiFly",
+        "asn": "AS8881"
+    },
+    {
         "nickname": "NTH98R3",
         "exit_address": [
             "192.42.116.98"
@@ -33670,10 +33671,6 @@
         "asn": "AS41108"
     },
     {
-        "nickname": "GuilelNode2",
-        "asn": "AS30722"
-    },
-    {
         "nickname": "KllxTest",
         "asn": "AS202520"
     },
@@ -42212,7 +42209,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS26599"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
@@ -42603,6 +42600,10 @@
     {
         "nickname": "StadisRelay",
         "asn": "AS212443"
+    },
+    {
+        "nickname": "dkBorderRouter10",
+        "asn": "AS8473"
     },
     {
         "nickname": "NTH116R3",
@@ -46203,6 +46204,10 @@
         "asn": "AS20473"
     },
     {
+        "nickname": "dkBorderRouter11",
+        "asn": "AS8473"
+    },
+    {
         "nickname": "relayon1134",
         "asn": "AS60729"
     },
@@ -46568,9 +46573,6 @@
     },
     {
         "nickname": "MoorishArt",
-        "exit_address": [
-            "194.53.137.42"
-        ],
         "asn": "AS9009"
     },
     {
@@ -47089,6 +47091,10 @@
     {
         "nickname": "absoul",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "dkBorderRouter4",
+        "asn": "AS8473"
     },
     {
         "nickname": "harlpeaceworth",
