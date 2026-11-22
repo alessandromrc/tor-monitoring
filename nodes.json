@@ -12494,10 +12494,6 @@
         "asn": "AS47066"
     },
     {
-        "nickname": "shekyltrc1",
-        "asn": "AS14061"
-    },
-    {
         "nickname": "DediRock2",
         "asn": "AS36352"
     },
@@ -21563,10 +21559,6 @@
         "asn": "AS36352"
     },
     {
-        "nickname": "zankoku",
-        "asn": "AS35487"
-    },
-    {
         "nickname": "UnredactedElmer",
         "exit_address": [
             "23.191.200.58"
@@ -24959,8 +24951,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.201",
-            "198.167.206.213"
+            "198.167.206.201"
         ],
         "asn": "AS39287"
     },
@@ -25878,10 +25869,6 @@
         "asn": "AS213873"
     },
     {
-        "nickname": "Taeuschland",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "whyza2",
         "asn": "AS31898"
     },
@@ -26483,6 +26470,10 @@
     {
         "nickname": "Reichtagsrelay102",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "ididnteditheconfig",
+        "asn": "AS48753"
     },
     {
         "nickname": "TruthSeeker",
@@ -28298,6 +28289,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "cluysa",
+        "asn": "AS8866"
+    },
+    {
         "nickname": "fieldmob",
         "asn": "AS36849"
     },
@@ -28470,6 +28465,10 @@
     {
         "nickname": "eclipse07",
         "asn": "AS44709"
+    },
+    {
+        "nickname": "Nadkaro",
+        "asn": "AS51791"
     },
     {
         "nickname": "tokirei",
@@ -35876,6 +35875,9 @@
     },
     {
         "nickname": "LgbtGroupExit",
+        "exit_address": [
+            "2.29.201.23"
+        ],
         "asn": "AS24940"
     },
     {
@@ -37345,10 +37347,6 @@
     {
         "nickname": "INSRelay36at5443",
         "asn": "AS1205"
-    },
-    {
-        "nickname": "MyTorGuardRelay",
-        "asn": "AS50613"
     },
     {
         "nickname": "RelayGeek05",
@@ -39434,9 +39432,6 @@
     },
     {
         "nickname": "poppers",
-        "exit_address": [
-            "113.20.28.236"
-        ],
         "asn": "AS45731"
     },
     {
@@ -47678,10 +47673,6 @@
     {
         "nickname": "Nidwalden",
         "asn": "AS29222"
-    },
-    {
-        "nickname": "crowdedtor1",
-        "asn": "AS16591"
     },
     {
         "nickname": "DestroyTerrorismNow",
