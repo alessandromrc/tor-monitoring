@@ -10746,10 +10746,6 @@
         "asn": "AS214366"
     },
     {
-        "nickname": "30p87dbcoax",
-        "asn": "AS3209"
-    },
-    {
         "nickname": "roomformushroom",
         "asn": "AS16276"
     },
@@ -11720,6 +11716,10 @@
     {
         "nickname": "NTH63R1",
         "asn": "AS215125"
+    },
+    {
+        "nickname": "WrxNL7",
+        "asn": "AS211507"
     },
     {
         "nickname": "de4d",
@@ -13977,6 +13977,10 @@
     {
         "nickname": "Aleff",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS11776"
     },
     {
         "nickname": "NTH12R8",
@@ -16348,6 +16352,9 @@
     },
     {
         "nickname": "MundoSinImpunidad",
+        "exit_address": [
+            "94.249.187.163"
+        ],
         "asn": "AS215365"
     },
     {
@@ -20929,10 +20936,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "curiousfacts",
-        "asn": "AS20473"
-    },
-    {
         "nickname": "azkr01",
         "asn": "AS8075"
     },
@@ -24963,6 +24966,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.164",
             "198.167.206.201"
         ],
         "asn": "AS39287"
@@ -31900,10 +31904,6 @@
         "asn": "AS11878"
     },
     {
-        "nickname": "NoToAllTaxIncrease",
-        "asn": "AS2518"
-    },
-    {
         "nickname": "MaxRelay1",
         "asn": "AS393577"
     },
@@ -35341,10 +35341,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "TotallyNotABTCMixer",
-        "asn": "AS174"
-    },
-    {
         "nickname": "iarer",
         "asn": "AS14061"
     },
@@ -37217,10 +37213,6 @@
     {
         "nickname": "Escape2Space",
         "asn": "AS14615"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4764"
     },
     {
         "nickname": "NTH145R7",
@@ -44698,6 +44690,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "securethenet",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "Quintex374",
         "exit_address": [
             "204.8.96.163"
@@ -49309,6 +49305,10 @@
     {
         "nickname": "KeyInWater",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "Mikoshi3",
+        "asn": "AS3320"
     },
     {
         "nickname": "DFRI35",
