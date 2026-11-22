@@ -5425,10 +5425,6 @@
         "asn": "AS211619"
     },
     {
-        "nickname": "lumiRelay2",
-        "asn": "AS31898"
-    },
-    {
         "nickname": "NTH20R6",
         "exit_address": [
             "192.42.116.20"
@@ -13333,10 +13329,6 @@
             "212.227.191.249"
         ],
         "asn": "AS8560"
-    },
-    {
-        "nickname": "lolaiur",
-        "asn": "AS7018"
     },
     {
         "nickname": "InstaRaveScanner",
@@ -26100,9 +26092,6 @@
     },
     {
         "nickname": "Quetzalcoatl",
-        "exit_address": [
-            "192.3.118.172"
-        ],
         "asn": "AS36352"
     },
     {
@@ -44857,6 +44846,10 @@
     {
         "nickname": "INSRelay23at5443",
         "asn": "AS1205"
+    },
+    {
+        "nickname": "XenuAms",
+        "asn": "AS33915"
     },
     {
         "nickname": "wintrymix",
