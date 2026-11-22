@@ -19679,10 +19679,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS6327"
-    },
-    {
         "nickname": "UnredactedHaugen",
         "exit_address": [
             "23.191.200.64"
@@ -26411,6 +26407,10 @@
         "asn": "AS30893"
     },
     {
+        "nickname": "8BitNode",
+        "asn": "AS13285"
+    },
+    {
         "nickname": "NTH28R1",
         "asn": "AS215125"
     },
@@ -31301,6 +31301,10 @@
             "204.8.96.174"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "Tordriver1",
+        "asn": "AS20115"
     },
     {
         "nickname": "Collateral",
@@ -48021,7 +48025,7 @@
     },
     {
         "nickname": "StickyRelay99",
-        "asn": "AS43350"
+        "asn": "AS208172"
     },
     {
         "nickname": "bigmoe",
