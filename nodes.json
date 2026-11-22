@@ -15596,6 +15596,9 @@
     },
     {
         "nickname": "Hxp",
+        "exit_address": [
+            "159.26.122.2"
+        ],
         "asn": "AS208172"
     },
     {
@@ -15854,6 +15857,10 @@
             "147.90.235.16"
         ],
         "asn": "AS27284"
+    },
+    {
+        "nickname": "VanityNL",
+        "asn": "AS51264"
     },
     {
         "nickname": "syndicateguys",
@@ -16344,7 +16351,7 @@
     },
     {
         "nickname": "MundoSinImpunidad",
-        "asn": "AS8560"
+        "asn": "AS215365"
     },
     {
         "nickname": "fugees",
@@ -31952,6 +31959,10 @@
         "asn": "AS399122"
     },
     {
+        "nickname": "meowdy",
+        "asn": "AS11878"
+    },
+    {
         "nickname": "arbitraryTessa0",
         "asn": "AS24940"
     },
@@ -37624,10 +37635,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "LittleFamily05",
         "asn": "AS214036"
     },
@@ -38723,10 +38730,6 @@
     {
         "nickname": "ForPrivacyNET",
         "asn": "AS60729"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
     },
     {
         "nickname": "UnredactedAssange",
@@ -42209,7 +42212,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS26599"
     },
     {
         "nickname": "skzeblNbg",
@@ -47208,6 +47211,10 @@
     {
         "nickname": "Holala",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "IlvesTampere",
+        "asn": "AS719"
     },
     {
         "nickname": "masstorire",
