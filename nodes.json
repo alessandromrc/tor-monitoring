@@ -5618,10 +5618,6 @@
         "asn": "AS63949"
     },
     {
-        "nickname": "MyTorRelayNode12345",
-        "asn": "AS41745"
-    },
-    {
         "nickname": "FreedomFries2",
         "asn": "AS24940"
     },
@@ -6381,6 +6377,10 @@
             "192.42.116.59"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "Cornball",
+        "asn": "AS16276"
     },
     {
         "nickname": "tra",
@@ -11413,10 +11413,6 @@
     {
         "nickname": "Kaffeine",
         "asn": "AS31898"
-    },
-    {
-        "nickname": "ABOBA3",
-        "asn": "AS36352"
     },
     {
         "nickname": "olisykes",
@@ -23319,9 +23315,6 @@
     },
     {
         "nickname": "staywokewokestay",
-        "exit_address": [
-            "149.202.79.101"
-        ],
         "asn": "AS16276"
     },
     {
@@ -36697,10 +36690,6 @@
     {
         "nickname": "noack12i1",
         "asn": "AS30893"
-    },
-    {
-        "nickname": "NewRoze",
-        "asn": "AS215439"
     },
     {
         "nickname": "ruffryders",
