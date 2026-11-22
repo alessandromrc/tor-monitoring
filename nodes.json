@@ -1509,6 +1509,9 @@
     },
     {
         "nickname": "artikel10buc02",
+        "exit_address": [
+            "185.100.85.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -4792,6 +4795,10 @@
     {
         "nickname": "prsv",
         "asn": "AS216405"
+    },
+    {
+        "nickname": "b74141c683",
+        "asn": "AS131160"
     },
     {
         "nickname": "ferrarizSchumacher",
@@ -11352,6 +11359,9 @@
     },
     {
         "nickname": "artikel10buc03",
+        "exit_address": [
+            "185.100.85.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -23054,6 +23064,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "a635d1ce8c",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "dkBorderRouter5",
         "asn": "AS8473"
     },
@@ -27296,6 +27310,10 @@
     {
         "nickname": "OSAprotest",
         "asn": "AS31898"
+    },
+    {
+        "nickname": "273f110a4e",
+        "asn": "AS131160"
     },
     {
         "nickname": "Unnamed",
@@ -36383,6 +36401,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "dc0d958b08",
+        "asn": "AS131160"
+    },
+    {
         "nickname": "bdoloke",
         "asn": "AS147181"
     },
@@ -39064,6 +39086,9 @@
     },
     {
         "nickname": "artikel10buc04",
+        "exit_address": [
+            "185.100.85.24"
+        ],
         "asn": "AS200651"
     },
     {
@@ -41847,10 +41872,6 @@
             "204.8.96.70"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "fi1andersio",
-        "asn": "AS24940"
     },
     {
         "nickname": "Toraure",
