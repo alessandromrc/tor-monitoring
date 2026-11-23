@@ -8448,9 +8448,6 @@
     },
     {
         "nickname": "forest40",
-        "exit_address": [
-            "45.137.69.48"
-        ],
         "asn": "AS211507"
     },
     {
@@ -15770,6 +15767,10 @@
         "asn": "AS44382"
     },
     {
+        "nickname": "BakedPotat0",
+        "asn": "AS29802"
+    },
+    {
         "nickname": "PapakiRelay",
         "asn": "AS3329"
     },
@@ -20855,6 +20856,10 @@
     {
         "nickname": "robertredford",
         "asn": "AS63949"
+    },
+    {
+        "nickname": "thegreatgonzo",
+        "asn": "AS62365"
     },
     {
         "nickname": "SM1DT16",
@@ -26428,9 +26433,6 @@
     },
     {
         "nickname": "dreary",
-        "exit_address": [
-            "45.137.69.9"
-        ],
         "asn": "AS211507"
     },
     {
@@ -33794,6 +33796,10 @@
     {
         "nickname": "arbitraryMay0",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "DockerTorRelay",
+        "asn": "AS45102"
     },
     {
         "nickname": "deemchive",
@@ -45787,6 +45793,9 @@
     },
     {
         "nickname": "wrogregpx2",
+        "exit_address": [
+            "176.121.81.51"
+        ],
         "asn": "AS59444"
     },
     {
@@ -46430,7 +46439,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "rundmc",
