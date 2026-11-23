@@ -11690,6 +11690,9 @@
     },
     {
         "nickname": "WrxNL7",
+        "exit_address": [
+            "45.141.117.217"
+        ],
         "asn": "AS211507"
     },
     {
@@ -18902,6 +18905,9 @@
     },
     {
         "nickname": "perpleto9vienna",
+        "exit_address": [
+            "83.141.81.227"
+        ],
         "asn": "AS203273"
     },
     {
@@ -21601,9 +21607,6 @@
     },
     {
         "nickname": "brazo",
-        "exit_address": [
-            "91.219.238.235"
-        ],
         "asn": "AS56322"
     },
     {
@@ -24977,6 +24980,10 @@
             "204.8.96.174"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "yvrStart9",
+        "asn": "AS852"
     },
     {
         "nickname": "mdfnet2",
