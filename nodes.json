@@ -624,6 +624,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -17305,10 +17308,6 @@
         "asn": "AS399275"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS138754"
-    },
-    {
         "nickname": "zwewwlNL1",
         "asn": "AS21100"
     },
@@ -18107,6 +18106,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -24760,6 +24762,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -29258,9 +29263,6 @@
     },
     {
         "nickname": "TorExitHostwerk24",
-        "exit_address": [
-            "5.175.176.101"
-        ],
         "asn": "AS198590"
     },
     {
@@ -29378,9 +29380,6 @@
     },
     {
         "nickname": "ritalinHEad",
-        "exit_address": [
-            "212.86.121.141"
-        ],
         "asn": "AS43641"
     },
     {
@@ -30436,10 +30435,6 @@
     {
         "nickname": "theTorDoor",
         "asn": "AS11878"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS213230"
     },
     {
         "nickname": "calator",
@@ -36632,6 +36627,9 @@
     },
     {
         "nickname": "prsv",
+        "exit_address": [
+            "147.90.235.21"
+        ],
         "asn": "AS27284"
     },
     {
@@ -39714,6 +39712,10 @@
     {
         "nickname": "echonetna1",
         "asn": "AS11878"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS12312"
     },
     {
         "nickname": "mentoreth8",
@@ -46486,7 +46488,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "rundmc",
@@ -46565,6 +46567,9 @@
     },
     {
         "nickname": "MoorishArt",
+        "exit_address": [
+            "194.53.137.42"
+        ],
         "asn": "AS9009"
     },
     {
