@@ -17156,10 +17156,6 @@
         "asn": "AS27284"
     },
     {
-        "nickname": "YayEdSnowden",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "StilleSluis",
         "asn": "AS197540"
     },
@@ -47707,6 +47703,9 @@
     },
     {
         "nickname": "perpleto9snel",
+        "exit_address": [
+            "195.20.205.214"
+        ],
         "asn": "AS62370"
     },
     {
