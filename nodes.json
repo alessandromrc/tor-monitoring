@@ -9387,6 +9387,9 @@
     },
     {
         "nickname": "Runaz2",
+        "exit_address": [
+            "192.253.248.96"
+        ],
         "asn": "AS213790"
     },
     {
@@ -11132,6 +11135,10 @@
     {
         "nickname": "bender",
         "asn": "AS208323"
+    },
+    {
+        "nickname": "ziplock321",
+        "asn": "AS16276"
     },
     {
         "nickname": "cujoila23",
@@ -18885,6 +18892,10 @@
         "asn": "AS3320"
     },
     {
+        "nickname": "perpleto9vienna",
+        "asn": "AS203273"
+    },
+    {
         "nickname": "QuintexAirVPN6",
         "exit_address": [
             "204.8.96.117"
@@ -26247,10 +26258,6 @@
             "216.73.159.75"
         ],
         "asn": "AS61138"
-    },
-    {
-        "nickname": "fumo",
-        "asn": "AS211507"
     },
     {
         "nickname": "GermanCraft18",
@@ -42087,7 +42094,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS18881"
     },
     {
         "nickname": "skzeblNbg",
@@ -43142,6 +43149,10 @@
     {
         "nickname": "eclipse08",
         "asn": "AS61424"
+    },
+    {
+        "nickname": "peter24",
+        "asn": "AS132203"
     },
     {
         "nickname": "shine1k",
@@ -45565,6 +45576,9 @@
     },
     {
         "nickname": "perpleto9sweden",
+        "exit_address": [
+            "2.56.119.122"
+        ],
         "asn": "AS203273"
     },
     {
