@@ -9899,7 +9899,7 @@
 /ip firewall address-list add list=tor_ipv4 address=10.6.6.235 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.220.84.172 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.189.136.91 comment="tor_ipv4/tor-monitoring"
-/ip firewall address-list add list=tor_ipv4 address=10.50.49.85 comment="tor_ipv4/tor-monitoring"
+/ip firewall address-list add list=tor_ipv4 address=10.47.172.7 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.83.201.199 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.16.138.13 comment="tor_ipv4/tor-monitoring"
 /ip firewall address-list add list=tor_ipv4 address=10.132.233.150 comment="tor_ipv4/tor-monitoring"
