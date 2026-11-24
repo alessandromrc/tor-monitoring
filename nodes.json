@@ -9972,6 +9972,9 @@
     },
     {
         "nickname": "scruffy",
+        "exit_address": [
+            "84.212.206.202"
+        ],
         "asn": "AS25400"
     },
     {
@@ -19919,6 +19922,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "relaymcrelayface",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "fluffypancakes011nl",
         "asn": "AS199654"
     },
@@ -21563,10 +21570,6 @@
             "23.191.200.58"
         ],
         "asn": "AS401401"
-    },
-    {
-        "nickname": "yahniukov",
-        "asn": "AS24940"
     },
     {
         "nickname": "artikel10ber09",
@@ -28211,6 +28214,10 @@
         "asn": "AS10242"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS51167"
+    },
+    {
         "nickname": "RealityNews12",
         "asn": "AS13285"
     },
@@ -28490,6 +28497,10 @@
     {
         "nickname": "Nadkaro",
         "asn": "AS51791"
+    },
+    {
+        "nickname": "torexitams23a",
+        "asn": "AS61125"
     },
     {
         "nickname": "tokirei",
@@ -40294,6 +40305,10 @@
     {
         "nickname": "stromae",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS51167"
     },
     {
         "nickname": "sanquinn",
