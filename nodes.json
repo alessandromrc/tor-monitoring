@@ -1153,6 +1153,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "RootZone",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "kdot",
         "asn": "AS36849"
     },
@@ -19831,10 +19835,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "unnes12",
-        "asn": "AS211301"
-    },
-    {
         "nickname": "concentratedrelay",
         "asn": "AS7992"
     },
@@ -24862,6 +24862,10 @@
         "asn": "AS207656"
     },
     {
+        "nickname": "UnshakledNakamoto",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "StormyCloud",
         "exit_address": [
             "23.128.248.166"
@@ -25678,6 +25682,10 @@
     {
         "nickname": "8rijgto8",
         "asn": "AS29802"
+    },
+    {
+        "nickname": "UnshakledMitnick",
+        "asn": "AS211619"
     },
     {
         "nickname": "prsv",
@@ -28735,6 +28743,10 @@
         "asn": "AS12586"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS8075"
+    },
+    {
         "nickname": "PremiumTorExit",
         "exit_address": [
             "185.100.87.136"
@@ -29178,10 +29190,6 @@
     {
         "nickname": "NTH14R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "unnes10",
-        "asn": "AS211301"
     },
     {
         "nickname": "Quintex389",
@@ -43213,6 +43221,9 @@
     },
     {
         "nickname": "peter24",
+        "exit_address": [
+            "43.132.169.64"
+        ],
         "asn": "AS132203"
     },
     {
