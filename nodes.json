@@ -9913,6 +9913,10 @@
         "asn": "AS51396"
     },
     {
+        "nickname": "DockerTorRelay",
+        "asn": "AS47583"
+    },
+    {
         "nickname": "Cypherpunk",
         "asn": "AS52048"
     },
@@ -18140,7 +18144,7 @@
     },
     {
         "nickname": "Gabriel0GGR",
-        "asn": "AS27699"
+        "asn": "AS26599"
     },
     {
         "nickname": "anduinExit01",
@@ -18329,9 +18333,6 @@
     },
     {
         "nickname": "okade",
-        "exit_address": [
-            "152.53.210.165"
-        ],
         "asn": "AS214996"
     },
     {
@@ -24624,10 +24625,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS62240"
-    },
-    {
         "nickname": "forest09",
         "asn": "AS36352"
     },
@@ -25280,6 +25277,10 @@
     {
         "nickname": "TheKid3",
         "asn": "AS9009"
+    },
+    {
+        "nickname": "ratfuck",
+        "asn": "AS20473"
     },
     {
         "nickname": "Quetzalcoatl",
@@ -47276,10 +47277,6 @@
     {
         "nickname": "SqX8sPvR4yrRsEF",
         "asn": "AS8881"
-    },
-    {
-        "nickname": "D3ntist",
-        "asn": "AS13036"
     },
     {
         "nickname": "Quintex328",
