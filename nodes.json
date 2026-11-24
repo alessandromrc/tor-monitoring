@@ -14374,10 +14374,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "MoneroPrivacy",
-        "asn": "AS203003"
-    },
-    {
         "nickname": "artikel10ber83",
         "exit_address": [
             "185.220.101.21"
@@ -19835,6 +19831,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "FrakerTor",
+        "asn": "AS6327"
+    },
+    {
         "nickname": "concentratedrelay",
         "asn": "AS7992"
     },
@@ -21991,6 +21991,10 @@
     {
         "nickname": "INSRelay15at8443",
         "asn": "AS1205"
+    },
+    {
+        "nickname": "TwiddlyBits",
+        "asn": "AS7018"
     },
     {
         "nickname": "Quintex313",
@@ -32621,10 +32625,6 @@
             "192.42.116.46"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "MoneroBestBuy",
-        "asn": "AS203003"
     },
     {
         "nickname": "netcup",
@@ -44914,10 +44914,6 @@
     {
         "nickname": "syndicateguys",
         "asn": "AS44925"
-    },
-    {
-        "nickname": "XMR",
-        "asn": "AS203003"
     },
     {
         "nickname": "PiRateRelay",
