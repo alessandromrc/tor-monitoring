@@ -3498,6 +3498,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "PrivacyComDeR6",
+        "asn": "AS31898"
+    },
+    {
         "nickname": "FOSSonly",
         "asn": "AS5483"
     },
@@ -24978,7 +24982,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.164",
             "198.167.206.234"
         ],
         "asn": "AS39287"
@@ -31097,6 +31100,9 @@
     },
     {
         "nickname": "8824841879124734",
+        "exit_address": [
+            "45.9.168.114"
+        ],
         "asn": "AS211619"
     },
     {
@@ -33558,6 +33564,10 @@
     {
         "nickname": "magic848relay",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "zerberusTor",
+        "asn": "AS15943"
     },
     {
         "nickname": "NTH62R6",
