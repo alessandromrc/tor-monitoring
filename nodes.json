@@ -7695,6 +7695,9 @@
     },
     {
         "nickname": "flokinet1n7",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -10004,6 +10007,9 @@
     },
     {
         "nickname": "flokinet1n10",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -10160,6 +10166,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "cwshack",
+        "asn": "AS7018"
     },
     {
         "nickname": "BahnhufPowah",
@@ -12869,6 +12879,9 @@
     },
     {
         "nickname": "flokinet1n12",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -17246,10 +17259,6 @@
         "asn": "AS8283"
     },
     {
-        "nickname": "FinnK2A",
-        "asn": "AS7552"
-    },
-    {
         "nickname": "pangolin",
         "asn": "AS43118"
     },
@@ -17528,6 +17537,9 @@
     },
     {
         "nickname": "flokinet1n14",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -18301,6 +18313,9 @@
     },
     {
         "nickname": "flokinet1n5",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -18322,10 +18337,6 @@
     {
         "nickname": "thenicestrelay",
         "asn": "AS2856"
-    },
-    {
-        "nickname": "Aras",
-        "asn": "AS16509"
     },
     {
         "nickname": "TheMadHackerNodeV3",
@@ -18836,6 +18847,9 @@
     },
     {
         "nickname": "flokinet1n13",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -29360,6 +29374,9 @@
     },
     {
         "nickname": "flokinet1n4",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -29864,6 +29881,9 @@
     },
     {
         "nickname": "flokinet1n8",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -33739,6 +33759,9 @@
     },
     {
         "nickname": "flokinet1n6",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -35762,6 +35785,9 @@
     },
     {
         "nickname": "flokinet1n15",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -36621,6 +36647,10 @@
     {
         "nickname": "WOPR3",
         "asn": "AS7922"
+    },
+    {
+        "nickname": "razek",
+        "asn": "AS27651"
     },
     {
         "nickname": "prsv",
@@ -38034,6 +38064,9 @@
     },
     {
         "nickname": "flokinet1n1",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -40151,9 +40184,6 @@
     },
     {
         "nickname": "LocalenbyITExit",
-        "exit_address": [
-            "172.232.209.254"
-        ],
         "asn": "AS63949"
     },
     {
@@ -40291,6 +40321,9 @@
     },
     {
         "nickname": "flokinet1n9",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -40451,6 +40484,9 @@
     },
     {
         "nickname": "flokinet1n3",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -41534,6 +41570,10 @@
         "asn": "AS211507"
     },
     {
+        "nickname": "TorInUrban",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "NTH107R5",
         "exit_address": [
             "192.42.116.107"
@@ -41922,6 +41962,9 @@
     },
     {
         "nickname": "flokinet1",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
@@ -44390,6 +44433,9 @@
     },
     {
         "nickname": "flokinet1n11",
+        "exit_address": [
+            "185.100.87.42"
+        ],
         "asn": "AS200651"
     },
     {
@@ -47905,6 +47951,9 @@
     },
     {
         "nickname": "flokinet1n2",
+        "exit_address": [
+            "185.100.87.174"
+        ],
         "asn": "AS200651"
     },
     {
