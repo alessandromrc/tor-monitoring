@@ -120,10 +120,6 @@
         "asn": "AS63023"
     },
     {
-        "nickname": "FcukGOP1",
-        "asn": "AS27284"
-    },
-    {
         "nickname": "Athena",
         "asn": "AS53667"
     },
@@ -9179,6 +9175,9 @@
     },
     {
         "nickname": "torexitams14a",
+        "exit_address": [
+            "45.66.35.34"
+        ],
         "asn": "AS61125"
     },
     {
@@ -11601,10 +11600,6 @@
     {
         "nickname": "n3m3515",
         "asn": "AS212477"
-    },
-    {
-        "nickname": "frostmatrix",
-        "asn": "AS27284"
     },
     {
         "nickname": "lumipGoesOnion2",
@@ -20245,10 +20240,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "SwedenNewNew",
-        "asn": "AS207295"
-    },
-    {
         "nickname": "TORfuExit02",
         "exit_address": [
             "37.114.50.27"
@@ -20539,10 +20530,6 @@
     {
         "nickname": "Aardwolf7",
         "asn": "AS15435"
-    },
-    {
-        "nickname": "vanguardblackrock",
-        "asn": "AS50049"
     },
     {
         "nickname": "torexitams24a",
@@ -32977,6 +32964,10 @@
         "asn": "AS214094"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS5483"
+    },
+    {
         "nickname": "UnredactedBirknfld",
         "exit_address": [
             "23.191.200.60"
@@ -42135,6 +42126,9 @@
     },
     {
         "nickname": "torexitams19a",
+        "exit_address": [
+            "45.66.35.39"
+        ],
         "asn": "AS61125"
     },
     {
@@ -44461,10 +44455,6 @@
     {
         "nickname": "pnkantor001",
         "asn": "AS33387"
-    },
-    {
-        "nickname": "FcukGOP2",
-        "asn": "AS27284"
     },
     {
         "nickname": "Satoshi",
