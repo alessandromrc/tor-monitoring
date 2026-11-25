@@ -19314,10 +19314,6 @@
         "asn": "AS214366"
     },
     {
-        "nickname": "TORKeFFORG20",
-        "asn": "AS41281"
-    },
-    {
         "nickname": "Quintex369",
         "exit_address": [
             "204.8.96.158"
@@ -21091,6 +21087,10 @@
     {
         "nickname": "MrNimbus",
         "asn": "AS701"
+    },
+    {
+        "nickname": "StealthVortexLumen",
+        "asn": "AS1759"
     },
     {
         "nickname": "F3Netze",
@@ -23909,6 +23909,9 @@
     },
     {
         "nickname": "wfrelay01",
+        "exit_address": [
+            "43.166.82.88"
+        ],
         "asn": "AS132203"
     },
     {
@@ -46632,7 +46635,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "rundmc",
@@ -49006,6 +49009,10 @@
     {
         "nickname": "PrivacyPal",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "ST4RK",
+        "asn": "AS51852"
     },
     {
         "nickname": "vulpes",
