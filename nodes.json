@@ -12419,6 +12419,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "HomeTorRelay2",
+        "asn": "AS8412"
+    },
+    {
         "nickname": "ddgmoonwalking",
         "asn": "AS36849"
     },
@@ -15079,10 +15083,6 @@
     {
         "nickname": "NTH157R1",
         "asn": "AS215125"
-    },
-    {
-        "nickname": "ClearPathRelay",
-        "asn": "AS12430"
     },
     {
         "nickname": "doraemon",
@@ -24682,6 +24682,10 @@
         "asn": "AS38195"
     },
     {
+        "nickname": "HomeTorNode1",
+        "asn": "AS8412"
+    },
+    {
         "nickname": "theTorDoor",
         "asn": "AS11878"
     },
@@ -28139,6 +28143,9 @@
     },
     {
         "nickname": "eden",
+        "exit_address": [
+            "194.55.167.14"
+        ],
         "asn": "AS197648"
     },
     {
@@ -33832,10 +33839,6 @@
         "asn": "AS1835"
     },
     {
-        "nickname": "opencommunity",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "Quintex503",
         "exit_address": [
             "204.8.96.119"
@@ -34389,6 +34392,10 @@
     {
         "nickname": "Aardwolf1",
         "asn": "AS15435"
+    },
+    {
+        "nickname": "qkyubittorrelay",
+        "asn": "AS8560"
     },
     {
         "nickname": "PyratekRelay",
