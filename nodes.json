@@ -4729,6 +4729,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "toradmin",
+        "asn": "AS7922"
+    },
+    {
         "nickname": "czrpYOL8Pp",
         "asn": "AS3209"
     },
@@ -23040,9 +23044,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "187.77.27.242"
-        ],
         "asn": "AS47583"
     },
     {
@@ -34058,6 +34059,9 @@
     },
     {
         "nickname": "flokinet2n11",
+        "exit_address": [
+            "185.246.188.85"
+        ],
         "asn": "AS200651"
     },
     {
