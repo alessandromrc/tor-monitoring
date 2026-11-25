@@ -1122,6 +1122,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Heisy996",
+        "asn": "AS197170"
+    },
+    {
         "nickname": "Quintex433",
         "exit_address": [
             "204.8.96.113"
@@ -15023,6 +15027,9 @@
     },
     {
         "nickname": "ebaniynastrlcl",
+        "exit_address": [
+            "180.149.44.204"
+        ],
         "asn": "AS202422"
     },
     {
@@ -15151,10 +15158,6 @@
             "109.70.100.14"
         ],
         "asn": "AS208323"
-    },
-    {
-        "nickname": "minotor",
-        "asn": "AS701"
     },
     {
         "nickname": "Quintex441",
@@ -24068,10 +24071,6 @@
             "204.8.96.73"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "MyTorStar",
-        "asn": "AS200651"
     },
     {
         "nickname": "charlibaltimore",
@@ -45382,10 +45381,6 @@
         "asn": "AS41075"
     },
     {
-        "nickname": "waveguide01",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "MinchiTorNode",
         "asn": "AS577"
     },
@@ -46050,9 +46045,6 @@
     },
     {
         "nickname": "wrogregpx2",
-        "exit_address": [
-            "176.121.81.51"
-        ],
         "asn": "AS59444"
     },
     {
@@ -46696,7 +46688,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "rundmc",
