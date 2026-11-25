@@ -4874,6 +4874,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "internetfreedomhome",
+        "asn": "AS31615"
+    },
+    {
         "nickname": "SchulteTorRelay001",
         "asn": "AS16276"
     },
@@ -8749,10 +8753,6 @@
     {
         "nickname": "bbno",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "librarian3104",
-        "asn": "AS51167"
     },
     {
         "nickname": "storm",
@@ -20557,10 +20557,6 @@
         "asn": "AS61125"
     },
     {
-        "nickname": "redacted",
-        "asn": "AS36352"
-    },
-    {
         "nickname": "gunnadrip",
         "asn": "AS36849"
     },
@@ -25002,8 +24998,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.130",
-            "198.167.206.234"
+            "198.167.206.130"
         ],
         "asn": "AS39287"
     },
@@ -30731,10 +30726,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "NTH301R2",
-        "asn": "AS206238"
-    },
-    {
         "nickname": "breadcan",
         "asn": "AS8881"
     },
@@ -32520,10 +32511,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "librarian3104",
-        "asn": "AS51167"
-    },
-    {
         "nickname": "NTH23R1",
         "asn": "AS215125"
     },
@@ -32783,10 +32770,6 @@
     {
         "nickname": "statquo",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "NTH301R4",
-        "asn": "AS206238"
     },
     {
         "nickname": "ShinobiTora",
@@ -49013,6 +48996,9 @@
     },
     {
         "nickname": "ST4RK",
+        "exit_address": [
+            "141.255.167.132"
+        ],
         "asn": "AS51852"
     },
     {
