@@ -1115,6 +1115,9 @@
     },
     {
         "nickname": "Heisy996",
+        "exit_address": [
+            "45.153.34.216"
+        ],
         "asn": "AS197170"
     },
     {
@@ -14269,10 +14272,6 @@
     {
         "nickname": "myN0de1",
         "asn": "AS36352"
-    },
-    {
-        "nickname": "torvantor",
-        "asn": "AS12312"
     },
     {
         "nickname": "cashkidd",
@@ -41950,6 +41949,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "nbrelay2",
+        "asn": "AS329325"
     },
     {
         "nickname": "DustRustyPi",
