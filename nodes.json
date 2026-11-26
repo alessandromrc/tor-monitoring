@@ -13361,6 +13361,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS210558"
+    },
+    {
         "nickname": "redback",
         "asn": "AS3356"
     },
@@ -22696,6 +22700,9 @@
     },
     {
         "nickname": "HTTPSCL",
+        "exit_address": [
+            "31.58.216.15"
+        ],
         "asn": "AS200912"
     },
     {
@@ -24958,7 +24965,8 @@
         "nickname": "europeantgah",
         "exit_address": [
             "198.167.206.130",
-            "198.167.206.172"
+            "198.167.206.172",
+            "198.167.206.181"
         ],
         "asn": "AS39287"
     },
@@ -35551,10 +35559,6 @@
         "asn": "AS1136"
     },
     {
-        "nickname": "ZoddyTor",
-        "asn": "AS1267"
-    },
-    {
         "nickname": "catgirl",
         "asn": "AS197540"
     },
@@ -42287,7 +42291,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS28573"
+        "asn": "AS18881"
     },
     {
         "nickname": "skzeblNbg",
