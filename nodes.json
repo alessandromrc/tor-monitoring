@@ -5144,10 +5144,6 @@
         "asn": "AS22030"
     },
     {
-        "nickname": "MyFavoriteNode",
-        "asn": "AS399629"
-    },
-    {
         "nickname": "DFnodo",
         "asn": "AS12430"
     },
@@ -16296,6 +16292,9 @@
     },
     {
         "nickname": "FreedomeNode3",
+        "exit_address": [
+            "102.135.10.34"
+        ],
         "asn": "AS205397"
     },
     {
@@ -19561,6 +19560,9 @@
     },
     {
         "nickname": "FreedomeNode1",
+        "exit_address": [
+            "130.12.182.73"
+        ],
         "asn": "AS197769"
     },
     {
@@ -25943,6 +25945,10 @@
     {
         "nickname": "tee2",
         "asn": "AS43289"
+    },
+    {
+        "nickname": "relay",
+        "asn": "AS58507"
     },
     {
         "nickname": "fatpat",
@@ -40936,6 +40942,10 @@
     {
         "nickname": "MojWezelTor8004",
         "asn": "AS5617"
+    },
+    {
+        "nickname": "zhihe",
+        "asn": "AS52653"
     },
     {
         "nickname": "jilfrg60",
