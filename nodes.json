@@ -6464,10 +6464,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "SomeTorinAS200462",
-        "asn": "AS200462"
-    },
-    {
         "nickname": "Quintex270",
         "exit_address": [
             "204.8.96.159"
@@ -14123,10 +14119,6 @@
         "asn": "AS12876"
     },
     {
-        "nickname": "GermanCraft23",
-        "asn": "AS21336"
-    },
-    {
         "nickname": "arbitraryTessa5",
         "asn": "AS24940"
     },
@@ -15180,6 +15172,10 @@
     {
         "nickname": "Deadwing",
         "asn": "AS812"
+    },
+    {
+        "nickname": "eclipse",
+        "asn": "AS214677"
     },
     {
         "nickname": "Quintex294",
@@ -17240,10 +17236,6 @@
     {
         "nickname": "iblech",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "GermanCraft23",
-        "asn": "AS21336"
     },
     {
         "nickname": "DFRI38",
@@ -28281,6 +28273,9 @@
     },
     {
         "nickname": "floob",
+        "exit_address": [
+            "62.83.138.149"
+        ],
         "asn": "AS197540"
     },
     {
@@ -30832,6 +30827,9 @@
     },
     {
         "nickname": "Hammer",
+        "exit_address": [
+            "62.83.136.213"
+        ],
         "asn": "AS197540"
     },
     {
@@ -35131,9 +35129,6 @@
     },
     {
         "nickname": "theseekingchild",
-        "exit_address": [
-            "180.150.226.99"
-        ],
         "asn": "AS45382"
     },
     {
@@ -46557,7 +46552,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS12400"
+        "asn": "AS6810"
     },
     {
         "nickname": "rundmc",
@@ -49458,6 +49453,10 @@
     {
         "nickname": "flowjob03",
         "asn": "AS197540"
+    },
+    {
+        "nickname": "natvpsfr",
+        "asn": "AS16276"
     },
     {
         "nickname": "vicmensa",
