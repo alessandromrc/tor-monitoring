@@ -14292,6 +14292,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "SoulCairn",
+        "asn": "AS20473"
+    },
+    {
         "nickname": "Amnesiac",
         "asn": "AS12735"
     },
@@ -23878,9 +23882,6 @@
     },
     {
         "nickname": "Salmon",
-        "exit_address": [
-            "43.166.82.88"
-        ],
         "asn": "AS132203"
     },
     {
@@ -35477,10 +35478,6 @@
         "asn": "AS401479"
     },
     {
-        "nickname": "MyExitRelay",
-        "asn": "AS213772"
-    },
-    {
         "nickname": "TorsHammer",
         "asn": "AS46690"
     },
@@ -36897,6 +36894,10 @@
         "asn": "AS197540"
     },
     {
+        "nickname": "NixieBSD3",
+        "asn": "AS2860"
+    },
+    {
         "nickname": "idideditheconfig",
         "asn": "AS35244"
     },
@@ -37122,6 +37123,10 @@
     {
         "nickname": "nauzome",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "NixieBSD2",
+        "asn": "AS2860"
     },
     {
         "nickname": "precious",
@@ -42337,7 +42342,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
@@ -44164,10 +44169,6 @@
             "185.28.47.77"
         ],
         "asn": "AS52048"
-    },
-    {
-        "nickname": "ShijiuRelay",
-        "asn": "AS51847"
     },
     {
         "nickname": "VaginaDick",
