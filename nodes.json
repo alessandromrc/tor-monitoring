@@ -6258,6 +6258,9 @@
     },
     {
         "nickname": "exit02",
+        "exit_address": [
+            "78.17.72.53"
+        ],
         "asn": "AS211019"
     },
     {
@@ -20299,10 +20302,6 @@
     {
         "nickname": "taiwan",
         "asn": "AS212336"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS4713"
     },
     {
         "nickname": "HALTor",
@@ -38471,6 +38470,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "EfimAn",
+        "asn": "AS207656"
+    },
+    {
         "nickname": "syndicateguys",
         "exit_address": [
             "205.185.113.8"
@@ -42202,7 +42205,7 @@
     },
     {
         "nickname": "HikariL1",
-        "asn": "AS18881"
+        "asn": "AS28573"
     },
     {
         "nickname": "skzeblNbg",
@@ -47556,9 +47559,6 @@
     },
     {
         "nickname": "kumisskavkusno",
-        "exit_address": [
-            "5.180.40.109"
-        ],
         "asn": "AS200590"
     },
     {
