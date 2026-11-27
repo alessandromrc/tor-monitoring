@@ -17194,6 +17194,10 @@
         "asn": "AS27284"
     },
     {
+        "nickname": "YayEdSnowden",
+        "asn": "AS16276"
+    },
+    {
         "nickname": "StilleSluis",
         "asn": "AS197540"
     },
@@ -21647,7 +21651,7 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "as214958tor4",
+        "nickname": "as214958tor5",
         "asn": "AS8283"
     },
     {
@@ -41780,6 +41784,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "185.34.33.2"
+        ],
         "asn": "AS28855"
     },
     {
@@ -46541,7 +46548,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "rundmc",
