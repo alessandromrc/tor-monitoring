@@ -32082,6 +32082,10 @@
         "asn": "AS62005"
     },
     {
+        "nickname": "PrivacyComDeR1",
+        "asn": "AS15943"
+    },
+    {
         "nickname": "marcuse1",
         "exit_address": [
             "178.20.55.16"
@@ -32297,6 +32301,9 @@
     },
     {
         "nickname": "cloudwaddieExit",
+        "exit_address": [
+            "94.249.178.227"
+        ],
         "asn": "AS215365"
     },
     {
