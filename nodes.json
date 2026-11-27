@@ -1083,6 +1083,9 @@
     },
     {
         "nickname": "2mplas3",
+        "exit_address": [
+            "205.185.113.210"
+        ],
         "asn": "AS53667"
     },
     {
@@ -1814,6 +1817,9 @@
     },
     {
         "nickname": "2mpe",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -15663,6 +15669,9 @@
     },
     {
         "nickname": "oer893bhds",
+        "exit_address": [
+            "5.255.108.145"
+        ],
         "asn": "AS60404"
     },
     {
@@ -23458,6 +23467,10 @@
         "asn": "AS53808"
     },
     {
+        "nickname": "OnionTorInChicago",
+        "asn": "AS36352"
+    },
+    {
         "nickname": "shabaamsahdeeq",
         "asn": "AS36849"
     },
@@ -24983,6 +24996,10 @@
     {
         "nickname": "teaServer",
         "asn": "AS8560"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS16019"
     },
     {
         "nickname": "OrionHentai1",
@@ -33793,6 +33810,10 @@
             "199.19.77.18"
         ],
         "asn": "AS203662"
+    },
+    {
+        "nickname": "coilspring",
+        "asn": "AS51519"
     },
     {
         "nickname": "prsv",
