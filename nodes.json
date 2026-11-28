@@ -1350,10 +1350,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "HelloWorldItsMe",
-        "asn": "AS8473"
-    },
-    {
         "nickname": "htx01",
         "asn": "AS57269"
     },
@@ -14923,6 +14919,9 @@
     },
     {
         "nickname": "Relay",
+        "exit_address": [
+            "116.109.57.222"
+        ],
         "asn": "AS24086"
     },
     {
@@ -46402,6 +46401,10 @@
         "asn": "AS33915"
     },
     {
+        "nickname": "guard01",
+        "asn": "AS14061"
+    },
+    {
         "nickname": "OnionSisterElif",
         "asn": "AS8849"
     },
@@ -46766,6 +46769,10 @@
             "193.200.229.243"
         ],
         "asn": "AS56655"
+    },
+    {
+        "nickname": "dodson",
+        "asn": "AS7922"
     },
     {
         "nickname": "eupherious",
